@@ -137,45 +137,6 @@ Works.
 DOI: 10.1126/science.aal5240 
 PMID: 29170280  [Indexed for MEDLINE]
 
-
-24. Front Microbiol. 2017 Nov 7;8:2166. doi: 10.3389/fmicb.2017.02166. eCollection
-2017.
-
-In Silico Analysis of Putrefaction Pathways in Bacteria and Its Implication in
-Colorectal Cancer.
-
-Kaur H(1), Das C(1), Mande SS(1).
-
-Author information: 
-(1)Bio-Sciences R&D Division, TCS Research, Tata Consultancy Services Ltd., Pune,
-India.
-
-Fermentation of undigested proteins in human gastrointestinal tract (gut) by the 
-resident microbiota, a process called bacterial putrefaction, can sometimes
-disrupt the gut homeostasis. In this process, essential amino acids (e.g.,
-histidine, tryptophan, etc.) that are required by the host may be utilized by the
-gut microbes. In addition, some of the products of putrefaction, like ammonia,
-putrescine, cresol, indole, phenol, etc., have been implicated in the disease
-pathogenesis of colorectal cancer (CRC). We have investigated bacterial
-putrefaction pathways that are known to be associated with such metabolites.
-Results of the comprehensive in silico analysis of the selected putrefaction
-pathways across bacterial genomes revealed presence of these pathways in limited 
-bacterial groups. Majority of these bacteria are commonly found in human gut.
-These include Bacillus, Clostridium, Enterobacter, Escherichia, Fusobacterium,
-Salmonella, etc. Interestingly, while pathogens utilize almost all the analyzed
-pathways, commensals prefer putrescine and H2S production pathways for
-metabolizing the undigested proteins. Further, comparison of the putrefaction
-pathways in the gut microbiomes of healthy, carcinoma and adenoma datasets
-indicate higher abundances of putrefying bacteria in the carcinoma stage of CRC. 
-The insights obtained from the present study indicate utilization of possible
-microbiome-based therapies to minimize the adverse effects of gut microbiome in
-enteric diseases.
-
-DOI: 10.3389/fmicb.2017.02166 
-PMCID: PMC5682003
-PMID: 29163445 
-
-
 25. Oncol Lett. 2017 Dec;14(6):6373-6378. doi: 10.3892/ol.2017.7001. Epub 2017 Sep
 19.
 
