@@ -197,24 +197,6 @@ DOI: 10.1186/s40168-017-0366-3
 PMCID: PMC5689185
 PMID: 29145893 
 
-
-27. Cancer Discov. 2018 Jan;8(1):6-7. doi: 10.1158/2159-8290.CD-NB2017-162. Epub 2017
-Nov 15.
-
-Wild Microbiome Stems Tumorigenesis in Lab Mice.
-
-[No authors listed]
-
-Replacing laboratory mice's gut microbiomes with the microbial communities of
-their wild counterparts alters the lab animals' immune systems and boosts their
-resistance to colorectal cancer development and influenza.
-
-©2018 American Association for Cancer Research.
-
-DOI: 10.1158/2159-8290.CD-NB2017-162 
-PMID: 29141918 
-
-
 28. FEMS Microbiol Ecol. 2017 Dec 1;93(12). doi: 10.1093/femsec/fix153.
 
 Identification of universal gut microbial biomarkers of common human intestinal
