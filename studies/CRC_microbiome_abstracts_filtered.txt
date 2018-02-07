@@ -311,25 +311,6 @@ DOI: 10.1038/s41522-017-0034-1
 PMCID: PMC5665930
 PMID: 29104759 
 
-32. Gastroenterology. 2017 Dec;153(6):1475-1478. doi: 10.1053/j.gastro.2017.10.030.
-Epub 2017 Oct 31.
-
-Human Intestinal Microbiota and Colorectal Cancer: Moving Beyond Associative
-Studies.
-
-Jobin C(1).
-
-Author information: 
-(1)Department of Medicine, University of Florida, Gainesville, Florida;
-Department of Infectious Diseases and Pathology, University of Florida,
-Gainesville, Florida; Department of Anatomy and Cell Biology, University of
-Florida, Gainesville, Florida. Electronic address:
-Christian.Jobin@medicine.ufl.edu.
-
-DOI: 10.1053/j.gastro.2017.10.030 
-PMID: 29100848 
-
-
 33. Int J Food Sci Nutr. 2017 Nov 2:1-13. doi: 10.1080/09637486.2017.1393503. [Epub
 ahead of print]
 
