@@ -43,57 +43,6 @@ DOI: 10.3389/fmicb.2017.02699
 PMCID: PMC5770402
 PMID: 29375539 
 
-
-4. Genome Biol. 2018 Jan 23;19(1):7. doi: 10.1186/s13059-018-1389-1.
-
-An obesity-associated gut microbiome reprograms the intestinal epigenome and
-leads to altered colonic gene expression.
-
-Qin Y(1), Roberts JD(1), Grimm SA(2), Lih FB(3), Deterding LJ(3), Li R(1),
-Chrysovergis K(1), Wade PA(4).
-
-Author information: 
-(1)Eukaryotic Transcriptional Regulation Group, Epigenetics and Stem Cell Biology
-Laboratory, National Institute of Environmental Health Sciences, Research
-Triangle Park, NC, 27709, USA.
-(2)Integrative Bioinformatics Group, Epigenetics and Stem Cell Biology
-Laboratory, National Institute of Environmental Health Sciences, Research
-Triangle Park, NC, 27709, USA.
-(3)Mass Spectrometry Research & Support Group, Epigenetics and Stem Cell Biology 
-Laboratory, National Institute of Environmental Health Sciences, Research
-Triangle Park, NC, 27709, USA.
-(4)Eukaryotic Transcriptional Regulation Group, Epigenetics and Stem Cell Biology
-Laboratory, National Institute of Environmental Health Sciences, Research
-Triangle Park, NC, 27709, USA. wadep2@niehs.nih.gov.
-
-BACKGROUND: The gut microbiome, a key constituent of the colonic environment, has
-been implicated as an important modulator of human health. The eukaryotic
-epigenome is postulated to respond to environmental stimuli through alterations
-in chromatin features and, ultimately, gene expression. How the host mediates
-epigenomic responses to gut microbiota is an emerging area of interest. Here, we 
-profile the gut microbiome and chromatin characteristics in colon epithelium from
-mice fed either an obesogenic or control diet, followed by an analysis of the
-resultant changes in gene expression.
-RESULTS: The obesogenic diet shapes the microbiome prior to the development of
-obesity, leading to altered bacterial metabolite production which predisposes the
-host to obesity. This microbiota-diet interaction leads to changes in histone
-modification at active enhancers that are enriched for binding sites for signal
-responsive transcription factors. These alterations of histone methylation and
-acetylation are associated with signaling pathways integral to the development of
-colon cancer. The transplantation of obesogenic diet-conditioned microbiota into 
-germ free mice, combined with an obesogenic diet, recapitulates the features of
-the long-term diet regimen. The diet/microbiome-dependent changes are reflected
-in both the composition of the recipient animals' microbiome as well as in the
-set of transcription factor motifs identified at diet-influenced enhancers.
-CONCLUSIONS: These findings suggest that the gut microbiome, under specific
-dietary exposures, stimulates a reprogramming of the enhancer landscape in the
-colon, with downstream effects on transcription factors. These chromatin changes 
-may be associated with those seen during colon cancer development.
-
-DOI: 10.1186/s13059-018-1389-1 
-PMID: 29361968 
-
-
 5. Carcinogenesis. 2018 Jan 19. doi: 10.1093/carcin/bgy009. [Epub ahead of print]
 
 Chemoprevention of colorectal cancer by black raspberry anthocyanins involved the
