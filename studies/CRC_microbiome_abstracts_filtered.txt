@@ -137,50 +137,6 @@ Works.
 DOI: 10.1126/science.aal5240 
 PMID: 29170280  [Indexed for MEDLINE]
 
-25. Oncol Lett. 2017 Dec;14(6):6373-6378. doi: 10.3892/ol.2017.7001. Epub 2017 Sep
-19.
-
-Fusobacterium nucleatum in gastroenterological cancer: Evaluation of measurement 
-methods using quantitative polymerase chain reaction and a literature review.
-
-Yamamura K(1), Baba Y(1), Miyake K(1), Nakamura K(1), Shigaki H(1), Mima K(1),
-Kurashige J(1), Ishimoto T(1), Iwatsuki M(1), Sakamoto Y(1), Yamashita Y(1),
-Yoshida N(1), Watanabe M(2), Baba H(1).
-
-Author information: 
-(1)Department of Gastroenterological Surgery, Graduate School of Medical
-Sciences, Kumamoto University, Kumamoto 860-8556, Japan.
-(2)Department of Gastroenterological Surgery, Cancer Institute Hospital, Japanese
-Foundation for Cancer Research, Tokyo 135-8550, Japan.
-
-The human microbiome Fusobacterium nucleatum, which primarily inhabits the oral
-cavity, causes periodontal disease and has also been implicated in the
-development of colorectal cancer. However, whether F. nucleatum is present in
-other gastroenterological cancer tissues remains to be elucidated. The present
-study evaluated whether quantitative polymerase chain reaction (qPCR) assays were
-able to detect F. nucleatum DNA and measure the quantity of F. nucleatum DNA in
-esophageal, gastric, pancreatic and liver cancer tissues. The accuracy of the
-qPCR assay was determined from a calibration curve using DNA extracted from cells
-from the oral cavity. Formalin-fixed paraffin-embedded (FFPE) tumor tissues from 
-20 patients with gastroenterological [esophageal (squamous cell carcinoma),
-gastric, colorectal, pancreatic and liver] cancer and 20 matched normal tissues
-were evaluated for F. nucleatum DNA content. The cycle threshold values in the
-qPCR assay for F. nucleatum and solute carrier organic anion transporter family
-member 2A1 (reference sample) decreased linearly with the quantity of input DNA
-(r2>0.99). The F. nucleatum detection rate in esophageal, gastric and colorectal 
-cancer tissues were 20% (4/20), 10% (2/20) and 45% (9/20), respectively. F.
-nucleatum was not detected in liver and pancreatic cancer tissues. The qPCR
-results from the frozen and FFPE tissues were consistent. Notably, F. nucleatum
-was detected at a higher level in superficial areas compared with the invasive
-areas. F. nucleatum in esophageal, gastric and colorectal cancer tissues was
-evaluated by qPCR using FFPE tissues. F. nucleatum may be involved in the
-development of esophageal, gastric and colorectal cancer.
-
-DOI: 10.3892/ol.2017.7001 
-PMCID: PMC5678348
-PMID: 29151903 
-
-
 26. Microbiome. 2017 Nov 16;5(1):150. doi: 10.1186/s40168-017-0366-3.
 
 Normalization of the microbiota in patients after treatment for colonic lesions.
