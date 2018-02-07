@@ -43,50 +43,6 @@ DOI: 10.3389/fmicb.2017.02699
 PMCID: PMC5770402
 PMID: 29375539 
 
-11. Expert Opin Drug Deliv. 2018 Jan 7:1-18. doi: 10.1080/17425247.2018.1420055.
-[Epub ahead of print]
-
-Recent advancements in nanoparticle based drug delivery for gastrointestinal
-disorders.
-
-Mittal R(1), Patel AP(1), Jhaveri VM(1), Kay SS(2), Debs LH(1), Parrish JM(1),
-Pan DR(1), Nguyen D(1), Mittal J(1), Jayant RD(3).
-
-Author information: 
-(1)a Department of Otolaryngology , University of Miami Miller School of Medicine
-, Miami , FL , USA.
-(2)b Dr. Kiran C. Patel College of Osteopathic Medicine , Nova Southeastern
-University , Fort Lauderdale , FL , USA.
-(3)c Center for Personalized Nanomedicine, Department of Immunology , Herbert
-Wertheim College of Medicine, Florida International University , Miami , FL ,
-USA.
-
-INTRODUCTION: The emergent field of nanoparticles has presented a wealth of
-opportunities for improving the treatment of human diseases. Recent advances have
-allowed for promising developments in drug delivery, diagnostics, and
-therapeutics. Modified delivery systems allow improved drug delivery over
-traditional pH, microbe, or receptor dependent models, while antibody association
-allows for more advanced imaging modalities. Nanoparticles have potential
-clinical application in the field of gastroenterology as they offer several
-advantages compared to the conventional treatment systems including target drug
-delivery, enhanced treatment efficacy, and reduced side effects. Areas covered:
-The aim of this review article is to summarize the recent advancements in
-developing nanoparticle technologies to treat gastrointestinal diseases. We have 
-covered the application of nanoparticles in various gastrointestinal disorders
-including inflammatory bowel disease and colorectal cancer. We also have
-discussed how the gut microbiota affects the nanoparticle based drug delivery in 
-the gastrointestinal tract. Expert opinion: Nanoparticles based drug delivery
-offers a great platform for targeted drug delivery for gastrointestinal
-disorders. However, it is influenced by the presence of microbiota, drug
-interaction with nanoparticles, and cytotoxicity of nanoparticles. With the
-advancements in nanoparticle technology, it may be possible to overcome these
-barriers leading to efficient drug delivery for gastrointestinal disorders based 
-on nanoparticle platform.
-
-DOI: 10.1080/17425247.2018.1420055 
-PMID: 29272976 
-
-
 12. Oncotarget. 2017 Nov 1;8(60):102176-102190. doi: 10.18632/oncotarget.22250.
 eCollection 2017 Nov 24.
 
