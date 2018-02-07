@@ -92,57 +92,6 @@ DOI: 10.1038/s41522-017-0040-3
 PMCID: PMC5707393
 PMID: 29214046 
 
-21. Nat Commun. 2017 Dec 1;8(1):1896. doi: 10.1038/s41467-017-01917-2.
-
-Remodelling of the gut microbiota by hyperactive NLRP3 induces regulatory T cells
-to maintain homeostasis.
-
-Yao X(1), Zhang C(2), Xing Y(1), Xue G(1), Zhang Q(2), Pan F(2), Wu G(2), Hu
-Y(2), Guo Q(1), Lu A(1), Zhang X(1), Zhou R(3), Tian Z(3), Zeng B(4), Wei H(4),
-Strober W(5), Zhao L(6), Meng G(7).
-
-Author information: 
-(1)Key Laboratory of Molecular Virology and Immunology, Institut Pasteur of
-Shanghai, Chinese Academy of Sciences; University of Chinese Academy of Sciences,
-Shanghai, 200031, China.
-(2)State Key Laboratory of Microbial Metabolism, Department of Biological
-Sciences, School of Life Sciences and Biotechnology, Shanghai Jiao Tong
-University, Shanghai, 200240, China.
-(3)Department of Immunology, School of Life Sciences, University of Science and
-Technology of China, Hefei, Anhui, 230027, China.
-(4)Department of Laboratory Animal Science, College of Basic Medical Sciences,
-Third Military Medical University, Chongqing, 400038, China.
-(5)Mucosal Immunity Section, Laboratory for Host Defenses, National Institute of 
-Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD,
-20892, USA.
-(6)State Key Laboratory of Microbial Metabolism, Department of Biological
-Sciences, School of Life Sciences and Biotechnology, Shanghai Jiao Tong
-University, Shanghai, 200240, China. lpzhao@sjtu.edu.cn.
-(7)Key Laboratory of Molecular Virology and Immunology, Institut Pasteur of
-Shanghai, Chinese Academy of Sciences; University of Chinese Academy of Sciences,
-Shanghai, 200031, China. gxmeng@ips.ac.cn.
-
-Inflammasomes are involved in gut homeostasis and inflammatory pathologies, but
-the role of NLRP3 inflammasome in these processes is not well understood.
-Cryopyrin-associated periodic syndrome (CAPS) patients with NLRP3 mutations have 
-autoinflammation in skin, joints, and eyes, but not in the intestine. Here we
-show that the intestines of CAPS model mice carrying an Nlrp3 R258W mutation
-maintain homeostasis in the gut. Additionally, such mice are strongly resistant
-to experimental colitis and colorectal cancer; this is mainly through a
-remodelled gut microbiota with enhanced anti-inflammatory capacity due to
-increased induction of regulatory T cells (Tregs). Mechanistically, NLRP3R258W
-functions exclusively in the lamina propria mononuclear phagocytes to directly
-enhance IL-1β but not IL-18 secretion. Increased IL-1β boosts local antimicrobial
-peptides to facilitate microbiota remodelling. Our data show that
-NLRP3R258W-induced remodelling of the gut microbiota, induces local Tregs to
-maintain homeostasis and compensate for otherwise-detrimental intestinal
-inflammation.
-
-DOI: 10.1038/s41467-017-01917-2 
-PMCID: PMC5711854
-PMID: 29196621 
-
-
 22. Z Gastroenterol. 2017 Sep;55(9):872-880. doi: 10.1055/s-0043-116387. Epub 2017
 Sep 12.
 
