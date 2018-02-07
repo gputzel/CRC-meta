@@ -43,16 +43,6 @@ DOI: 10.3389/fmicb.2017.02699
 PMCID: PMC5770402
 PMID: 29375539 
 
-17. Nat Rev Microbiol. 2017 Dec 8;16(1):2. doi: 10.1038/nrmicro.2017.164.
-
-Microbiome: Fusobacterium persistence in colorectal cancer.
-
-York A.
-
-DOI: 10.1038/nrmicro.2017.164 
-PMID: 29217844 
-
-
 18. NPJ Biofilms Microbiomes. 2017 Nov 29;3:34. doi: 10.1038/s41522-017-0040-3.
 eCollection 2017.
 
