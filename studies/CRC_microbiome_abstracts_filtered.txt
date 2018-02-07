@@ -92,64 +92,6 @@ DOI: 10.1038/s41522-017-0040-3
 PMCID: PMC5707393
 PMID: 29214046 
 
-22. Z Gastroenterol. 2017 Sep;55(9):872-880. doi: 10.1055/s-0043-116387. Epub 2017
-Sep 12.
-
-Gut microbiota and colorectal cancer: insights into pathogenesis for novel
-therapeutic strategies.
-
-Kang Y(1)(2), Pan W(3), Cai Y(1)(4).
-
-Author information: 
-(1)Medical Faculty, Kunming University of Science and Technology, Kunming,
-Yunnan, China.
-(2)Genetics and Pharmacogenomics Laboratory, Kunming University of Science and
-Technology, Kunming, Yunnan, China.
-(3)Faculty of Foreign Languages and Cultures, Kunming University of Science and
-Technology, Kunming, Yunnan, China.
-(4)Pathogen biology Laboratory, Kunming University of Science and Technology,
-Kunming, Yunnan, China.
-
-Colorectal cancer (CRC), as a leading cause of cancer-related death, is triggered
-by the complex interplay of host genetics and environmental factors. Mounting
-evidence has shed light on the association of the gut microbiota dysbiosis with
-CRC. In CRC experimental models, certain gut microbial strains have been shown to
-inhibit or attenuate immune responses, indicating that specific species among
-intestinal commensal bacteria may play either a pathogenic or a protective role
-in the development of CRC. Oral intake of probiotics/prebiotics can therefore
-serve as a therapeutic approach for CRC treatment. Microbiota studies in cancer, 
-however, are still at the early stage, lack of quantitative data for clinic
-application. Fortunately, sequencing-based technologies are a boon to further
-investigation on the association of the intestinal bacterial flora and human
-diseases. This review considers the evidence for the role of the gut microbiota
-in CRC development and progression, responsiveness to immune system, and the
-related therapeutic applications of probiotics/prebiotics.
-
-Publisher: Darmkrebs (CRC), als eine Hauptursache für die krebsbedingten
-Todesfälle, wird durch das komplexe Zusammenspiel von Wirtsgenetik- und
-Umweltfaktoren verursacht. Die wachsende Gewissheit hat die Assoziation der
-Dysbiose der Darmflora mit CRC deutlich gemacht. In CRC-experimentellen Modellen 
-wurde gezeigt, dass bestimmte Bakterienstämme des Darms Immunantworten hemmen
-oder abschwächen, was darauf hindeutet, dass bestimmte Arten von intestinale
-kommensalen Bakterien entweder eine pathogene oder eine schützende Rolle bei der 
-Entwicklung von CRC spielen können. Die orale Einnahme von Probiotika/Präbiotika 
-kann daher als Therapieansatz für die CRC-Behandlung dienen. Die Krebsforschungen
-von Mikrobenflora sind jedoch noch in der Frühphase, mangelnde quantitative Daten
-für die klinische Anwendung. Glücklicherweise sind sequenzbasiertee Technologien 
-ein Segen für weitere Untersuchungen über die Assoziation der intestinalen
-bakteriellen Flora und menschlichen Krankheiten. Die Übersicht betrachtet die
-Beweise für die Rolle der Darmflora in der Entwicklung und Progression von CRC,
-Ansprechbarkeit des Immunsystems und die entsprechenden therapeutischen
-Anwendungen von Probiotika/Präbiotika. .
-© Georg Thieme Verlag KG Stuttgart · New York.
-
-DOI: 10.1055/s-0043-116387 
-PMID: 29186641 
-
-Conflict of interest statement: Disclosure The authors report no conflicts of
-interest in this work.
-
-
 23. Science. 2017 Dec 15;358(6369):1443-1448. doi: 10.1126/science.aal5240. Epub 2017
 Nov 23.
 
