@@ -197,46 +197,6 @@ DOI: 10.1186/s40168-017-0366-3
 PMCID: PMC5689185
 PMID: 29145893 
 
-28. FEMS Microbiol Ecol. 2017 Dec 1;93(12). doi: 10.1093/femsec/fix153.
-
-Identification of universal gut microbial biomarkers of common human intestinal
-diseases by meta-analysis.
-
-Mancabelli L(1), Milani C(1), Lugli GA(1), Turroni F(1), Cocconi D(1), van
-Sinderen D(2), Ventura M(1).
-
-Author information: 
-(1)Laboratory of Probiogenomics, Department of Chemistry, Life Sciences and
-Environmental Sustainability, University of Parma, Parma, Italy.
-(2)Microbiome Research Hub, University of Parma, Parma, Italy.
-
-Intestinal diseases, such as Crohn's disease (CD), ulcerative colitis (UC) and
-pseudomembranous colitis (CDI), are among the most common diseases in humans and 
-may lead to more serious pathologies, e.g. colorectal cancer (CRC). Next
-generation sequencing has in recent years allowed the identification of
-correlations between intestinal bacteria and diseases, although the formulation
-of universal gut microbial biomarkers for such diseases is only in its infancy.
-In the current study, we selected and reanalyzed a total of 3048 public datasets 
-obtained from 16S rRNA profiling of individuals affected by CD, UC, CDI and CRC. 
-This meta-analysis revealed possible biases in the reconstruction of the gut
-microbiota composition due to the use of different primer pairs employed for PCR 
-of 16S rRNA gene fragments. Notably, this approach also identified common
-features of individuals affected by gut diseases (DS), including lower
-biodiversity compared to control subjects. Moreover, potential universal
-intestinal disease microbial biomarkers were identified through cross-disease
-comparisons. In detail, CTRL showed high abundance of the genera Barnesiella,
-Ruminococcaceae UCG-005, Alistipes, Christensenellaceae R-7 group and
-unclassified member of Lachnospiraceae family, while DS exhibited high abundance 
-of Lactobacillus, unclassified member of Erysipelotrichaceae family and
-Streptococcus genera.
-
-© FEMS 2017. All rights reserved. For permissions, please e-mail:
-journals.permissions@oup.com.
-
-DOI: 10.1093/femsec/fix153 
-PMID: 29126267 
-
-
 29. Genes (Basel). 2017 Nov 9;8(11). pii: E314. doi: 10.3390/genes8110314.
 
 A Microbiomic Analysis in African Americans with Colonic Lesions Reveals
