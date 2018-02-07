@@ -92,51 +92,6 @@ DOI: 10.1038/s41522-017-0040-3
 PMCID: PMC5707393
 PMID: 29214046 
 
-
-19. Front Immunol. 2017 Nov 17;8:1553. doi: 10.3389/fimmu.2017.01553. eCollection
-2017.
-
-Probiotic Strain Lactobacillus casei BL23 Prevents Colitis-Associated Colorectal 
-Cancer.
-
-Jacouton E(1), Chain F(1), Sokol H(1)(2), Langella P(1), Bermúdez-Humarán LG(1).
-
-Author information: 
-(1)Micalis Institute, INRA, AgroParisTech, Université Paris-Saclay,
-Jouy-en-Josas, France.
-(2)Sorbonne Universités, UPMC Univ. Paris 06, École normale supérieure, CNRS,
-INSERM, APHP Laboratoire des Biomolécules (LBM), Paris, France.
-
-The gut microbiota plays a major role in intestinal health, and an imbalance in
-its composition can lead to chronic gut inflammation and a predisposition to
-developing colorectal cancer (CRC). Currently, the use of probiotic bacteria
-represents an emerging alternative to treat and prevent cancer. Moreover,
-consumption of these beneficial bacteria may also favorably modulate the
-composition of the gut microbiota, which has been described in several studies to
-play an important role in CRC carcinogenesis. In this context, the aim of this
-study was to assess the protective effect of oral treatment with Lactobacillus
-casei BL23, a probiotic strain well known for its anti-inflammatory and
-anticancer properties. First, CRC was induced in C57BL6 mice by a single
-intraperitoneal injection with azoxymethane (8 mg/kg), followed by four courses
-of dextran sodium sulfate (2.5%) in drinking water that were separated by an
-adjustable recovery period. At the time of sacrifice (day 46), tumor incidence,
-histological scores, and epithelial proliferation were determined in colon
-samples. Our results show that L. casei BL23 significantly protected mice against
-CRC development; specifically, L. casei BL23 treatment reduced histological
-scores and proliferative index values. In addition, our analysis revealed that L.
-casei BL23 had an immunomodulatory effect, mediated through the downregulation of
-the IL-22 cytokine, and an antiproliferative effect, mediated through the
-upregulation of caspase-7, caspase-9, and Bik. Finally, L. casei BL23 treatment
-tended to counterbalance CRC-induced dysbiosis in mice, as demonstrated by an
-analysis of fecal microbiota. Altogether our results demonstrate the high
-potential of L. casei BL23 for the development of new, probiotic-based strategies
-to fight CRC.
-
-DOI: 10.3389/fimmu.2017.01553 
-PMCID: PMC5702231
-PMID: 29209314 
-
-
 20. Int J Cancer. 2017 Dec 2. doi: 10.1002/ijc.31190. [Epub ahead of print]
 
 Polymethoxyflavones prevent benzo[a]pyrene/dextran sodium sulfate-induced
