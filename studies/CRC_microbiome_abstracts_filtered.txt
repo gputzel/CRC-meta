@@ -43,45 +43,6 @@ DOI: 10.3389/fmicb.2017.02699
 PMCID: PMC5770402
 PMID: 29375539 
 
-7. Curr Colorectal Cancer Rep. 2017 Dec;13(6):429-439. doi:
-10.1007/s11888-017-0389-y. Epub 2017 Sep 4.
-
-Diet, Gut Microbiota, and Colorectal Cancer Prevention: A Review of Potential
-Mechanisms and Promising Targets for Future Research.
-
-Song M(1)(2)(3), Chan AT(1)(2)(4)(5).
-
-Author information: 
-(1)Clinical and Translational Epidemiology Unit, Massachusetts General Hospital
-and Harvard Medical School, Boston, MA.
-(2)Division of Gastroenterology, Massachusetts General Hospital, Boston, MA.
-(3)Department of Nutrition, Harvard T.H. Chan School of Public Health, Boston,
-MA.
-(4)Channing Division of Network Medicine, Department of Medicine, Brigham and
-Women's Hospital, and Harvard Medical School, Boston, MA.
-(5)Broad Institute of Massachusetts Institute of Technology and Harvard,
-Cambridge, MA.
-
-Diet plays an important role in the development of colorectal cancer. Emerging
-data have implicated the gut microbiota in colorectal cancer. Diet is a major
-determinant for the gut microbial structure and function. Therefore, it has been 
-hypothesized that alterations in gut microbes and their metabolites may
-contribute to the influence of diet on the development of colorectal cancer. We
-review several major dietary factors that have been linked to gut microbiota and 
-colorectal cancer, including major dietary patterns, fiber, red meat and sulfur, 
-and obesity. Most of the epidemiologic evidence derives from cross-sectional or
-short-term, highly controlled feeding studies that are limited in size.
-Therefore, high-quality large-scale prospective studies with dietary data
-collected over the life course and comprehensive gut microbial composition and
-function assessed well prior to neoplastic occurrence are critically needed to
-identify microbiome-based interventions that may complement or optimize current
-diet-based strategies for colorectal cancer prevention and management.
-
-DOI: 10.1007/s11888-017-0389-y 
-PMCID: PMC5761320 [Available on 2018-12-01]
-PMID: 29333111 
-
-
 8. Mol Nutr Food Res. 2018 Jan 13. doi: 10.1002/mnfr.201700554. [Epub ahead of
 print]
 
