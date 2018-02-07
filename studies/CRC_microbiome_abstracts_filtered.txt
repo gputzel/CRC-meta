@@ -311,24 +311,6 @@ DOI: 10.1038/s41522-017-0034-1
 PMCID: PMC5665930
 PMID: 29104759 
 
-
-31. EBioMedicine. 2017 Nov;25:5-6. doi: 10.1016/j.ebiom.2017.10.020. Epub 2017 Oct
-19.
-
-Less Invasive Screening for Colorectal Cancer by Microbiota Analysis: Is it a
-Reality or an Illusion?
-
-Onodera H(1).
-
-Author information: 
-(1)St. Luke's International University, Tokyo 104-8560, Japan. Electronic
-address: onohisa@luke.ac.jp.
-
-DOI: 10.1016/j.ebiom.2017.10.020 
-PMCID: PMC5704056
-PMID: 29102292 
-
-
 32. Gastroenterology. 2017 Dec;153(6):1475-1478. doi: 10.1053/j.gastro.2017.10.030.
 Epub 2017 Oct 31.
 
