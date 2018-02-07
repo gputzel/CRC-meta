@@ -43,46 +43,6 @@ DOI: 10.3389/fmicb.2017.02699
 PMCID: PMC5770402
 PMID: 29375539 
 
-5. Carcinogenesis. 2018 Jan 19. doi: 10.1093/carcin/bgy009. [Epub ahead of print]
-
-Chemoprevention of colorectal cancer by black raspberry anthocyanins involved the
-modulation of gut microbiota and SFRP2 demethylation.
-
-Chen L(1), Jiang B(1), Zhong C(1), Guo J(1), Zhang L(1), Mu T(1), Zhang Q(2), Bi 
-X(1)(3).
-
-Author information: 
-(1)College of Life Science, Liaoning University, Shenyang, China.
-(2)Department of Pharmacology, Liaoning University of Traditional Chinese
-Medicine, Shenyang, PR China.
-(3)Research Center for Computer Simulating and Information Processing of
-Bio-macromolecules of Liaoning Province, Liaoning University, Shenyang, China.
-
-Freeze-dried black raspberry powder is considered as a potential cancer
-chemopreventive agent. In this study, we fed AOM/DSS treated C57BL/6J mice with
-diet containing black raspberry anthocyanins for 12 weeks and this led to a
-reduction in colon carcinogenesis. These animals had consistently lower tumor
-multiplicity compared to AOM/DSS-treated mice not receiving BRB anthocyanins. In 
-AOM/DSS-treated mice, the number of pathogenic bacteria, including
-Desulfovibriosp and Enterococcus spp, were increased significantly, whereas
-probiotics such as Eubacterium rectale, Faecalibacterium prausnitzii and
-Lactobacillus were dramatically decreased, but BRB anthocyanins supplement could 
-reverse this imbalance in gut microbiota. BRB anthocyanins also caused the
-demethylation of the SFRP2 gene promoter, resulting in increased expression of
-SFRP2, both at the mRNA and protein levels. Furthermore, the expression levels of
-DNMT31 and DNMT3B, as well as of p-STAT3 were down-regulated by BRB anthocyanins 
-in these animals. Taken together, these results suggested that BRB anthocyanins
-could modulate the composition of gut commensal microbiota and changes in
-inflammation and the methylation status of the SFRP2 gene may play a central role
-in the chemoprevention of colorectal cancer.
-
-© The Author(s) 2018. Published by Oxford University Press. All rights reserved. 
-For Permissions, please email: journals.permissions@oup.com.
-
-DOI: 10.1093/carcin/bgy009 
-PMID: 29361151 
-
-
 6. World J Gastroenterol. 2017 Dec 28;23(48):8626-8650. doi:
 10.3748/wjg.v23.i48.8626.
 
