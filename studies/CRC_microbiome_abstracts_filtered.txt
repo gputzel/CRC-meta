@@ -43,53 +43,6 @@ DOI: 10.3389/fmicb.2017.02699
 PMCID: PMC5770402
 PMID: 29375539 
 
-15. J Pharmacol Sci. 2017 Dec;135(4):148-155. doi: 10.1016/j.jphs.2017.11.004. Epub
-2017 Nov 24.
-
-Butyrate suppresses motility of colorectal cancer cells via deactivating Akt/ERK 
-signaling in histone deacetylase dependent manner.
-
-Li Q(1), Ding C(1), Meng T(1), Lu W(2), Liu W(1), Hao H(3), Cao L(4).
-
-Author information: 
-(1)State Key Laboratory of Natural Medicines, Key Laboratory of Drug Metabolism
-and Pharmacokinetics, China Pharmaceutical University, Nanjing, 210009, China.
-(2)State Key Laboratory of Natural Medicines, Key Laboratory of Drug Metabolism
-and Pharmacokinetics, China Pharmaceutical University, Nanjing, 210009, China;
-School of Pharmacy, China Pharmaceutical University, Nanjing, 210009, China.
-(3)State Key Laboratory of Natural Medicines, Key Laboratory of Drug Metabolism
-and Pharmacokinetics, China Pharmaceutical University, Nanjing, 210009, China.
-Electronic address: haipinghao@cpu.edu.cn.
-(4)State Key Laboratory of Natural Medicines, Key Laboratory of Drug Metabolism
-and Pharmacokinetics, China Pharmaceutical University, Nanjing, 210009, China.
-Electronic address: caolijuan0702@cpu.edu.cn.
-
-Butyrate is a typical short chain fatty acid produced by gut microbiota of which 
-the dysmetabolism has been consistently associated with colorectal diseases.
-However, whether butyrate affects metastatic colorectal cancer is not clear. In
-this study we investigated in vitro the effect of butyrate on motility, a
-significant metastatic factor of colorectal cancer cells and explored the
-potential mechanism. By using wound healing and transwell-based invasion models, 
-we demonstrated that pretreatment of butyrate significantly inhibited motility of
-HCT116, HT29, LOVO and HCT8 cells, this activity was further attributed to
-deactivation of Akt1 and ERK1/2. Suberanilohydroxamic acid (SAHA), another HDAC
-inhibitor, mimicked the inhibitory effect of butyrate on cell motility and
-deactivation of Akt/ERK. Furthermore, by silencing of HDAC3 with siRNA, we
-confirmed dependence of butyrate's effect on HDAC3, the similar reduced cell
-motility observed under HDAC3 silencing also indicates the significance of HDAC
-itself in cell motility. In conclusion, we confirmed the HDAC3-relied activity of
-butyrate on inhibiting motility of colorectal cancer cells via deactivating
-Akt/ERK signaling. Our data indicate that modulating butyrate metabolism is an
-effective therapeutic strategy of metastatic colorectal cancer; and HDAC3 might
-be a novel target for management of colorectal cancer metastasis.
-
-Copyright © 2017 The Authors. Production and hosting by Elsevier B.V. All rights 
-reserved.
-
-DOI: 10.1016/j.jphs.2017.11.004 
-PMID: 29233468 
-
-
 16. Oncotarget. 2017 May 27;8(57):96774-96790. doi: 10.18632/oncotarget.18241.
 eCollection 2017 Nov 14.
 
