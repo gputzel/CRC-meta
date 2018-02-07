@@ -43,46 +43,6 @@ DOI: 10.3389/fmicb.2017.02699
 PMCID: PMC5770402
 PMID: 29375539 
 
-8. Mol Nutr Food Res. 2018 Jan 13. doi: 10.1002/mnfr.201700554. [Epub ahead of
-print]
-
-Dietary Factors Modulate Colonic Tumorigenesis Through the Interaction of Gut
-Microbiota and Host Chloride Channels.
-
-Zhang Y(1), Kang C(1), Wang XL(1), Zhou M(1), Chen MT(1), Zhu XH(1), Liu K(1),
-Wang B(1), Zhang QY(1), Zhu JD(1), Mi MT(1).
-
-Author information: 
-(1)Research center for Nutrition and Food safety, Institute of Military
-Preventive Medicine, Third Military Medical University, Chongqing Key Laboratory 
-of Nutrition and Food safety, Chongqing Medical Nutrition Research Center,
-Chongqing, P.R. China.
-
-SCOPE: In recent decades, the association between diet, gut microbiota and the
-risk of colorectal cancer (CRC) has been established. Gut microbiota and
-associated metabolites, such as bile acids and butyrate, are now known to play a 
-key role in CRC development. The aim of this study was to identify the
-progression to CRC is influenced by cholic acid, sodium butyrate, a high-fat diet
-or different dose of dihydromyricetin (DMY) interacted with gut microbiota.
-METHODS AND RESULTS: An AOM/DSS (azoxymethan/dextran sodium sulfate) model was
-established to study the gut microbiota compsition before and after tumor
-formation during colitis-induced tumorigenesis. All above dietary factors
-profoundly influenced the composition of gut microbiota and host colonic
-tumorigenesis. In addition, mice with DMY-modified initial microbiota displayed
-different degrees of chemically-induced tumorigenesis. Mechanism analysis
-revealed that gut microbiota-associated chloride channels participated in colon
-tumorigenesis.
-CONCLUSION: Gut microbiota changes occured in the hyperproliferative stage before
-tumor formation. Gut microbiota and host chloride channels, both of which are
-regulated by dietary factors, are associated with CRC development. This article
-is protected by copyright. All rights reserved.
-
-This article is protected by copyright. All rights reserved.
-
-DOI: 10.1002/mnfr.201700554 
-PMID: 29331105 
-
-
 9. Ecancermedicalscience. 2017 Dec 20;11:791. doi: 10.3332/ecancer.2017.791.
 eCollection 2017.
 
