@@ -43,34 +43,6 @@ DOI: 10.3389/fmicb.2017.02699
 PMCID: PMC5770402
 PMID: 29375539 
 
-14. Biomed Pap Med Fac Univ Palacky Olomouc Czech Repub. 2017 Dec;161(4):333-338.
-doi: 10.5507/bp.2017.051. Epub 2017 Dec 13.
-
-Are we any closer to screening for colorectal cancer using microbial markers?A
-critical review.
-
-Stary L(1), Mezerova K(2), Skalicky P(1), Zboril P(1), Raclavsky V(2)(3).
-
-Author information: 
-(1)Department of Surgery I, University Hospital Olomouc, Czech Republic.
-(2)Department of Microbiology, Faculty of Medicine and Dentistry, Palacky
-University Olomouc, Czech Republic.
-(3)Institute of Molecular and Translational Medicine, Palacky University Olomouc,
-Czech Republic.
-
-The role of gut microbiota in the development of sporadic colorectal cancer (CRC)
-is supported by a number of studies, however, the conclusiveness of published
-metagenomic studies is questioned by technical pitfalls and limited by small
-cohort sizes. In this review, we evaluate the current knowledge critically and
-outline practical solutions. We also list candidate CRC risk markers that are -
-in our opinion - well supported by available data and thus deserve clinical
-validation. Last but not least, we summarise available knowledge useful for
-improving care for patients immediately.
-
-DOI: 10.5507/bp.2017.051 
-PMID: 29235578 
-
-
 15. J Pharmacol Sci. 2017 Dec;135(4):148-155. doi: 10.1016/j.jphs.2017.11.004. Epub
 2017 Nov 24.
 
