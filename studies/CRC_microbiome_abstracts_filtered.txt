@@ -43,50 +43,6 @@ DOI: 10.3389/fmicb.2017.02699
 PMCID: PMC5770402
 PMID: 29375539 
 
-9. Ecancermedicalscience. 2017 Dec 20;11:791. doi: 10.3332/ecancer.2017.791.
-eCollection 2017.
-
-Highlights from the Inaugural International Cancer Microbiome Consortium Meeting 
-(ICMC), 5-6 September 2017, London, UK.
-
-Scott AJ(1), Merrifield CA(1), Alexander JL(1), Marchesi JR(1), Kinross JM(1).
-
-Author information: 
-(1)Department of Surgery and Cancer, Imperial College London, Kensington, London 
-SW7 2AZ, UK.
-
-The International Cancer Microbiome Consortium (ICMC) is a recently launched
-collaborative between academics and academic-clinicians that aims to promote
-microbiome research within the field of oncology, establish expert consensus and 
-deliver education for academics and clinicians. The inaugural two-day meeting was
-held at the Royal Society of Medicine (RSM), London, UK, 5-6 September 2017.
-Microbiome and cancer experts from around the world first delivered a series of
-talks during an educational day and then sat for a day of roundtable discussion
-to debate key topics in microbiome-cancer research. Talks delivered during the
-educational day covered a broad range of microbiome-related topics. The potential
-role of the microbiome in the pathogenesis of colorectal cancer was discussed and
-debated in detail with experts highlighting the latest data in animal models and 
-humans and addressing the question of causation versus association. The impact of
-the microbiota on other cancers-such as lung and urogenital tract-was also
-discussed. The microbiome represents a novel target for therapeutic manipulation 
-in cancer and a number of talks explored how this might be realised through diet,
-faecal microbiota transplant and chemotherapeutics. On the second day, experts
-debated pre-agreed topics with the aim of producing a consensus statement with a 
-focus on the current state of our knowledge and key gaps for further development.
-The panel debated the notion of a 'healthy' microbiome and, in turn, the concept 
-of dysbiosis in cancer. The mechanisms of microbiota-induced carcinogenesis were 
-discussed in detail and our current conceptual models were assessed. Experts also
-considered co-factors in microbiome-induced carcinogenesis to conclude that the
-tripartite 'interactome' between genetically vulnerable host, environment and the
-microbiome is central to our current understanding. To conclude, the roundtable
-discussed how the microbiome may be exploited for therapeutic benefit in cancer
-and the safety implications of performing such research in oncology patients.
-
-DOI: 10.3332/ecancer.2017.791 
-PMCID: PMC5739872
-PMID: 29290760 
-
-
 10. World J Gastroenterol. 2017 Dec 14;23(46):8128-8139. doi:
 10.3748/wjg.v23.i46.8128.
 
