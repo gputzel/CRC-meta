@@ -92,67 +92,6 @@ DOI: 10.1038/s41522-017-0040-3
 PMCID: PMC5707393
 PMID: 29214046 
 
-20. Int J Cancer. 2017 Dec 2. doi: 10.1002/ijc.31190. [Epub ahead of print]
-
-Polymethoxyflavones prevent benzo[a]pyrene/dextran sodium sulfate-induced
-colorectal carcinogenesis through modulating xenobiotic metabolism and ameliorate
-autophagic defect in ICR mice.
-
-Wu JC(1), Tsai ML(2), Lai CS(2), Lo CY(3), Ho CT(4), Wang YJ(1)(5)(6), Pan
-MH(7)(8)(9).
-
-Author information: 
-(1)Department of Environmental and Occupational Health, College of Medicine,
-National Cheng Kung University, Tainan, 704, Taiwan.
-(2)Department of Seafood Science, National Kaohsiung Marine University,
-Kaohsiung, 811, Taiwan.
-(3)Department of Food Science, National Chiayi University, no. 300 Syuefu Road,
-Chiayi, 600, Taiwan.
-(4)Department of Food Science, Rutgers University, New Brunswick, NJ, 08901.
-(5)Department of food safety/Hygiene and risk management, College of Medicine,
-National Cheng Kung University, Tainan, 704, Taiwan.
-(6)Graduate Institute of Clinical Medicine, College of Medicine, Taipei Medical
-University, Taipei, 110, Taiwan.
-(7)Department of Medical Research, China Medical University Hospital, China
-Medical University, Taichung, 40402, Taiwan.
-(8)Department of Health and Nutrition Biotechnology, Asia University, Taichung,
-Taiwan.
-(9)Institute of Food Science and Technology, National Taiwan University, Taipei, 
-10617, Taiwan.
-
-Polycyclic aromatic hydrocarbons (PAHs) are widespread environmental carcinogenic
-pollutants and they have become an important issue in food contamination. Dietary
-intake of PAHs has been recognized as a major route of human exposure. However,
-the mechanisms behind dietary PAH-induced colorectal cancer (CRC) remain unclear.
-Several studies have shown that polymethoxyflavones (PMFs) are effective in
-preventing carcinogen-induced CRC or colitis. In this study, we investigated the 
-preventive effect of PMFs on benzo[a]pyrene/dextran sulfate sodium
-(BaP/DSS)-induced colorectal tumorigenesis in ICR mice. We found that PMFs
-significantly prevented BaP/DSS-induced colorectal tumor formation. BaP mutagenic
-metabolite and DNA adducts were found to be reduced in colonic tissue in the
-PMFs-treated groups through the modulation of BaP metabolism. At the molecular
-level, the results of RNA-sequencing indicated that PMFs ameliorated
-BaP/DSS-induced abnormal molecular mechanism change including activated
-inflammation, downregulated anti-oxidation targets, and induced metastasis genes.
-The autophagic defect caused by BaP/DSS-induced tumorigenesis was improved by
-pretreatment with PMFs. We found BaP/DSS-induced CRC may be a Wnt/β-catenin
-independent process. Additionally, consumption of PMFs extracts also altered the 
-composition of gut microbiota and made it similar to that in the control group by
-increasing butyrate-producing probiotics and decreasing CRC-related bacteria. BaP
-in combination with DSS significantly induced colorectal tumorigenesis through
-induced DNA adduct formation, abnormal gene expression, and imbalanced gut
-microbiota composition. PMFs were a powerful preventive agent that suppressed
-BaP/DSS-induced CRC via modulating multiple pathways as well as ameliorating
-autophagic defect. These results demonstrated for the first time the
-chemopreventive efficacy and comprehensive mechanisms of dietary PMFs for
-preventing BaP/DSS-induced colorectal carcinogenesis.
-
-© 2017 UICC.
-
-DOI: 10.1002/ijc.31190 
-PMID: 29197069 
-
-
 21. Nat Commun. 2017 Dec 1;8(1):1896. doi: 10.1038/s41467-017-01917-2.
 
 Remodelling of the gut microbiota by hyperactive NLRP3 induces regulatory T cells
