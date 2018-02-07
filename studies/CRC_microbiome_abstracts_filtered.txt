@@ -43,58 +43,6 @@ DOI: 10.3389/fmicb.2017.02699
 PMCID: PMC5770402
 PMID: 29375539 
 
-12. Oncotarget. 2017 Nov 1;8(60):102176-102190. doi: 10.18632/oncotarget.22250.
-eCollection 2017 Nov 24.
-
-Commensal-infected macrophages induce dedifferentiation and reprogramming of
-epithelial cells during colorectal carcinogenesis.
-
-Wang X(1)(2), Yang Y(3)(4), Huycke MM(2)(5).
-
-Author information: 
-(1)Department of Radiation Oncology, University of Oklahoma Health Sciences
-Center, Oklahoma City, OK 73104, USA.
-(2)The Muchmore Laboratories for Infectious Diseases Research, Oklahoma City VA
-Health Care System, Oklahoma City, OK 73104, USA.
-(3)Gansu Province Children's Hospital, Lanzhou, Gansu 730030, China.
-(4)Key Laboratory of Gastrointestinal Cancer, Lanzhou University Second Hospital,
-Lanzhou, Gansu 730030, China.
-(5)Department of Internal Medicine, University of Oklahoma Health Sciences
-Center, Oklahoma City, OK 73126, USA.
-
-The colonic microbiome contributes to the initiation of colorectal cancer through
-poorly characterized mechanisms. We have shown that commensal-polarized
-macrophages induce gene mutation, chromosomal instability, and endogenous
-transformation through microbiome-induced bystander effects (MIBE). In this study
-we show that MIBE activates Wnt/β-catenin signaling and pluripotent transcription
-factors associated with dedifferentiation, reprogramming, and the development of 
-colorectal cancer stem cells (CSCs). Exposure of murine primary colon epithelial 
-cells (YAMC) to Enterococcus faecalis-infected macrophages increased Wnt3α
-expression while suppressing Wnt inhibitor factor 1 (Wif1). Wnt/β-catenin
-activation was confirmed by increased active β-catenin and Tcf4. in vivo, active 
-β-catenin was evident in colon biopsies from E. faecalis-colonized Il10 knockout 
-mice compared to sham-colonized mice. This effect was mediated, in part, by
-4-hydroxy-2-nonenal and tumor necrosis factor α. MIBE also activated pluripotent 
-transcription factors c-Myc, Klf4, Oct4, and Sox2 in YAMC cells and colons from
-E. faecalis-colonized Il10 knockout mice. These transcription factors are
-associated with cellular reprogramming, dedifferentiation, and induction of
-colorectal CSC progenitors. In support of this was an increase in the expression 
-of Dclk1 and CD44, two colorectal CSC markers, in YAMC cells that were exposed to
-MIBE. Finally, compared to normal colon biopsies and hyperplastic polyps, DCLK1
-expression increased in human tubular adenomas and invasive colorectal cancers.
-Blocking β-catenin/TCF4 signaling using FH535 and CTNNB1-specific small
-interfering RNA decreased DCLK1 expression in HCT116 human colon cancer cells.
-These findings provide mechanism for microbiome-induced colorectal cancer and
-identify new potential targets for colorectal cancer prevention.
-
-DOI: 10.18632/oncotarget.22250 
-PMCID: PMC5731944
-PMID: 29254234 
-
-Conflict of interest statement: CONFLICTS OF INTEREST The authors declare no
-conflicts of interest.
-
-
 13. Front Microbiol. 2017 Dec 1;8:2391. doi: 10.3389/fmicb.2017.02391. eCollection
 2017.
 
