@@ -43,49 +43,6 @@ DOI: 10.3389/fmicb.2017.02699
 PMCID: PMC5770402
 PMID: 29375539 
 
-13. Front Microbiol. 2017 Dec 1;8:2391. doi: 10.3389/fmicb.2017.02391. eCollection
-2017.
-
-The Microbiome of Potentially Malignant Oral Leukoplakia Exhibits Enrichment for 
-Fusobacterium, Leptotrichia, Campylobacter, and Rothia Species.
-
-Amer A(1), Galvin S(2), Healy CM(2), Moran GP(1).
-
-Author information: 
-(1)Division of Oral Biosciences, School of Dental Science, Trinity College
-Dublin, Dublin Dental University Hospital, Dublin, Ireland.
-(2)Division of Oral and Maxillofacial Surgery, Oral Medicine and Oral Pathology, 
-School of Dental Science, Trinity College Dublin, Dublin Dental University
-Hospital, Dublin, Ireland.
-
-Oral leukoplakia presents as a white patch on the oral mucosa and is recognized
-as having significant malignant potential. Although colonization of these patches
-with Candida albicans is common, little is known about the bacterial microbiota
-of these patches. In the current study we analyzed the microbiome of oral
-leukoplakia in 36 patients compared to healthy mucosal tissue from the same
-patients and healthy control subjects to determine if specific microbial
-enrichments could be identified early in the malignant process that could play a 
-role in the progression of the disease. This was carried out by sequence analysis
-of the V1-V2 region of the bacterial 16S rRNA gene using the Illumina MiSeq. Oral
-leukoplakia exhibited increased abundance of Fusobacteria and reduced levels of
-Firmicutes (Metastats P < 0.01). Candida colonization was also more prevalent in 
-leukoplakia patients relative to healthy controls (P = 0.025). Bacterial
-colonization patterns on oral leukoplakia were highly variable and five distinct 
-bacterial clusters were discerned. These clusters exhibited co-occurrence of
-Fusobacterium, Leptotrichia, and Campylobacter species (Pearson P < 0.01), which 
-is strikingly similar to the microbial co-occurrence patterns observed on
-colorectal cancers (Warren et al., 2013). Increased abundance of the
-acetaldehydogenic microorganism Rothia mucilaginosa was also apparent on oral
-leukoplakias from lingual sites (P 0.0012). Severe dysplasia was associated with 
-elevated levels of Leptotrichia spp. and Campylobacter concisus (P < 0.05). Oral 
-leukoplakia exhibits an altered microbiota that has similarities to the
-microbiome of colorectal cancer.
-
-DOI: 10.3389/fmicb.2017.02391 
-PMCID: PMC5717034
-PMID: 29250055 
-
-
 14. Biomed Pap Med Fac Univ Palacky Olomouc Czech Repub. 2017 Dec;161(4):333-338.
 doi: 10.5507/bp.2017.051. Epub 2017 Dec 13.
 
