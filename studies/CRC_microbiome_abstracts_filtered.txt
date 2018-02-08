@@ -862,68 +862,6 @@ Permissions, please email: journals.permissions@oup.com.
 DOI: 10.1093/carcin/bgx053 
 PMID: 28582482  [Indexed for MEDLINE]
 
-83. Int J Colorectal Dis. 2017 Jul;32(7):1077-1084. doi: 10.1007/s00384-017-2819-3.
-Epub 2017 Apr 25.
-
-Study protocol on the role of intestinal microbiota in colorectal cancer
-treatment: a pathway to personalized medicine 2.0.
-
-Aarnoutse R(1)(2), de Vos-Geelen JMPGM(3), Penders J(4), Boerma EG(5), Warmerdam 
-FARM(6), Goorts B(1)(2), Olde Damink SWM(2)(7), Soons Z(7), Rensen SSM(7), Smidt 
-ML(8)(9).
-
-Author information: 
-(1)GROW-School for Oncology and Developmental Biology, Maastricht University
-Medical Centre, Universiteitssingel 40, 6229 ER, Maastricht, the Netherlands.
-(2)Department of Surgery, Maastricht University Medical Centre, P. Debyelaan 25, 
-6229 HX, Maastricht, the Netherlands.
-(3)Department of Medical Oncology, Maastricht University Medical Centre, P.
-Debyelaan 25, 6229 HX, Maastricht, the Netherlands.
-(4)Department of Medical Microbiology, Maastricht University Medical Centre, P.
-Debyelaan 25, 6229 HX, Maastricht, the Netherlands.
-(5)Department of Surgery, Zuyderland Medical Centre, Dr. H. van der Hoffplein 1, 
-6162 BG, Geleen, the Netherlands.
-(6)Department of Medical Oncology, Zuyderland Medical Centre, Dr. H. van der
-Hoffplein 1, 6162 BG, Geleen, the Netherlands.
-(7)NUTRIM - School of Nutrition and Translational research In Metabolism,
-Maastricht University Medical Centre, Universiteitssingel 40, 6229 ER,
-Maastricht, the Netherlands.
-(8)GROW-School for Oncology and Developmental Biology, Maastricht University
-Medical Centre, Universiteitssingel 40, 6229 ER, Maastricht, the Netherlands.
-m.smidt@mumc.nl.
-(9)Department of Surgery, Maastricht University Medical Centre, P. Debyelaan 25, 
-6229 HX, Maastricht, the Netherlands. m.smidt@mumc.nl.
-
-PURPOSE: Investigate in patients with metastatic and/or irresectable colorectal
-cancer treated with systemic treatment with capecitabine or TAS-102 whether: 1.
-Intestinal microbiota composition can act as a predictor for response. 2.
-Intestinal microbiota composition changes during systemic treatment and its
-relation to chemotoxicity.
-BACKGROUND: Gut microbiota and host determinants evolve in symbiotic and
-dependent relationships resulting in a personal ecosystem. In vitro studies
-showed prolonged and increased response to 5-fluorouracil, a fluoropyrimidine, in
-the presence of a favorable microbiota composition. Capecitabine and TAS-102 are 
-both fluoropyrimidines used for systemic treatment in colorectal cancer patients.
-METHODS: An explorative prospective multicenter cohort study in the Maastricht
-University Medical Centre+ and Zuyderland Medical Centre will be performed in 66 
-patients. Before, during, and after three cycles of systemic treatment with
-capecitabine or TAS-102, fecal samples and questionnaires (concerning compliance 
-and chemotoxicity) will be collected. The response will be measured by CT/MRI
-using RECIST-criteria. Fecal microbiota composition will be analyzed with 16S
-rRNA next-generation sequencing. The absolute bacterial abundance will be
-assessed with quantitative polymerase chain reaction. Multivariate analysis will 
-be used for statistical analysis.
-CONCLUSIONS: We aim to detect a microbiota composition that predicts if patients 
-with metastatic and/or irresectable colorectal cancer will respond to systemic
-treatment and/or experience zero to limited chemotoxicity. If we are able to
-identify a favorable microbiota composition, fecal microbiota transplantation
-might be the low-burden alternative to chemotherapy switch in the future.
-
-DOI: 10.1007/s00384-017-2819-3 
-PMCID: PMC5486633
-PMID: 28444508 
-
-
 84. Cell. 2017 Apr 20;169(3):442-456.e18. doi: 10.1016/j.cell.2017.03.040.
 
 Host-Microbe Co-metabolism Dictates Cancer Drug Efficacy in C. elegans.
