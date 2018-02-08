@@ -720,52 +720,6 @@ PMID: 28698865
 Conflict of interest statement: CONFLICTS OF INTEREST No potential conflicts of
 interest were disclosed.
 
-70. Curr Pharmacol Rep. 2017 Jun;3(3):114-125. doi: 10.1007/s40495-017-0088-z. Epub
-2017 Apr 7.
-
-Environmental influences in the etiology of colorectal cancer: the premise of
-metabolomics.
-
-Rattray NJW(1), Charkoftaki G(1), Rattray Z(2), Hansen JE(2)(3), Vasiliou V(1),
-Johnson CH(1).
-
-Author information: 
-(1)Department of Environmental Health Sciences, Yale School of Public Health,
-Yale University, New Haven, CT, USA, 06520.
-(2)Department of Therapeutic Radiology, Yale School of Medicine, New Haven, Yale 
-University, CT, USA 06520.
-(3)Yale Cancer Center, Yale School of Medicine, Yale University, New Haven, CT,
-USA 06520.
-
-PURPOSE OF REVIEW: In this review we discuss how environmental exposures
-predominate the etiology of colorectal cancer (CRC). With CRC being a
-personalized disease influenced by genes and environment, our goal was to explore
-the role metabolomics can play in identifying exposures, assessing the interplay 
-between co-exposures, and the development of personalized therapeutic
-interventions.
-RECENT FINDINGS: Approximately 10 % of CRC cases can be explained by germ-line
-mutations, whereas the prevailing majority are caused by an initiating exposure
-event occurring decades prior to diagnosis. Recent research has shown that
-dietary metabolites are linked to a procarcinogenic or protective environment in 
-the colon which is modulated by the microbiome. In addition, excessive alcohol
-has been shown to increase the risk of CRC and is dependent on diet (folate), the
-response of microbiome, and genetic polymorphisms within the folate and alcohol
-metabolic pathways. Metabolomics can not only be used to identify this modulation
-of host metabolism, which could affect the progression of the tumors but also
-response to targeted therapeutics.
-SUMMARY: This review highlights the current understanding of the multifaceted
-etiology and mechanisms of CRC development but also highlights where the field of
-metabolomics can contribute to a greater understanding of environmental exposure 
-in CRC.
-
-DOI: 10.1007/s40495-017-0088-z 
-PMCID: PMC5475285 [Available on 2018-06-01]
-PMID: 28642837 
-
-Conflict of interest statement: Disclosure There are no conflicts of interests
-within this article.
-
-
 71. Curr Pharm Des. 2017;23(25):3699-3712. doi: 10.2174/1381612823666170622095324.
 
 Trimethylamine N-oxide (TMAO) as a New Potential Therapeutic Target for Insulin
