@@ -862,25 +862,6 @@ Permissions, please email: journals.permissions@oup.com.
 DOI: 10.1093/carcin/bgx053 
 PMID: 28582482  [Indexed for MEDLINE]
 
-79. Gut. 2018 Feb;67(2):395. doi: 10.1136/gutjnl-2017-314219. Epub 2017 May 4.
-
-Tumour-associated and non-tumour-associated microbiota in colorectal cancer.
-
-Omar Al-Hassi H(1), Ng O(2), Brookes M(3).
-
-Author information: 
-(1)Research Institute in Healthcare Science, University of Wolverhampton,
-Wolverhampton, UK.
-(2)Nottingham Digestive Diseases Centre, University of Nottingham, Nottingham,
-UK.
-(3)Gastroenterology Unit, Royal Wolverhampton NHS Trust, Wolverhampton, UK.
-
-DOI: 10.1136/gutjnl-2017-314219 
-PMID: 28473629 
-
-Conflict of interest statement: Competing interests: None declared.
-
-
 80. Klin Onkol. 2017 Spring;30(Supplementum1):153-155.
 
 [Molecular Pathology of Colorectal Cancer, Microsatellite Instability - the
