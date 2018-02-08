@@ -862,62 +862,6 @@ Permissions, please email: journals.permissions@oup.com.
 DOI: 10.1093/carcin/bgx053 
 PMID: 28582482  [Indexed for MEDLINE]
 
-90. Nutrients. 2017 Apr 3;9(4). pii: E355. doi: 10.3390/nu9040355.
-
-Analysis of the Anti-Cancer Effects of Cincau Extract (Premna oblongifolia Merr) 
-and Other Types of Non-Digestible Fibre Using Faecal Fermentation Supernatants
-and Caco-2 Cells as a Model of the Human Colon.
-
-Nurdin SU(1)(2)(3), Le Leu RK(4)(5), Young GP(6), Stangoulis JC(7),
-Christophersen CT(8)(9), Abbott CA(10)(11).
-
-Author information: 
-(1)School of Biological Sciences, Flinders University, Adelaide, SA 5042,
-Australia. samsu.udayana@fp.unila.ac.id.
-(2)Department of Agricultural Product Technology, Lampung University, Bandar
-Lampung 35145, Indonesia. samsu.udayana@fp.unila.ac.id.
-(3)Flinders Centre for Innovation in Cancer, Adelaide, SA 5042, Australia.
-samsu.udayana@fp.unila.ac.id.
-(4)Flinders Centre for Innovation in Cancer, Adelaide, SA 5042, Australia.
-james.stangoulis@flinders.edu.au.
-(5)CSIRO Food and Nutrition, Adelaide, SA 5000, Australia.
-james.stangoulis@flinders.edu.au.
-(6)Flinders Centre for Innovation in Cancer, Adelaide, SA 5042, Australia.
-Richard.LeLeu@sa.gov.au.
-(7)School of Biological Sciences, Flinders University, Adelaide, SA 5042,
-Australia. graeme.young@flinders.edu.au.
-(8)CSIRO Food and Nutrition, Adelaide, SA 5000, Australia.
-c.christophersen@ecu.edu.au.
-(9)School of Medical and Health Sciences, Edith Cowan University, Joondalup, WA
-6027, Australia. c.christophersen@ecu.edu.au.
-(10)School of Biological Sciences, Flinders University, Adelaide, SA 5042,
-Australia. cathy.abbott@flinders.edu.au.
-(11)Flinders Centre for Innovation in Cancer, Adelaide, SA 5042, Australia.
-cathy.abbott@flinders.edu.au.
-
-Green cincau (Premna oblongifolia Merr) is an Indonesian food plant with a high
-dietary fibre content. Research has shown that dietary fibre mixtures may be more
-beneficial for colorectal cancer prevention than a single dietary fibre type. The
-aim of this study was to investigate the effects of green cincau extract on short
-chain fatty acid (SCFA) production in anaerobic batch cultures inoculated with
-human faecal slurries and to compare these to results obtained using different
-dietary fibre types (pectin, inulin, and cellulose), singly and in combination.
-Furthermore, fermentation supernatants (FSs) were evaluated in Caco-2 cells for
-their effect on cell viability, differentiation, and apoptosis. Cincau increased 
-total SCFA concentration by increasing acetate and propionate, but not butyrate
-concentration. FSs from all dietary fibre sources, including cincau, reduced
-Caco-2 cell viability. However, the effects of all FSs on cell viability, cell
-differentiation, and apoptosis were not simply explainable by their butyrate
-content. In conclusion, products of fermentation of cincau extracts induced cell 
-death, but further work is required to understand the mechanism of action. This
-study demonstrates for the first time that this Indonesian traditional source of 
-dietary fibre may be protective against colorectal cancer.
-
-DOI: 10.3390/nu9040355 
-PMCID: PMC5409694
-PMID: 28368356  [Indexed for MEDLINE]
-
-
 91. Expert Rev Proteomics. 2017 May;14(5):445-459. doi:
 10.1080/14789450.2017.1314786. Epub 2017 Apr 10.
 
