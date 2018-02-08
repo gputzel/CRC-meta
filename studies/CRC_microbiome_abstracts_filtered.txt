@@ -862,53 +862,6 @@ Permissions, please email: journals.permissions@oup.com.
 DOI: 10.1093/carcin/bgx053 
 PMID: 28582482  [Indexed for MEDLINE]
 
-
-94. J Biol Regul Homeost Agents. 2017 Jan-Mar;31(1):245-249.
-
-The fingerprint of the human gastrointestinal tract microbiota: a hypothesis of
-molecular mapping.
-
-Tomasello G(1)(2)(3), Mazzola M(4), Jurjus A(4), Cappello F(1)(3), Carini F(3),
-Damiani P(2), Gerges Geagea A(4), Zeenny MN(2)(4), Leone A(5).
-
-Author information: 
-(1)Euro-Mediterranean Institute of Science and Technology (IEMEST), Italy.
-(2)AOUP “P. Giaccone”, School of Medicine, University of Palermo, Italy.
-(3)Department of Experimental Biomedicine and Clinical Neurosciences, Section of 
-Human Anatomy, University of Palermo, Italy.
-(4)Department of Anatomy, Cell Biology and Physiology, American University of
-Beirut, Beirut, Lebanon.
-(5)Department of Experimental Biomedicine and Clinical Neurosciences, Section of 
-Histology, University of Palermo, Italy.
-
-The precise etiology of Inflammatory Bowel Disease (IDB) remains unclear and
-several factors are believed to play a role in its development and progression,
-including the composition of microbial communities resident in the
-gastrointestinal tract. Human intestinal microbiota are extensive with at least
-15,000-36,000 bacterial species. However, thanks to the new development in
-sequencing and molecular taxonomic methodologies, our understanding of the
-microbiota population composition, dynamics, and ecology has greatly increased.
-Intestinal microbiota play a critical role in the maintenance of the host
-intestinal barrier homeostasis, while dysbiosis, which involves reduction in the 
-microbiome diversity, can lead to progression of inflammatory disorders, such as 
-IBD and colorectal cancer. It is hypothesized that fingerprinting
-characterization of the microbiota community composition is the first step in the
-study of this complex bacterial ecosystem and a crucial step in the targeted
-therapy. Molecular fingerprinting of human gastrointestinal tract microbiota
-could be performed by different techniques including the semi quantitation,
-16SrRNA, the DNA- microarray as well as other relatively new methods which were
-developed to study many complex bacterial ecosystems. These techniques provide
-individual data and profiles, using fast and sensitive tools for the high
-taxonomic level fingerprint of the human intestinal microbiota and provide
-estimation of the relative presence of the microbial target groups within each
-individual. Such personalized information serves as a remarkable and
-unprecedented opportunity to improve targeted medical treatment and probably
-develop strategies to prevent disease.
-
-
-PMID: 28337900  [Indexed for MEDLINE]
-
-
 95. Internist (Berl). 2017 May;58(5):435-440. doi: 10.1007/s00108-017-0217-0.
 
 [Modulation of the intestinal microbiota by nutritional interventions].
