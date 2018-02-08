@@ -544,51 +544,6 @@ cancer groups, respectively.
 PMCID: PMC5609654
 PMID: 28904330 
 
-
-56. ISME J. 2017 Dec;11(12):2848-2863. doi: 10.1038/ismej.2017.139. Epub 2017 Aug 22.
-
-Large-scale comparative metagenomics of Blastocystis, a common member of the
-human gut microbiome.
-
-Beghini F(1), Pasolli E(1), Truong TD(1), Putignani L(2), Cacciò SM(3), Segata
-N(1).
-
-Author information: 
-(1)Centre for Integrative Biology, University of Trento, Trento, Italy.
-(2)Units of Parasitology and Human Microbiome, Bambino Gesù Children's Hospital
-and Research Institute, Rome, Italy.
-(3)Department of Infectious Diseases, Istituto Superiore di Sanità, Rome, Italy.
-
-The influence of unicellular eukaryotic microorganisms on human gut health and
-disease is still largely unexplored. Blastocystis spp. commonly colonize the gut,
-but its clinical significance and ecological role are currently unsettled. We
-have developed a high-sensitivity bioinformatic pipeline to detect Blastocystis
-subtypes (STs) from shotgun metagenomics, and applied it to 12 large data sets,
-comprising 1689 subjects of different geographic origin, disease status and
-lifestyle. We confirmed and extended previous observations on the high prevalence
-the microrganism in the population (14.9%), its non-random and ST-specific
-distribution, and its ability to cause persistent (asymptomatic) colonization.
-These findings, along with the higher prevalence observed in non-westernized
-individuals, the lack of positive association with any of the disease considered,
-and decreased presence in individuals with dysbiosis associated with colorectal
-cancer and Crohn's disease, strongly suggest that Blastocystis is a component of 
-the healthy gut microbiome. Further, we found an inverse association between body
-mass index and Blastocystis, and strong co-occurrence with archaeal organisms
-(Methanobrevibacter smithii) and several bacterial species. The association of
-specific microbial community structures with Blastocystis was confirmed by the
-high predictability (up to 0.91 area under the curve) of the microorganism
-colonization based on the species-level composition of the microbiome. Finally,
-we reconstructed and functionally profiled 43 new draft Blastocystis genomes and 
-discovered a higher intra subtype variability of ST1 and ST2 compared with ST3
-and ST4. Altogether, we provide an in-depth epidemiologic, ecological, and
-genomic analysis of Blastocystis, and show how metagenomics can be crucial to
-advance population genomics of human parasites.
-
-DOI: 10.1038/ismej.2017.139 
-PMCID: PMC5702742
-PMID: 28837129 
-
-
 57. Int J Cancer. 2017 Dec 15;141(12):2528-2536. doi: 10.1002/ijc.31011. Epub 2017
 Sep 6.
 
