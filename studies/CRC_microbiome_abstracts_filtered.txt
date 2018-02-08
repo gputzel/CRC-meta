@@ -311,61 +311,6 @@ DOI: 10.1038/s41522-017-0034-1
 PMCID: PMC5665930
 PMID: 29104759 
 
-37. Am J Physiol Gastrointest Liver Physiol. 2018 Jan 1;314(1):G22-G31. doi:
-10.1152/ajpgi.00229.2017. Epub 2017 Oct 12.
-
-Macrophage depletion using clodronate liposomes decreases tumorigenesis and
-alters gut microbiota in the AOM/DSS mouse model of colon cancer.
-
-Bader JE(1), Enos RT(1), Velázquez KT(1)(2), Carson MS(1), Nagarkatti M(1),
-Nagarkatti PS(1), Chatzistamou I(1), Davis JM(2), Carson JA(2)(3), Robinson
-CM(4), Murphy EA(1)(3).
-
-Author information: 
-(1)Department of Pathology, Microbiology, and Immunology, School of Medicine,
-University of South Carolina , Columbia, South Carolina.
-(2)Department of Exercise Science, School of Public Health, University of South
-Carolina , Columbia, South Carolina.
-(3)Center for Colon Cancer Research, University of South Carolina , Columbia,
-South Carolina.
-(4)Department of Microbiology, Immunology, and Cell Biology, School of Medicine, 
-West Virginia University , Morgantown, West Virginia.
-
-We examined the role of macrophages in inflammation associated with colorectal
-cancer (CRC). Given the emerging evidence on immune-microbiota interactions in
-CRC, we also sought to examine the interaction between macrophages and gut
-microbiota. To induce CRC, male C57BL/6 mice ( n = 32) received a single
-injection of azoxymethane (AOM), followed by three cycles of dextran sodium
-sulfate (DSS)-supplemented water in weeks 1, 4, and 7. Prior to the final DSS
-cycle ( week 7) and twice weekly until euthanasia, mice ( n = 16/group) received 
-either 200 μl ip of clodronate-filled liposomes (CLD) or phosphate-buffered
-saline (PBS) encapsulated liposomes to deplete macrophages. Colon tissue was
-analyzed for polyp burden, macrophage markers, transcription factors, and
-inflammatory mediators. Stool samples were collected, and DNA was isolated and
-subsequently sequenced for 16S rRNA. Clodronate liposomes decreased tumor number 
-by ∼36% and specifically large (≥1 mm) tumors by ∼36% ( P < 0.05). This was
-consistent with a decrease in gene expression of EMR1 in the colon tissue and
-polyp tissue as well as expression of select markers associated with M1 (IL-6)
-and M2 macrophages (IL-13, IL-10, TGFβ, CCL17) in the colon tissue ( P < 0.05).
-Similarly, there was a decrease in STAT3 and p38 MAPK and ERK signaling in colon 
-tissue. Clodronate liposomes increased the relative abundance of the Firmicutes
-phylum ( P < 0.05) and specifically Lactobacillaceae and Clostridiaceae families,
-which have been associated with reduced CRC risk. Overall, these data support the
-development of therapeutic strategies to target macrophages in CRC and provide
-support for further evaluation of immune-microbiota interactions in CRC. NEW &
-NOTEWORTHY We found that macrophage depletion during late-stage tumorigenesis is 
-effective at reducing tumor growth. This was associated with a decrease in
-macrophage markers and chemokines in the colon tissue and a decrease in
-transcription factors that are linked to colorectal cancer. The
-macrophage-depleted group was found to have an increased abundance of Firmicutes,
-a phylum with documented anti-tumorigenic effects. Overall, these data support
-the development of therapeutic strategies to target macrophages in colorectal
-cancer.
-
-DOI: 10.1152/ajpgi.00229.2017 
-PMID: 29025731 
-
-
 38. Histopathology. 2017 Oct 11. doi: 10.1111/his.13417. [Epub ahead of print]
 
 Partial to complete abrogation of the subepithelial macrophage barrier against
