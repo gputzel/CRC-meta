@@ -862,58 +862,6 @@ Permissions, please email: journals.permissions@oup.com.
 DOI: 10.1093/carcin/bgx053 
 PMID: 28582482  [Indexed for MEDLINE]
 
-87. Cancer Res. 2017 May 15;77(10):2620-2632. doi: 10.1158/0008-5472.CAN-16-3472.
-Epub 2017 Apr 17.
-
-Locoregional Effects of Microbiota in a Preclinical Model of Colon
-Carcinogenesis.
-
-Tomkovich S(1)(2), Yang Y(1), Winglee K(3), Gauthier J(1), Mühlbauer M(1), Sun
-X(1), Mohamadzadeh M(4), Liu X(5), Martin P(6)(7), Wang GP(8), Oswald E(6)(7),
-Fodor AA(3), Jobin C(9)(4).
-
-Author information: 
-(1)Department of Medicine, University of Florida, Gainesville, Florida.
-(2)Department of Microbiology and Immunology, University of North Carolina at
-Chapel Hill, Chapel Hill, North Carolina.
-(3)Department of Bioinformatics and Genomics, University of North Carolina at
-Charlotte, North Carolina.
-(4)Department of Infectious Diseases and Pathology, University of Florida,
-Gainesville, Florida.
-(5)Department of Pathology, Immunology, and Laboratory Medicine, University of
-Florida, Gainesville, Florida.
-(6)IRSD, Université de Toulouse, INSERM, INRA, ENVT, UPS, Toulouse, France.
-(7)CHU Toulouse, Service de Bactériologie-Hygiène, Toulouse, France.
-(8)Department of Medicine, Division of Infectious Diseases and Global Medicine,
-University of Florida, Gainesville, Florida.
-(9)Department of Medicine, University of Florida, Gainesville, Florida.
-Christian.Jobin@medicine.ufl.edu.
-
-Inflammation and microbiota are critical components of intestinal tumorigenesis. 
-To dissect how the microbiota contributes to tumor distribution, we generated
-germ-free (GF) ApcMin/+ and ApcMin/+ ;Il10-/- mice and exposed them to
-specific-pathogen-free (SPF) or colorectal cancer-associated bacteria. We found
-that colon tumorigenesis significantly correlated with inflammation in SPF-housed
-ApcMin/+ ;Il10-/- , but not in ApcMin/+ mice. In contrast, small intestinal
-neoplasia development significantly correlated with age in both ApcMin/+ ;Il10-/-
-and ApcMin/+ mice. GF ApcMin/+ ;Il10-/- mice conventionalized by an SPF
-microbiota had significantly more colon tumors compared with GF mice. Gnotobiotic
-studies revealed that while Fusobacterium nucleatum clinical isolates with FadA
-and Fap2 adhesins failed to induce inflammation and tumorigenesis,
-pks+Escherichia coli promoted tumorigenesis in the ApcMin/+ ;Il10-/- model in a
-colibactin-dependent manner, suggesting colibactin is a driver of carcinogenesis.
-Our results suggest a distinct etiology of cancers in different locations of the 
-gut, where colon cancer is primarily driven by inflammation and the microbiome,
-while age is a driving force for small intestine cancer. Cancer Res; 77(10);
-2620-32. ©2017 AACR.
-
-©2017 American Association for Cancer Research.
-
-DOI: 10.1158/0008-5472.CAN-16-3472 
-PMCID: PMC5468752 [Available on 2018-05-15]
-PMID: 28416491  [Indexed for MEDLINE]
-
-
 88. Eur J Nutr. 2017 Apr 9. doi: 10.1007/s00394-017-1393-3. [Epub ahead of print]
 
 Starch-enriched diet modulates the glucidic profile in the rat colonic mucosa.
