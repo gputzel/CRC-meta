@@ -763,45 +763,6 @@ new prevention and treatment strategies for this type of cancer.
 DOI: 10.1007/s10096-017-3026-4 
 PMID: 28600626 
 
-
-73. Cell Cycle. 2017 Jul 3;16(13):1243-1251. doi: 10.1080/15384101.2017.1317414. Epub
-2017 Jun 9.
-
-NLRC3 regulates cellular proliferation and apoptosis to attenuate the development
-of colorectal cancer.
-
-Karki R(1), Malireddi RKS(1), Zhu Q(1), Kanneganti TD(1).
-
-Author information: 
-(1)a Department of Immunology , St. Jude Children's Research Hospital , Memphis ,
-TN , USA.
-
-Nucleotide-binding domain, leucine-rich-repeat-containing proteins (NLRs) are
-intracellular innate immune sensors of pathogen-associated and damage-associated 
-molecular patterns. NLRs regulate diverse biologic processes such as inflammatory
-responses, cell proliferation and death, and gut microbiota to attenuate
-tumorigenesis. In a recent publication in Nature, we identified NLRC3 as a
-negative regulator of PI3K-mTOR signaling and characterized its potential tumor
-suppressor function. Enterocytes lacking NLRC3 cannot control cellular
-proliferation because they are unable to suppress activation of PI3K-mTOR
-signaling pathways. In this Extra-View, we explore possible mechanisms through
-which NLRC3 regulates cellular proliferation and cell death. Besides interacting 
-with PI3K, NLRC3 associates with TRAF6 and mTOR, confirming our recent finding
-that NLRC3 negatively regulates the PI3K-mTOR axis. Herein, we show that NLRC3
-suppresses c-Myc expression and activation of PI3K-AKT targets FoxO3a and FoxO1
-in the colon of Nlrc3-/- mice, suggesting that additional signaling pathways
-contribute to increased cellular proliferation. Moreover, NLRC3 suppresses
-colorectal tumorigenesis by promoting cellular apoptosis. Genes encoding
-intestinal stem cell markers BMI1 and OLFM4 are upregulated in the colon of
-Nlrc3-/- mice. Herein, we discuss recent findings and explore mechanisms through 
-which NLRC3 regulates PI3K-mTOR signaling. Our studies highlight the therapeutic 
-potential of modulating NLRC3 to prevent and treat cancer.
-
-DOI: 10.1080/15384101.2017.1317414 
-PMCID: PMC5531621 [Available on 2018-06-09]
-PMID: 28598238 
-
-
 74. Virchows Arch. 2017 Jun 8. doi: 10.1007/s00428-017-2171-6. [Epub ahead of print]
 
 Intratumoral Fusobacterium nucleatum abundance correlates with macrophage
