@@ -363,57 +363,6 @@ otherwise expressly granted.
 DOI: 10.1136/gutjnl-2017-314814 
 PMID: 28988196 
 
-
-40. Front Microbiol. 2017 Sep 21;8:1809. doi: 10.3389/fmicb.2017.01809. eCollection
-2017.
-
-Dietary Heme Induces Gut Dysbiosis, Aggravates Colitis, and Potentiates the
-Development of Adenomas in Mice.
-
-Constante M(1)(2), Fragoso G(2), Calvé A(2), Samba-Mondonga M(2), Santos
-MM(1)(2).
-
-Author information: 
-(1)Département de Médecine, Université de Montréal, MontréalQC, Canada.
-(2)Nutrition and Microbiome Laboratory, Institut du Cancer de Montréal, Centre de
-Recherche du Centre Hospitalier de l'Université de Montréal, MontréalQC, Canada.
-
-Dietary heme can be used by colonic bacteria equipped with heme-uptake systems as
-a growth factor and thereby impact on the microbial community structure. The
-impact of heme on the gut microbiota composition may be particularly pertinent in
-chronic inflammation such as in inflammatory bowel disease (IBD), where a strong 
-association with gut dysbiosis has been consistently reported. In this study we
-investigated the influence of dietary heme on the gut microbiota and inferred
-metagenomic composition, and on chemically induced colitis and colitis-associated
-adenoma development in mice. Using 16S rRNA gene sequencing, we found that mice
-fed a diet supplemented with heme significantly altered their microbiota
-composition, characterized by a decrease in α-diversity, a reduction of
-Firmicutes and an increase of Proteobacteria, particularly Enterobacteriaceae.
-These changes were similar to shifts seen in dextran sodium sulfate (DSS)-treated
-mice to induce colitis. In addition, dietary heme, but not systemically delivered
-heme, contributed to the exacerbation of DSS-induced colitis and facilitated
-adenoma formation in the azoxymethane/DSS colorectal cancer (CRC) mouse model.
-Using inferred metagenomics, we found that the microbiota alterations elicited by
-dietary heme resulted in non-beneficial functional shifts, which were also
-characteristic of DSS-induced colitis. Furthermore, a reduction in fecal butyrate
-levels was found in mice fed the heme supplemented diet compared to mice fed the 
-control diet. Iron metabolism genes known to contribute to heme release from red 
-blood cells, heme uptake, and heme exporter proteins, were significantly
-enriched, indicating a shift toward favoring the growth of bacteria able to
-uptake heme and protect against its toxicity. In conclusion, our data suggest
-that luminal heme, originating from dietary components or gastrointestinal
-bleeding in IBD and, to lesser extent in CRC, directly contributes to microbiota 
-dysbiosis. Thus, luminal heme levels may further exacerbate colitis through the
-modulation of the gut microbiota and its metagenomic functional composition. Our 
-data may have implications in the development of novel targets for therapeutic
-approaches aimed at lowering gastrointestinal heme levels through heme chelation 
-or degradation using probiotics and nutritional interventions.
-
-DOI: 10.3389/fmicb.2017.01809 
-PMCID: PMC5613120
-PMID: 28983289 
-
-
 41. Sci Rep. 2017 Oct 2;7(1):12552. doi: 10.1038/s41598-017-12644-5.
 
 Ginsenosides Rb3 and Rd reduce polyps formation while reinstate the dysbiotic gut
