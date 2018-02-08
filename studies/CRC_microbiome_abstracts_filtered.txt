@@ -959,45 +959,6 @@ PMID: 28153960  [Indexed for MEDLINE]
 
 Conflict of interest statement: Competing interests: None declared.
 
-
-1. Acta Med Indones. 2016 Oct;48(4):289-299.
-
-Microbiota Composition, HSP70 and Caspase-3 Expression as Marker for Colorectal
-Cancer Patients in Aceh, Indonesia.
-
-Yusuf F(1), Ilyas S, Damanik HA, Fatchiyah F.
-
-Author information: 
-(1)Department of Internal Medicine, Faculty of Medicine, Syiah Kuala University -
-Zainoel Abidin Hospital, Banda Aceh, Indonesia. fozi_ysf63@yahoo.co.id.
-
-AIM: to investigate the relationship between microbiota composition with HSP70
-and Caspase-3 expressions in colon tissue as an initial study to develop the
-candidate for early detection of colorectal cancer for Indonesian patients.
-METHODS: this is a cross-sectional study on 32 patients undergoing colonoscopy;
-16 patients of colorectal cancer (CRC) while the other 16 patients are not
-(colitis and internal hemorrhoid). The composition of microbiota in stool samples
-was examined using 16S rRNA Denaturing Gradient Gel Electrophoresis (DDGE) while 
-expression of HSP70 was examined by immunohistochemistry and Caspase-3 by using
-Haematoxylin-Eosin(HE) staining to determine the morphological changes in colon
-tissue.
-RESULTS: analysis of PCR-DDGE shows a different composition of microbiota between
-patients with CRC and non-CRC. All CRC patients showed disappearance of dominant 
-band from Bifidobacterium groups. Histological observation based on Inter Class
-Correlation (ICC) test from all slide showed a high scores (5.2-9.2) in CRC
-patients and low scores (1.7-2.4) in non-CRC patients. HSP70 expression was
-increased significantly in CRC patients with the highest percentage of 84%, while
-expression of caspase-3 decreased with the highest percentage of 21%. Statistical
-analysis showed that the incidence of colorectal cancer was associated with the
-expression of HSP 70 (p<0.001), and Caspase 3 (p<0.001).
-CONCLUSION: bifidobacterium is an important indicator for colorectal cancer
-patients that show disappearance of dominant band, while expression of HSP70
-increased and the Caspase-3 expression decreased significantly.
-
-
-PMID: 28143990  [Indexed for MEDLINE]
-
-
 2. Gastroenterology. 2017 May;152(6):1419-1433.e5. doi:
 10.1053/j.gastro.2017.01.009. Epub 2017 Jan 23.
 
