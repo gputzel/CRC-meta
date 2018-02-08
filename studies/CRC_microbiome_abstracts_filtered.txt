@@ -592,56 +592,6 @@ DOI: 10.1038/s41598-017-08150-3
 PMCID: PMC5566496
 PMID: 28827587 
 
-62. Sci Rep. 2017 Aug 7;7(1):7458. doi: 10.1038/s41598-017-07992-1.
-
-Short-term treatment with eicosapentaenoic acid improves inflammation and affects
-colonic differentiation markers and microbiota in patients with ulcerative
-colitis.
-
-Prossomariti A(1)(2), Scaioli E(1), Piazzi G(2), Fazio C(1)(2), Bellanova M(1),
-Biagi E(3), Candela M(3), Brigidi P(3), Consolandi C(4), Balbi T(5), Chieco P(2),
-Munarini A(1)(2), Pariali M(2), Minguzzi M(1)(2), Bazzoli F(1), Belluzzi A(6),
-Ricciardiello L(7).
-
-Author information: 
-(1)Department of Medical and Surgical Sciences, University of Bologna, Bologna,
-Italy.
-(2)Center for Applied Biomedical Research (CRBA), S.Orsola-Malpighi Hospital,
-University of Bologna, Bologna, Italy.
-(3)Department of Pharmacy and Biotechnology, University of Bologna, Bologna,
-Italy.
-(4)Institute of Biomedical Technologies-National Research Council (ITB-CNR),
-Segrate, Milan, Italy.
-(5)Pathology Unit, S. Orsola-Malpighi Hospital, Bologna, Italy.
-(6)Gastroenterology Unit, S. Orsola-Malpighi Hospital, Bologna, Italy.
-(7)Department of Medical and Surgical Sciences, University of Bologna, Bologna,
-Italy. luigi.ricciardiello@unibo.it.
-
-Patients with long-standing ulcerative colitis (UC) have an increased colorectal 
-cancer (CRC) risk. In this pilot study we evaluated the effect of
-Eicosapentaenoic acid as free fatty acid (EPA-FFA) supplementation on mucosal
-disease activity, colonic differentiation markers and microbiota composition in
-UC patients. Twenty long-standing UC patients in stable clinical remission and
-with fecal calprotectin (FC) > 150 µg/g were enrolled (T0) and supplemented with 
-EPA-FFA 2 g/daily for 90 days (T3). Endoscopic and histologic disease activities 
-were measured by Mayo and Geboes scores, respectively. HES1, KLF4, STAT3, IL-10
-and SOCS3 levels were determined using western blotting and qRT-PCR, while
-phospho-STAT3 levels were assessed by western blotting. Goblet cells were stained
-by Alcian blue. Microbiota analyses were performed on both fecal and colonic
-samples. Nineteen patients completed the study; seventeen (89.5%) were compliant.
-EPA-FFA treatment reduced FC levels at T3. Patients with FC > 150 µg/g at T3
-(n = 2) were assumed as non-responders. EPA-FFA improved endoscopic and
-histological inflammation and induced IL-10, SOCS3, HES1 and KLF4 in compliant
-and responder patients. Importantly, long-term UC-driven microbiota composition
-was partially redressed by EPA-FFA. In conclusion, EPA-FFA supplementation
-reduced mucosal inflammation, promoted goblet cells differentiation and modulated
-intestinal microbiota composition in long-standing UC patients.
-
-DOI: 10.1038/s41598-017-07992-1 
-PMCID: PMC5547132
-PMID: 28785079 
-
-
 63. Cell. 2017 Jul 27;170(3):548-563.e16. doi: 10.1016/j.cell.2017.07.008.
 
 Fusobacterium nucleatum Promotes Chemoresistance to Colorectal Cancer by
