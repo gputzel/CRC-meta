@@ -1005,60 +1005,6 @@ DOI: 10.5430/jer.v2n2p92
 PMCID: PMC5241083
 PMID: 28111632 
 
-6. Cancer Epidemiol Biomarkers Prev. 2017 Jun;26(6):945-952. doi:
-10.1158/1055-9965.EPI-16-0948. Epub 2017 Jan 11.
-
-Serum Trimethylamine N-oxide, Carnitine, Choline, and Betaine in Relation to
-Colorectal Cancer Risk in the Alpha Tocopherol, Beta Carotene Cancer Prevention
-Study.
-
-Guertin KA(1)(2), Li XS(3), Graubard BI(4), Albanes D(4), Weinstein SJ(4),
-Goedert JJ(4), Wang Z(3), Hazen SL(3)(5), Sinha R(4).
-
-Author information: 
-(1)Division of Cancer Epidemiology and Genetics, National Cancer Institute, NIH, 
-Bethesda, Maryland. kguertin@virginia.edu.
-(2)Department of Public Health Sciences, University of Virginia School of
-Medicine, Charlottesville, Virginia.
-(3)Department of Cellular & Molecular Medicine, Lerner Research Institute,
-Cleveland Clinic, Cleveland, Ohio.
-(4)Division of Cancer Epidemiology and Genetics, National Cancer Institute, NIH, 
-Bethesda, Maryland.
-(5)Department of Cardiovascular Medicine, Heart and Vascular Institute, Cleveland
-Clinic, Cleveland, Ohio.
-
-Background: Trimethylamine N-oxide (TMAO), a choline-derived metabolite produced 
-by gut microbiota, and its biomarker precursors have not been adequately
-evaluated in relation to colorectal cancer risk.Methods: We investigated the
-relationship between serum concentrations of TMAO and its biomarker precursors
-(choline, carnitine, and betaine) and incident colorectal cancer risk in a nested
-case-control study of male smokers in the Alpha-Tocopherol, Beta-Carotene Cancer 
-Prevention (ATBC) Study. We measured biomarker concentrations in baseline fasting
-serum samples from 644 incident colorectal cancer cases and 644 controls using
-LC/MS-MS. Logistic regression models estimated the ORs and 95% confidence
-interval (CI) for colorectal cancer by quartile (Q) of serum TMAO, choline,
-carnitine, and betaine concentrations.Results: Men with higher serum choline at
-ATBC baseline had approximately 3-fold greater risk of developing colorectal
-cancer over the ensuing (median ± IQR) 14 ± 10 years (in fully adjusted models,
-Q4 vs. Q1, OR, 3.22; 95% CI, 2.24-4.61; Ptrend < 0.0001). The prognostic value of
-serum choline for prediction of incident colorectal cancer was similarly robust
-for proximal, distal, and rectal colon cancers (all P < 0.0001). The association 
-between serum TMAO, carnitine, or betaine and colorectal cancer risk was not
-statistically significant (P = 0.25, 0.71, and 0.61, respectively).Conclusions:
-Higher serum choline concentration (but not TMAO, carnitine, or betaine) was
-associated with increased risk of colorectal cancer.Impact: Serum choline levels 
-showed strong prognostic value for prediction of incident colorectal cancer risk 
-across all anatomical subsites, suggesting a role of altered choline metabolism
-in colorectal cancer pathogenesis. Cancer Epidemiol Biomarkers Prev; 26(6);
-945-52. ©2017 AACR.
-
-©2017 American Association for Cancer Research.
-
-DOI: 10.1158/1055-9965.EPI-16-0948 
-PMCID: PMC5608021 [Available on 2018-06-01]
-PMID: 28077427 
-
-
 7. Oncotarget. 2017 Feb 7;8(6):9546-9556. doi: 10.18632/oncotarget.14488.
 
 Systematic evaluation of supervised classifiers for fecal microbiota-based
