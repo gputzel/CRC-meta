@@ -414,59 +414,6 @@ DOI: 10.1136/bmjgast-2017-000145
 PMCID: PMC5609083
 PMID: 28944067 
 
-50. Am J Pathol. 2017 Oct;187(10):2323-2336. doi: 10.1016/j.ajpath.2017.06.011. Epub 
-2017 Sep 13.
-
-Gut Microbe-Mediated Suppression of Inflammation-Associated Colon Carcinogenesis 
-by Luminal Histamine Production.
-
-Gao C(1), Ganesh BP(1), Shi Z(1), Shah RR(2), Fultz R(3), Major A(4), Venable
-S(1), Lugo M(1), Hoch K(4), Chen X(5), Haag A(1), Wang TC(5), Versalovic J(6).
-
-Author information: 
-(1)Department of Pathology and Immunology, Baylor College of Medicine, Houston,
-Texas; Department of Pathology, Texas Children's Hospital, Houston, Texas.
-(2)Section of Gastroenterology and Hepatology, Department of Medicine, Baylor
-College of Medicine, Houston, Texas.
-(3)Department of Pathology, Texas Children's Hospital, Houston, Texas; Graduate
-Program in Integrative Molecular and Biomedical Sciences, Baylor College of
-Medicine, Houston, Texas.
-(4)Department of Pathology, Texas Children's Hospital, Houston, Texas.
-(5)Division of Digestive and Liver Diseases, Department of Medicine and Irving
-Cancer Center, Columbia University, New York, New York.
-(6)Department of Pathology and Immunology, Baylor College of Medicine, Houston,
-Texas; Department of Pathology, Texas Children's Hospital, Houston, Texas.
-Electronic address: jamesv@bcm.edu.
-
-Microbiome-mediated suppression of carcinogenesis may open new avenues for
-identification of therapeutic targets and prevention strategies in oncology.
-Histidine decarboxylase (HDC) deficiency has been shown to promote
-inflammation-associated colorectal cancer by accumulation of CD11b+Gr-1+ immature
-myeloid cells, indicating a potential antitumorigenic effect of histamine. Here, 
-we demonstrate that administration of hdc+Lactobacillus reuteri in the gut
-resulted in luminal hdc gene expression and histamine production in the
-intestines of Hdc-/- mice. This histamine-producing probiotic decreased the
-number and size of colon tumors and colonic uptake of [18F]-fluorodeoxyglucose by
-positron emission tomography in Hdc-/- mice. Administration of L. reuteri
-suppressed keratinocyte chemoattractant (KC), Il22, Il6, Tnf, and IL1α gene
-expression in the colonic mucosa and reduced the amounts of proinflammatory,
-cancer-associated cytokines, keratinocyte chemoattractant, IL-22, and IL-6, in
-plasma. Histamine-generating L. reuteri also decreased the relative numbers of
-splenic CD11b+Gr-1+ immature myeloid cells. Furthermore, an isogenic
-HDC-deficient L. reuteri mutant that was unable to generate histamine did not
-suppress carcinogenesis, indicating a significant role of the cometabolite,
-histamine, in suppression of chronic intestinal inflammation and colorectal
-tumorigenesis. These findings link luminal conversion of amino acids to biogenic 
-amines by gut microbes and probiotic-mediated suppression of colorectal
-neoplasia.
-
-Copyright © 2017 American Society for Investigative Pathology. Published by
-Elsevier Inc. All rights reserved.
-
-DOI: 10.1016/j.ajpath.2017.06.011 
-PMID: 28917668  [Indexed for MEDLINE]
-
-
 51. Gut Microbes. 2017 Sep 15:1-12. doi: 10.1080/19490976.2017.1379637. [Epub ahead
 of print]
 
