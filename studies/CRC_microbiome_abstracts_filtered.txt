@@ -672,36 +672,6 @@ PMCID: PMC5767127
 PMID: 28753429  [Indexed for MEDLINE]
 
 
-64. Cell. 2017 Jul 27;170(3):411-413. doi: 10.1016/j.cell.2017.07.018.
-
-Drugs, Bugs, and Cancer: Fusobacterium nucleatum Promotes Chemoresistance in
-Colorectal Cancer.
-
-Ramos A(1), Hemann MT(2).
-
-Author information: 
-(1)Koch Institute for Integrative Cancer Research, Massachusetts Institute of
-Technology, Cambridge, MA, USA; Department of Biology, Massachusetts Institute of
-Technology, Cambridge, MA, USA.
-(2)Koch Institute for Integrative Cancer Research, Massachusetts Institute of
-Technology, Cambridge, MA, USA; Department of Biology, Massachusetts Institute of
-Technology, Cambridge, MA, USA. Electronic address: hemann@mit.edu.
-
-Comment on
-    Cell. 2017 Jul 27;170(3):548-563.e16.
-
-The tumor microenvironment has recently been shown to play decisive roles in
-chemotherapeutic response. In this issue of Cell, Yu et al. add to these findings
-by identifying the bacterium Fusobacterium nucleatum as a previously unrecognized
-chemoresistance mediator in colorectal cancer, thereby establishing the
-microbiota as a potential therapeutic target.
-
-Copyright © 2017. Published by Elsevier Inc.
-
-DOI: 10.1016/j.cell.2017.07.018 
-PMID: 28753421  [Indexed for MEDLINE]
-
-
 65. Nutr Cancer. 2017 Aug-Sep;69(6):943-951. doi: 10.1080/01635581.2017.1340491. Epub
 2017 Jul 18.
 
