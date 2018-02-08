@@ -363,48 +363,6 @@ otherwise expressly granted.
 DOI: 10.1136/gutjnl-2017-314814 
 PMID: 28988196 
 
-41. Sci Rep. 2017 Oct 2;7(1):12552. doi: 10.1038/s41598-017-12644-5.
-
-Ginsenosides Rb3 and Rd reduce polyps formation while reinstate the dysbiotic gut
-microbiota and the intestinal microenvironment in ApcMin/+ mice.
-
-Huang G(1), Khan I(1), Li X(1), Chen L(2), Leong W(1), Ho LT(3), Hsiao WLW(4).
-
-Author information: 
-(1)State Key Laboratory of Quality Research in Chinese Medicine, Macau University
-of Science and Technology, Macau, China.
-(2)Department of Genetics, Rutgers University, New Brunswick, USA.
-(3)Department of Pathology, University Hospital, Macau University of Science and 
-Technology, Macau, China.
-(4)State Key Laboratory of Quality Research in Chinese Medicine, Macau University
-of Science and Technology, Macau, China. wlhsiao@mus.edu.mo.
-
-Studies showed that manipulation of gut microbiota (GM) composition through the
-treatment of prebiotics could be a novel preventive measure against colorectal
-cancer (CRC) development. In this study, for the first time, we assessed the
-non-toxic doses of the triterpene saponins (ginsenoside-Rb3 and ginsenoside-Rd) -
-as prebiotics - that effectively reinstated the dysbiotic-gut microbial
-composition and intestinal microenvironment in an ApcMin/+ mice model. Rb3 and Rd
-effectively reduced the size and the number of the polyps that accompanied with
-the downregulation of oncogenic signaling molecules (iNOS, STAT3/pSTAT3,
-Src/pSrc). Both the compounds improved the gut epithelium by promoting goblet and
-Paneth cells population and reinstating the E-cadherin and N-Cadherin expression.
-Mucosal immunity remodeled with increased in anti-inflammatory cytokines and
-reduced in pro-inflammatory cytokines in treated mice. All these changes were
-correlating with the promoted growth of beneficial bacteria such as
-Bifidobacterium spp., Lactobacillus spp., Bacteroides acidifaciens, and
-Bacteroides xylanisolvens. Whereas, the abundance of cancer cachexia associated
-bacteria, such as Dysgonomonas spp. and Helicobacter spp., was profoundly lower
-in Rb3/Rd-treated mice. In conclusion, ginsenosides Rb3 and Rd exerted
-anti-cancer effects by holistically reinstating mucosal architecture, improving
-mucosal immunity, promoting beneficial bacteria, and down-regulating
-cancer-cachexia associated bacteria.
-
-DOI: 10.1038/s41598-017-12644-5 
-PMCID: PMC5624945
-PMID: 28970547 
-
-
 42. Microb Ecol Health Dis. 2017 Jan 1;28(1):1352433. doi:
 10.1080/16512235.2017.1352433. eCollection 2017.
 
