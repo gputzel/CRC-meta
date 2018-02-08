@@ -862,59 +862,6 @@ Permissions, please email: journals.permissions@oup.com.
 DOI: 10.1093/carcin/bgx053 
 PMID: 28582482  [Indexed for MEDLINE]
 
-77. Cell Rep. 2017 May 9;19(6):1268-1280. doi: 10.1016/j.celrep.2017.04.045.
-
-Molecular-Subtype-Specific Biomarkers Improve Prediction of Prognosis in
-Colorectal Cancer.
-
-Bramsen JB(1), Rasmussen MH(2), Ongen H(3), Mattesen TB(2), Ørntoft MW(2),
-Árnadóttir SS(2), Sandoval J(4), Laguna T(4), Vang S(2), Øster B(2), Lamy P(2),
-Madsen MR(5), Laurberg S(6), Esteller M(7), Dermitzakis ET(3), Ørntoft TF(2),
-Andersen CL(8).
-
-Author information: 
-(1)Department of Molecular Medicine, Aarhus University Hospital, Aarhus 8200,
-Denmark. Electronic address: bramsen@clin.au.dk.
-(2)Department of Molecular Medicine, Aarhus University Hospital, Aarhus 8200,
-Denmark.
-(3)Department of Genetic Medicine and Development, University of Geneva Medical
-School, Geneva 1211, Switzerland; Institute for Genetics and Genomics in Geneva
-(iGE3), University of Geneva, Geneva 1211, Switzerland; Swiss Institute of
-Bioinformatics, Geneva 1211, Switzerland.
-(4)Cancer Epigenetics and Biology Program, Bellvitge Biomedical Research
-Institute (IDIBELL), L'Hospitalet, Barcelona 08908, Catalonia, Spain.
-(5)Department of Surgery, Hospitalsenheden Vest, Herning 7400, Denmark.
-(6)Section of Coloproctology, Aarhus University Hospital, Aarhus 8000, Denmark.
-(7)Cancer Epigenetics and Biology Program, Bellvitge Biomedical Research
-Institute (IDIBELL), L'Hospitalet, Barcelona 08908, Catalonia, Spain;
-Physiological Sciences Department, School of Medicine and Health Sciences,
-University of Barcelona, Barcelona 08907, Catalonia, Spain; Institucio Catalana
-de Recerca i Estudis Avancats (ICREA), Barcelona 08010, Catalonia, Spain.
-(8)Department of Molecular Medicine, Aarhus University Hospital, Aarhus 8200,
-Denmark. Electronic address: cla@clin.au.dk.
-
-Colorectal cancer (CRC) is characterized by major inter-tumor diversity that
-complicates the prediction of disease and treatment outcomes. Recent efforts help
-resolve this by sub-classification of CRC into natural molecular subtypes;
-however, this strategy is not yet able to provide clinicians with improved tools 
-for decision making. We here present an extended framework for CRC stratification
-that specifically aims to improve patient prognostication. Using transcriptional 
-profiles from 1,100 CRCs, including >300 previously unpublished samples, we
-identify cancer cell and tumor archetypes and suggest the tumor microenvironment 
-as a major prognostic determinant that can be influenced by the microbiome.
-Notably, our subtyping strategy allowed identification of archetype-specific
-prognostic biomarkers that provided information beyond and independent of
-UICC-TNM staging, MSI status, and consensus molecular subtyping. The results
-illustrate that our extended subtyping framework, combining subtyping and
-subtype-specific biomarkers, could contribute to improved patient prognostication
-and may form a strong basis for future studies.
-
-Copyright © 2017 The Author(s). Published by Elsevier Inc. All rights reserved.
-
-DOI: 10.1016/j.celrep.2017.04.045 
-PMID: 28494874 
-
-
 78. Nutr Res. 2017 May;41:36-46. doi: 10.1016/j.nutres.2017.04.001. Epub 2017 Apr 18.
 
 Secretion metabolites of probiotic yeast, Pichia kudriavzevii AS-12, induces
