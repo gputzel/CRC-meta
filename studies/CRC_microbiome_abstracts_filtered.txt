@@ -862,56 +862,6 @@ Permissions, please email: journals.permissions@oup.com.
 DOI: 10.1093/carcin/bgx053 
 PMID: 28582482  [Indexed for MEDLINE]
 
-84. Cell. 2017 Apr 20;169(3):442-456.e18. doi: 10.1016/j.cell.2017.03.040.
-
-Host-Microbe Co-metabolism Dictates Cancer Drug Efficacy in C. elegans.
-
-Scott TA(1), Quintaneiro LM(2), Norvaisas P(3), Lui PP(1), Wilson MP(4), Leung
-KY(4), Herrera-Dominguez L(5), Sudiwala S(4), Pessia A(6), Clayton PT(4), Bryson 
-K(7), Velagapudi V(6), Mills PB(4), Typas A(5), Greene NDE(4), Cabreiro F(8).
-
-Author information: 
-(1)Institute of Structural and Molecular Biology, University College London and
-Birkbeck, London WC1E 6BT, UK.
-(2)Institute of Structural and Molecular Biology, University College London and
-Birkbeck, London WC1E 6BT, UK; UCL Great Ormond Street Institute of Child Health,
-University College London, London WC1N 1EH, UK.
-(3)Institute of Structural and Molecular Biology, University College London and
-Birkbeck, London WC1E 6BT, UK; Department of Computer Science, University College
-London, London WC1E 6BT, UK.
-(4)UCL Great Ormond Street Institute of Child Health, University College London, 
-London WC1N 1EH, UK.
-(5)European Molecular Biology Laboratory (EMBL) Heidelberg, Genome Biology,
-Meyerhofstraße 1, 69117 Heidelberg, Germany.
-(6)Metabolomics Unit, Institute for Molecular Medicine Finland, University of
-Helsinki, 00290 Helsinki, Finland.
-(7)Department of Computer Science, University College London, London WC1E 6BT,
-UK.
-(8)Institute of Structural and Molecular Biology, University College London and
-Birkbeck, London WC1E 6BT, UK. Electronic address: f.cabreiro@ucl.ac.uk.
-
-Fluoropyrimidines are the first-line treatment for colorectal cancer, but their
-efficacy is highly variable between patients. We queried whether gut microbes, a 
-known source of inter-individual variability, impacted drug efficacy. Combining
-two tractable genetic models, the bacterium E. coli and the nematode C. elegans, 
-we performed three-way high-throughput screens that unraveled the complexity
-underlying host-microbe-drug interactions. We report that microbes can bolster or
-suppress the effects of fluoropyrimidines through metabolic drug interconversion 
-involving bacterial vitamin B6, B9, and ribonucleotide metabolism. Also,
-disturbances in bacterial deoxynucleotide pools amplify 5-FU-induced autophagy
-and cell death in host cells, an effect regulated by the nucleoside diphosphate
-kinase ndk-1. Our data suggest a two-way bacterial mediation of fluoropyrimidine 
-effects on host metabolism, which contributes to drug efficacy. These findings
-highlight the potential therapeutic power of manipulating intestinal microbiota
-to ensure host metabolic health and treat disease.
-
-Copyright © 2017 The Author(s). Published by Elsevier Inc. All rights reserved.
-
-DOI: 10.1016/j.cell.2017.03.040 
-PMCID: PMC5406385
-PMID: 28431245  [Indexed for MEDLINE]
-
-
 85. Cancer Res. 2017 May 1;77(9):2424-2438. doi: 10.1158/0008-5472.CAN-15-1726. Epub 
 2017 Feb 20.
 
