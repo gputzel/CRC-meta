@@ -363,68 +363,6 @@ otherwise expressly granted.
 DOI: 10.1136/gutjnl-2017-314814 
 PMID: 28988196 
 
-46. Gut. 2017 Sep 26. pii: gutjnl-2017-314968. doi: 10.1136/gutjnl-2017-314968. [Epub
-ahead of print]
-
-A randomised trial of the effect of omega-3 polyunsaturated fatty acid
-supplements on the human intestinal microbiota.
-
-Watson H(1), Mitra S(2), Croden FC(3), Taylor M(4), Wood HM(4), Perry SL(1),
-Spencer JA(5), Quirke P(4), Toogood GJ(6), Lawton CL(3), Dye L(3), Loadman PM(5),
-Hull MA(1).
-
-Author information: 
-(1)Institute of Biomedical and Clinical Sciences, St James's University Hospital,
-University of Leeds, Leeds, UK.
-(2)Institute of Biomedical and Clinical Sciences, Leeds General Infirmary,
-University of Leeds, Leeds, UK.
-(3)Human Appetite Research Unit (Nutrition and Behaviour Research Group), School 
-of Psychology, University of Leeds, Leeds, UK.
-(4)Institute of Cancer and Pathology, St James's University Hospital, University 
-of Leeds, Leeds, UK.
-(5)Institute of Cancer Therapeutics, University of Bradford, Bradford, UK.
-(6)Department of Hepatobiliary Surgery, St James's University Hospital, Leeds,
-UK.
-
-OBJECTIVE: Omega-3 polyunsaturated fatty acids (PUFAs) have anticolorectal cancer
-(CRC) activity. The intestinal microbiota has been implicated in colorectal
-carcinogenesis. Dietary omega-3 PUFAs alter the mouse intestinal microbiome
-compatible with antineoplastic activity. Therefore, we investigated the effect of
-omega-3 PUFA supplements on the faecal microbiome in middle-aged, healthy
-volunteers (n=22).
-DESIGN: A randomised, open-label, cross-over trial of 8 weeks' treatment with 4 g
-mixed eicosapentaenoic acid/docosahexaenoic acid in two formulations (soft-gel
-capsules and Smartfish drinks), separated by a 12-week 'washout' period. Faecal
-samples were collected at five time-points for microbiome analysis by 16S
-ribosomal RNA PCR and Illumina MiSeq sequencing. Red blood cell (RBC) fatty acid 
-analysis was performed by liquid chromatography tandem mass spectrometry.
-RESULTS: Both omega-3 PUFA formulations induced similar changes in RBC fatty acid
-content, except that drinks were associated with a larger, and more prolonged,
-decrease in omega-6 PUFA arachidonic acid than the capsule intervention (p=0.02).
-There were no significant changes in α or β diversity, or phyla composition,
-associated with omega-3 PUFA supplementation. However, a reversible increased
-abundance of several genera, including Bifidobacterium, Roseburia and
-Lactobacillus was observed with one or both omega-3 PUFA interventions.
-Microbiome changes did not correlate with RBC omega-3 PUFA incorporation or
-development of omega-3 PUFA-induced diarrhoea. There were no treatment order
-effects.
-CONCLUSION: Omega-3 PUFA supplementation induces a reversible increase in several
-short-chain fatty acid-producing bacteria, independently of the method of
-administration. There is no simple relationship between the intestinal microbiome
-and systemic omega-3 PUFA exposure.
-TRIAL REGISTRATION NUMBER: ISRCTN18662143.
-
-© Article author(s) (or their employer(s) unless otherwise stated in the text of 
-the article) 2017. All rights reserved. No commercial use is permitted unless
-otherwise expressly granted.
-
-DOI: 10.1136/gutjnl-2017-314968 
-PMID: 28951525 
-
-Conflict of interest statement: Competing interests: MH acts as a consultant
-advisor for Thetis Pharmaceuticals.
-
-
 47. J Am Chem Soc. 2017 Oct 25;139(42):14817-14824. doi: 10.1021/jacs.7b07807. Epub
 2017 Oct 12.
 
