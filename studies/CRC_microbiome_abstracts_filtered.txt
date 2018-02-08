@@ -1005,45 +1005,6 @@ DOI: 10.5430/jer.v2n2p92
 PMCID: PMC5241083
 PMID: 28111632 
 
-
-5. Genes Dis. 2016 Jun;3(2):130-143. doi: 10.1016/j.gendis.2016.03.004. Epub 2016
-Apr 13.
-
-Gut microbiota, inflammation and colorectal cancer.
-
-Sun J(1), Kato I(2).
-
-Author information: 
-(1)Division of Gastroenterology and Hepatology, Department of Medicine,
-University of Illinois at Chicago, Chicago, IL, USA.
-(2)Department of Oncology, Wayne State University School of Medicine, Detroit, MI
-48201, USA; Department of Pathology, Wayne State University School of Medicine,
-Detroit, MI 48201, USA.
-
-Although genes contribute to colorectal cancer, the gut microbiota are an
-important player. Accumulating evidence suggests that chronic infection and the
-ensuing inflammation contributes to tumor initiation and tumor progression. A
-variety of bacterial species and tumor-promoting virulence mechanisms have been
-investigated. Significant advances have been made in understanding the
-composition and functional capabilities of the gut microbiota and its roles in
-cancer. In the current review, we discuss the novel roles of microbiota in the
-progression of colon cancer. Although microbiota technically include organisms
-other than bacteria e.g., viruses and fungi, this review will primarily focus on 
-bacteria. We summarize epidemiological studies of human microbiome and colon
-cancer. We discuss the progress in the scientific understanding of the interplay 
-between the gut microbiota, barrier function, and host responses in experimental 
-models. Further, we discuss the potential application in prevention, diagnosis,
-and therapy of colon cancer by targeting microbiota. We discuss the challenges
-lie ahead and the future direction in studying gut microbiome in colon cancer to 
-close the gap between the basic sciences and clinical application.
-
-DOI: 10.1016/j.gendis.2016.03.004 
-PMCID: PMC5221561
-PMID: 28078319 
-
-Conflict of interest statement: There are no conflicts of interest.
-
-
 6. Cancer Epidemiol Biomarkers Prev. 2017 Jun;26(6):945-952. doi:
 10.1158/1055-9965.EPI-16-0948. Epub 2017 Jan 11.
 
