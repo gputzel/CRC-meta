@@ -311,52 +311,6 @@ DOI: 10.1038/s41522-017-0034-1
 PMCID: PMC5665930
 PMID: 29104759 
 
-38. Histopathology. 2017 Oct 11. doi: 10.1111/his.13417. [Epub ahead of print]
-
-Partial to complete abrogation of the subepithelial macrophage barrier against
-the gut microbiota in patients with ulcerative colitis and Crohn's colitis.
-
-Rubio CA(1), Langner C(2), Schmidt PT(3).
-
-Author information: 
-(1)Department of Pathology, Karolinska Institute and University Hospital,
-Stockholm, Sweden.
-(2)Institute of Pathology, Medical University of Graz, Graz, Austria.
-(3)Department of Medicine, Karolinska Institute, Centre for Digestive Diseases,
-University Hospital, Stockholm, Sweden.
-
-AIMS: The integrity of the band of indigenous macrophages in the subepithelial
-layer of the lamina propria (SLP) is crucial in preventing the commensal gut
-microbiota from attacking the host. The breakdown of the SLP macrophage barrier
-results in microbiota inflow and improper immune responses; this might lead to
-inflammatory bowel disease (IBD). During inflammation, the SLP macrophage barrier
-is reinforced by inflammation-elicited macrophages (IEMs), which are derived from
-blood-circulating monocytes. The aim was to explore the characteristics of the
-SLP macrophage band in a cohort of biopsies without inflammation, in patients
-with ulcerative colitis in remission (UCre), and in patients with right-sided
-Crohn's colitis (RCC).
-METHODS AND RESULTS: Endoscopic biopsies were taken from endoscopically normal
-descending colon in 247 patients; 80 with IBD (27 UCre and 53 RCC), and 167
-without IBD [90 had colonic diarrhoea, 63 were enrolled in a colorectal cancer
-(CRC) surveillance programme, seven had microscopic colitis in remission, and
-seven had miscellaneous colonic ailments]. Sections showed no inflammatory
-changes; they were immunostained with CD68. Among patients with UCre and RCC, the
-SLP band of CD68+ macrophages was fragmented or minute in 59% (47/80) and
-negative in 9% (7/80). In contrast, only 31% (51/167) of the biopsies from
-control patients had a fragmented/minute SLP band of CD68+ macrophages, and none 
-had a negative SLP band of CD68+ macrophages (IBD versus controls, P < 0.05).
-CONCLUSIONS: The finding that the SLP macrophage barrier was fragmented to
-totally abrogated in UCre and RCC patients suggests a longlasting defect in the
-SLP CD68+ macrophage barrier in these patients. The lack of ongoing inflammation 
-in colonic biopsies should rule out the participation of bone marrow-derived IEMs
-in the abrogation of the SLP macrophage barrier reported here.
-
-© 2017 John Wiley & Sons Ltd.
-
-DOI: 10.1111/his.13417 
-PMID: 29023984 
-
-
 39. Gut. 2017 Oct 7. pii: gutjnl-2017-314814. doi: 10.1136/gutjnl-2017-314814. [Epub 
 ahead of print]
 
