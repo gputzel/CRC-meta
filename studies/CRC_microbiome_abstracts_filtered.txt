@@ -897,38 +897,6 @@ DOI: 10.1186/s40168-017-0238-x
 PMCID: PMC5338091
 PMID: 28264712 
 
-98. New Microbes New Infect. 2017 Jan 16;16:63-72. doi: 10.1016/j.nmni.2017.01.004.
-eCollection 2017 Mar.
-
-Massilioclostridium coli gen. nov., sp. nov., a new member of the Clostridiaceae 
-family isolated from the left colon of a 27-year-old woman.
-
-Lo CI(1), Mailhe M(2), Ricaboni D(3), Vitton V(4), Benezech A(4), Michelle C(2), 
-Armstrong N(2), Bittar F(2), Fournier PE(2), Raoult D(2), Lagier JC(2).
-
-Author information: 
-(1)Campus commun IRD-UCAD de Hann et Hôpital Principal de Dakar, Senegal.
-(2)Aix Marseille Université, URMITE, UM63, CNRS 7278, IRD 198, INSERM 1095,
-France.
-(3)Aix Marseille Université, URMITE, UM63, CNRS 7278, IRD 198, INSERM 1095,
-France; Département des sciences cliniques et biomédicales, Luigi Sacco, Division
-des Maladies Infectieuses III, Université de Milan, Milan, Italy.
-(4)Service de Gastroentérologie, Hopital Nord, Assistance Publique-Hopitaux de
-Marseille, Marseille, France.
-
-Massilioclostridium coli strain Marseille-P2976T (= CSUR P2976 = DSM 103344) is a
-new bacterial genus isolated from the left colon of a patient who underwent
-colonoscopy for colorectal cancer screening. Massilioclostridium coli is a
-Gram-negative bacillus, strict anaerobic, nonsporogenous and nonmotile organism. 
-We describe here the strain Marseille-P2976T and provide its complete annotated
-genome sequence according to taxonogenomics concepts. Its genome is 2 985 330 bp 
-long and contains 2562 predicted genes and 75 RNA genes.
-
-DOI: 10.1016/j.nmni.2017.01.004 
-PMCID: PMC5310180
-PMID: 28224040 
-
-
 99. J Nutr Biochem. 2017 Apr;42:126-133. doi: 10.1016/j.jnutbio.2017.01.014. Epub
 2017 Jan 27.
 
