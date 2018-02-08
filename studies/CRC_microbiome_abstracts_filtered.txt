@@ -311,58 +311,6 @@ DOI: 10.1038/s41522-017-0034-1
 PMCID: PMC5665930
 PMID: 29104759 
 
-35. Cell. 2017 Nov 16;171(5):1015-1028.e13. doi: 10.1016/j.cell.2017.09.016. Epub
-2017 Oct 19.
-
-Wild Mouse Gut Microbiota Promotes Host Fitness and Improves Disease Resistance.
-
-Rosshart SP(1), Vassallo BG(2), Angeletti D(3), Hutchinson DS(4), Morgan AP(5),
-Takeda K(6), Hickman HD(3), McCulloch JA(7), Badger JH(7), Ajami NJ(4),
-Trinchieri G(7), Pardo-Manuel de Villena F(5), Yewdell JW(3), Rehermann B(8).
-
-Author information: 
-(1)Immunology Section, Diseases Branch, National Institute of Diabetes and
-Digestive and Kidney Diseases, National Institutes of Health, DHHS, Bethesda, MD 
-20892, USA. Electronic address: stephanpatrick.rosshart@nih.gov.
-(2)Immunology Section, Diseases Branch, National Institute of Diabetes and
-Digestive and Kidney Diseases, National Institutes of Health, DHHS, Bethesda, MD 
-20892, USA.
-(3)Laboratory of Viral Diseases, National Institute of Allergy and Infectious
-Diseases, National Institutes of Health, DHHS, Bethesda, MD 20892, USA.
-(4)Alkek Center for Metagenomics and Microbiome Research, Department of Molecular
-Virology and Microbiology, Baylor College of Medicine, Houston, TX 77030, USA.
-(5)Department of Genetics, Lineberger Comprehensive Cancer Center, The University
-of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA.
-(6)Microscopy and Imaging Core Facility, Center for Biologics Evaluation and
-Research, Food and Drug Administration, Silver Spring, MD 20993-0002, USA.
-(7)Cancer and Inflammation Program, Center for Cancer Research, National Cancer
-Institute, National Institutes of Health, DHHS, Bethesda, MD 20892, USA.
-(8)Immunology Section, Diseases Branch, National Institute of Diabetes and
-Digestive and Kidney Diseases, National Institutes of Health, DHHS, Bethesda, MD 
-20892, USA. Electronic address: rehermann@nih.gov.
-
-Laboratory mice, while paramount for understanding basic biological phenomena,
-are limited in modeling complex diseases of humans and other free-living mammals.
-Because the microbiome is a major factor in mammalian physiology, we aimed to
-identify a naturally evolved reference microbiome to better recapitulate
-physiological phenomena relevant in the natural world outside the laboratory.
-Among 21 distinct mouse populations worldwide, we identified a closely related
-wild relative to standard laboratory mouse strains. Its bacterial gut microbiome 
-differed significantly from its laboratory mouse counterpart and was transferred 
-to and maintained in laboratory mice over several generations. Laboratory mice
-reconstituted with natural microbiota exhibited reduced inflammation and
-increased survival following influenza virus infection and improved resistance
-against mutagen/inflammation-induced colorectal tumorigenesis. By demonstrating
-the host fitness-promoting traits of natural microbiota, our findings should
-enable the discovery of protective mechanisms relevant in the natural world and
-improve the modeling of complex diseases of free-living mammals. VIDEO ABSTRACT.
-
-Published by Elsevier Inc.
-
-DOI: 10.1016/j.cell.2017.09.016 
-PMID: 29056339  [Indexed for MEDLINE]
-
-
 36. Microbiome. 2017 Oct 17;5(1):141. doi: 10.1186/s40168-017-0359-2.
 
 Links of gut microbiota composition with alcohol dependence syndrome and
