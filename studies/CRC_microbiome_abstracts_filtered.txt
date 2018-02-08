@@ -862,45 +862,6 @@ Permissions, please email: journals.permissions@oup.com.
 DOI: 10.1093/carcin/bgx053 
 PMID: 28582482  [Indexed for MEDLINE]
 
-81. Epidemiol Rev. 2017 Jan 1;39(1):1-10. doi: 10.1093/epirev/mxx009.
-
-Reducing Cancer Burden in the Population: An Overview of Epidemiologic Evidence
-to Support Policies, Systems, and Environmental Changes.
-
-Platz EA.
-
-"Reducing Cancer Burden in the Population: Epidemiologic Evidence to Support
-Policies, Systems, and Environmental Changes" is a compilation of 11 reviews
-addressing aspects of primary prevention of cancer (early life factors, vitamin
-D, and periodontal disease and the oral microbiome); primary and secondary
-prevention (in the transgender population); surveillance following secondary
-prevention (personalizing follow-up of patients diagnosed with an adenoma based
-on colorectal cancer risk); tertiary prevention (physical activity as an adjuvant
-to cancer treatment, measurement of patient-reported physical functioning in
-cancer treatment trials, and implementation of palliative care recommendations); 
-and all 3 (changing epidemiology of oral cancers). Authors discuss policies,
-systems, and environment (PSE) changes that may be supported by epidemiologic
-evidence, for example, how existing public health and clinical policies and
-guidelines targeting noncancer outcomes may indirectly reduce cancer burden and
-how some cancer control policies could be refined to enhance effectiveness.
-Authors also discuss where systems and environment changes are necessary to
-ensure routine implementation of up-to-date, evidence-based policies and
-guidelines. Two other articles discuss infrastructure to support identification
-of existing and emerging cancer problems that could be reduced or avoided,
-including by PSE changes. These frameworks may guide impactful cancer research
-relevant to cancer centers' catchment areas, as well as cancer control efforts in
-countries where noncommunicable diseases including cancer are on the rise. The
-weight of the evidence of these reviews supports opportunities for PSE changes
-and infrastructure that could reduce the cancer burden in populations.
-
-© The Author 2017. Published by Oxford University Press on behalf of the Johns
-Hopkins Bloomberg School of Public Health. All rights reserved. For permissions, 
-please e-mail: journals.permissions@oup.com.
-
-DOI: 10.1093/epirev/mxx009 
-PMID: 28460082 
-
-
 82. Aging (Albany NY). 2017 Apr;9(4):1086-1087. doi: 10.18632/aging.101234.
 
 Metabolism, microbiome and colorectal cancer.
