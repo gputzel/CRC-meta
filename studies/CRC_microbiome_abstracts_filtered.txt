@@ -720,41 +720,6 @@ PMID: 28698865
 Conflict of interest statement: CONFLICTS OF INTEREST No potential conflicts of
 interest were disclosed.
 
-
-67. Cancer Biol Ther. 2017 Sep 2;18(9):640-650. doi: 10.1080/15384047.2017.1345396.
-Epub 2017 Jul 7.
-
-Therapeutic implications of bioactive sphingolipids: A focus on colorectal
-cancer.
-
-Camp ER(1), Patterson LD(2), Kester M(2), Voelkel-Johnson C(3).
-
-Author information: 
-(1)a Department of Surgery Medical University of South Carolina , Charleston SC ,
-USA.
-(2)b Department of Pharmacology , University of Virginia , Charlottesville VA ,
-USA.
-(3)c Department of Microbiology & Immunology , Medical University of South
-Carolina , Charleston SC , USA.
-
-Therapy of colorectal cancer (CRC), especially a subset known as locally advanced
-rectal cancer, is challenged by progression and recurrence. Sphingolipids, a
-lipid subtype with vital roles in cellular function, play an important role in
-CRC and impact on therapeutic outcomes. In this review we discuss how dietary
-sphingolipids or the gut microbiome via alterations in sphingolipids influence
-CRC carcinogenesis. In addition, we discuss the expression of sphingolipid
-enzymes in the gastro-intestinal tract, their alterations in CRC, and the
-implications for therapy responsiveness. Lastly, we highlight some novel
-therapeutics that target sphingolipid signaling and have potential applications
-in the treatment of CRC. Understanding how sphingolipid metabolism impacts cell
-death susceptibility and drug resistance will be critical toward improving
-therapeutic outcomes.
-
-DOI: 10.1080/15384047.2017.1345396 
-PMCID: PMC5663409 [Available on 2018-07-07]
-PMID: 28686076 
-
-
 68. PeerJ. 2017 Jun 28;5:e3383. doi: 10.7717/peerj.3383. eCollection 2017.
 
 Does colorectal cancer significantly influence the assembly of gut microbial
