@@ -592,51 +592,6 @@ DOI: 10.1038/s41598-017-08150-3
 PMCID: PMC5566496
 PMID: 28827587 
 
-60. Eur J Clin Microbiol Infect Dis. 2017 Dec;36(12):2457-2468. doi:
-10.1007/s10096-017-3085-6. Epub 2017 Aug 18.
-
-Dysbiosis signature of mycobiota in colon polyp and colorectal cancer.
-
-Gao R(1)(2), Kong C(1)(2), Li H(1)(2), Huang L(1)(2), Qu X(1)(2), Qin N(2), Qin
-H(3)(4).
-
-Author information: 
-(1)Department of General Surgery, Shanghai Tenth People's Hospital affiliated to 
-Tongji University School of Medicine, No. 301 Yanchang Road, Jingan District,
-Shanghai, China.
-(2)Research Institute for Intestinal Diseases affiliated to Tongji University
-School of Medicine, Shanghai, China.
-(3)Department of General Surgery, Shanghai Tenth People's Hospital affiliated to 
-Tongji University School of Medicine, No. 301 Yanchang Road, Jingan District,
-Shanghai, China. qinhuanlong@126.com.
-(4)Research Institute for Intestinal Diseases affiliated to Tongji University
-School of Medicine, Shanghai, China. qinhuanlong@126.com.
-
-Microbiota refers to a colony of microorganisms, and they are found in all
-multicellular organisms. This colony plays a major role in both the physiology
-and disease of the organism it inhabits. Much attention has been paid to
-host-microbiota interactions, but there has been little investigation on its role
-in carcinogenesis. In this study, we characterized a fecal mycobiota, also known 
-as fungal signature, for the first time with 131 subjects, comprising polyp and
-colorectal cancer (CRC) patients, as well as a healthy control population. The
-data obtained were analyzed to assess the biodiversity and composition of the
-fungi. The impacts of anatomic position and tumor stage on the mycobiota were
-also evaluated. Correlations between fungi were investigated using the Spearman
-test. We observed fungal dysbiosis in colon polyps and CRC, including decreased
-diversity in polyp patients, an increased Ascomycota/Basidiomycota ratio, and an 
-increased proportion of opportunistic fungi Trichosporon and Malassezia, which
-might favor the progression of CRC. Subsequent analysis with regard to tumor
-stage demonstrated a lower diversity and significant mycobiota alteration in
-early-stage tumors. Finally, the fungal correlation showed a close relationship
-within the community and concomitantly revealed a dramatically structured
-discrepancy in each clinical phenotype. In conclusion, our study has uncovered a 
-distinct fungal dysbiosis and an alteration in the fungal network, which could
-play important roles in polyp and CRC pathogenesis.
-
-DOI: 10.1007/s10096-017-3085-6 
-PMID: 28821976 
-
-
 61. Clin Transl Oncol. 2017 Aug 14. doi: 10.1007/s12094-017-1717-z. [Epub ahead of
 print]
 
