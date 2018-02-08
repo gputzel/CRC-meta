@@ -363,26 +363,6 @@ otherwise expressly granted.
 DOI: 10.1136/gutjnl-2017-314814 
 PMID: 28988196 
 
-43. Opt Lett. 2017 Aug 1;42(15):2938-2940. doi: 10.1364/OL.42.002938.
-
-Noninvasive photoacoustic identification and imaging of gut microbes.
-
-Huang X, Shi Y, Liu Y, Xu H, Liu Y, Xiao C, Ren J, Nie L.
-
-Homeostasis of the gut microbiota is indispensable for various physiological
-functions. Its composition and activity co-develop with the host, and especially 
-associate with human colorectal cancer. However, current composition
-identification methods are complicated and not timely without spatial
-distribution information. In this Letter, we explored the photoacoustic imaging
-(PAI) technique to characterize the composition and quantify the proportions of
-the gut microbes after optical probe labeling. Our experimental results
-demonstrated that PAI has the potential to identify different gut bacterial
-species on the spot.
-
-
-PMID: 28957212  [Indexed for MEDLINE]
-
-
 44. Future Microbiol. 2017 Nov;12:1345-1348. doi: 10.2217/fmb-2017-0159. Epub 2017
 Sep 27.
 
