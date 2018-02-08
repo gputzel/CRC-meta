@@ -897,68 +897,6 @@ DOI: 10.1186/s40168-017-0238-x
 PMCID: PMC5338091
 PMID: 28264712 
 
-99. J Nutr Biochem. 2017 Apr;42:126-133. doi: 10.1016/j.jnutbio.2017.01.014. Epub
-2017 Jan 27.
-
-Gene expression changes in colon tissues from colorectal cancer patients
-following the intake of an ellagitannin-containing pomegranate extract: a
-randomized clinical trial.
-
-Nuñez-Sánchez MA(1), González-Sarrías A(1), García-Villalba R(1), Monedero-Saiz
-T(2), García-Talavera NV(3), Gómez-Sánchez MB(3), Sánchez-Álvarez C(3),
-García-Albert AM(4), Rodríguez-Gil FJ(4), Ruiz-Marín M(5), Pastor-Quirante FA(6),
-Martínez-Díaz F(6), Tomás-Barberán FA(1), Espín JC(7), García-Conesa MT(8).
-
-Author information: 
-(1)Research Group on Quality, Safety and Bioactivity of Plant Foods, CEBAS-CSIC, 
-P.O. Box 164, 30100 Campus de Espinardo, Murcia, Spain.
-(2)Research Group on Quality, Safety and Bioactivity of Plant Foods, CEBAS-CSIC, 
-P.O. Box 164, 30100 Campus de Espinardo, Murcia, Spain; Nutrition, Hospital Reina
-Sofía, Avda. Intendente Jorge Palacios s/n, 30003 Murcia, Spain.
-(3)Nutrition, Hospital Reina Sofía, Avda. Intendente Jorge Palacios s/n, 30003
-Murcia, Spain.
-(4)Digestive, Hospital Reina Sofía, Avda. Intendente Jorge Palacios s/n, 30003
-Murcia, Spain.
-(5)Surgery, Hospital Reina Sofía, Avda. Intendente Jorge Palacios s/n, 30003
-Murcia, Spain.
-(6)Anatomical Pathology Services, Hospital Reina Sofía, Avda. Intendente Jorge
-Palacios s/n, 30003 Murcia, Spain.
-(7)Research Group on Quality, Safety and Bioactivity of Plant Foods, CEBAS-CSIC, 
-P.O. Box 164, 30100 Campus de Espinardo, Murcia, Spain. Electronic address:
-jcespin@cebas.csic.es.
-(8)Research Group on Quality, Safety and Bioactivity of Plant Foods, CEBAS-CSIC, 
-P.O. Box 164, 30100 Campus de Espinardo, Murcia, Spain. Electronic address:
-mtconesa@cebas.csic.es.
-
-The clinical evidence of dietary polyphenols as colorectal cancer (CRC)
-chemopreventive compounds is very weak. Verification in humans of tissue-specific
-molecular regulation by the intake of polyphenols requires complex clinical
-trials that allow for the procurement of sufficient pre- and postsupplementation 
-tissue samples. Ellagitannins (ETs), ellagic acid (EA) and their gut
-microbiota-derived metabolites, the urolithins, modify gene expression in colon
-normal and cancer cultured cells. We conducted here the first clinical trial with
-35 CRC patients daily supplemented with 900 mg of an ET-containing pomegranate
-extract (PE) and evaluated the expression of various CRC-related genes in normal 
-and cancerous colon tissues before (biopsies) and after (surgical specimens) 5-35
-days of supplementation. Tissues were also obtained from 10 control patients (no 
-supplementation) that confirmed a large, gene- and tissue-specific
-interindividual variability and impact of the experimental protocol on gene
-expression, with some genes induced (MYC, CD44, CDKN1A, CTNNB1), some repressed
-(CASP3) and others not affected (KRAS). Despite these issues, the consumption of 
-the PE was significantly associated with a counterbalance effect in the
-expression of CD44, CTNNB1, CDKN1A, EGFR and TYMs, suggesting that the intake of 
-this PE modulated the impact of the protocol on gene expression in a gene- and
-tissue-specific manner. These effects were not associated with the individuals'
-capacity to produce specific urolithins (i.e., metabotypes) or the levels of
-urolithins and EA in the colon tissues and did not reproduce in vitro effects
-evidencing the difficulty of demonstrating in vivo the in vitro results.
-
-Copyright © 2017 Elsevier Inc. All rights reserved.
-
-DOI: 10.1016/j.jnutbio.2017.01.014 
-PMID: 28183047  [Indexed for MEDLINE]
-
-
 100. Gut. 2017 Nov;66(11):1983-1994. doi: 10.1136/gutjnl-2016-313321. Epub 2017 Feb 2.
 
 Race-dependent association of sulfidogenic bacteria with colorectal cancer.
