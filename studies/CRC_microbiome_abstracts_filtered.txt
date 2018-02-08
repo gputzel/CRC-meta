@@ -863,60 +863,6 @@ DOI: 10.1093/carcin/bgx053
 PMID: 28582482  [Indexed for MEDLINE]
 
 
-93. Gut. 2017 Mar 24. pii: gutjnl-2016-313189. doi: 10.1136/gutjnl-2016-313189. [Epub
-ahead of print]
-
-Leveraging sequence-based faecal microbial community survey data to identify a
-composite biomarker for colorectal cancer.
-
-Shah MS(1)(2)(3)(4), DeSantis TZ(2), Weinmaier T(2), McMurdie PJ(2)(5), Cope
-JL(3)(4)(6), Altrichter A(2), Yamal JM(1), Hollister EB(3)(4).
-
-Author information: 
-(1)Department of Epidemiology, University of Texas School of Public Health,
-Houston, Texas, USA.
-(2)Bioinformatics, Second Genome Inc, South San Francisco, California, USA.
-(3)Department of Pathology, Texas Children's Microbiome Center, Texas Children's 
-Hospital, Houston, Texas, USA.
-(4)Department of Pathology and Immunology, Baylor College of Medicine,
-HoustonTexas, USA.
-(5)Bioinformatics, Whole Biome Inc, San Francisco, California, USA.
-(6)Diversigen, Inc, Houston, Texas, USA.
-
-OBJECTIVE: Colorectal cancer (CRC) is the second leading cause of
-cancer-associated mortality in the USA. The faecal microbiome may provide
-non-invasive biomarkers of CRC and indicate transition in the adenoma-carcinoma
-sequence. Re-analysing raw sequence and metadata from several studies uniformly, 
-we sought to identify a composite and generalisable microbial marker for CRC.
-DESIGN: Raw 16S rRNA gene sequence data sets from nine studies were processed
-with two pipelines, (1) QIIME closed reference (QIIME-CR) or (2) a
-strain-specific method herein termed SS-UP (Strain Select, UPARSE bioinformatics 
-pipeline). A total of 509 samples (79 colorectal adenoma, 195 CRC and 235
-controls) were analysed. Differential abundance, meta-analysis random effects
-regression and machine learning analyses were carried out to determine the
-consistency and diagnostic capabilities of potential microbial biomarkers.
-RESULTS: Definitive taxa, including Parvimonas micra ATCC 33270, Streptococcus
-anginosus and yet-to-be-cultured members of Proteobacteria, were frequently and
-significantly increased in stools from patients with CRC compared with controls
-across studies and had high discriminatory capacity in diagnostic classification.
-Microbiome-based CRC versus control classification produced an area under
-receiver operator characteristic (AUROC) curve of 76.6% in QIIME-CR and 80.3% in 
-SS-UP. Combining clinical and microbiome markers gave a diagnostic AUROC of 83.3%
-for QIIME-CR and 91.3% for SS-UP.
-CONCLUSIONS: Despite technological differences across studies and methods, key
-microbial markers emerged as important in classifying CRC cases and such could be
-used in a universal diagnostic for the disease. The choice of bioinformatics
-pipeline influenced accuracy of classification. Strain-resolved microbial markers
-might prove crucial in providing a microbial diagnostic for CRC.
-
-Published by the BMJ Publishing Group Limited. For permission to use (where not
-already granted under a licence) please go to
-http://www.bmj.com/company/products-services/rights-and-licensing/.
-
-DOI: 10.1136/gutjnl-2016-313189 
-PMID: 28341746 
-
-
 94. J Biol Regul Homeost Agents. 2017 Jan-Mar;31(1):245-249.
 
 The fingerprint of the human gastrointestinal tract microbiota: a hypothesis of
