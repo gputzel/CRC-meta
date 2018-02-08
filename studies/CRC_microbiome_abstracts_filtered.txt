@@ -862,46 +862,6 @@ Permissions, please email: journals.permissions@oup.com.
 DOI: 10.1093/carcin/bgx053 
 PMID: 28582482  [Indexed for MEDLINE]
 
-
-76. Oncotarget. 2017 Jul 18;8(29):47379-47388. doi: 10.18632/oncotarget.17649.
-
-Dietary factors and microRNA-binding site polymorphisms in the IL13 gene: risk
-and prognosis analysis of colorectal cancer.
-
-Yu Y(1), Zhou J(2), Gong C(1), Long Z(1), Tian J(1), Zhu L(1), Li J(1), Yu H(1), 
-Wang F(1), Zhao Y(1).
-
-Author information: 
-(1)Department of Epidemiology, School of Public Health, Harbin Medical
-University, Harbin, Heilongjiang Province, P. R. China.
-(2)Department of Colorectal Surgery, The Second Affiliated Hospital of Harbin
-Medical University, Harbin, Heilongjiang Province, P. R. China.
-
-Long-term dietary intake influences the structure and activity of microorganisms 
-residing in the human gut. The immune response and gut microbiota have a mutual
-influence on the risk of colorectal cancer (CRC). This study examines the
-association of gut microbiota-related dietary factors and polymorphisms in the
-microRNA-binding site of the interleukin 13 gene (IL13) with the risk and
-prognosis of CRC. Three polymorphisms (rs847, rs848, and rs1295685) were selected
-for genotyping in a case-control study (513 cases, 572 controls), and 386 CRC
-patients were followed up. Two dietary factors closely related with gut
-microbiota (allium vegetables, overnight meal) were significantly associated with
-CRC development. Although the three SNPs showed no statistically significant
-associations with the risk and prognosis of CRC, a significant antagonistic
-interaction was found between rs848 (G-T) and allium vegetable intake (ORi (odds 
-ratio of interaction), 0.92; 95% CI (confidence interval): 0.86, 0.99; P = 0.03);
-moreover, significant combined and synergistic interactions were observed for all
-three SNPs and overnight meal intake. This is the first report of significant
-combined and interactive effects between dietary factors and polymorphisms in the
-microRNA binding site of IL13 in CRC and may provide direct guidance on intake of
-allium vegetable and overnight meals for individuals with specific genetic
-variants of IL13 to modify their susceptibility to CRC.
-
-DOI: 10.18632/oncotarget.17649 
-PMCID: PMC5564572
-PMID: 28537887 
-
-
 77. Cell Rep. 2017 May 9;19(6):1268-1280. doi: 10.1016/j.celrep.2017.04.045.
 
 Molecular-Subtype-Specific Biomarkers Improve Prediction of Prognosis in
