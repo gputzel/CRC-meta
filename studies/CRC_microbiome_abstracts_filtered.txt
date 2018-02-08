@@ -720,56 +720,6 @@ PMID: 28698865
 Conflict of interest statement: CONFLICTS OF INTEREST No potential conflicts of
 interest were disclosed.
 
-71. Curr Pharm Des. 2017;23(25):3699-3712. doi: 10.2174/1381612823666170622095324.
-
-Trimethylamine N-oxide (TMAO) as a New Potential Therapeutic Target for Insulin
-Resistance and Cancer.
-
-Oellgaard J(1), Winther SA(2), Hansen TS(3), Rossing P(2), von Scholten BJ(2).
-
-Author information: 
-(1)Steno Diabetes Center Copenhagen, Niels Steensens Vej 2, NSK 2.11, DK-2820.
-Denmark.
-(2)Steno Diabetes Center Copenhagen, Gentofte. Denmark.
-(3)University Hospital Zealand, Dept. of Clinical Oncology, Roskilde. Denmark.
-
-BACKGROUND: The intake of animal products in food has been associated with both
-the development of insulin resistance and gastrointestinal cancers (GIC). Through
-the digestion of animal protein and other constituents of animal products, the
-commensal bacteria in the gut (the gut microbiota) forms metabolites that can
-contribute to the development of both insulin resistance and cancer.
-Trimethylamine-N-Oxide (TMAO) is such a molecule and has recently drawn a lot of 
-attention as it may be a risk factor for - and a link between - the gut
-microbiota and cardiovascular and renal disease. Further, TMAO is anticipated to 
-have significance as a biomarker of - or even an independent risk factor for -
-other undesirable conditions, including insulin resistance and GIC. TMAO
-originates from a precursor, trimethylamine (TMA) that is a metabolite of various
-precursors; mainly choline and carnitine from ingested foods.
-METHODS: We review the literature on TMAO as a shared risk factor and/or pathway 
-between insulin resistance and GIC risk and take the reader through the
-literature of interventions that could reduce formation of TMAO and thereby the
-risk of insulin resistance and GIC. The purpose of the work is to generate a
-hypothesis to be tested in preclinical and clinical studies.
-RESULTS: TMAO seems to be associated with both insulin resistance and GIC risk
-and also with atherosclerotic cardiovascular disease. One shared pathway is the
-formation of N-Nitroso compounds, a group of metabolites that can cause
-DNA-damage and epigenetic changes. Levels of TMAO can be reduced by limiting the 
-dietary intake of certain foods, most importantly animal products. Further,
-certain drugs, namely Meldonium and 3,3-dimethyl- 1-butanol, may inhibit the
-formation of TMAO by inhibiting bacterial enzymes.
-CONCLUSIONS: The TMAO pathway and its metabolites are possibly involved in the
-development of two major health problems: insulin resistance and cancer. Within
-these pathways novel therapeutic targets may be identified. Further research is
-needed in order to verify existing or develop new pharmacological agents that
-modify these pathways and reduce the risk of insulin resistance and GIC.
-
-Copyright© Bentham Science Publishers; For any queries, please email at
-epub@benthamscience.org.
-
-DOI: 10.2174/1381612823666170622095324 
-PMID: 28641532 
-
-
 72. Eur J Clin Microbiol Infect Dis. 2017 Nov;36(11):2073-2083. doi:
 10.1007/s10096-017-3026-4. Epub 2017 Jun 9.
 
