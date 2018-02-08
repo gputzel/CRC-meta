@@ -545,38 +545,6 @@ PMCID: PMC5609654
 PMID: 28904330 
 
 
-54. Curr Opin Gastroenterol. 2017 Nov;33(6):422-427. doi:
-10.1097/MOG.0000000000000399.
-
-Novel insights into microbiome in colitis and colorectal cancer.
-
-Yang Y(1), Jobin C.
-
-Author information: 
-(1)aDepartment of Medicine bDepartment of Infectious Diseases and Pathology,
-University of Florida, Gainesville, Florida, USA.
-
-PURPOSE OF REVIEW: Microbiota is a major player in the pathogenesis of
-inflammatory bowel diseases (IBD) and colorectal cancer (CRC). Here, we summarize
-the key advances achieved in the past 18 months (ending June 2017) toward a
-better understanding of the role of microbiota in colitis and CRC development.
-RECENT FINDINGS: Accumulating evidence shows the essential role of intestinal
-barrier function (e.g. mucus, IgA, LCN2, LYPD8) in protecting against
-bacteria-induced inflammation and tumor development. Numerous signaling pathways 
-(e.g. TLRs and NLRs), metabolites (e.g. indole, bile acids, retinoic acid) and
-small noncoding RNAs (e.g. miRNA) have been identified as key mediators
-regulating host-microbe interactions in the intestine. Novel microbial drivers of
-colitis and tumorigenesis (e.g. Alistipes finegoldii, Atopobium parvalum,
-Peptostreptococcus anaerobius) have been identified and their disease-promoting
-activities have been described.
-SUMMARY: IBD-associated colorectal cancer results from a complex breakdown of
-communication between the host and its microbiota, involving barrier function,
-immune signaling and metabolites.
-
-DOI: 10.1097/MOG.0000000000000399 
-PMID: 28877044 
-
-
 55. Expert Rev Gastroenterol Hepatol. 2017 Dec;11(12):1119-1134. doi:
 10.1080/17474124.2017.1373017. Epub 2017 Sep 14.
 
