@@ -862,49 +862,6 @@ Permissions, please email: journals.permissions@oup.com.
 DOI: 10.1093/carcin/bgx053 
 PMID: 28582482  [Indexed for MEDLINE]
 
-88. Eur J Nutr. 2017 Apr 9. doi: 10.1007/s00394-017-1393-3. [Epub ahead of print]
-
-Starch-enriched diet modulates the glucidic profile in the rat colonic mucosa.
-
-Gabrielli MG(1), Tomassoni D(2).
-
-Author information: 
-(1)School of Biosciences and Veterinary Medicine, University of Camerino, Via
-Gentile III da Varano, I, Camerino, 62032, Macerata, Italy.
-gabriella.gabrielli@unicam.it.
-(2)School of Biosciences and Veterinary Medicine, University of Camerino, Via
-Gentile III da Varano, I, Camerino, 62032, Macerata, Italy.
-
-PURPOSE: The protective function of the intestinal mucosa largely depends on
-carbohydrate moieties that as a part of glycoproteins and glycolipids form the
-epithelial glycocalyx or are secreted as mucins. Modifications of their
-expression can be induced by an altered intestinal microenvironment and have been
-associated with inflammatory disorders and colorectal cancer. Given the influence
-of dietary factors on the gut ecosystem, here we have investigated whether a long
-term feeding on a starch-rich diet can modulate the glucidic profile in the
-colonic mucosa of rats.
-METHODS: Animals were divided into two groups and maintained for 9 months at
-different diets: one group was fed a standard diet, the second was fed a
-starch-enriched diet. Samples of colonic mucosa, divided in proximal and distal
-portions, were processed for microscopic analysis. Conventional stainings and
-lectin histochemistry were applied to identify acidic glycoconjugates and
-specific sugar residues in oligosaccharide chains, respectively. Some lectins
-were applied on adjacent sections after sialidase/fucosidase digestion,
-deacetylation, and oxidation to characterize either terminal dimers or sialic
-acid acetylation.
-RESULTS: An increase in sulfomucins was found to be associated with the
-starch-enriched diet that affected also the expression of several sugar residues 
-as well as fucosylated and sialylated sequences in both proximal and distal
-colon.
-CONCLUSIONS: Although the mechanisms leading to such a modulation are at present 
-unknown, either an altered intestinal microbiota or a dysregulation of
-glycosylation patterns might be responsible for the types and distribution of
-changes in the glucidic profile here observed.
-
-DOI: 10.1007/s00394-017-1393-3 
-PMID: 28393287 
-
-
 89. Gut. 2017 Apr 4. pii: gutjnl-2016-313413. doi: 10.1136/gutjnl-2016-313413. [Epub 
 ahead of print]
 
