@@ -363,38 +363,6 @@ otherwise expressly granted.
 DOI: 10.1136/gutjnl-2017-314814 
 PMID: 28988196 
 
-42. Microb Ecol Health Dis. 2017 Jan 1;28(1):1352433. doi:
-10.1080/16512235.2017.1352433. eCollection 2017.
-
-Cecal microbiota association with tumor load in a colorectal cancer mouse model.
-
-Bråten LS(1)(2), Sødring M(2), Paulsen JE(2), Snipen LG(1), Rudi K(1).
-
-Author information: 
-(1)Department of Chemistry, Biotechnology and Food Science, Norwegian University 
-of Life Sciences, Ås, Norway.
-(2)Department of Food Safety and Infection Biology, Norwegian University of Life 
-Sciences, Ås, Norway.
-
-Background: Colorectal cancer (CRC) is one of the most common cancer types
-worldwide. The role of the intestinal microbiota in CRC, however, is not well
-established. In particular, the co-variation between age, tumor progression and
-microbiota remains largely unknown. Objective and design: We therefore used a
-recently developed A/J Min/+ mouse model resembling human CRC to investigate how 
-microbial composition in cecum correlates with tumor progression, butyrate and
-age. Results: We found that the association between the gut microbiota and tumor 
-load was stronger, by far, than the association with both butyrate and age. The
-strongest direct tumor association was found for mucosal bacteria, with nearly
-60% of the significantly correlating operational taxonomic units being correlated
-with CRC tumor load alone. Conclusion: We favor a systemic association between
-tumor load and microbiota, since the correlations are associated with tumor load 
-in gut segments other than the cecum (both small and large intestine).
-
-DOI: 10.1080/16512235.2017.1352433 
-PMCID: PMC5614384
-PMID: 28959179 
-
-
 43. Opt Lett. 2017 Aug 1;42(15):2938-2940. doi: 10.1364/OL.42.002938.
 
 Noninvasive photoacoustic identification and imaging of gut microbes.
