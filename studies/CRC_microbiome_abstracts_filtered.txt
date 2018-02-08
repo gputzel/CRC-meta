@@ -311,58 +311,6 @@ DOI: 10.1038/s41522-017-0034-1
 PMCID: PMC5665930
 PMID: 29104759 
 
-34. Onco Targets Ther. 2017 Oct 17;10:5031-5046. doi: 10.2147/OTT.S145949.
-eCollection 2017.
-
-Clinical significance of Fusobacterium nucleatum, epithelial-mesenchymal
-transition, and cancer stem cell markers in stage III/IV colorectal cancer
-patients.
-
-Yan X(#)(1), Liu L(#)(2), Li H(#)(1), Qin H(1), Sun Z(1)(3).
-
-Author information: 
-(1)Department of General Surgery, Shanghai Tenth People's Hospital, Tongji
-University School of Medicine.
-(2)Department of General Surgery, Shanghai Jiao Tong University Affiliated Sixth 
-People's Hospital.
-(3)Central Laboratory, Shanghai Jiao Tong University Affiliated Sixth People's
-Hospital, South Campus, Shanghai, China.
-(#)Contributed equally
-
-Colorectal cancer (CRC) is a common digestive malignancy and emerging studies
-have closely linked its initiation and development with gut microbiota changes.
-Fusobacterium nucleatum (Fn) has been recently identified as a pathogenic
-bacteria for CRC; however, its prognostic significance for patients is poorly
-investigated and is less for patients within late stage. Therefore, in this
-study, we made efforts to analyze its level and prognostic significance in a
-retrospective cohort of 280 stage III/IV CRC patients. We found that the Fn level
-was abnormally high in tumor tissues and correlated with tumor invasion, lymph
-node metastasis status, and distant metastasis. We also identified it as an
-independent adverse prognostic factor for cancer-specific survival (CSS) and
-disease-free survival (DFS). The following subgroup analysis indicated that Fn
-level could stratify CSS and DFS in stage IIIB/C and IV patients but failed in
-stage IIIA patients. In addition, stage III/IV patients with low Fn level were
-found to benefit more from adjuvant chemotherapy than those with high Fn level,
-in terms of DFS. Finally, we analyzed the expression and clinical significance of
-epithelial-to-mesenchymal transition (EMT) markers (E-cadherin and N-cadherin)
-and cancer stem cell (CSC) markers (Nanog, Oct-4, and Sox-2) in CRC tissues. The 
-results indicated that N-cadherin, Nanog, Oct-4, and Sox-2 were adverse
-prognostic factors in these patients, while the opposite was true for E-cadherin.
-More importantly, expression of E-cadherin, N-cadherin, and Nanog was
-significantly correlated with Fn level in tumor tissues, suggesting the potential
-involvement of Fn in EMT-CSC cross talk during CRC progression. Taken together,
-these findings indicate that Fn is a novel predictive biomarker for clinical
-management in stage III/IV patients, and targeting Fn may be an effective
-adjuvant approach for preventing CRC metastasis and chemotherapy resistance.
-
-DOI: 10.2147/OTT.S145949 
-PMCID: PMC5652912
-PMID: 29081665 
-
-Conflict of interest statement: Disclosure The authors report no conflicts of
-interest in this work.
-
-
 35. Cell. 2017 Nov 16;171(5):1015-1028.e13. doi: 10.1016/j.cell.2017.09.016. Epub
 2017 Oct 19.
 
