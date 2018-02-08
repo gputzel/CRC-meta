@@ -671,52 +671,6 @@ DOI: 10.1016/j.cell.2017.07.008
 PMCID: PMC5767127
 PMID: 28753429  [Indexed for MEDLINE]
 
-
-65. Nutr Cancer. 2017 Aug-Sep;69(6):943-951. doi: 10.1080/01635581.2017.1340491. Epub
-2017 Jul 18.
-
-Black Raspberries and Their Anthocyanin and Fiber Fractions Alter the Composition
-and Diversity of Gut Microbiota in F-344 Rats.
-
-Pan P(1), Lam V(2), Salzman N(3), Huang YW(4), Yu J(5), Zhang J(6), Wang LS(1).
-
-Author information: 
-(1)a Department of Medicine , Division of Hematology and Oncology, Medical
-College of Wisconsin , Milwaukee , Wisconsin , USA.
-(2)b Division of Cardiothoracic Surgery , Medical College of Wisconsin ,
-Milwaukee , Wisconsin , USA.
-(3)c Department of Pediatrics/Gastroenterology , Medical College of Wisconsin ,
-Milwaukee , Wisconsin , USA.
-(4)d Department of Obstetrics and Gynecology , Medical College of Wisconsin ,
-Milwaukee , Wisconsin , USA.
-(5)e Division of Hematology, Department of Internal Medicine , College of
-Medicine, The Ohio State University , Columbus , Ohio , USA.
-(6)f Center for Biostatistics , The Ohio State University , Columbus , Ohio ,
-USA.
-
-Natural compounds can alter the diversity and composition of the gut microbiome, 
-potentially benefiting our health. We previously demonstrated chemopreventive
-effects of black raspberries (BRBs) in colorectal cancer, which is associated
-with gut dysbiosis. To investigate the effects of whole BRBs and their fractions 
-on gut microbiota, we fed F-344 rats a control diet, 5% BRBs, the BRB anthocyanin
-fraction, or the BRB residue fraction for 6 weeks. Feces were collected at
-baseline and at weeks 3 and 6, and bacterial sequence counts were analyzed. We
-observed distinct patterns of microbiota from different diet groups. Beta
-diversity analysis suggested that all diet groups exerted time-dependent changes 
-in the bacterial diversity. Hierarchical clustering analysis revealed that
-post-diet fecal microbiota was segregated from baseline fecal microbiota within
-each diet. It is interesting to note that fractions of BRBs induced different
-changes in gut bacteria compared to whole BRBs. The abundance of specific
-microbial species known to have anti-inflammatory effects, such as Akkermansia
-and Desulfovibrio, was increased by whole BRBs and their residue. Further,
-butyrate-producing bacteria, e.g., Anaerostipes, were increased by whole BRBs.
-Our results suggest that whole BRBs and their fractions alter the gut microbiota 
-in ways that could significantly influence human health.
-
-DOI: 10.1080/01635581.2017.1340491 
-PMID: 28718724 
-
-
 66. J Cancer Prev. 2017 Jun;22(2):108-114. doi: 10.15430/JCP.2017.22.2.108. Epub 2017
 Jun 30.
 
