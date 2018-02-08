@@ -862,54 +862,6 @@ Permissions, please email: journals.permissions@oup.com.
 DOI: 10.1093/carcin/bgx053 
 PMID: 28582482  [Indexed for MEDLINE]
 
-80. Klin Onkol. 2017 Spring;30(Supplementum1):153-155.
-
-[Molecular Pathology of Colorectal Cancer, Microsatellite Instability - the
-Detection, the Relationship to the Pathophysiology and Prognosis].
-
-[Article in Czech]
-
-Brychtová V, Šefr R, Hrstka R, Vídeňská P, Bencsiková B, Hanáková B, Zdražilová
-Dubská L, Nenutil R, Budinská E.
-
-BACKGROUND: Colorectal carcinoma (CRC) is third most common cancer worldwide with
-very heterogenous character. In most cases, it is caused by sporadic events
-leading to disruption of epithelial cells of the colon. The minority evolves from
-germline mutations associated with hereditary cancer syndromes. Mechanisms
-leading to mutations of oncogenes, tumour suppressors and genes of DNA repair
-mechanisms include: 1. chromosomal instability, 2. microsatellite instability and
-3. CpG island methylator phenotype. Microsatellite instability (MSI) usually
-arises from a germline mutation of the component of mismatch repair machinery
-(MMR) or somatic hypermethylation of the MLH1 promoter. The diagnostic approaches
-include PCR methods and immunohistochemistry for the detection of the loss of MMR
-part. The aim of our study was to characterise the cohort of ongoing study of gut
-microbiome in CRC patients considering MSI.
-MATERIAL AND METHODS: The consecutive study group consisted of 103 patients
-diagnosed with CRC. The cohort consisted of 45 women (43.7%) and 58 men (56.3%). 
-Patient age at the time of diagnosis was within the range of 31-83 years (median 
-66 years). The expression of MLH1, MSH2, MSH6 and PMS2 proteins was detected by
-immunohistochemical method and the positivity was correlated with the stage and
-the localization of the primary tumour.
-RESULTS: The MMR status was determined by immunohistochemical method in 43
-(41.7%) from the existing total of 103 patients. MSI was detected in 11 (25.6%)
-cases while 32 (74.4%) were microsatellite stabile. With the respect to cancer
-clasification the most cases of MSI was detected in stage II (8 cases; 22.2%). In
-regard to localization of primary tumour, MSI rather correlates to right site
-CRC, while microsatellite stable tumours do not show any site preferences.
-CONCLUSION: Considering low number of MMR status determination in study group,
-statistic evaluation is inaccurate so far. However there is a trend in our cohort
-in relation to determination of the portion of MSI in CRC population and also in 
-localization of primary tumour according to literature.Key words: colorectal
-carcinoma - microsatellite instability - Lynch syndrome The work was supported by
-the project MEYS - NPS I - LO1413 and AZV 16-31966A. The authors declare they
-have no potential conflicts of interest concerning drugs, products, or services
-used in the study. The Editorial Board declares that the manuscript met the ICMJE
-recommendation for biomedical papers.Submitted: 13. 3. 2017Accepted: 26. 3. 2017.
-
-
-PMID: 28471193 
-
-
 81. Epidemiol Rev. 2017 Jan 1;39(1):1-10. doi: 10.1093/epirev/mxx009.
 
 Reducing Cancer Burden in the Population: An Overview of Epidemiologic Evidence
