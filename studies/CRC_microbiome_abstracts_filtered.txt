@@ -311,33 +311,6 @@ DOI: 10.1038/s41522-017-0034-1
 PMCID: PMC5665930
 PMID: 29104759 
 
-33. Int J Food Sci Nutr. 2017 Nov 2:1-13. doi: 10.1080/09637486.2017.1393503. [Epub
-ahead of print]
-
-Dietary components that counteract the increased risk of colorectal cancer
-related to red meat consumption.
-
-Sasso A(1), Latella G(1).
-
-Author information: 
-(1)a Division of Gastroenterology, Hepatology and Nutrition, Department of Life, 
-Health, and Environmental Sciences , University of L'Aquila , L'Aquila , Italy.
-
-Western-style diets are associated with an increased risk of colorectal cancer
-(CRC). In particular, a strong correlation has been documented between CRC and
-the consumption of large amounts of red meat, especially processed red meat.
-Compared with white meat, red meat contains high levels of haem iron, a molecule 
-that can exert a variety of genotoxic and other adverse effects on the colonic
-epithelium. According to current international guidelines, the reduction of red
-meat intake combined with the consumption of food containing antioxidant and
-chemoprotective substances may significantly reduce the risk of developing CRC.
-The dietary strategies that can help to contrast the harmful effects of haem iron
-are reported and discussed in this review.
-
-DOI: 10.1080/09637486.2017.1393503 
-PMID: 29096565 
-
-
 34. Onco Targets Ther. 2017 Oct 17;10:5031-5046. doi: 10.2147/OTT.S145949.
 eCollection 2017.
 
