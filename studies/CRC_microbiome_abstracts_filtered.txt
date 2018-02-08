@@ -1183,53 +1183,6 @@ DOI: 10.3389/fcimb.2016.00179
 PMCID: PMC5145865
 PMID: 28018861  [Indexed for MEDLINE]
 
-
-11. J Clin Pathol. 2017 Jul;70(7):600-606. doi: 10.1136/jclinpath-2016-204165. Epub
-2016 Dec 23.
-
-Examining the potential use and long-term stability of guaiac faecal occult blood
-test cards for microbial DNA 16S rRNA sequencing.
-
-Taylor M(1), Wood HM(1), Halloran SP(2), Quirke P(1).
-
-Author information: 
-(1)Section of Pathology and Tumor Biology, Leeds Institute of Cancer and
-Pathology, University of Leeds, Leeds, UK.
-(2)NHS Bowel Cancer Screening Programme Hub, University of Surrey, Guildford, UK.
-
-AIMS: With a growing interest in the influence the gut microbiome has on the
-development of colorectal cancer (CRC), we investigated the feasibility and
-stability of isolating and typing microbial DNA from guaiac faecal occult blood
-test (gFOBt) cards. This has the future potential to screen the microbial
-populations present in confirmed colorectal neoplasia cases with aims to predict 
-the presence and development of CRC.
-METHODS: Fresh stool samples from three healthy volunteers were applied to gFOBt 
-cards. DNA was extracted from both the cards and fresh stool samples. A series of
-additional cards were prepared from one volunteer, and extracted at time points
-between 2 weeks and 3 years. The V4 region of the 16S rRNA gene was amplified and
-sequenced on an Illumina MiSeq at 2×250 bp read lengths. Data were analysed using
-QIIME software.
-RESULTS: Samples were grouped both by volunteer and by type (fresh or gFOBt), and
-compared a variety of ways: visual inspection of taxa, α and β diversity,
-intraclass correlation. In all comparisons, samples grouped by volunteer, and not
-by sample type. The different time points showed no appreciable differences with 
-increased storage time.
-CONCLUSIONS: This study has demonstrated that there is good concordance between
-microbial DNA isolated from fresh stool sample, and from the matched gFOBt card. 
-Samples stored for up to 3 years showed no detrimental effect on measureable
-microbial DNA. This study has important future implications for investigating
-microbial influence on CRC development and other pathologies.
-
-Published by the BMJ Publishing Group Limited. For permission to use (where not
-already granted under a licence) please go to
-http://www.bmj.com/company/products-services/rights-and-licensing/.
-
-DOI: 10.1136/jclinpath-2016-204165 
-PMID: 28011577  [Indexed for MEDLINE]
-
-Conflict of interest statement: Competing interests: None.
-
-
 12. Trends Mol Med. 2017 Jan;23(1):18-30. doi: 10.1016/j.molmed.2016.11.004. Epub
 2016 Dec 13.
 
