@@ -897,56 +897,6 @@ DOI: 10.1186/s40168-017-0238-x
 PMCID: PMC5338091
 PMID: 28264712 
 
-
-97. Mol Nutr Food Res. 2017 Sep;61(9). doi: 10.1002/mnfr.201600984. Epub 2017 Mar 30.
-
-Boswellia serrata resin extract alleviates azoxymethane (AOM)/dextran sodium
-sulfate (DSS)-induced colon tumorigenesis.
-
-Chou YC(1), Suh JH(2), Wang Y(2), Pahwa M(3), Badmaev V(4), Ho CT(5), Pan
-MH(1)(6)(7).
-
-Author information: 
-(1)Institute of Food Science and Technology, National Taiwan University, Taipei, 
-Taiwan.
-(2)Department of Food Science and Human Nutrition, Citrus Research and Education 
-Center, University of Florida, Lake Alfred, FL, USA.
-(3)India Glycols Ltd., Noida, India.
-(4)American Medical Holdings Incorporated, New York, NY, USA.
-(5)Department of Food Science, Rutgers University, New Brunswick, NJ, USA.
-(6)Department of Medical Research, China Medical University Hospital, China
-Medical University, Taichung, Taiwan.
-(7)Department of Health and Nutrition Biotechnology, Asia University, Taichung,
-Taiwan.
-
-SCOPE: Boswellia serrata (BS) resin is a popular dietary supplement for joint
-nourishment. In this study, we investigated the chemopreventive effects of
-dietary BS extract and its impact of gut microbiota on azoxymethane/dextran
-sulfate sodium (AOM/DSS)-induced colitis-associated colon cancer in mice.
-METHODS AND RESULTS: Male ICR mice were injected with AOM and 2% DSS via drinking
-water. The mice were fed with 0.25 or 0.5% BS extract, and colonic tissue were
-collected at 15 weeks. The main effective components of BS supercritical CO2
-extraction were analyzed by LC-MS/MS are boswellic acids. We found that treatment
-with BS extract significantly reduce the colonic tumor formation. Western blot
-and histological analysis revealed that dietary BS extract could markedly reduce 
-the inflammation associated protein levels expression. Furthermore, BS extract
-reduced cell proliferation via inhibiting phosphorylation level of protein kinase
-B (Akt), glycogen synthase kinase 3β (GSK3β), and downregulation of cyclin D1. In
-addition, BS extract also altered the composition of gut microbiota by enhancing 
-the proportion of Clostridiales and reducing the percentage of Bacteroidales.
-CONCLUSION: In summary, BS extract decreased the protein levels of inflammative
-enzymes such as inducible nitric oxide synthase and cyclooxygenase-2 in colonic
-mucosa. It also mediated Akt/GSK3β/cyclin D1 signaling pathway and altered the
-composition of gut microbiota to alleviate tumor growth. Taken together, this
-study suggests that BS extract has great potential to suppress colon
-tumorigenesis.
-
-© 2017 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim.
-
-DOI: 10.1002/mnfr.201600984 
-PMID: 28245338 
-
-
 98. New Microbes New Infect. 2017 Jan 16;16:63-72. doi: 10.1016/j.nmni.2017.01.004.
 eCollection 2017 Mar.
 
