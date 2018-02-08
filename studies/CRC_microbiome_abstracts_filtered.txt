@@ -720,49 +720,6 @@ PMID: 28698865
 Conflict of interest statement: CONFLICTS OF INTEREST No potential conflicts of
 interest were disclosed.
 
-69. Br J Nutr. 2017 May;117(9):1244-1256. doi: 10.1017/S0007114517001106.
-
-Heat-stabilised rice bran consumption by colorectal cancer survivors modulates
-stool metabolite profiles and metabolic networks: a randomised controlled trial.
-
-Brown DG(1), Borresen EC(1), Brown RJ(2), Ryan EP(1).
-
-Author information: 
-(1)1Department of Environmental and Radiological Health Sciences,Colorado State
-University,Fort Collins,CO 80521,USA.
-(2)2Division of Medical Oncology,University of Colorado School of
-Medicine,Aurora,CO 80045,USA.
-
-Rice bran (RB) consumption has been shown to reduce colorectal cancer (CRC)
-growth in mice and modify the human stool microbiome. Changes in host and
-microbial metabolism induced by RB consumption was hypothesised to modulate the
-stool metabolite profile in favour of promoting gut health and inhibiting CRC
-growth. The objective was to integrate gut microbial metabolite profiles and
-identify metabolic pathway networks for CRC chemoprevention using non-targeted
-metabolomics. In all, nineteen CRC survivors participated in a parallel
-randomised controlled dietary intervention trial that included daily consumption 
-of study-provided foods with heat-stabilised RB (30 g/d) or no additional
-ingredient (control). Stool samples were collected at baseline and 4 weeks and
-analysed using GC-MS and ultra-performance liquid chromatography-MS. Stool
-metabolomics revealed 93 significantly different metabolites in individuals
-consuming RB. A 264-fold increase in β-hydroxyisovaleroylcarnitine and 18-fold
-increase in β-hydroxyisovalerate exemplified changes in leucine, isoleucine and
-valine metabolism in the RB group. A total of thirty-nine stool metabolites were 
-significantly different between RB and control groups, including increased
-hesperidin (28-fold) and narirutin (14-fold). Metabolic pathways impacted in the 
-RB group over time included advanced glycation end products, steroids and bile
-acids. Fatty acid, leucine/valine and vitamin B6 metabolic pathways were
-increased in RB compared with control. There were 453 metabolites identified in
-the RB food metabolome, thirty-nine of which were identified in stool from RB
-consumers. RB consumption favourably modulated the stool metabolome of CRC
-survivors and these findings suggest the need for continued dietary CRC
-chemoprevention efforts.
-
-DOI: 10.1017/S0007114517001106 
-PMCID: PMC5654571
-PMID: 28643618  [Indexed for MEDLINE]
-
-
 70. Curr Pharmacol Rep. 2017 Jun;3(3):114-125. doi: 10.1007/s40495-017-0088-z. Epub
 2017 Apr 7.
 
