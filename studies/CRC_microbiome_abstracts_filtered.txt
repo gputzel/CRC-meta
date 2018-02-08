@@ -592,63 +592,6 @@ DOI: 10.1038/s41598-017-08150-3
 PMCID: PMC5566496
 PMID: 28827587 
 
-61. Clin Transl Oncol. 2017 Aug 14. doi: 10.1007/s12094-017-1717-z. [Epub ahead of
-print]
-
-Role of intestinal microbiome in American ginseng-mediated colon cancer
-protection in high fat diet-fed AOM/DSS mice.
-
-Wang CZ(1), Huang WH(2)(3), Zhang CF(2), Wan JY(2), Wang Y(4), Yu C(2), Williams 
-S(2), He TC(5), Du W(6), Musch MW(4), Chang EB(4), Yuan CS(2)(7).
-
-Author information: 
-(1)Tang Center for Herbal Medicine Research, and Department of Anesthesia and
-Critical Care, The Pritzker School of Medicine, University of Chicago, 5841 South
-Maryland Avenue, MC 4028, Chicago, IL, 60637, USA. cwang@dacc.uchicago.edu.
-(2)Tang Center for Herbal Medicine Research, and Department of Anesthesia and
-Critical Care, The Pritzker School of Medicine, University of Chicago, 5841 South
-Maryland Avenue, MC 4028, Chicago, IL, 60637, USA.
-(3)Department of Clinical Pharmacology, Xiangya Hospital, Central South
-University, Changsha, 410008, China.
-(4)Department of Medicine, Knapp Center for Biomedical Discovery, The Pritzker
-School of Medicine, University of Chicago, Chicago, IL, 60637, USA.
-(5)Molecular Oncology Laboratory, Department of Orthopedic Surgery, The Pritzker 
-School of Medicine, University of Chicago, Chicago, IL, 60637, USA.
-(6)Ben May Department for Cancer Research, The Pritzker School of Medicine,
-University of Chicago, Chicago, IL, 60637, USA.
-(7)Committee on Clinical Pharmacology and Pharmacogenomics, University of
-Chicago, Chicago, IL, 60637, USA.
-
-OBJECTIVE: Chronic intestinal inflammation is a risk factor for colorectal cancer
-(CRC) initiation and development. Diets that are rich in Western style fats have 
-been shown to promote CRC. This study was conducted to investigate the role of
-intestinal microbiome in American ginseng-mediated CRC chemoprevention in a mouse
-model. The population and diversity of enteric microbiome were evaluated after
-the ginseng treatment.
-METHODS: Using an azoxymethane (AOM)/dextran sulfate sodium (DSS)-induced gut
-inflammation and tumorigenesis mouse model, the effects of oral American ginseng 
-on high fat diet-associated enteric pathology were determined. After
-establishment of a 16S rRNA illumina library from fecal samples, MiSeq sequencing
-was carried out to reveal the microbial population. The alpha and beta
-diversities of microbiome were analyzed.
-RESULTS: American ginseng significantly attenuated AOM/DSS-induced colon
-inflammation and tumorigenesis by reducing the colitis score and colon tumor
-multiplicity. The MiSeq results showed that the majority of sequences fell into
-three phyla: Firmicutes, Bacteroidetes and Verrucomicrobia. Further, two
-significant abundance shifts at the family level, Bacteroidaceae and
-Porphyromonadaceae, were identified to support ginseng's anti-colitis and
-anti-tumor effects. In addition, alpha and beta diversity data demonstrated that 
-ginseng led to a profound recovery from the AOM/DSS-induced dysbiosis in the
-microbial community.
-CONCLUSION: Our results suggest that the CRC chemopreventive effects of American 
-ginseng are mediated through enteric microbiome population-shift recovery and
-dysbiosis restoration. Ginseng's regulation of the microbiome balance contributes
-to the maintenance of enteric homeostasis.
-
-DOI: 10.1007/s12094-017-1717-z 
-PMID: 28808878 
-
-
 62. Sci Rep. 2017 Aug 7;7(1):7458. doi: 10.1038/s41598-017-07992-1.
 
 Short-term treatment with eicosapentaenoic acid improves inflammation and affects
