@@ -545,44 +545,6 @@ PMCID: PMC5609654
 PMID: 28904330 
 
 
-55. Expert Rev Gastroenterol Hepatol. 2017 Dec;11(12):1119-1134. doi:
-10.1080/17474124.2017.1373017. Epub 2017 Sep 14.
-
-Luminally expressed gastrointestinal biomarkers.
-
-Cummins G(1), Yung DE(2), Cox BF(3), Koulaouzidis A(2), Desmulliez MPY(1),
-Cochran S(4).
-
-Author information: 
-(1)a Institute of Sensors, Signals and Systems, School of Engineering and
-Physical Sciences , Heriot-Watt University , Edinburgh , UK.
-(2)b The Royal Infirmary of Edinburgh , Endoscopy Unit , Edinburgh , UK.
-(3)c School of Medicine , University of Dundee , Dundee , UK.
-(4)d Medical and Industrial Ultrasonics, School of Engineering , University of
-Glasgow , Glasgow , UK.
-
-INTRODUCTION: A biomarker is a measurable indicator of normal biologic processes,
-pathogenic processes or pharmacological responses. The identification of a useful
-biomarker is challenging, with several hurdles to overcome before clinical
-adoption. This review gives a general overview of a range of biomarkers
-associated with inflammatory bowel disease or colorectal cancer along the
-gastrointestinal tract. Areas covered: These markers include those that are
-already clinically accepted, such as inflammatory markers such as faecal
-calprotectin, S100A12 (Calgranulin C), Fatty Acid Binding Proteins (FABP),
-malignancy markers such as Faecal Occult Blood, Mucins, Stool DNA, Faecal
-microRNA (miRNA), other markers such as Faecal Elastase, Faecal
-alpha-1-antitrypsin, Alpha2-macroglobulin and possible future markers such as
-microbiota, volatile organic compounds and pH. Expert commentary: There are
-currently a few biomarkers that have been sufficiently validated for routine
-clinical use at present such as FC. However, many of these biomarkers continue to
-be limited in sensitivity and specificity for various GI diseases. Emerging
-biomarkers have the potential to improve diagnosis and monitoring but further
-study is required to determine efficacy and validate clinical utility.
-
-DOI: 10.1080/17474124.2017.1373017 
-PMID: 28849686 
-
-
 56. ISME J. 2017 Dec;11(12):2848-2863. doi: 10.1038/ismej.2017.139. Epub 2017 Aug 22.
 
 Large-scale comparative metagenomics of Blastocystis, a common member of the
