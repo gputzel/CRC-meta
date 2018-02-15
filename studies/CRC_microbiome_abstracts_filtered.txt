@@ -1183,53 +1183,6 @@ DOI: 10.3389/fcimb.2016.00179
 PMCID: PMC5145865
 PMID: 28018861  [Indexed for MEDLINE]
 
-19. Oncotarget. 2017 Jan 3;8(1):444-457. doi: 10.18632/oncotarget.13443.
-
-Evolutionary biologic changes of gut microbiota in an 'adenoma-carcinoma
-sequence' mouse colorectal cancer model induced by 1, 2-Dimethylhydrazine.
-
-Sun T(1), Liu S(2), Zhou Y(2), Yao Z(3), Zhang D(4), Cao S(2), Wei Z(2), Tan
-B(2), Li Y(2), Lian Z(5), Wang S(6).
-
-Author information: 
-(1)Department of General Surgery, Qingdao municipal hospital, Qingdao, China.
-(2)Department of General Surgery, Affiliated Hospital of Qingdao University,
-Qingdao, China.
-(3)Department of General Surgery, Yantai Yuhuangding Hospital, Yantai, China.
-(4)Department of Epidemiology and Health Statistics, Qingdao University Medical
-College, Qingdao, China.
-(5)Department of General Surgery, Zhucheng People's Hospital, Weifang, China.
-(6)Department of General Surgery, Linzi District People's Hospital, Zibo, China.
-
-The molecular biological mechanisms underlying the evolutionary biologic changes 
-leading to carcinogenesis remain unclear. The main objective of our study was to 
-explore the evolution of the microbiota community and molecules related with CRC 
-in the dynamic transition from normal colon epithelium to premalignant adenoma
-with the aid of an 'adenoma-carcinoma sequence' mouse CRC model induced by DMH.
-We generated a modified mouse CRC model induced by DMH for DNA sequences, and
-characterized the molecular networks. Data from 454 pyrosequencing of the V3- V5 
-region of the 16S rDNA gene and immunohistochemical detection of APC, P53, K-RAS 
-and BRAF genes were assessed with Principal coordinates, UniFrac, and
-Kruskal-Wallis rank sum test. The inflammatory group showed enrichment of
-Bacteroidetes and Porphyromonadaceae (P < 0.01). OTUs affiliated with Firmicutes 
-were enriched in the hyperproliferative group (P < 0.01). Rikenellaceae and
-Ruminococcaceae showed an increasing trend during the CRC process while the
-opposite pattern was observed for Prevotellaceaeand Enterobacteriaceae. OTUs
-related to Alistipes finegoldii were significantly increased during CRC
-development, P53, K-RAS and BRAF, were gradually increased (P < 0.05).
-Conversely, expression of APC was decreased during the course of development of
-CRC. Our results demonstrate that the biological evolutionary shift of gut
-microbiota, characterized by a gradual decrease in 'driver' bacteria and an
-increase in DNA damage-causing bacteria, is accompanied by tumor development in
-the CRC model. The synergistic actions of microbiota dysbiosis and effects of
-bacterial metabolites on related molecular events are proposed to contribute to
-the progression of CRC tumorigenesis.
-
-DOI: 10.18632/oncotarget.13443 
-PMCID: PMC5352133
-PMID: 27880935 
-
-
 20. Oncotarget. 2016 Dec 20;7(51):85318-85331. doi: 10.18632/oncotarget.13347.
 
 Isoliquiritigenin decreases the incidence of colitis-associated colorectal cancer
