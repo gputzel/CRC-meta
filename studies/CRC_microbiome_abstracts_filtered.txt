@@ -1344,41 +1344,6 @@ DOI: 10.1158/1055-9965.EPI-16-0337
 PMCID: PMC5225053
 PMID: 27672054  [Indexed for MEDLINE]
 
-37. PeerJ. 2016 Jul 20;4:e2238. doi: 10.7717/peerj.2238. eCollection 2016.
-
-Proteomic indicators of oxidation and hydration state in colorectal cancer.
-
-Dick JM(1).
-
-Author information: 
-(1)Wattanothaipayap School , Chiang Mai , Thailand.
-
-New integrative approaches are needed to harness the potential of rapidly growing
-datasets of protein expression and microbial community composition in colorectal 
-cancer. Chemical and thermodynamic models offer theoretical tools to describe
-populations of biomacromolecules and their relative potential for formation in
-different microenvironmental conditions. The average oxidation state of carbon (Z
-C) can be calculated as an elemental ratio from the chemical formulas of
-proteins, and water demand per residue ([Formula: see text]) is computed by
-writing the overall formation reactions of proteins from basis species. Using
-results reported in proteomic studies of clinical samples, many datasets exhibit 
-higher mean Z C or [Formula: see text] of proteins in carcinoma or adenoma
-compared to normal tissue. In contrast, average protein compositions in bacterial
-genomes often have lower Z C for bacteria enriched in fecal samples from cancer
-patients compared to healthy donors. In thermodynamic calculations, the potential
-for formation of the cancer-related proteins is energetically favored by changes 
-in the chemical activity of H2O and fugacity of O2 that reflect the compositional
-differences. The compositional analysis suggests that a systematic change in
-chemical composition is an essential feature of cancer proteomes, and the
-thermodynamic descriptions show that the observed proteomic transformations in
-host tissue could be promoted by relatively high microenvironmental oxidation and
-hydration states.
-
-DOI: 10.7717/peerj.2238 
-PMCID: PMC4958012
-PMID: 27547546 
-
-
 38. Clin Cancer Res. 2016 Aug 15;22(16):4158-69. doi: 10.1158/1078-0432.CCR-15-2379.
 
 Prevention of Colitis and Colitis-Associated Colorectal Cancer by a Novel
