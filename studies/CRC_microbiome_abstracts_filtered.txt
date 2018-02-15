@@ -1344,30 +1344,6 @@ DOI: 10.1158/1055-9965.EPI-16-0337
 PMCID: PMC5225053
 PMID: 27672054  [Indexed for MEDLINE]
 
-35. Atherosclerosis. 2016 Oct;253:278-280. doi:
-10.1016/j.atherosclerosis.2016.08.012. Epub 2016 Aug 20.
-
-Bowel movement frequency and cardiovascular mortality, a matter of fibers and
-oxidative stress?
-
-Vermorken AJ(1), Cui Y(2), Kleerebezem R(3), Andrès E(4).
-
-Author information: 
-(1)College of Life Sciences, Northwest University, Xi'an, Shaanxi, China;
-National Engineering Research Center for Miniaturized Detection Systems, Xi'an,
-Shaanxi, China. Electronic address: fons@nwu.edu.cn.
-(2)College of Life Sciences, Northwest University, Xi'an, Shaanxi, China;
-National Engineering Research Center for Miniaturized Detection Systems, Xi'an,
-Shaanxi, China.
-(3)Department of Biotechnology, Delft University of Technology, Delft, The
-Netherlands.
-(4)Department of Internal Medicine, Diabetes and Metabolic Disorders, University 
-Hospital of Strasbourg, Strasbourg, France.
-
-DOI: 10.1016/j.atherosclerosis.2016.08.012 
-PMID: 27594542 
-
-
 36. Immunity. 2016 Sep 20;45(3):641-655. doi: 10.1016/j.immuni.2016.08.008. Epub 2016
 Aug 30.
 
