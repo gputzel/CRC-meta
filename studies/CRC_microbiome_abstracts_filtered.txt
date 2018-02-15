@@ -1854,68 +1854,6 @@ DOI: 10.1016/j.ebiom.2015.04.010
 PMCID: PMC4535156
 PMID: 26288821  [Indexed for MEDLINE]
 
-3. Proc Natl Acad Sci U S A. 2015 Aug 11;112(32):10038-43. doi:
-10.1073/pnas.1507645112. Epub 2015 Jul 27.
-
-Gut microbiota facilitates dietary heme-induced epithelial hyperproliferation by 
-opening the mucus barrier in colon.
-
-Ijssennagger N(1), Belzer C(2), Hooiveld GJ(3), Dekker J(4), van Mil SW(5),
-Müller M(6), Kleerebezem M(7), van der Meer R(6).
-
-Author information: 
-(1)Top Institute Food and Nutrition, 6709 PA, Wageningen, The Netherlands;
-Nutrition, Metabolism & Genomics Group, Division of Human Nutrition, Wageningen
-University, 6703 HD, Wageningen, The Netherlands; Department of Molecular Cancer 
-Research, Center for Molecular Medicine, University Medical Center Utrecht, 3508 
-AB, Utrecht, The Netherlands; n.ijssennagger@umcutrecht.nl.
-(2)Top Institute Food and Nutrition, 6709 PA, Wageningen, The Netherlands;
-Laboratory of Microbiology, Wageningen University, 6703 HB, Wageningen, The
-Netherlands;
-(3)Nutrition, Metabolism & Genomics Group, Division of Human Nutrition,
-Wageningen University, 6703 HD, Wageningen, The Netherlands;
-(4)Top Institute Food and Nutrition, 6709 PA, Wageningen, The Netherlands; Host
-Microbe Interactomics Group, Animal Science Department, 6700 AH, Wageningen, The 
-Netherlands;
-(5)Department of Molecular Cancer Research, Center for Molecular Medicine,
-University Medical Center Utrecht, 3508 AB, Utrecht, The Netherlands;
-(6)Top Institute Food and Nutrition, 6709 PA, Wageningen, The Netherlands;
-Nutrition, Metabolism & Genomics Group, Division of Human Nutrition, Wageningen
-University, 6703 HD, Wageningen, The Netherlands;
-(7)Top Institute Food and Nutrition, 6709 PA, Wageningen, The Netherlands; Host
-Microbe Interactomics Group, Animal Science Department, 6700 AH, Wageningen, The 
-Netherlands; Health Department, NIZO Food Research, 6710 BA, Ede, The
-Netherlands.
-
-Colorectal cancer risk is associated with diets high in red meat. Heme, the
-pigment of red meat, induces cytotoxicity of colonic contents and elicits
-epithelial damage and compensatory hyperproliferation, leading to hyperplasia.
-Here we explore the possible causal role of the gut microbiota in heme-induced
-hyperproliferation. To this end, mice were fed a purified control or heme diet
-(0.5 μmol/g heme) with or without broad-spectrum antibiotics for 14 d.
-Heme-induced hyperproliferation was shown to depend on the presence of the gut
-microbiota, because hyperproliferation was completely eliminated by antibiotics, 
-although heme-induced luminal cytotoxicity was sustained in these mice. Colon
-mucosa transcriptomics revealed that antibiotics block heme-induced differential 
-expression of oncogenes, tumor suppressors, and cell turnover genes, implying
-that antibiotic treatment prevented the heme-dependent cytotoxic micelles to
-reach the epithelium. Our results indicate that this occurs because antibiotics
-reinforce the mucus barrier by eliminating sulfide-producing bacteria and
-mucin-degrading bacteria (e.g., Akkermansia). Sulfide potently reduces disulfide 
-bonds and can drive mucin denaturation and microbial access to the mucus layer.
-This reduction results in formation of trisulfides that can be detected in vitro 
-and in vivo. Therefore, trisulfides can serve as a novel marker of colonic
-mucolysis and thus as a proxy for mucus barrier reduction. In feces, antibiotics 
-drastically decreased trisulfides but increased mucin polymers that can be lysed 
-by sulfide. We conclude that the gut microbiota is required for heme-induced
-epithelial hyperproliferation and hyperplasia because of the capacity to reduce
-mucus barrier function.
-
-DOI: 10.1073/pnas.1507645112 
-PMCID: PMC4538683
-PMID: 26216954  [Indexed for MEDLINE]
-
-
 4. Nat Cell Biol. 2015 Aug;17(8):1062-73. doi: 10.1038/ncb3206. Epub 2015 Jul 27.
 
 Intestinal inhibition of Atg7 prevents tumour initiation through a
