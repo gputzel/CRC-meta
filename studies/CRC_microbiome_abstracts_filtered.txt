@@ -1278,51 +1278,6 @@ DOI: 10.1080/07315724.2016.1185386
 PMCID: PMC5477991
 PMID: 27797671  [Indexed for MEDLINE]
 
-27. Oncotarget. 2016 Jun 28;7(26):39572-39581. doi: 10.18632/oncotarget.9138.
-
-Polymorphisms in the CHIT1 gene: Associations with colorectal cancer.
-
-Li FF(1)(2), Yan P(3), Zhao ZX(3), Liu Z(4), Song DW(3), Zhao XW(3), Wang
-XS(2)(4), Wang GY(2)(3), Liu SL(1)(2)(5).
-
-Author information: 
-(1)Genomics Research Center, State-Province Key Laboratory of Biopharmaceutical
-Engineering, Harbin Medical University, Harbin, China.
-(2)Translational Medicine Research and Cooperation Center of Northern China,
-Heilongjiang Academy of Medical Sciences, Heilongjiang, China.
-(3)Department of Colorectal Surgery, Second Affiliated Hospital of Harbin Medical
-University, Harbin, China.
-(4)Department of Colorectal Surgery, Cancer Institute and Hospital, Chinese
-Academy of Medical Sciences and Peking Union Medical College, Beijing, China.
-(5)Department of Microbiology, Immunology and Infectious Diseases, University of 
-Calgary, Calgary, Canada.
-
-Colorectal cancer (CRC) is one of the most common solid tumors worldwide, often
-associated with inflammation. The microbes in the human intestine have a key role
-in inflammations and CRC. Chitotriose renders growth advantage to some bacteria, 
-especially some pathogens, and thus has a role in inflammations. The enzyme
-chitotriosidase, encoded by the CHIT1 gene of the host, may degrade chitotriose
-with different efficiencies depending on the alleles. We sequenced the CHIT1 gene
-for 320 Chinese Han CRC patients and 404 normal controls, and focused on
-variations rs61745299 and rs35920428 within the CHIT1 gene for their possible
-roles in CRC. Statistical analyses were conducted using Chi-Square Tests as
-implemented in SPSS (version 19.0). Multiple sequence alignment was conducted
-using the Vector NTI, and protein expression levels were analyzed by western
-blotting. The two variations, rs61745299 and rs35920428 within the CDS region of 
-CHIT1 gene, were associated with the risk of CRC (both with P values < 0.001).
-Western blotting analysis showed that the variations increased the expression
-levels of the CHIT1 and C-reaction protein genes in the cancer tissue. We
-conclude that the two variations of CHIT1, rs61745299 and rs35920428, increase
-expression of the gene and are associated with CRC in Chinese Han populations.
-
-DOI: 10.18632/oncotarget.9138 
-PMCID: PMC5129954
-PMID: 27153562  [Indexed for MEDLINE]
-
-Conflict of interest statement: The authors have declared that no competing
-interests exist.
-
-
 28. J Clin Invest. 2016 Dec 1;126(12):4469-4481. doi: 10.1172/JCI88625. Epub 2016 Oct
 24.
 
