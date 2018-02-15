@@ -1597,54 +1597,6 @@ environment and will help direct future mechanism studies.
 PMID: 26616803 
 
 
-81. Folia Microbiol (Praha). 2016 Jul;61(4):295-9. doi: 10.1007/s12223-015-0437-4.
-Epub 2015 Nov 26.
-
-Anti-Outer membrane protein C antibodies in colorectal neoplasia.
-
-Kohoutova D(1)(2), Drahosova M(3), Cihak M(4), Moravkova P(5), Bures J(5).
-
-Author information: 
-(1)2nd Department of Internal Medicine - Gastroenterology, Charles University in 
-Prague, Faculty of Medicine at Hradec Kralove, University Teaching Hospital,
-Sokolska 581, 50005, Hradec Kralove, Czech Republic. darina.kohoutova@seznam.cz.
-(2)Division of Surgery and Interventional Science, University College London,
-67-73 Riding House Street, London, W1W 7EJ, UK. darina.kohoutova@seznam.cz.
-(3)Department of Clinical Immunology and Allergology, Charles University in
-Prague, Faculty of Medicine at Hradec Kralove, University Teaching Hospital,
-Sokolska 581, 50005, Hradec Kralove, Czech Republic.
-(4)Department of Mathematics, Faculty of Science, University of Hradec Kralove,
-Jana Koziny 1237, 500 03, Hradec Kralove, Czech Republic.
-(5)2nd Department of Internal Medicine - Gastroenterology, Charles University in 
-Prague, Faculty of Medicine at Hradec Kralove, University Teaching Hospital,
-Sokolska 581, 50005, Hradec Kralove, Czech Republic.
-
-Sporadic colorectal cancer (CRC) represents an enormous problem worldwide. Large 
-intestinal microbiota play an important role in the colorectal carcinogenesis.
-The aim of the study was to investigate anti-Outer membrane protein C (anti-OmpC)
-antibodies, aimed at porin C, which is embedded in the outer membrane of
-gram-negative bacteria, in patients with colorectal adenoma (CRA), CRC and
-controls. The study included 22 patients with CRA (11 men, 11 women, aged 26-79, 
-mean 65 ± 12), 11 patients with CRC (9 men, 2 women, aged 50-83, mean 66 ± 11)
-and 45 controls, blood donors (24 men, 21 women, aged 20-58, mean 38 ± 10). Serum
-anti-OmpC antibodies were investigated by means of ELISA. Values of 0-20 U/mL
-were considered to be negative; values >25 U/mL were assessed as positive. A
-total of 9/11 (82 %) patients with CRC had positive anti-OmpC antibodies.
-Anti-OmpC antibodies were negative or grey-zone in 37/45 (82 %) controls. Serum
-anti-OmpC were found to be significantly higher in patients with CRC (median
-42.4, interquartile range (IQR) 22.2) compared to controls (median 18.3, IQR
-12.4), p < 0.001. No statistically significant difference in anti-OmpC was found 
-between controls (median 18.3, IQR 12.4) and CRA patients (median 17.7, IQR
-16.5), p = 0.326. Anti-OmpC were significantly higher in patients with CRC
-(median 42.4, IQR 22.2) compared to patients with CRA (median 17.7, IQR 16.5),
-p = 0.011. Positivity of anti-OmpC antibodies was found in patients with CRC,
-which supports the contribution of gram-negative large intestinal microbiota to
-the pathogenesis of CRC.
-
-DOI: 10.1007/s12223-015-0437-4 
-PMID: 26612659  [Indexed for MEDLINE]
-
-
 82. Food Funct. 2016 Apr;7(4):1769-74. doi: 10.1039/c5fo01100k.
 
 The human gut microbial ecology associated with overweight and obesity determines
