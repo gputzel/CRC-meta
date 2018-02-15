@@ -1278,66 +1278,6 @@ DOI: 10.1080/07315724.2016.1185386
 PMCID: PMC5477991
 PMID: 27797671  [Indexed for MEDLINE]
 
-31. J Cancer. 2016 Aug 12;7(13):1780-1790. eCollection 2016.
-
-Diet- and Genetically-induced Obesity Produces Alterations in the Microbiome,
-Inflammation and Wnt Pathway in the Intestine of Apc+/1638N Mice: Comparisons and
-Contrasts.
-
-Liu W(1), Crott JW(2), Lyu L(3), Pfalzer AC(2), Li J(3), Choi SW(4), Yang Y(5),
-Mason JB(6), Liu Z(7).
-
-Author information: 
-(1)Nutrition and Cancer Prevention Laboratory, School of Public Health and Health
-Sciences, University of Massachusetts, Amherst, USA.; Institute of Food Science
-and Technology, Shandong Academy of Agricultural Sciences, Jinan, China.
-(2)Jean Mayer USDA Human Nutrition Research Center on Aging, Tufts University,
-Boston, USA.
-(3)Nutrition and Cancer Prevention Laboratory, School of Public Health and Health
-Sciences, University of Massachusetts, Amherst, USA.
-(4)Nutrition and Cancer Prevention Laboratory, School of Public Health and Health
-Sciences, University of Massachusetts, Amherst, USA.; CHA Cancer Research Center,
-CHA University, Seoul, Korea.
-(5)Department of Molecular Medicine, Hunan University, Changsha, China.
-(6)Jean Mayer USDA Human Nutrition Research Center on Aging, Tufts University,
-Boston, USA.; Tufts Medical Center Cancer Center, Tufts University, Boston, USA.
-(7)Nutrition and Cancer Prevention Laboratory, School of Public Health and Health
-Sciences, University of Massachusetts, Amherst, USA.; Jean Mayer USDA Human
-Nutrition Research Center on Aging, Tufts University, Boston, USA.
-
-Obesity is an established risk factor for colorectal cancer (CRC). Our previous
-study indicated that obesity increases activity of the pro-tumorigenic
-Wnt-signaling. Presently, we sought to further advance our understanding of the
-mechanisms by which obesity promotes CRC by examining associations between
-microbiome, inflammation and Wnt-signaling in Apc+/1638N mice whose obesity was
-induced by one of two modalities, diet- or genetically-induced obesity. Three
-groups were employed: Apc+/1638NLepr+/+ fed a low fat diet (10% fat),
-Apc+/1638NLepr+/+ fed a high fat diet (60% fat, diet-induced obesity), and
-Apc+/1638NLeprdb/db fed a low fat diet (genetically-induced obesity). All animals
-received diets for 16 weeks from 8 to 24 weeks of age. The abundance of 19 bowel 
-cancer-associated bacterial taxa were examined by real-time PCR. The abundance of
-Turicibacter and Desulfovibrio decreased, but F. prausnitizii increased, in
-diet-induced obese mice (p < 0.05). In contrast, in genetically-induced obese
-mice, Bifidobacterium, A. muciniphila and E. rectale decreased, but
-Peptostrptococcus, and E. coli increased (p < 0.05). Both diet- and
-genetically-induced obesity altered the expression of genes involved in bacterial
-recognition (MyD88) and increased inflammation as indicated by elevated levels of
-cytokines (IFNγ and TNF-α for genetically-induced obesity, and IL-6 for
-diet-induced obesity). The elevated inflammation was associated with altered
-expression of genes that are integral components of the Wnt-signaling cascade in 
-a fashion indicating its activation. These findings demonstrate that the
-composition of the small intestinal microbiome is affected differently in diet-
-and genetically-induced obesity, but both are associated with elevated intestinal
-inflammation and alterations of the Wnt pathway towards enhancing tumorigenesis.
-
-DOI: 10.7150/jca.15792 
-PMCID: PMC5039360
-PMID: 27698916 
-
-Conflict of interest statement: The authors have declared that no competing
-interest exists.
-
-
 32. Clin Cancer Res. 2017 Apr 15;23(8):2061-2070. doi: 10.1158/1078-0432.CCR-16-1599.
 Epub 2016 Oct 3.
 
