@@ -1514,45 +1514,6 @@ DOI: 10.1371/journal.pone.0152126
 PMCID: PMC4807824
 PMID: 27015276  [Indexed for MEDLINE]
 
-68. J Immunol Res. 2016;2016:9170162. doi: 10.1155/2016/9170162. Epub 2016 Feb 23.
-
-Colonic Mucosal Epigenome and Microbiome Development in Children and Adolescents.
-
-Harris RA(1), Shah R(2), Hollister EB(3), Tronstad RR(4), Hovdenak N(5), Szigeti 
-R(6), Versalovic J(3), Kellermayer R(7).
-
-Author information: 
-(1)Department of Molecular and Human Genetics, Baylor College of Medicine,
-Houston, TX 77030, USA.
-(2)Section of Gastroenterology and Hepatology, Baylor College of Medicine,
-Houston, TX 77030, USA.
-(3)Department of Pathology & Immunology, Baylor College of Medicine, Houston, TX 
-77030, USA; Texas Children's Hospital, Houston, TX 77030, USA.
-(4)Department of Clinical Science, University of Bergen, 5020 Bergen, Norway;
-Department of Pediatrics, Haukeland University Hospital, 5021 Bergen, Norway.
-(5)Department of Clinical Medicine, University of Bergen, 5020 Bergen, Norway.
-(6)Department of Pathology & Immunology, Baylor College of Medicine, Houston, TX 
-77030, USA.
-(7)Texas Children's Hospital, Houston, TX 77030, USA; Section of Pediatric
-Gastroenterology, Department of Pediatrics, Baylor College of Medicine, Houston, 
-TX 77030, USA; USDA/ARS Children's Nutrition Research Center, Houston, TX 77030, 
-USA.
-
-Epigenetic and microbiome changes during pediatric development have been
-implicated as important elements in the developmental origins of inflammatory
-bowel diseases (IBDs) including Crohn's disease (CD) and ulcerative colitis (UC),
-which are linked to early onset colorectal cancer (CRC). Colonic mucosal samples 
-from 22 control children between 3.5 and 17.5 years of age were studied by
-Infinium HumanMethylation450 BeadChips and, in 10 cases, by 454 pyrosequencing of
-the bacterial 16S rRNA gene. Intercalating age-specific DNA methylation and
-microbiome changes were identified, which may have significant translational
-relevance in the developmental origins of IBD and CRC.
-
-DOI: 10.1155/2016/9170162 
-PMCID: PMC4781967
-PMID: 27006956  [Indexed for MEDLINE]
-
-
 69. Food Chem Toxicol. 2016 Jun;92:8-16. doi: 10.1016/j.fct.2016.03.011. Epub 2016
 Mar 16.
 
