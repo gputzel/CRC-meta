@@ -1811,55 +1811,6 @@ DOI: 10.18632/oncotarget.5166
 PMCID: PMC4741656
 PMID: 26397137  [Indexed for MEDLINE]
 
-
-94. Oncotarget. 2015 Oct 20;6(32):33689-704. doi: 10.18632/oncotarget.5604.
-
-Differential susceptibility to colorectal cancer due to naturally occurring gut
-microbiota.
-
-Ericsson AC(1)(2)(3)(4), Akter S(5), Hanson MM(3)(4), Busi SB(3)(4), Parker
-TW(3)(4), Schehr RJ(4), Hankins MA(1)(3)(4), Ahner CE(3)(4), Davis JW(5)(6),
-Franklin CL(2)(3)(4), Amos-Landgraf JM(1)(3)(4), Bryda EC(1)(3)(4).
-
-Author information: 
-(1)Rat Resource and Research Center, University of Missouri, Columbia, MO, USA.
-(2)MU Metagenomics Center, University of Missouri, Columbia, MO, USA.
-(3)Department of Veterinary Pathobiology, University of Missouri, Columbia, MO,
-USA.
-(4)College of Veterinary Medicine, University of Missouri, Columbia, MO, USA.
-(5)MU Informatics Institute, University of Missouri, Columbia, MO, USA.
-(6)Department of Health Management and Informatics, University of Missouri,
-Columbia, MO, USA.
-
-Recent studies investigating the human microbiome have identified particular
-bacterial species that correlate with the presence of colorectal cancer. To
-evaluate the role of qualitatively different but naturally occurring gut
-microbiota and the relationship with colorectal cancer development, genetically
-identical embryos from the Polyposis in Rat Colon (Pirc) rat model of colorectal 
-cancer were transferred into recipients of three different genetic backgrounds
-(F344/NHsd, LEW/SsNHsd, and Crl:SD). Tumor development in the pups was tracked
-longitudinally via colonoscopy, and end-stage tumor burden was determined. To
-confirm vertical transmission and identify associations between the gut
-microbiota and disease phenotype, the fecal microbiota was characterized in
-recipient dams 24 hours pre-partum, and in Pirc rat offspring prior to and during
-disease progression. Our data show that the gut microbiota varies between rat
-strains, with LEW/SsNHsd having a greater relative abundance of the bacteria
-Prevotella copri. The mature gut microbiota of pups resembled the profile of
-their dams, indicating that the dam is the primary determinant of the developing 
-microbiota. Both male and female F344-Pirc rats harboring the Lewis microbiota
-had decreased tumor burden relative to genetically identical rats harboring F344 
-or SD microbiota. Significant negative correlations were detected between tumor
-burden and the relative abundance of specific taxa from samples taken at weaning 
-and shortly thereafter, prior to observable adenoma development. Notably, this
-naturally occurring variation in the gut microbiota is associated with a
-significant difference in severity of colorectal cancer, and the abundance of
-certain taxa is associated with decreased tumor burden.
-
-DOI: 10.18632/oncotarget.5604 
-PMCID: PMC4741795
-PMID: 26378041  [Indexed for MEDLINE]
-
-
 95. Future Microbiol. 2015;10(9):1433-45. doi: 10.2217/fmb.15.66. Epub 2015 Sep 7.
 
 Probiotics Clostridium butyricum and Bacillus subtilis ameliorate intestinal
