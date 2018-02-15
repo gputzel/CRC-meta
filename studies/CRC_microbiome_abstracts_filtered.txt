@@ -1596,49 +1596,6 @@ environment and will help direct future mechanism studies.
 
 PMID: 26616803 
 
-
-82. Food Funct. 2016 Apr;7(4):1769-74. doi: 10.1039/c5fo01100k.
-
-The human gut microbial ecology associated with overweight and obesity determines
-ellagic acid metabolism.
-
-Selma MV(1), Romo-Vaquero M(1), García-Villalba R(1), González-Sarrías A(1),
-Tomás-Barberán FA(1), Espín JC(1).
-
-Author information: 
-(1)Research Group on Quality, Safety and Bioactivity of Plant Foods, Department
-of Food Science and Technology, CEBAS-CSIC, 30100. Campus de Espinardo, Murcia,
-Spain. mvselma@cebas.csic.es.
-
-We recently identified three metabotypes (0, A and B) that depend on the
-metabolic profile of urolithins produced from polyphenol ellagic acid (EA). The
-gut microbiota and Gordonibacter spp. recently were identified as species able to
-produce urolithins. A higher percentage of metabotype B was found in patients
-with metabolic syndrome or colorectal cancer in comparison with healthy
-individuals. The aim of the present study was to analyse differences in EA
-metabolism between healthy overweight-obese and normoweight individuals and
-evaluate the role of gut microbial composition including Gordonibacter. Although 
-the three metabotypes were confirmed in both groups, metabotype B prevailed in
-overweight-obese (31%) versus normoweight (20%) individuals while metabotype A
-was higher in normoweight (70%) than the overweight-obese group (57%). This
-suggests that weight gain favours the growth of bacteria capable of producing
-urolithin B and/or isourolithin A with respect to urolithin A-producing bacteria.
-Gordonibacter spp. levels were not significantly different between normoweight
-and overweight-obese groups but higher Gordonibacter levels were found in
-metabotype A individuals than in those with metabotype B. Other bacterial species
-have been reported to show a much closer relationship to obesity and dysbiosis
-than Gordonibacter. However, Gordonibacter levels are negatively correlated with 
-metabotype B, which prevails in metabolic syndrome and colorectal cancer. This is
-the first report that links overweight and obesity with an alteration in the
-catabolism of EA, and where the correlation of Gordonibacter to this alteration
-is shown. Future investigation of Gordonibacter and urolithin metabotypes as
-potential biomarkers or therapeutic targets of obesity-related diseases is
-warranted.
-
-DOI: 10.1039/c5fo01100k 
-PMID: 26597167  [Indexed for MEDLINE]
-
-
 83. Mol Biosyst. 2016 Jan;12(1):93-101. doi: 10.1039/c5mb00211g. Epub 2015 Nov 12.
 
 A deterministic oscillatory model of microtubule growth and shrinkage for
