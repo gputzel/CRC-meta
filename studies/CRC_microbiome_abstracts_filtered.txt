@@ -1514,41 +1514,6 @@ DOI: 10.1371/journal.pone.0152126
 PMCID: PMC4807824
 PMID: 27015276  [Indexed for MEDLINE]
 
-
-67. Gut Microbes. 2016 Jul 3;7(4):329-333. Epub 2016 Mar 23.
-
-Targeting colorectal cancer-associated bacteria: A new area of research for
-personalized treatments.
-
-Faïs T(1)(2)(3), Delmas J(1)(2)(3), Cougnoux A(1)(3), Dalmasso G(1)(3), Bonnet
-R(1)(2)(3).
-
-Author information: 
-(1)a Microbes, Inflammation, Intestin et Susceptibilité de l'Hôte (M2iSH),
-Clermont Université, Université d'Auvergne, Inserm U1071, INRA USC2018 ,
-Clermont-Ferrand , France.
-(2)b Laboratoire de Bactériologie, Center Hospitalier Universitaire ,
-Clermont-Ferrand , France.
-(3)c Institut Universitaire de Technologie, Université d'Auvergne , Aubière ,
-France.
-
-Most cases of colorectal cancer (CRC) are sporadic, and numerous studies have
-suggested that gut microbiota may play a crucial role in CRC development.
-Escherichia coli is a member of the gut microbiota frequently associated with
-colorectal tumors. CRC-associated E. coli strains frequently harbor the pks
-genomic island. This genomic island is responsible for the synthesis of
-colibactin genotoxin, which increases tumor numbers in CRC mouse models. We
-recently showed that targeting ClbP, a key enzyme involved in colibactin
-synthesis, blocks the deleterious effect of this toxin in vitro and leads to a
-significant decrease in tumor numbers in vivo. Altogether, our results suggest
-that the personalized treatment of CRC should also take into consideration the
-bacteria associated with the tumor in order to limit their deleterious effects.
-
-DOI: 10.1080/19490976.2016.1155020 
-PMCID: PMC4988430
-PMID: 27007710  [Indexed for MEDLINE]
-
-
 68. J Immunol Res. 2016;2016:9170162. doi: 10.1155/2016/9170162. Epub 2016 Feb 23.
 
 Colonic Mucosal Epigenome and Microbiome Development in Children and Adolescents.
