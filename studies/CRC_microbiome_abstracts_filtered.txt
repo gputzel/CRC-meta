@@ -1344,57 +1344,6 @@ DOI: 10.1158/1055-9965.EPI-16-0337
 PMCID: PMC5225053
 PMID: 27672054  [Indexed for MEDLINE]
 
-48. Sci Rep. 2016 Jun 13;6:27923. doi: 10.1038/srep27923.
-
-Ecophysiological consequences of alcoholism on human gut microbiota: implications
-for ethanol-related pathogenesis of colon cancer.
-
-Tsuruya A(1), Kuwahara A(1), Saito Y(1), Yamaguchi H(1), Tsubo T(1), Suga S(1),
-Inai M(1), Aoki Y(2), Takahashi S(1), Tsutsumi E(3), Suwa Y(3), Morita H(4),
-Kinoshita K(5), Totsuka Y(6), Suda W(7), Oshima K(7), Hattori M(7), Mizukami
-T(8), Yokoyama A(8), Shimoyama T(1), Nakayama T(1).
-
-Author information: 
-(1)Department of Biomolecular Engineering, Graduate School of Engineering, Tohoku
-University, Sendai, Miyagi 980-8579 Japan.
-(2)Department of Applied Information Sciences, Graduate School of Information
-Sciences, Tohoku University, Sendai, Miyagi 980-8579 Japan.
-(3)Suntory World Research Center, Suntory Holdings Ltd., Soraku-gun, Kyoto
-619-0284, Japan.
-(4)Graduate School of Environmental and Life Science, Okayama University, 1-1-1
-Tsushima-naka, Kita-ku, Okayama 700-8530, Japan.
-(5)School of Pharmaceutical Sciences, Mukogawa Women's University, Nishinomiya,
-Hyogo 663-8179, Japan.
-(6)Division of Cancer Development System, National Cancer Center Research
-Institute, Chuo-ku, Tokyo 104-0045, Japan.
-(7)Center for Omics and Bioinformatics, Graduate School of Frontier Sciences, The
-University of Tokyo, Kashiwa, Chiba 277-8561, Japan.
-(8)National Hospital Organization Kurihama Medical and Addiction Center,
-Yokosuka, Kanagawa 239-0841, Japan.
-
-Chronic consumption of excess ethanol increases the risk of colorectal cancer.
-The pathogenesis of ethanol-related colorectal cancer (ER-CRC) is thought to be
-partly mediated by gut microbes. Specifically, bacteria in the colon and rectum
-convert ethanol to acetaldehyde (AcH), which is carcinogenic. However, the
-effects of chronic ethanol consumption on the human gut microbiome are poorly
-understood, and the role of gut microbes in the proposed AcH-mediated
-pathogenesis of ER-CRC remains to be elaborated. Here we analyse and compare the 
-gut microbiota structures of non-alcoholics and alcoholics. The gut microbiotas
-of alcoholics were diminished in dominant obligate anaerobes (e.g., Bacteroides
-and Ruminococcus) and enriched in Streptococcus and other minor species. This
-alteration might be exacerbated by habitual smoking. These observations could at 
-least partly be explained by the susceptibility of obligate anaerobes to reactive
-oxygen species, which are increased by chronic exposure of the gut mucosa to
-ethanol. The AcH productivity from ethanol was much lower in the faeces of
-alcoholic patients than in faeces of non-alcoholic subjects. The faecal phenotype
-of the alcoholics could be rationalised based on their gut microbiota structures 
-and the ability of gut bacteria to accumulate AcH from ethanol.
-
-DOI: 10.1038/srep27923 
-PMCID: PMC4904738
-PMID: 27295340 
-
-
 49. Cancer Epidemiol. 2016 Aug;43:9-14. doi: 10.1016/j.canep.2016.05.007. Epub 2016
 May 24.
 
