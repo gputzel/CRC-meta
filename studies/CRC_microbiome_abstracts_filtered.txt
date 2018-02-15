@@ -1854,27 +1854,6 @@ DOI: 10.1016/j.ebiom.2015.04.010
 PMCID: PMC4535156
 PMID: 26288821  [Indexed for MEDLINE]
 
-9. Angew Chem Int Ed Engl. 2015 Sep 1;54(36):10408-11. doi: 10.1002/anie.201505341. 
-Epub 2015 Jul 15.
-
-The Microbes inside Us and the Race for Colibactin.
-
-Bode HB(1)(2).
-
-Author information: 
-(1)Merck Stiftungsprofessur für Molekulare Biotechnologie, Fachbereich
-Biowissenschaften, Goethe Universität Frankfurt, Max-von-Laue-Str. 9, 60438
-Frankfurt am Main (Germany)
-http://www.uni-frankfurt.de/fb/fb15/institute/inst-3-mol-biowiss/AK-Bode.
-h.bode@bio.uni-frankfurt.de.
-(2)Buchmann Institute for Molecular Life Sciences (BMLS), Goethe Universität
-Frankfurt, Max-von-Laue-Str. 15, 60438 Frankfurt a. M. (Germany).
-h.bode@bio.uni-frankfurt.de.
-
-DOI: 10.1002/anie.201505341 
-PMID: 26184782  [Indexed for MEDLINE]
-
-
 10. JAMA Oncol. 2015 Aug;1(5):653-61. doi: 10.1001/jamaoncol.2015.1377.
 
 Fusobacterium nucleatum and T Cells in Colorectal Carcinoma.
