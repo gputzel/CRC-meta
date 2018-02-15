@@ -1417,23 +1417,6 @@ DOI: 10.1038/srep25271
 PMCID: PMC4850483
 PMID: 27125587  [Indexed for MEDLINE]
 
-
-60. Cancer Discov. 2016 Jun;6(6):OF14. doi: 10.1158/2159-8290.CD-RW2016-070. Epub
-2016 Apr 14.
-
-Epithelial Calcineurin Promotes Microbiota-Dependent Colorectal Cancer.
-
-[No authors listed]
-
-Calcineurin mediates epithelial cell responses to commensal microbiota and
-promotes tumorigenesis.
-
-©2016 American Association for Cancer Research.
-
-DOI: 10.1158/2159-8290.CD-RW2016-070 
-PMID: 27080335  [Indexed for MEDLINE]
-
-
 61. Prev Nutr Food Sci. 2016 Mar;21(1):57-61. doi: 10.3746/pnf.2016.21.1.57. Epub
 2016 Mar 31.
 
