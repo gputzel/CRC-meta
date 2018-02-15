@@ -1344,53 +1344,6 @@ DOI: 10.1158/1055-9965.EPI-16-0337
 PMCID: PMC5225053
 PMID: 27672054  [Indexed for MEDLINE]
 
-51. PLoS One. 2016 May 19;11(5):e0155402. doi: 10.1371/journal.pone.0155402.
-eCollection 2016.
-
-Effect of Dietary Fibers on Cecal Microbiota and Intestinal Tumorigenesis in
-Azoxymethane Treated A/J Min/+ Mice.
-
-Moen B(1), Henjum K(2)(3), Måge I(1), Knutsen SH(1), Rud I(1), Hetland RB(3),
-Paulsen JE(4).
-
-Author information: 
-(1)Nofima - Norwegian Institute of Food, Fisheries and Aquaculture Research, Ås, 
-Norway.
-(2)Department of Pharmacology, Oslo University and Oslo University Hospital,
-Oslo, Norway.
-(3)Department of Food, Water and Cosmetics, Division of Environmental Medicine,
-Norwegian Institute of Public Health, Oslo, Norway.
-(4)Norwegian University of Life Sciences, Department of Food Safety and Infection
-Biology, Oslo Norway.
-
-Foods naturally high in dietary fiber are generally considered to protect against
-development of colorectal cancer (CRC). However, the intrinsic effect of dietary 
-fiber on intestinal carcinogenesis is unclear. We used azoxymethane (AOM) treated
-A/J Min/+ mice, which developed a significantly higher tumor load in the colon
-than in the small intestine, to compare the effects of dietary inulin (IN),
-cellulose (CE) or brewers spent grain (BSG) on intestinal tumorigenesis and cecal
-microbiota. Each fiber was tested at two dose levels, 5% and 15% (w/w) content of
-the AIN-93M diet. The microbiota was investigated by next-generation sequencing
-of the 16S rRNA gene (V4). We found that mice fed IN had approximately 50% lower 
-colonic tumor load than mice fed CE or BSG (p<0.001). Surprisingly, all three
-types of fiber caused a dose dependent increase of colonic tumor load (p<0.001). 
-The small intestinal tumor load was not affected by the dietary fiber
-interventions. Mice fed IN had a lower bacterial diversity than mice fed CE or
-BSG. The Bacteroidetes/Firmicutes ratio was significantly (p = 0.003) different
-between the three fiber diets with a higher mean value in IN fed mice compared
-with BSG and CE. We also found a relation between microbiota and the colonic
-tumor load, where many of the operational taxonomic units (OTUs) related to low
-tumor load were significantly enriched in mice fed IN. Among the OTUs related to 
-low tumor load were bacteria affiliated with the Bacteroides genus. These results
-suggest that type of dietary fiber may play a role in the development of CRC, and
-that the suppressive effect of IN on colonic tumorigenesis is associated with
-profound changes in the cecal microbiota profile.
-
-DOI: 10.1371/journal.pone.0155402 
-PMCID: PMC4873001
-PMID: 27196124  [Indexed for MEDLINE]
-
-
 52. Sci Rep. 2016 May 19;6:26337. doi: 10.1038/srep26337.
 
 Mucosal adherent bacterial dysbiosis in patients with colorectal adenomas.
