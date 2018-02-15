@@ -1561,58 +1561,6 @@ DOI: 10.1136/gutjnl-2015-309595
 PMCID: PMC5529966
 PMID: 26992426  [Indexed for MEDLINE]
 
-73. Carcinogenesis. 2016 Apr;37(4):366-375. doi: 10.1093/carcin/bgw019. Epub 2016 Feb
-19.
-
-Manipulation of the gut microbiota using resistant starch is associated with
-protection against colitis-associated colorectal cancer in rats.
-
-Hu Y(1), Le Leu RK(2)(3), Christophersen CT(3)(4), Somashekar R(1), Conlon MA(5),
-Meng XQ(6), Winter JM(1), Woodman RJ(6), McKinnon R(1), Young GP(1).
-
-Author information: 
-(1)Flinders Centre for Innovation in Cancer , Flinders University of South
-Australia , Bedford Park , South Australia , Australia.
-(2)Flinders Centre for Innovation in Cancer, Flinders University of South
-Australia, Bedford Park, South Australia, Australia.
-(3)CSIRO Food and Nutrition, Adelaide, South Australia, Australia.
-(4)School of Medical and Health Science, Edith Cowan University, Western
-Australia, Australia, and.
-(5)CSIRO Food and Nutrition , Adelaide , South Australia , Australia.
-(6)Biostatistics, Flinders Prevention, Promotion and Primary Health Care ,
-General Practice , Flinders University of South Australia , Bedford Park , South 
-Australia , Australia.
-
-This study evaluated whether dietary resistant starch (RS) and green tea extract 
-(GTE), which have anti-inflammatory and anticancer properties, protect against
-colitis-associated colorectal cancer (CAC) using a rat model, also investigated
-potential mechanisms of action of these agents including their effects on the gut
-microbiota. Rats were fed a control diet or diets containing 10% RS, 0.5% GTE or 
-a combination of the two (RS + GTE). CAC was initiated with 2 weekly azoxymethane
-(AOM) injections (10mg/kg) followed by 2% dextran sodium sulphate in drinking
-water for 7 days after 2 weeks on diets. Rats were killed 20 weeks after the
-first AOM. Colon tissues and tumours were examined for histopathology by H&E,
-gene/protein expression by PCR and immunohistochemistry and digesta for analyses 
-of fermentation products and microbiota populations. RS and RS + GTE (but not
-GTE) diets significantly (P< 0.05) decreased tumour multiplicity and
-adenocarcinoma formation, relative to the control diet. Effects of RS + GTE were 
-not different from RS alone. RS diet caused significant shifts in microbial
-composition/diversity, with increases in Parabacteroides, Barnesiella,
-Ruminococcus, Marvinbryantia and Bifidobacterium as primary contributors to the
-shift. RS-containing diets increased short chain fatty acids (SCFA) and
-expression of the SCFA receptor GPR43 mRNA, and reduced inflammation (COX-2,
-NF-kB, TNF-α and IL-1β mRNA) and cell proliferation P< 0.05. GTE had no effect.
-This is the first study that demonstrates chemopreventive effects of RS (but not 
-GTE) in a rodent CAC model, suggesting RS might have benefit to patients with
-ulcerative colitis who are at an increased risk of developing CRC.
-
-© The Author 2016. Published by Oxford University Press. All rights reserved. For
-Permissions, please email: journals.permissions@oup.com.
-
-DOI: 10.1093/carcin/bgw019 
-PMID: 26905582  [Indexed for MEDLINE]
-
-
 74. Leuk Lymphoma. 2016 Oct;57(10):2401-8. doi: 10.3109/10428194.2016.1144879. Epub
 2016 Feb 17.
 
