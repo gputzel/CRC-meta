@@ -1561,68 +1561,6 @@ DOI: 10.1136/gutjnl-2015-309595
 PMCID: PMC5529966
 PMID: 26992426  [Indexed for MEDLINE]
 
-75. Proc Natl Acad Sci U S A. 2016 Mar 1;113(9):E1306-15. doi:
-10.1073/pnas.1518189113. Epub 2016 Feb 16.
-
-Probiotics modulated gut microbiota suppresses hepatocellular carcinoma growth in
-mice.
-
-Li J(1), Sung CY(2), Lee N(3), Ni Y(1), Pihlajamäki J(4), Panagiotou G(5),
-El-Nezami H(6).
-
-Author information: 
-(1)Systems Biology and Bioinformatics Group, School of Biological Sciences,
-Faculty of Sciences, The University of Hong Kong, Hong Kong S.A.R., China;
-(2)School of Biological Sciences, Faculty of Science, The University of Hong
-Kong, Hong Kong S.A.R., China;
-(3)Department of Surgery, Li Ka Shing Faculty of Medicine, The University of Hong
-Kong, Hong Kong S.A.R., China;
-(4)Insititute of Public Health and Clinical Nutrition, University of Eastern
-Finland, Kuopio 70211, Finland; Clinical Nutrition and Obesity Center, Kuopio
-University Hospital, Kuopio 70211, Finland.
-(5)Systems Biology and Bioinformatics Group, School of Biological Sciences,
-Faculty of Sciences, The University of Hong Kong, Hong Kong S.A.R., China;
-gipa@hku.hk elnezami@hku.hk.
-(6)School of Biological Sciences, Faculty of Science, The University of Hong
-Kong, Hong Kong S.A.R., China; Insititute of Public Health and Clinical
-Nutrition, University of Eastern Finland, Kuopio 70211, Finland; gipa@hku.hk
-elnezami@hku.hk.
-
-Comment in
-    Hepatobiliary Surg Nutr. 2017 Dec;6(6):417-419.
-    Hepatobiliary Surg Nutr. 2017 Dec;6(6):420-423.
-    Hepatobiliary Surg Nutr. 2017 Dec;6(6):424-428.
-
-The beneficial roles of probiotics in lowering the gastrointestinal inflammation 
-and preventing colorectal cancer have been frequently demonstrated, but their
-immunomodulatory effects and mechanism in suppressing the growth of
-extraintestinal tumors remain unexplored. Here, we adopted a mouse model and
-metagenome sequencing to investigate the efficacy of probiotic feeding in
-controlling s.c. hepatocellular carcinoma (HCC) and the underlying mechanism
-suppressing the tumor progression. Our result demonstrated that Prohep, a novel
-probiotic mixture, slows down the tumor growth significantly and reduces the
-tumor size and weight by 40% compared with the control. From a mechanistic point 
-of view the down-regulated IL-17 cytokine and its major producer Th17 cells,
-whose levels decreased drastically, played critical roles in tumor reduction upon
-probiotics feeding. Cell staining illustrated that the reduced Th17 cells in the 
-tumor of the probiotic-treated group is mainly caused by the reduced frequency of
-migratory Th17 cells from the intestine and peripheral blood. In addition,
-shotgun-metagenome sequencing revealed the crosstalk between gut microbial
-metabolites and the HCC development. Probiotics shifted the gut microbial
-community toward certain beneficial bacteria, including Prevotella and
-Oscillibacter, that are known producers of antiinflammatory metabolites, which
-subsequently reduced the Th17 polarization and promoted the differentiation of
-antiinflammatory Treg/Tr1 cells in the gut. Overall, our study offers novel
-insights into the mechanism by which probiotic treatment modulates the microbiota
-and influences the regulation of the T-cell differentiation in the gut, which in 
-turn alters the level of the proinflammatory cytokines in the extraintestinal
-tumor microenvironment.
-
-DOI: 10.1073/pnas.1518189113 
-PMCID: PMC4780612
-PMID: 26884164  [Indexed for MEDLINE]
-
-
 76. Curr Treat Options Gastroenterol. 2016 Mar;14(1):152-62. doi:
 10.1007/s11938-016-0076-0.
 
