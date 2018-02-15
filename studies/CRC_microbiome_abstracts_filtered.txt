@@ -1514,53 +1514,6 @@ DOI: 10.1371/journal.pone.0152126
 PMCID: PMC4807824
 PMID: 27015276  [Indexed for MEDLINE]
 
-69. Food Chem Toxicol. 2016 Jun;92:8-16. doi: 10.1016/j.fct.2016.03.011. Epub 2016
-Mar 16.
-
-In vivo relevant mixed urolithins and ellagic acid inhibit phenotypic and
-molecular colon cancer stem cell features: A new potentiality for ellagitannin
-metabolites against cancer.
-
-Núñez-Sánchez MÁ(1), Karmokar A(2), González-Sarrías A(1), García-Villalba R(1), 
-Tomás-Barberán FA(1), García-Conesa MT(3), Brown K(2), Espín JC(4).
-
-Author information: 
-(1)Research Group on Quality, Safety and Bioactivity of Plant Foods, Department
-of Food Science and Technology, CEBAS-CSIC, P.O. Box 164, 30100 Campus de
-Espinardo, Murcia, Spain.
-(2)Cancer Chemoprevention Group, Department of Cancer Studies, University of
-Leicester, Leicester, UK.
-(3)Research Group on Quality, Safety and Bioactivity of Plant Foods, Department
-of Food Science and Technology, CEBAS-CSIC, P.O. Box 164, 30100 Campus de
-Espinardo, Murcia, Spain. Electronic address: mtconesa@cebas.csic.es.
-(4)Research Group on Quality, Safety and Bioactivity of Plant Foods, Department
-of Food Science and Technology, CEBAS-CSIC, P.O. Box 164, 30100 Campus de
-Espinardo, Murcia, Spain. Electronic address: jcespin@cebas.csic.es.
-
-Colon cancer stem cells (CSCs) offer a novel paradigm for colorectal cancer (CRC)
-treatment and dietary polyphenols may contribute to battle these cells.
-Specifically, polyphenol-derived colon metabolites have the potential to interact
-with and affect colon CSCs. We herein report the effects against colon CSCs of
-two mixtures of ellagitannin (ET) metabolites, ellagic acid (EA) and the gut
-microbiota-derived urolithins (Uro) at concentrations detected in the human colon
-tissues following the intake of ET-containing products (pomegranate, walnuts).
-These mixtures reduce phenotypic and molecular features in two models of colon
-CSCs: Caco-2 cells and primary tumour cells from a patient with CRC. The mixture 
-containing mostly Uro-A (85% Uro-A, 10% Uro-C, 5% EA) was most effective at
-inhibiting the number and size of colonospheres and aldehyde dehydrogenase
-activity (ALDH, a marker of chemoresistance) whereas the mixture containing less 
-Uro-A but IsoUro-A and Uro-B (30% Uro-A, 50% IsoUro-A, 10% Uro-B, 5% Uro-C, 5%
-EA) had some effects on the number and size of colonospheres but not on ALDH.
-These data support a role for polyphenols metabolites in the control of colon
-cancer chemoresistance and relapse and encourage the research on the effects of
-polyphenols against CSCs.
-
-Copyright © 2016 Elsevier Ltd. All rights reserved.
-
-DOI: 10.1016/j.fct.2016.03.011 
-PMID: 26995228  [Indexed for MEDLINE]
-
-
 70. Gut. 2017 Apr;66(4):633-643. doi: 10.1136/gutjnl-2015-309595. Epub 2016 Mar 18.
 
 Tumour-associated and non-tumour-associated microbiota in colorectal cancer.
