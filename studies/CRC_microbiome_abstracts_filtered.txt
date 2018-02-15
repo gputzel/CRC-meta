@@ -1912,49 +1912,6 @@ DOI: 10.1186/s13073-015-0177-8
 PMCID: PMC4499914
 PMID: 26170900 
 
-
-12. Environ Microbiol Rep. 2015 Dec;7(6):874-80. doi: 10.1111/1758-2229.12319. Epub
-2015 Aug 7.
-
-Interactions between the intestinal microbiota and bile acids in gallstones
-patients.
-
-Keren N(1)(2), Konikoff FM(1)(2), Paitan Y(3), Gabay G(1), Reshef L(4), Naftali
-T(1)(2), Gophna U(4).
-
-Author information: 
-(1)Department of Gastroenterology and Hepatology, Meir Medical Center, Kfar Saba,
-Israel.
-(2)Sackler Faculty of Medicine, Tel Aviv University, Tel Aviv, Israel.
-(3)Clinical Microbiology Laboratory, Meir Medical Center, Kfar Saba, Israel.
-(4)Department of Molecular Microbiology and Biotechnology, George S. Wise Faculty
-of Life Sciences, Tel Aviv University, Tel Aviv, Israel.
-
-Cholecystectomy, surgical removal of the gallbladder, changes bile flow to the
-intestine and can therefore alter the bidirectional interactions between bile
-acids (BAs) and the intestinal microbiota. We quantified and correlated BAs and
-bacterial community composition in gallstone patients scheduled for
-cholecystectomy before and after the procedure, using gas-liquid chromatography
-and 16S rRNA amplicon sequencing, followed by quantitative real-time polymerase
-chain reaction of the phylum Bacteroidetes. Gallstone patients had higher overall
-concentrations of faecal BAs and a decreased microbial diversity, accompanied by 
-a reduction in the beneficial genus Roseburia and an enrichment of the
-uncultivated genus Oscillospira, compared with controls. These two genera may
-thus serve as biomarkers for symptomatic gallstone formation. Oscillospira was
-correlated positively with secondary BAs and negatively with primary BAs, while
-the phylum Bacteroidetes showed an opposite trend. Cholecystectomy resulted in no
-substantial change in patients' faecal BAs. However, bacterial composition was
-significantly altered, with a significant increase in the phylum Bacteroidetes.
-Given that cholecystectomy has been associated with a higher risk of colorectal
-cancer and that members of the Bacteroidetes are increased in that disease,
-microbial consequences of cholecystectomy should be further explored.
-
-© 2015 Society for Applied Microbiology and John Wiley & Sons Ltd.
-
-DOI: 10.1111/1758-2229.12319 
-PMID: 26149537  [Indexed for MEDLINE]
-
-
 13. Cell. 2015 Jul 2;162(1):18-20. doi: 10.1016/j.cell.2015.06.041.
 
 AIMing 2 Curtail Cancer.
