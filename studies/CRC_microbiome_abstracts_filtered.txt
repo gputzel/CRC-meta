@@ -1344,66 +1344,6 @@ DOI: 10.1158/1055-9965.EPI-16-0337
 PMCID: PMC5225053
 PMID: 27672054  [Indexed for MEDLINE]
 
-39. Cell Host Microbe. 2016 Aug 10;20(2):215-25. doi: 10.1016/j.chom.2016.07.006.
-
-Fap2 Mediates Fusobacterium nucleatum Colorectal Adenocarcinoma Enrichment by
-Binding to Tumor-Expressed Gal-GalNAc.
-
-Abed J(1), Emgård JE(1), Zamir G(2), Faroja M(2), Almogy G(2), Grenov A(1), Sol
-A(1), Naor R(1), Pikarsky E(3), Atlan KA(4), Mellul A(4), Chaushu S(5), Manson
-AL(6), Earl AM(6), Ou N(7), Brennan CA(7), Garrett WS(8), Bachrach G(9).
-
-Author information: 
-(1)The Institute of Dental Sciences, The Hebrew University-Hadassah School of
-Dental Medicine, Jerusalem 91120, Israel.
-(2)Department of General Surgery, Hadassah-Hebrew University Medical Center,
-Jerusalem 91120, Israel.
-(3)Department of Immunology and Cancer Research, Institute for Medical Research
-Israel Canada, Hebrew University-Hadassah Medical School, Jerusalem 91120,
-Israel; Department of Pathology, Hadassah-Hebrew University Medical Center,
-Jerusalem 91120, Israel.
-(4)Department of Pathology, Hadassah-Hebrew University Medical Center, Jerusalem 
-91120, Israel.
-(5)Department of Orthodontics, The Hebrew University-Hadassah School of Dental
-Medicine, Jerusalem 91120, Israel.
-(6)Broad Institute of MIT and Harvard University, Cambridge, MA 02141, USA.
-(7)Departments of Immunology and Infectious Diseases and Genetics and Complex
-Diseases, Harvard T.H. Chan School of Public Health, Boston, MA 02115, USA.
-(8)Broad Institute of MIT and Harvard University, Cambridge, MA 02141, USA;
-Departments of Immunology and Infectious Diseases and Genetics and Complex
-Diseases, Harvard T.H. Chan School of Public Health, Boston, MA 02115, USA;
-Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA 02115,
-USA. Electronic address: wgarrett@hsph.harvard.edu.
-(9)The Institute of Dental Sciences, The Hebrew University-Hadassah School of
-Dental Medicine, Jerusalem 91120, Israel. Electronic address:
-giladba@ekmd.huji.ac.il.
-
-Comment in
-    Cell Host Microbe. 2016 Aug 10;20(2):125-6.
-
-Fusobacterium nucleatum is associated with colorectal cancer and promotes colonic
-tumor formation in preclinical models. However, fusobacteria are core members of 
-the human oral microbiome and less prevalent in the healthy gut, raising
-questions about how fusobacteria localize to CRC. We identify a host
-polysaccharide and fusobacterial lectin that explicates fusobacteria abundance in
-CRC. Gal-GalNAc, which is overexpressed in CRC, is recognized by fusobacterial
-Fap2, which functions as a Gal-GalNAc lectin. F. nucleatum binding to clinical
-adenocarcinomas correlates with Gal-GalNAc expression and is reduced upon
-O-glycanase treatment. Clinical fusobacteria strains naturally lacking Fap2 or
-inactivated Fap2 mutants show reduced binding to Gal-GalNAc-expressing CRC cells 
-and established CRCs in mice. Additionally, intravenously injected F. nucleatum
-localizes to mouse tumor tissues in a Fap2-dependent manner, suggesting that
-fusobacteria use a hematogenous route to reach colon adenocarcinomas. Thus,
-targeting F. nucleatum Fap2 or host epithelial Gal-GalNAc may reduce fusobacteria
-potentiation of CRC.
-
-Copyright © 2016 Elsevier Inc. All rights reserved.
-
-DOI: 10.1016/j.chom.2016.07.006 
-PMCID: PMC5465824
-PMID: 27512904  [Indexed for MEDLINE]
-
-
 40. Microbiome. 2016 Aug 8;4(1):42. doi: 10.1186/s40168-016-0189-7.
 
 Cardiorespiratory fitness as a predictor of intestinal microbial diversity and
