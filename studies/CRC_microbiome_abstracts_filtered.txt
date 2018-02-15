@@ -1344,45 +1344,6 @@ DOI: 10.1158/1055-9965.EPI-16-0337
 PMCID: PMC5225053
 PMID: 27672054  [Indexed for MEDLINE]
 
-50. J Microbiol Biotechnol. 2016 Aug 28;26(8):1490-503. doi: 10.4014/jmb.1605.05024.
-
-Combination Therapy of Lactobacillus plantarum Supernatant and 5-Fluouracil
-Increases Chemosensitivity in Colorectal Cancer Cells.
-
-An J(1)(2), Ha EM.
-
-Author information: 
-(1)Medical Convergence Textile Center, Gyeongbuk Technopark, Gyeongsangbuk-do
-38412, Republic of Korea.
-(2)Department of Pharmacology, College of Pharmacy, Catholic University of Daegu 
-38430, Republic of Korea.
-
-Colorectal cancer (CRC) is the third most common cancer in the world. Although
-5-fluorouracil (5-FU) is the representative chemotherapy drug for colorectal
-cancer, it has therapeutic limits due to its chemoresistant characteristics.
-Colorectal cancer cells can develop into cancer stem cells (CSCs) with
-self-renewal potential, thereby causing malignant tumors. The human
-gastrointestinal tract contains a complex gut microbiota that is essential for
-the host's homeostasis. Recently, many studies have reported correlations between
-gut flora and the onset, progression, and treatment of CRC. The present study
-confirms that the most representative symbiotic bacteria in humans, Lactobacillus
-plantarum (LP) supernatant (SN), selectively inhibit the characteristics of
-5-FU-resistant colorectal cancer cells (HT-29 and HCT- 116). LP SN inhibited the 
-expression of the specific markers CD44, 133, 166, and ALDH1 of CSCs. The
-combination therapy of LP SN and 5-FU inhibited the survival of CRCs and led to
-cell death by inducing caspase-3 activity. The combination therapy of LP SN and
-5-FU induced an anticancer mechanism by inactivating the Wnt/β-catenin signaling 
-of chemoresistant CRC cells, and reducing the formation and size of
-colonospheres. In conclusion, our results show that LP SN can enhance the
-therapeutic effect of 5-FU for colon cancer, and reduce colorectal cancer
-stem-like cells by reversing the development of resistance to anticancer drugs.
-This implies that probiotic substances may be useful therapeutic alternatives as 
-biotherapeutics for chemoresistant CRC.
-
-DOI: 10.4014/jmb.1605.05024 
-PMID: 27221111  [Indexed for MEDLINE]
-
-
 51. PLoS One. 2016 May 19;11(5):e0155402. doi: 10.1371/journal.pone.0155402.
 eCollection 2016.
 
