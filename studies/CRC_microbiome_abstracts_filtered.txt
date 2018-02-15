@@ -1754,52 +1754,6 @@ http://www.bmj.com/company/products-services/rights-and-licensing/.
 DOI: 10.1136/gutjnl-2015-309800 
 PMID: 26408641  [Indexed for MEDLINE]
 
-
-90. Regul Toxicol Pharmacol. 2015 Dec;73(3):938-46. doi: 10.1016/j.yrtph.2015.09.021.
-Epub 2015 Sep 25.
-
-Antigenotoxic activity of lactic acid bacteria, prebiotics, and products of their
-fermentation against selected mutagens.
-
-Nowak A(1), Śliżewska K(2), Otlewska A(2).
-
-Author information: 
-(1)Institute of Fermentation Technology and Microbiology, Lodz University of
-Technology, Wolczanska 171/173, 90-924 Lodz, Poland. Electronic address:
-adriana.nowak@p.lodz.pl.
-(2)Institute of Fermentation Technology and Microbiology, Lodz University of
-Technology, Wolczanska 171/173, 90-924 Lodz, Poland.
-
-Dietary components such as lactic acid bacteria (LAB) and prebiotics can modulate
-the intestinal microbiota and are thought to be involved in the reduction of
-colorectal cancer risk. The presented study measured, using the comet assay, the 
-antigenotoxic activity of both probiotic and non-probiotic LAB, as well as some
-prebiotics and the end-products of their fermentation, against fecal water (FW). 
-The production of short chain fatty acids by the bacteria was quantified using
-HPLC. Seven out of the ten tested viable strains significantly decreased DNA
-damage induced by FW. The most effective of them were Lactobacillus mucosae 0988 
-and Bifidobacterium animalis ssp. lactis Bb-12, leading to a 76% and 80% decrease
-in genotoxicity, respectively. The end-products of fermentation of seven
-prebiotics by Lactobacillus casei DN 114-001 exhibited the strongest
-antigenotoxic activity against FW, with fermented inulin reducing genotoxicity by
-75%. Among the tested bacteria, this strain produced the highest amounts of
-butyrate in the process of prebiotic fermentation, and especially from resistant 
-dextrin (4.09 μM/mL). Fermented resistant dextrin improved DNA repair by 78% in
-cells pre-treated with 6.8 μM methylnitronitrosoguanidine (MNNG). Fermented
-inulin induced stronger DNA repair in cells pre-treated with mutagens (FW, 25 μM 
-hydrogen peroxide, or MNNG) than non-fermented inulin, and the efficiency of DNA 
-repair after 120 min of incubation decreased by 71%, 50% and 70%, respectively.
-The different degrees of genotoxicity inhibition observed for the various
-combinations of bacteria and prebiotics suggest that this effect may be
-attributable to carbohydrate type, SCFA yield, and the ratio of the end-products 
-of prebiotic fermentation.
-
-Copyright © 2015 Elsevier Inc. All rights reserved.
-
-DOI: 10.1016/j.yrtph.2015.09.021 
-PMID: 26404012  [Indexed for MEDLINE]
-
-
 91. Int J Oncol. 2015 Nov;47(5):1749-58. doi: 10.3892/ijo.2015.3173. Epub 2015 Sep
 18.
 
