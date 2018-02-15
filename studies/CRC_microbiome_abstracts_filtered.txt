@@ -1561,22 +1561,6 @@ DOI: 10.1136/gutjnl-2015-309595
 PMCID: PMC5529966
 PMID: 26992426  [Indexed for MEDLINE]
 
-78. Front Cell Infect Microbiol. 2015 Nov 20;5:84. doi: 10.3389/fcimb.2015.00084.
-eCollection 2015.
-
-Insights into the Role of Erysipelotrichaceae in the Human Host.
-
-Kaakoush NO(1).
-
-Author information: 
-(1)School of Biotechnology and Biomolecular Sciences, Faculty of Science,
-University of New South Wales Sydney, NSW, Australia.
-
-DOI: 10.3389/fcimb.2015.00084 
-PMCID: PMC4653637
-PMID: 26636046  [Indexed for MEDLINE]
-
-
 79. Exp Ther Med. 2015 Sep;10(3):966-972. Epub 2015 Jul 15.
 
 Impact of perioperative probiotic treatment for surgical site infections in
