@@ -1854,67 +1854,6 @@ DOI: 10.1016/j.ebiom.2015.04.010
 PMCID: PMC4535156
 PMID: 26288821  [Indexed for MEDLINE]
 
-6. J Ginseng Res. 2015 Jul;39(3):230-7. doi: 10.1016/j.jgr.2014.12.004. Epub 2015
-Jan 10.
-
-American ginseng significantly reduced the progression of high-fat-diet-enhanced 
-colon carcinogenesis in Apc (Min/+) mice.
-
-Yu C(1), Wen XD(2), Zhang Z(2), Zhang CF(2), Wu X(2), He X(2), Liao Y(3), Wu
-N(4), Wang CZ(2), Du W(3), He TC(4), Yuan CS(5).
-
-Author information: 
-(1)School of Life Science and Chemical Engineering, Huaiyin Institute of
-Technology, Jiangsu, China ; Jiangsu Provincial Engineering Laboratory for
-Biomass Conversion and Process Integration, Huaiyin Institute of Technology,
-Jiangsu, China ; Tang Center for Herbal Medicine Research, University of Chicago,
-Chicago, IL, USA ; Department of Anesthesia and Critical Care, University of
-Chicago, Chicago, IL, USA.
-(2)Tang Center for Herbal Medicine Research, University of Chicago, Chicago, IL, 
-USA ; Department of Anesthesia and Critical Care, University of Chicago, Chicago,
-IL, USA.
-(3)Tang Center for Herbal Medicine Research, University of Chicago, Chicago, IL, 
-USA ; Ben May Department for Cancer Research, University of Chicago, Chicago, IL,
-USA.
-(4)Tang Center for Herbal Medicine Research, University of Chicago, Chicago, IL, 
-USA ; Molecular Oncology Laboratory, Department of Surgery, University of Chicago
-Medical Center, Chicago, IL, USA.
-(5)Tang Center for Herbal Medicine Research, University of Chicago, Chicago, IL, 
-USA ; Department of Anesthesia and Critical Care, University of Chicago, Chicago,
-IL, USA ; Committee on Clinical Pharmacology and Pharmacogenomics, University of 
-Chicago, Chicago, IL, USA.
-
-BACKGROUND: Colorectal cancer (CRC) is a leading cause of death worldwide.
-Chronic gut inflammation is recognized as a risk factor for tumor development,
-including CRC. American ginseng is a very commonly used ginseng species in the
-West.
-METHODS: A genetically engineered Apc (Min/+) mouse model was used in this study.
-We analyzed the saponin composition of American ginseng used in this project, and
-evaluated its effects on the progression of high-fat-diet-enhanced CRC
-carcinogenesis.
-RESULTS: After oral ginseng administration (10-20 mg/kg/d for up to 32 wk),
-experimental data showed that, compared with the untreated mice, ginseng very
-significantly reduced tumor initiation and progression in both the small
-intestine (including the proximal end, middle end, and distal end) and the colon 
-(all p < 0.01). This tumor number reduction was more obvious in those mice
-treated with a low dose of ginseng. The tumor multiplicity data were supported by
-body weight changes and gut tissue histology examinations. In addition,
-quantitative real-time polymerase chain reaction analysis showed that compared
-with the untreated group, ginseng very significantly reduced the gene expression 
-of inflammatory cytokines, including interleukin-1α (IL-1α), IL-1β, IL-6, tumor
-necrosis factor-α, granulocyte-colony stimulating factor, and
-granulocyte-macrophage colony-stimulating factor in both the small intestine and 
-the colon (all p < 0.01).
-CONCLUSION: Further studies are needed to link our observed effects to the
-actions of the gut microbiome in converting the parent ginsenosides to bioactive 
-ginseng metabolites. Our data suggest that American ginseng may have potential
-value in CRC chemoprevention.
-
-DOI: 10.1016/j.jgr.2014.12.004 
-PMCID: PMC4506368
-PMID: 26199554 
-
-
 7. PLoS One. 2015 Jul 17;10(7):e0132435. doi: 10.1371/journal.pone.0132435.
 eCollection 2015.
 
