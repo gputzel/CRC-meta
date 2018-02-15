@@ -1854,57 +1854,6 @@ DOI: 10.1016/j.ebiom.2015.04.010
 PMCID: PMC4535156
 PMID: 26288821  [Indexed for MEDLINE]
 
-7. PLoS One. 2015 Jul 17;10(7):e0132435. doi: 10.1371/journal.pone.0132435.
-eCollection 2015.
-
-Chlorinated Water Modulates the Development of Colorectal Tumors with Chromosomal
-Instability and Gut Microbiota in Apc-Deficient Mice.
-
-Sasada T(1), Hinoi T(1), Saito Y(1), Adachi T(1), Takakura Y(1), Kawaguchi Y(1), 
-Sotomaru Y(2), Sentani K(3), Oue N(3), Yasui W(3), Ohdan H(1).
-
-Author information: 
-(1)Department of Gastroenterological and Transplant Surgery, Applied Life
-Science, Institute of Biomedical & Health Sciences, Hiroshima University,
-Hiroshima, Japan.
-(2)Natural Science Center for Basic Research and Development, Hiroshima
-University, Hiroshima, Japan.
-(3)Department of Molecular Pathology, Hiroshima University Institute of
-Biomedical and Health Sciences, Hiroshima, Japan.
-
-The gastrointestinal tract is continuously exposed to a variety of chemicals and 
-commensal bacteria. Recent studies have shown that changes in gut microbial
-populations caused by chlorine or other chemicals in the drinking water influence
-the development of human colorectal cancer, although the mechanism of
-tumorigenesis in the gut epithelium is obfuscated by the diversity of microflora 
-and complexity of the tumor microenvironment. In this regard, mouse models that
-recapitulate human colorectal cancer are an invaluable tool. In this study, we
-used two conditional adenomatous polyposis coli (Apc) knockout mouse models to
-investigate the effect of chlorinated water on tumorigenesis in the digestive
-tract. Mice with colon-specific carcinoma--caused by either chromosomal (CDX2P
-9.5-NLS Cre;Apc(+/flox), abbreviated to CPC;Apc) or microsatellite
-(CDX2P9.5-G19Cre;Apc(flox/flox) and CDX2P9.5-G22Cre;Apc(flox/flox)) instability, 
-respectively--were administered chlorinated (10.0 mg/L chlorine) or tap (0.7 mg/L
-chlorine) water and evaluated for colon polyp formation. In CPC;Apc mice given
-chlorinated drinking water, tumors tended to develop in the colon, whereas in
-those that drank tap water, tumors were mostly observed in the small intestine.
-There was no difference in the rate of tumor formation of
-CDX2P9.5-G19Cre;Apc(flox/flox) and CDX2P9.5-G22Cre;Apc(flox/flox) mice consuming 
-chlorinated as compared to tap water, suggesting that microsatellite instability 
-in the Apc gene does not significantly affect tumorigenesis. Chlorinated water
-altered the enteric environment by reducing the fecal populations of the
-obligatory anaerobes Clostridium perfringens and C. difficile, as well as species
-belonging to the Atopobium cluster, including Enterobacteriaceae and
-Staphylococcus sp., which was associated with colon tumorigenesis in CPC;Apc
-mice. These results suggest that differences in tumorigenesis among CPC;Apc mice 
-consuming chlorinated versus tap water may be due to differences in
-gastrointestinal commensal populations.
-
-DOI: 10.1371/journal.pone.0132435 
-PMCID: PMC4505894
-PMID: 26186212  [Indexed for MEDLINE]
-
-
 8. Microbiol Spectr. 2015 Jun;3(3). doi: 10.1128/microbiolspec.MBP-0008-2014.
 
 The Roles of Inflammation, Nutrient Availability and the Commensal Microbiota in 
