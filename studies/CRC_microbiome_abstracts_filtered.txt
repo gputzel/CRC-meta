@@ -1382,39 +1382,6 @@ DOI: 10.1038/srep26337
 PMCID: PMC4872055
 PMID: 27194068 
 
-57. Cancer Biol Ther. 2016 Jun 2;17(6):657-63. doi: 10.1080/15384047.2016.1177685.
-Epub 2016 May 4.
-
-Fibersol-2 induces apoptosis of Apc-deficient colorectal Cancer (SW480) cells and
-decreases polyp formation in Apc MIN mice.
-
-Sancho SC(1), Olson SL(2), Young So E(1), Shimomura K(3), Ouchi T(1), Preuss
-F(2).
-
-Author information: 
-(1)a Department of Cancer Genetics , Roswell Park Cancer Institute , Buffalo , NY
-, USA.
-(2)b Deparment of Biological Sciences , University of Wisconsin Parkside ,
-Kenosha , WI , USA.
-(3)c Matsutani America Inc. , Itasca , IL , USA.
-
-The consumption of dietary fibers has been implicated with a lowered risk of
-human colorectal cancer. Proposed mechanisms involve alterations in the stool
-consistency, transit time, and formation of short-chain fatty acid by dietary
-fiber fermentation, and the reorganization of gut microbiota. Here we show that
-Fibersol-2, a digest-resistant maltodextrin, not only inhibits proliferation of
-colorectal SW480 cancer cell lines by increasing reactive oxygen species (ROS),
-but decreases the numbers of the adenoma count in Multiple Intestinal Neoplasia
-(MIN) mice carrying a mutation in the Adenomatous Polyposis Coli gene by 84 d of 
-age. These observations provide direct evidence that Fibersol-2 intrinsically
-contains anti-cancer activity, independent of the intestinal metabolism and any
-potential interactions with the microbiota.
-
-DOI: 10.1080/15384047.2016.1177685 
-PMCID: PMC4990394
-PMID: 27143108  [Indexed for MEDLINE]
-
-
 58. Med Sci (Paris). 2016 Apr;32(4):339-42. doi: 10.1051/medsci/20163204009. Epub
 2016 May 2.
 
