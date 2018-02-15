@@ -1596,45 +1596,6 @@ environment and will help direct future mechanism studies.
 
 PMID: 26616803 
 
-83. Mol Biosyst. 2016 Jan;12(1):93-101. doi: 10.1039/c5mb00211g. Epub 2015 Nov 12.
-
-A deterministic oscillatory model of microtubule growth and shrinkage for
-differential actions of short chain fatty acids.
-
-Kilner J(1), Corfe BM, McAuley MT, Wilkinson SJ.
-
-Author information: 
-(1)Biological and Systems Engineering Group, ChELSI Institute, Department of
-Chemical and Biological Engineering, University of Sheffield S1 3JD, UK.
-
-Short chain fatty acids (SCFA), principally acetate, propionate, butyrate and
-valerate, are produced in pharmacologically relevant concentrations by the gut
-microbiome. Investigations indicate that they exert beneficial effects on colon
-epithelia. There is increasing interest in whether different SCFAs have distinct 
-functions which may be exploited for prevention or treatment of colonic diseases 
-including colorectal cancer (CRC), inflammatory bowel disease and obesity. Based 
-on experimental evidence, we hypothesised that odd-chain SCFAs may possess
-anti-mitotic capabilities in colon cancer cells by disrupting microtubule (MT)
-structural integrity via dysregulation of β-tubulin isotypes. MT dynamic
-instability is an essential characteristic of MT cellular activity. We report a
-minimal deterministic model that takes a novel approach to explore the
-hypothesised pathway by triggering spontaneous oscillations to represent MT
-dynamic behaviour. The dynamicity parameters in silico were compared to those
-reported in vitro. Simulations of untreated and butyrate (even-chain length)
-treated cells reflected MT behaviour in interphase or untreated control cells.
-The propionate and valerate (odd-chain length) simulations displayed increased
-catastrophe frequencies and longer periods of MT-fibre shrinkage. Their enhanced 
-dynamicity was dissimilar to that observed in mitotic cells, but parallel to that
-induced by MT-destabilisation treatments. Antimicrotubule drugs act through
-upward or downward modulation of MT dynamic instability. Our computational
-modelling suggests that metabolic engineering of the microbiome may facilitate
-managing CRC risk by predicting outcomes of SCFA treatments in combination with
-AMDs.
-
-DOI: 10.1039/c5mb00211g 
-PMID: 26562762  [Indexed for MEDLINE]
-
-
 84. World J Gastroenterol. 2015 Nov 7;21(41):11862-76. doi:
 10.3748/wjg.v21.i41.11862.
 
