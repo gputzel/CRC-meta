@@ -1344,59 +1344,6 @@ DOI: 10.1158/1055-9965.EPI-16-0337
 PMCID: PMC5225053
 PMID: 27672054  [Indexed for MEDLINE]
 
-43. Oncotarget. 2016 Aug 23;7(34):55098-55109. doi: 10.18632/oncotarget.10398.
-
-Tumor LINE-1 methylation level and colorectal cancer location in relation to
-patient survival.
-
-Mima K(1), Nowak JA(2), Qian ZR(1), Cao Y(3)(4)(5), Song M(3)(4)(5), Masugi Y(1),
-Shi Y(1), da Silva A(1), Gu M(1), Li W(1), Hamada T(1), Zhang X(6), Wu K(5)(6),
-Meyerhardt JA(1), Baba H(7), Giovannucci EL(5)(6)(8), Chan AT(3)(4)(6), Fuchs
-CS(1)(6), Ogino S(1)(2)(8), Nishihara R(1)(5).
-
-Author information: 
-(1)Department of Medical Oncology, Dana-Farber Cancer Institute and Harvard
-Medical School, Boston, MA, USA.
-(2)Division of MPE Molecular Pathological Epidemiology, Department of Pathology, 
-Brigham and Women's Hospital and Harvard Medical School, Boston, MA, USA.
-(3)Clinical and Translational Epidemiology Unit, Massachusetts General Hospital
-and Harvard Medical School, Boston, MA, USA.
-(4)Division of Gastroenterology, Massachusetts General Hospital, Boston, MA, USA.
-(5)Department of Nutrition, Harvard T.H. Chan School of Public Health, Boston,
-MA, USA.
-(6)Channing Division of Network Medicine, Department of Medicine, Brigham and
-Women's Hospital and Harvard Medical School, Boston, MA, USA.
-(7)Department of Gastroenterological Surgery, Graduate School of Medical Science,
-Kumamoto University, Kumamoto, Japan.
-(8)Department of Epidemiology, Harvard T.H. Chan School of Public Health, Boston,
-MA, USA.
-
-Colorectal tumors arise with genomic and epigenomic alterations through
-interactions between neoplastic cells, immune cells, and microbiota that vary
-along the proximal to distal axis of colorectum. Long interspersed nucleotide
-element-1 (LINE-1) hypomethylation in colorectal cancer has been associated with 
-worse clinical outcome. Utilizing 1,317 colon and rectal carcinoma cases in two
-U.S.-nationwide prospective cohort studies, we examined patient survival
-according to LINE-1 methylation level stratified by tumor location. Cox
-proportional hazards model was used to assess a statistical interaction between
-LINE-1 methylation level and tumor location in colorectal cancer-specific
-mortality analysis, controlling for potential confounders including
-microsatellite instability, CpG island methylator phenotype, and KRAS, BRAF, and 
-PIK3CA mutations. A statistically significant interaction was found between
-LINE-1 methylation level and tumor location in colorectal cancer-specific
-mortality analysis (Pinteraction = 0.011). The association of LINE-1
-hypomethylation with higher colorectal cancer-specific mortality was stronger in 
-proximal colon cancers (multivariable hazard ratio [HR], 1.66; 95% confidence
-interval [CI], 1.21 to 2.28) than in distal colon cancers (multivariable HR,
-1.18; 95% CI, 0.81 to 1.72) or rectal cancers (multivariable HR, 0.87; 95% CI,
-0.57 to 1.34). Our data suggest the interactive effect of LINE-1 methylation
-level and colorectal cancer location on clinical outcome.
-
-DOI: 10.18632/oncotarget.10398 
-PMCID: PMC5342404
-PMID: 27391152  [Indexed for MEDLINE]
-
-
 44. Dig Dis Sci. 2016 Oct;61(10):2908-2920. doi: 10.1007/s10620-016-4238-7. Epub 2016
 Jul 6.
 
