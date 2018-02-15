@@ -1561,32 +1561,6 @@ DOI: 10.1136/gutjnl-2015-309595
 PMCID: PMC5529966
 PMID: 26992426  [Indexed for MEDLINE]
 
-74. Leuk Lymphoma. 2016 Oct;57(10):2401-8. doi: 10.3109/10428194.2016.1144879. Epub
-2016 Feb 17.
-
-Butyrate production from high-fiber diet protects against lymphoma tumor.
-
-Wei W(1), Sun W(1), Yu S(1), Yang Y(1), Ai L(1).
-
-Author information: 
-(1)a Department of Hematology , The First Affiliated Hospital of Liaoning Medical
-University , Jinzhou , Liaoning Province , PR China.
-
-Gut microbiota and dietary fiber are critical for protecting body from obesity,
-diabetes and cancer. Butyrate, produced in the gut by bacterial fermentation of
-dietary fibers, is demonstrated to be protective against the development of
-colorectal cancer as a histone deacetylase (HDAC) inhibitor. We report that
-high-fiber diet and butyrate significantly inhibited the growth lymphoma tumors. 
-Butyrate induced apoptosis of lymphoma tumor cells and significantly up-regulated
-histone 3 acetylation (H3ac) level and target genes such as Fas, P21, P27. Our
-results unravel an instrumental role of fiber diet and their metabolites on
-lymphoma tumor and demonstrate an intervention potential on the prevention and
-therapy of lymphoma.
-
-DOI: 10.3109/10428194.2016.1144879 
-PMID: 26885564  [Indexed for MEDLINE]
-
-
 75. Proc Natl Acad Sci U S A. 2016 Mar 1;113(9):E1306-15. doi:
 10.1073/pnas.1518189113. Epub 2016 Feb 16.
 
