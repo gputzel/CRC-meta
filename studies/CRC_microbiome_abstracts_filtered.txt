@@ -1561,45 +1561,6 @@ DOI: 10.1136/gutjnl-2015-309595
 PMCID: PMC5529966
 PMID: 26992426  [Indexed for MEDLINE]
 
-76. Curr Treat Options Gastroenterol. 2016 Mar;14(1):152-62. doi:
-10.1007/s11938-016-0076-0.
-
-Advances in Fecal Tests for Colorectal Cancer Screening.
-
-Schreuders EH(1), Grobbee EJ(2), Spaander MC(2), Kuipers EJ(2).
-
-Author information: 
-(1)Department of Gastroenterology and Hepatology, Erasmus MC University Medical
-Center Rotterdam, 's-Gravendijkwal 230, 3015 CE, Rotterdam, The Netherlands.
-e.schreuders@erasmusmc.nl.
-(2)Department of Gastroenterology and Hepatology, Erasmus MC University Medical
-Center Rotterdam, 's-Gravendijkwal 230, 3015 CE, Rotterdam, The Netherlands.
-
-OPINION STATEMENT: Colorectal cancer (CRC) forms an important public health
-problem, especially in developed countries. CRC screening tests can be used to
-identify asymptomatic individuals with CRC precursors and (early) cancer. Removal
-of these lesions reduces CRC incidence and prevents CRC-related mortality. There 
-are a range of screening tests available, each with advantages and disadvantages.
-Stool screening tests can broadly be divided into fecal occult blood tests
-(FOBTs) and molecular biomarker test, such as DNA/RNA marker tests, protein
-markers, and fecal microbiome marker tests. Guaiac fecal occult blood tests
-(gFOBT) have been demonstrated in large randomized screening trials to reduce CRC
-mortality. Fecal immunochemical tests (FIT) have superior adherence, usability,
-and accuracy as compared to gFOBT. Advantage of the use of quantitative FITs in
-CRC screening programs is the cut-off level that can be adjusted. Molecular
-biomarker DNA tests have shown to detect significantly more cancers than FIT. By 
-combining biomarker DNA tests with FIT, sensitivity for advanced adenomas can be 
-increased significantly. However, it has lower specificity thus demands more
-colonoscopy resources, is more cumbersome, and costly. The adherence has not been
-assessed in population screening trials. For these reasons, FIT is therefore at
-present regarded as the preferred method of non-invasive CRC screening. This
-chapter will review the current status of fecal test-based CRC screening.
-
-DOI: 10.1007/s11938-016-0076-0 
-PMCID: PMC4783443
-PMID: 26825703 
-
-
 77. Braz J Microbiol. 2015 Oct-Dec;46(4):1135-40. doi: 10.1590/S1517-838246420140665.
 Epub 2015 Oct 9.
 
