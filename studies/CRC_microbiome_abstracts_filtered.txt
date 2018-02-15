@@ -1854,65 +1854,6 @@ DOI: 10.1016/j.ebiom.2015.04.010
 PMCID: PMC4535156
 PMID: 26288821  [Indexed for MEDLINE]
 
-4. Nat Cell Biol. 2015 Aug;17(8):1062-73. doi: 10.1038/ncb3206. Epub 2015 Jul 27.
-
-Intestinal inhibition of Atg7 prevents tumour initiation through a
-microbiome-influenced immune response and suppresses tumour growth.
-
-Lévy J(1), Cacheux W(2), Bara MA(1), L'Hermitte A(1), Lepage P(3), Fraudeau M(1),
-Trentesaux C(1), Lemarchand J(1), Durand A(1), Crain AM(4), Marchiol C(1),
-Renault G(1), Dumont F(1), Letourneur F(1), Delacre M(5), Schmitt A(1), Terris
-B(6), Perret C(1), Chamaillard M(5), Couty JP(4), Romagnolo B(1).
-
-Author information: 
-(1)1] Institut Cochin, Université Paris Descartes, Centre National de la
-Recherche Scientifique (CNRS), UMR8104, Paris 75014, France [2] Institut National
-de la Sante et de la Recherche Médicale (INSERM), U1016, Paris 75014, France.
-(2)1] Institut Cochin, Université Paris Descartes, Centre National de la
-Recherche Scientifique (CNRS), UMR8104, Paris 75014, France [2] Institut National
-de la Sante et de la Recherche Médicale (INSERM), U1016, Paris 75014, France [3] 
-Department of Medical Oncology, Institut Curie, 26 rue d'Ulm, 75248 Paris Cedex
-05, France [4] Pharmacogenomics Unit, Department of Genetics, Institut Curie, 26 
-rue d'Ulm, 75248 Paris Cedex 05, France.
-(3)1] Institut National de la Recherche Agronomique, Micalis UMR1319,
-Jouy-en-Josas 78352, France [2] AgroParisTech, Micalis UMR1319, 78350
-Jouy-en-Josas, France.
-(4)1] Institut Cochin, Université Paris Descartes, Centre National de la
-Recherche Scientifique (CNRS), UMR8104, Paris 75014, France [2] Institut National
-de la Sante et de la Recherche Médicale (INSERM), U1016, Paris 75014, France [3] 
-Université Paris Diderot, UFR Sciences du Vivant, Sorbonne Paris Cité,
-Paris 75013, France.
-(5)1] Université Lille Nord de France, Lille 59000, France [2] Institut Pasteur
-de Lille, Center for Infection and Immunity of Lille, Lille 59800, France [3]
-Centre National de la Recherche Scientifique, Unité Mixte de Recherche,
-Lille 59046, France [4] Institut National de la Santé et de la Recherche
-Médicale, Lille 59045, France.
-(6)1] Institut Cochin, Université Paris Descartes, Centre National de la
-Recherche Scientifique (CNRS), UMR8104, Paris 75014, France [2] Institut National
-de la Sante et de la Recherche Médicale (INSERM), U1016, Paris 75014, France [3] 
-Service d'Anatomie et Cytologie Pathologiques, AP-HP, Hôpital Cochin, Université 
-Paris Descartes, Paris 75014, France.
-
-Comment in
-    Nat Rev Cancer. 2015 Sep;15(9):512-3.
-
-Here, we show that autophagy is activated in the intestinal epithelium in murine 
-and human colorectal cancer and that the conditional inactivation of Atg7 in
-intestinal epithelial cells inhibits the formation of pre-cancerous lesions in
-Apc(+/-) mice by enhancing anti-tumour responses. The antibody-mediated depletion
-of CD8(+) T cells showed that these cells are essential for the anti-tumoral
-responses mediated by the inhibition of autophagy. We show that Atg7 deficiency
-leads to intestinal dysbiosis and that the microbiota is required for anticancer 
-responses. In addition, Atg7 deficiency resulted in a stress response accompanied
-by metabolic defects, AMPK activation and p53-mediated cell-cycle arrest in
-tumour cells but not in normal tissue. This study reveals that the inhibition of 
-autophagy within the epithelium may prevent the development and progression of
-colorectal cancer in genetically predisposed patients.
-
-DOI: 10.1038/ncb3206 
-PMID: 26214133  [Indexed for MEDLINE]
-
-
 5. J Proteome Res. 2015 Sep 4;14(9):3871-81. doi: 10.1021/acs.jproteome.5b00277.
 Epub 2015 Aug 7.
 
