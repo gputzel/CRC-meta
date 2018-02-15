@@ -1183,39 +1183,6 @@ DOI: 10.3389/fcimb.2016.00179
 PMCID: PMC5145865
 PMID: 28018861  [Indexed for MEDLINE]
 
-12. Trends Mol Med. 2017 Jan;23(1):18-30. doi: 10.1016/j.molmed.2016.11.004. Epub
-2016 Dec 13.
-
-Bacterial Biofilms in Colorectal Cancer Initiation and Progression.
-
-Li S(1), Konstantinov SR(1), Smits R(1), Peppelenbosch MP(2).
-
-Author information: 
-(1)Department of Gastroenterology and Hepatology, Erasmus University Medical
-Center (Erasmus MC), Rotterdam, The Netherlands.
-(2)Department of Gastroenterology and Hepatology, Erasmus University Medical
-Center (Erasmus MC), Rotterdam, The Netherlands. Electronic address:
-m.peppelenbosch@erasmusmc.nl.
-
-Intestinal microbiota have emerged as an important factor in colorectal cancer
-(CRC) initiation and progression. The currently prominent view on bacterial
-tumorigenesis is that CRC initiation is triggered by local mucosal colonization
-with specific pathogens (drivers), and that subsequent changes in the peritumoral
-environment allow colonization by opportunistic (passenger) microbes, further
-facilitating disease progression. Screening for CRC 'driver-passenger'
-microorganisms might thus allow early CRC diagnosis or preventive intervention.
-Such efforts are now being revolutionized by the notion that CRC initiation and
-progression require organization of bacterial communities into higher-order
-structures termed biofilms. We explore here the concept that a polymicrobial
-biofilm promotes pro-carcinogenic activities that may partially underlie
-progression along the adenoma-CRC axis.
-
-Copyright © 2016 Elsevier Ltd. All rights reserved.
-
-DOI: 10.1016/j.molmed.2016.11.004 
-PMID: 27986421  [Indexed for MEDLINE]
-
-
 13. Front Physiol. 2016 Nov 30;7:595. eCollection 2016.
 
 Lack of Adrenomedullin Results in Microbiota Changes and Aggravates Azoxymethane 
