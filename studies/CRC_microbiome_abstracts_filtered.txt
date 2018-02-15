@@ -1344,68 +1344,6 @@ DOI: 10.1158/1055-9965.EPI-16-0337
 PMCID: PMC5225053
 PMID: 27672054  [Indexed for MEDLINE]
 
-38. Clin Cancer Res. 2016 Aug 15;22(16):4158-69. doi: 10.1158/1078-0432.CCR-15-2379.
-
-Prevention of Colitis and Colitis-Associated Colorectal Cancer by a Novel
-Polypharmacological Histone Deacetylase Inhibitor.
-
-Wei TT(1), Lin YT(1), Tseng RY(1), Shun CT(2), Lin YC(3), Wu MS(4), Fang JM(5),
-Chen CC(6).
-
-Author information: 
-(1)Department of Pharmacology, National Taiwan University College of Medicine,
-Taipei, Taiwan.
-(2)Graduate Institute of Forensic Medicine, National Taiwan University College of
-Medicine, Taipei, Taiwan. Department of Pathology, National Taiwan University
-Hospital, Taipei, Taiwan.
-(3)Department of Pharmacology, National Taiwan University College of Medicine,
-Taipei, Taiwan. Department of Oncology, National Taiwan University Hospital,
-Taipei, Taiwan. Department of Internal Medicine, Far-Eastern Memorial Hospital,
-New Taipei City, Taiwan.
-(4)Division of Gastroenterology, Department of Internal Medicine, National Taiwan
-University Hospital, Taipei, Taiwan.
-(5)Department of Chemistry, National Taiwan University, Taipei, Taiwan.
-(6)Department of Pharmacology, National Taiwan University College of Medicine,
-Taipei, Taiwan. chingchowchen@ntu.edu.tw.
-
-Erratum in
-    Clin Cancer Res. 2018 Jan 15;24(2):499.
-
-PURPOSE: Colorectal cancer is a worldwide cancer with rising annual incidence.
-Inflammation is a well-known cause of colorectal cancer carcinogenesis. Metabolic
-inflammation (metaflammation) and altered gut microbiota (dysbiosis) have
-contributed to colorectal cancer. Chemoprevention is an important strategy to
-reduce cancer-related mortality. Recently, various polypharmacologic molecules
-that dually inhibit histone deacetylases (HDAC) and other therapeutic targets
-have been developed.
-EXPERIMENTAL DESIGN: Prevention for colitis was examined by dextran sodium
-sulfate (DSS) mouse models. Prevention for colorectal cancer was examined by
-azoxymethane/dextran sodium sulfate (AOM/DSS) mouse models. Immunohistochemical
-staining was utilized to analyze the infiltration of macrophages and neutrophils 
-and COX-II expression in mouse tissue specimens. The endotoxin activity was
-evaluated by Endotoxin Activity Assay Kit.
-RESULTS: We synthesized a statin hydroxamate that simultaneously inhibited HDAC
-and 3-hydroxy-3-methylglutaryl coenzyme A reductase (HMGR). Its preventive effect
-on colitis and colitis-associated colorectal cancer in mouse models was examined.
-Oral administration of this statin hydroxamate could prevent acute inflammation
-in the DSS-induced colitis and AOM/DSS-induced colorectal cancer with superior
-activity than the combination of lovastatin and SAHA. It also reduced
-proinflammatory cytokines, chemokines, expression of COX-II, and cyclin D1 in
-inflammation and tumor tissues, as well as decreasing the infiltration of
-macrophages and neutrophils in tumor-surrounding regions. Stemness of colorectal 
-cancer and the release of endotoxin in AOM/DSS mouse models were also attenuated 
-by this small molecule.
-CONCLUSIONS: This study demonstrates that the polypharmacological HDAC inhibitor 
-has promising effect on the chemoprevention of colorectal cancer, and serum
-endotoxin level might serve as a potential biomarker for its chemoprevention.
-Clin Cancer Res; 22(16); 4158-69. ©2016 AACR.
-
-©2016 American Association for Cancer Research.
-
-DOI: 10.1158/1078-0432.CCR-15-2379 
-PMID: 27528734  [Indexed for MEDLINE]
-
-
 39. Cell Host Microbe. 2016 Aug 10;20(2):215-25. doi: 10.1016/j.chom.2016.07.006.
 
 Fap2 Mediates Fusobacterium nucleatum Colorectal Adenocarcinoma Enrichment by
