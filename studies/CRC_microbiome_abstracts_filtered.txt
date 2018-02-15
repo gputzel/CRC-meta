@@ -1183,42 +1183,6 @@ DOI: 10.3389/fcimb.2016.00179
 PMCID: PMC5145865
 PMID: 28018861  [Indexed for MEDLINE]
 
-16. Mol Cell Endocrinol. 2017 Sep 15;453:79-87. doi: 10.1016/j.mce.2016.11.028. Epub 
-2016 Nov 29.
-
-The endocrine vitamin D system in the gut.
-
-Barbáchano A(1), Fernández-Barral A(1), Ferrer-Mayorga G(1), Costales-Carrera
-A(1), Larriba MJ(1), Muñoz A(2).
-
-Author information: 
-(1)Instituto de Investigaciones Biomédicas "Alberto Sols", Consejo Superior de
-Investigaciones Científicas - Universidad Autónoma de Madrid, E-28029 Madrid,
-Spain.
-(2)Instituto de Investigaciones Biomédicas "Alberto Sols", Consejo Superior de
-Investigaciones Científicas - Universidad Autónoma de Madrid, E-28029 Madrid,
-Spain. Electronic address: amunoz@iib.uam.es.
-
-The active vitamin D metabolite 1α,25-dihydroxyvitamin D3 (1,25(OH)2D3) has
-important regulatory actions in the gut through endocrine and probably also
-intracrine, autocrine and paracrine mechanisms. By activating the vitamin D
-receptor (VDR), which is expressed at a high level in the small intestine and
-colon, 1,25(OH)2D3 regulates numerous genes that control gut physiology and
-homeostasis. 1,25(OH)2D3 is a major responsible for epithelial barrier function
-and calcium and phosphate absorption, and the host's defense against pathogens
-and the inflammatory response by several types of secretory and immune cells.
-Moreover, recent data suggest that 1,25(OH)2D3 has a regulatory effect on the gut
-microbiota and stromal fibroblasts. Many studies have linked vitamin D deficiency
-to inflammatory bowel diseases (ulcerative colitis and Crohn's disease) and to an
-increased risk of colorectal cancer, and the possible use of VDR agonists to
-prevent or treat these diseases is receiving increasing interest.
-
-Copyright © 2016 Elsevier Ireland Ltd. All rights reserved.
-
-DOI: 10.1016/j.mce.2016.11.028 
-PMID: 27913273 
-
-
 17. Parkinsonism Relat Disord. 2017 Feb;35:42-47. doi:
 10.1016/j.parkreldis.2016.11.011. Epub 2016 Nov 22.
 
