@@ -1812,55 +1812,6 @@ PMCID: PMC4741656
 PMID: 26397137  [Indexed for MEDLINE]
 
 
-93. Immunity. 2015 Oct 20;43(4):751-63. doi: 10.1016/j.immuni.2015.08.013. Epub 2015 
-Sep 15.
-
-The Nlrp3 Inflammasome Suppresses Colorectal Cancer Metastatic Growth in the
-Liver by Promoting Natural Killer Cell Tumoricidal Activity.
-
-Dupaul-Chicoine J(1), Arabzadeh A(2), Dagenais M(1), Douglas T(3), Champagne
-C(4), Morizot A(4), Rodrigue-Gervais IG(4), Breton V(2), Colpitts SL(5),
-Beauchemin N(6), Saleh M(7).
-
-Author information: 
-(1)Department of Biochemistry, McGill University, Montréal, QC H3G 1Y6, Canada.
-(2)The Goodman Cancer Research Centre, McGill University, Montréal, QC H3A 1A3,
-Canada.
-(3)Department of Microbiology and Immunology, McGill University, Montréal, QC H3A
-2B4, Canada.
-(4)Department of Medicine, McGill University, Montréal, QC H3G 0B1, Canada.
-(5)Department of Immunology, Center for Integrated Immunology and Vaccine
-Research, UConn Health, Farmington, CT 06030, USA.
-(6)Department of Biochemistry, McGill University, Montréal, QC H3G 1Y6, Canada;
-The Goodman Cancer Research Centre, McGill University, Montréal, QC H3A 1A3,
-Canada; Department of Medicine, McGill University, Montréal, QC H3G 0B1, Canada.
-(7)Department of Biochemistry, McGill University, Montréal, QC H3G 1Y6, Canada;
-The Goodman Cancer Research Centre, McGill University, Montréal, QC H3A 1A3,
-Canada; Department of Microbiology and Immunology, McGill University, Montréal,
-QC H3A 2B4, Canada; Department of Medicine, McGill University, Montréal, QC H3G
-0B1, Canada. Electronic address: maya.saleh@mcgill.ca.
-
-The crosstalk between inflammation and tumorigenesis is now clearly established. 
-However, how inflammation is elicited in the metastatic environment and the
-corresponding contribution of innate immunity pathways in suppressing tumor
-growth at secondary sites are poorly understood. Here, we show that mice
-deficient in Nlrp3 inflammasome components had exacerbated liver colorectal
-cancer metastatic growth, which was mediated by impaired interleukin-18 (IL-18)
-signaling. Control of tumor growth was independent of differential cancer cell
-colonization or proliferation, intestinal microbiota effects, or tumoricidal
-activity by the adaptive immune system. Instead, the inflammasome-IL-18 pathway
-impacted maturation of hepatic NK cells, surface expression of the death ligand
-FasL, and capacity to kill FasL-sensitive tumors. Our results define a regulatory
-signaling circuit within the innate immune system linking inflammasome activation
-to effective NK-cell-mediated tumor attack required to suppress colorectal cancer
-growth in the liver.
-
-Copyright © 2015 Elsevier Inc. All rights reserved.
-
-DOI: 10.1016/j.immuni.2015.08.013 
-PMID: 26384545  [Indexed for MEDLINE]
-
-
 94. Oncotarget. 2015 Oct 20;6(32):33689-704. doi: 10.18632/oncotarget.5604.
 
 Differential susceptibility to colorectal cancer due to naturally occurring gut
