@@ -1344,61 +1344,6 @@ DOI: 10.1158/1055-9965.EPI-16-0337
 PMCID: PMC5225053
 PMID: 27672054  [Indexed for MEDLINE]
 
-44. Dig Dis Sci. 2016 Oct;61(10):2908-2920. doi: 10.1007/s10620-016-4238-7. Epub 2016
-Jul 6.
-
-Structural Change in Microbiota by a Probiotic Cocktail Enhances the Gut Barrier 
-and Reduces Cancer via TLR2 Signaling in a Rat Model of Colon Cancer.
-
-Kuugbee ED(1)(2), Shang X(1), Gamallat Y(1), Bamba D(1), Awadasseid A(1), Suliman
-MA(3), Zang S(4), Ma Y(5), Chiwala G(1), Xin Y(6), Shang D(7).
-
-Author information: 
-(1)Department of Biochemistry and Molecular Biology, Dalian Medical University,
-Dalian, 116044, China.
-(2)Laboratory Department, Tamale Teaching Hospital, Post Office Box 16, Tamale,
-Ghana.
-(3)Department of Clinical Biochemistry, Dalian Medical University, Dalian,
-116044, China.
-(4)Department of Biotechnology, Dalian Medical University, Dalian, 116044, China.
-(5)Department of Acute Abdominal Surgery, First Affiliated Hospital of Dalian
-Medical University, Dalian, 116011, China.
-(6)Department of Biochemistry and Molecular Biology, Dalian Medical University,
-Dalian, 116044, China. jimxinyi@yahoo.com.
-(7)Department of Microbiology, Dalian Medical University, Dalian, 116044, China. 
-tougao1771@163.com.
-
-BACKGROUND: Structural change in the gut microbiota is implicated in cancer. The 
-beneficial modulation of the microbiota composition with probiotics and
-prebiotics prevents diseases.
-AIM: We investigated the effect of oligofructose-maltodextrin-enriched
-Lactobacillus acidophilus, Bifidobacteria bifidum, and Bifidobacteria infantum
-(LBB), on the gut microbiota composition and progression of colorectal cancer.
-METHODS: Sprague Dawley rats were acclimatized, given ampicillin (75 mg/kg), and 
-treated as follows; GCO: normal control; GPR: LBB only; GPC: LBB+
-1,2-dimethylhydrazine dihydrochloride (DMH); and GCA: DMH only (cancer control). 
-16S V4 Pyrosequencing for gut microbiota analysis, tumor studies, and the
-expression of MUC2, ZO-1, occludin, TLR2, TLR4, caspase 3, COX-2, and β-catenin
-were conducted at the end of experiment.
-RESULTS: Probiotic LBB treatment altered the gut microbiota. The relative
-abundance of genera Pseudomonas, Congregibacter, Clostridium, Candidactus spp.,
-Phaeobacter, Escherichia, Helicobacter, and HTCC was decreased (P < 0.05), but
-the genus Lactobacillus increased (P < 0.05), in LBB treatment than in cancer
-control. The altered gut microbiota was associated with decreased tumor incidence
-(80 % in GPC vs. 100 % in GCA, P = 0.0001), tumor volume (GPC 84.23 (42.75-188.4)
-mm(3) vs. GCA 243 (175.5-344.5) mm(3), P < 0.0001) and tumor multiplicity/count
-(GPC 2.92 ± 0.26 vs. GCA 6.27 ± 0.41; P < 0.0001). The expression of MUC2, ZO-1, 
-occludin, and TLR2 was increased, but expression of TLR4, caspase 3, Cox-2, and
-β-catenin was decreased by LBB treatment than in cancer control GCA (P < 0.05).
-CONCLUSION: Administration of LBB modulates the gut microbiota and reduces colon 
-cancer development by decreasing tumor incidence, multiplicity/count, and volume 
-via enhanced TLR2-improved gut mucosa epithelial barrier integrity and
-suppression of apoptosis and inflammation.
-
-DOI: 10.1007/s10620-016-4238-7 
-PMID: 27384052  [Indexed for MEDLINE]
-
-
 45. Oncotarget. 2016 Jul 19;7(29):46158-46172. doi: 10.18632/oncotarget.10064.
 
 Could gut microbiota serve as prognostic biomarker associated with colorectal
