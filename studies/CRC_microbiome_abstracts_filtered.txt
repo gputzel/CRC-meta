@@ -1417,38 +1417,6 @@ DOI: 10.1038/srep25271
 PMCID: PMC4850483
 PMID: 27125587  [Indexed for MEDLINE]
 
-61. Prev Nutr Food Sci. 2016 Mar;21(1):57-61. doi: 10.3746/pnf.2016.21.1.57. Epub
-2016 Mar 31.
-
-Changes of Mouse Gut Microbiota Diversity and Composition by Modulating Dietary
-Protein and Carbohydrate Contents: A Pilot Study.
-
-Kim E(1), Kim DB(1), Park JY(1).
-
-Author information: 
-(1)Department of Food Science and Nutrition, Catholic University of Daegu,
-Gyeongbuk 38430, Korea.
-
-Dietary proteins influence colorectal cancer (CRC) risk, depending on their
-quantity and quality. Here, using pyrosequencing, we compared the fecal
-microbiota composition in Balb/c mice fed either a normal protein/carbohydrate
-diet (ND, 20% casein and 68% carbohydrate) or a high-protein/low-carbohydrate
-diet (HPLCD, 30% casein and 57% carbohydrate). The results showed that HPLCD
-feeding for 2 weeks reduced the diversity and altered the composition of the
-microbiota compared with the ND mice, which included a decrease in the proportion
-of the family Lachnospiraceae and Ruminococcaceae and increases in the
-proportions of the genus Bacteroides and Parabacteroides, especially the species 
-EF09600_s and EF604598_s. Similar changes were reported in patients with
-inflammatory bowel disease, and in mouse models of CRC and colitis, respectively.
-This suggests that HPLCD may lead to a deleterious luminal environment and may
-have adverse effects on the intestinal health of individuals consuming such a
-diet.
-
-DOI: 10.3746/pnf.2016.21.1.57 
-PMCID: PMC4827636
-PMID: 27069907 
-
-
 62. Gastroenterology. 2016 Jul;151(1):152-164.e11. doi: 10.1053/j.gastro.2016.03.039.
 Epub 2016 Apr 6.
 
