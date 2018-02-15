@@ -1754,46 +1754,6 @@ http://www.bmj.com/company/products-services/rights-and-licensing/.
 DOI: 10.1136/gutjnl-2015-309800 
 PMID: 26408641  [Indexed for MEDLINE]
 
-91. Int J Oncol. 2015 Nov;47(5):1749-58. doi: 10.3892/ijo.2015.3173. Epub 2015 Sep
-18.
-
-Colon cancer chemopreventive effects of baicalein, an active enteric microbiome
-metabolite from baicalin.
-
-Wang CZ(1), Zhang CF(1), Chen L(1), Anderson S(1), Lu F(1), Yuan CS(1).
-
-Author information: 
-(1)Τang Center for Herbal Medicine Research, University of Chicago, Chicago, IL
-60637, USA.
-
-Baicalin is a major constituent of Scutellaria baicalensis, which is a commonly
-used herbal medicine in many Asian countries. After oral ingestion, intestinal
-microbiota metabolism may change parent compound's structure and its biological
-activities. However, whether baicalin can be metabolized by enteric microbiota
-and the related anticancer activity is not clear. In this study, using human
-enteric microbiome incubation and HPLC analysis, we observed that baicalin can be
-quickly converted to baicalein. We compared the antiproliferative effects of
-baicalin and baicalein using a panel of human cancer cell lines, including three 
-human colorectal cancer (CRC) cell lines. In vitro antiproliferative effects on
-CRC cells were verified using an in vivo xenograft nude mouse model. Baicalin
-showed limited antiproliferative effects on some of these cancer cell lines.
-Baicalein, however, showed significant antiproliferative effects in all the
-tested cancer cell lines, especially on HCT-116 human colorectal cancer cells. In
-vivo antitumor results supported our in vitro data. We demonstrated that
-baicalein exerts potent S phase cell cycle arrest and pro-apoptotic effects in
-HCT-116 cells. Baicalein induced the activation of caspase 3 and 9. The in silico
-modeling suggested that baicalein forms hydrogen bonds with residues Ser251 and
-Asp253 at the active site of caspase 3, while interactions with residues Leu227
-and Asp228 in caspase 9 through its hydroxyl groups. Data from this study
-suggested that baicalein is a potent anticancer metabolite derived from S.
-baicalensis. Enteric microbiota play a key role in the colon cancer
-chemoprevention of S. baicalensis.
-
-DOI: 10.3892/ijo.2015.3173 
-PMCID: PMC4599184
-PMID: 26398706  [Indexed for MEDLINE]
-
-
 92. Oncotarget. 2015 Oct 13;6(31):32013-26. doi: 10.18632/oncotarget.5166.
 
 Berberine may rescue Fusobacterium nucleatum-induced colorectal tumorigenesis by 
