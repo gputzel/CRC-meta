@@ -1183,38 +1183,6 @@ DOI: 10.3389/fcimb.2016.00179
 PMCID: PMC5145865
 PMID: 28018861  [Indexed for MEDLINE]
 
-14. J Agric Food Chem. 2017 Jan 11;65(1):66-73. doi: 10.1021/acs.jafc.6b04561. Epub
-2016 Dec 20.
-
-Chemopreventive Potential of Powdered Red Wine Pomace Seasonings against
-Colorectal Cancer in HT-29 Cells.
-
-Del Pino-García R(1), Rivero-Pérez MD(1), González-SanJosé ML(1), Ortega-Heras
-M(1), García Lomillo J(1), Muñiz P(1).
-
-Author information: 
-(1)Department of Food Biotechnology and Science, Faculty of Sciences, University 
-of Burgos , Plaza Misael Bañuelos s/n, 09001, Burgos, Spain.
-
-This study evaluates the antiproliferative and antigenotoxic actions of powdered 
-red wine pomace seasonings (Sk-S, seedless; W-S, whole; Sd-S, seeds). In vitro
-gastrointestinal digested and colonic fermented fractions of the seasonings were 
-used as cell treatments. Phenolic acids from Sk-S showed the highest
-bioaccessibility in the small intestine, whereas polyphenols contained in Sd-S
-might be the most fermentable in the colon. Dietary fiber from Sk-S was the best 
-substrate for short chain fatty acids production by gut microbiota. Colon
-cancerous (HT-29) cell viability was inhibited by 50% (IC50 values) at treatment 
-concentrations ranging from 845 (Sk-S) to 1085 (Sd-S) μg/mL prior digestion, but 
-all digested fractions exhibited similar antiproliferative activities (mean IC50 
-= 814 μg/mL). Oxidative DNA damage in cells was also attenuated by the treatments
-(200 μg/mL, 24 h preincubation), with all colonic fermented fractions displaying 
-similar genoprotective action. These results suggest the potential of red wine
-pomace seasonings as chemopreventive agents in colorectal cancer.
-
-DOI: 10.1021/acs.jafc.6b04561 
-PMID: 27957845  [Indexed for MEDLINE]
-
-
 15. Int J Mol Sci. 2016 Dec 2;17(12). pii: E2017.
 
 Light/Dark Shifting Promotes Alcohol-Induced Colon Carcinogenesis: Possible Role 
