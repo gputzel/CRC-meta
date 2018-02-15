@@ -1278,43 +1278,6 @@ DOI: 10.1080/07315724.2016.1185386
 PMCID: PMC5477991
 PMID: 27797671  [Indexed for MEDLINE]
 
-30. Mol Clin Oncol. 2016 Oct;5(4):339-342. Epub 2016 Aug 10.
-
-Bowel movement frequency, oxidative stress and disease prevention.
-
-Vermorken AJ(1), Andrès E(2), Cui Y(1).
-
-Author information: 
-(1)College of Life Sciences, Northwest University, Xi'an, Shaanxi 710069, P.R.
-China; National Engineering Research Center for Miniaturized Detection Systems,
-Xi'an, Shaanxi 710069, P.R. China.
-(2)Department of Internal Medicine, Diabetes and Metabolic Disorders, University 
-Hospital of Strasbourg, 67091 Strasbourg, France.
-
-The significance of diet for disease prevention has long been recognised. Dietary
-recommendations have therefore been integrated in health promotion messages.
-Gastrointestinal functioning is essential for the digestion of nutrients.
-Oxidative stress has been observed in patients with constipation, as well as in
-those with colorectal cancer, cardiovascular disease and other chronic illnesses 
-associated with constipation. The coexistence of colorectal neoplasia and
-coronary artery disease has been incriminated for exposure to common risk factors
-associated with increased oxidative stress. It was recently demonstrated that
-bowel movement frequency is inversely associated with cardiovascular mortality.
-The aim of the present study was to review the relevant literature in light of
-these findings. It was concluded that suboptimal functioning of the large bowel
-may contribute to oxidative stress and, therefore, to increased mortality. Bowel 
-movement frequency may represent a simple quantifiable indicator of adequate
-colonic function and it is dependent on diet, exercise and other lifestyle
-factors, but also on individual characteristics, including colonic microbiota.
-Future health promotion actions may improve the prevention of a number of
-diseases by advocating lifestyle personalisation for assuring optimal intestinal 
-functioning.
-
-DOI: 10.3892/mco.2016.987 
-PMCID: PMC5038884
-PMID: 27703675 
-
-
 31. J Cancer. 2016 Aug 12;7(13):1780-1790. eCollection 2016.
 
 Diet- and Genetically-induced Obesity Produces Alterations in the Microbiome,
