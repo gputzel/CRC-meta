@@ -1811,45 +1811,6 @@ DOI: 10.18632/oncotarget.5166
 PMCID: PMC4741656
 PMID: 26397137  [Indexed for MEDLINE]
 
-95. Future Microbiol. 2015;10(9):1433-45. doi: 10.2217/fmb.15.66. Epub 2015 Sep 7.
-
-Probiotics Clostridium butyricum and Bacillus subtilis ameliorate intestinal
-tumorigenesis.
-
-Chen ZF(1), Ai LY(1), Wang JL(1), Ren LL(1), Yu YN(1), Xu J(1), Chen HY(1), Yu
-J(2), Li M(3), Qin WX(4), Ma X(1), Shen N(5), Chen YX(1), Hong J(1), Fang JY(1).
-
-Author information: 
-(1)Division of Gastroenterology & Hepatology, Renji Hospital, School of Medicine,
-Shanghai Jiaotong University; Shanghai Institute of Digestive Disease, 145 Middle
-Shandong Road, Shanghai 200001, China.
-(2)Department of Medicine & Therapeutics, Institute of Digestive Disease & LKS
-Institute of Health Sciences, The Chinese University of Hong Kong, Hong Kong.
-(3)Department of Clinical Laboratory, Renji Hospital, School of Medicine,
-Shanghai Jiaotong University, China.
-(4)State Key Laboratory of Oncogenes & Related Genes, Shanghai Cancer Institute, 
-Renji Hospital, School of Medicine, Shanghai Jiaotong University Shanghai, China.
-(5)Division of Rheumatology, Renji Hospital, School of Medicine, Shanghai
-Jiaotong University, China.
-
-AIMS: To investigate the antitumor effects of probiotics Clostridium butyricum
-and Bacillus subtilis on colorectal cancer (CRC) progression.
-MATERIALS & METHODS: The effects of C. butyricum and B. subtilis on CRC cells
-were studied. Male C57BL/6 mice with 1,2-dimethylhydrazine dihydrochloride
-(DMH)-induced CRC were intervened by these two probiotics and the antitumor
-effects were examined by comparing the tumor incidence and detecting the
-inflammatory and immune-related markers.
-RESULTS & CONCLUSIONS: C. butyricum and B. subtilis inhibited the proliferation
-of CRC cells, caused cell cycle arrest and promoted apoptosis. In vivo, these two
-probiotics inhibited the development of DMH-induced CRC. The molecular mechanism 
-involved reduced inflammation and improved immune homeostasis. This work
-establishes a basis for the protective role of probiotics B. subtilis and C.
-butyricum in intestinal tumorigenesis.
-
-DOI: 10.2217/fmb.15.66 
-PMID: 26346930  [Indexed for MEDLINE]
-
-
 96. Gut. 2016 Dec;65(12):1973-1980. doi: 10.1136/gutjnl-2015-310101. Epub 2015 Aug
 26.
 
