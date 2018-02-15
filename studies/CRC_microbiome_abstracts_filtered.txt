@@ -1912,52 +1912,6 @@ DOI: 10.1186/s13073-015-0177-8
 PMCID: PMC4499914
 PMID: 26170900 
 
-16. BMC Genomics. 2015;16 Suppl 7:S4. doi: 10.1186/1471-2164-16-S7-S4. Epub 2015 Jun 
-11.
-
-A genome-wide systems analysis reveals strong link between colorectal cancer and 
-trimethylamine N-oxide (TMAO), a gut microbial metabolite of dietary meat and
-fat.
-
-Xu R, Wang Q, Li L.
-
-BACKGROUND: Dietary intakes of red meat and fat are established risk factors for 
-both colorectal cancer (CRC) and cardiovascular disease (CVDs). Recent studies
-have shown a mechanistic link between TMAO, an intestinal microbial metabolite of
-red meat and fat, and risk of CVDs. Data linking TMAO directly to CRC is,
-however, lacking. Here, we present an unbiased data-driven network-based systems 
-approach to uncover a potential genetic relationship between TMAO and CRC.
-MATERIALS AND METHODS: We constructed two different epigenetic interaction
-networks (EINs) using chemical-gene, disease-gene and protein-protein interaction
-data from multiple large-scale data resources. We developed a network-based
-ranking algorithm to ascertain TMAO-related diseases from EINs. We systematically
-analyzed disease categories among TMAO-related diseases at different ranking
-cutoffs. We then determined which genetic pathways were associated with both TMAO
-and CRC.
-RESULTS: We show that CVDs and their major risk factors were ranked highly among 
-TMAO-related diseases, confirming the newly discovered mechanistic link between
-CVDs and TMAO, and thus validating our algorithms. CRC was ranked highly among
-TMAO-related disease retrieved from both EINs (top 0.02%, #1 out of 4,372
-diseases retrieved based on Mendelian genetics and top 10.9% among 882 diseases
-based on genome-wide association genetics), providing strong supporting evidence 
-for our hypothesis that TMAO is genetically related to CRC. We have also
-identified putative genetic pathways that may link TMAO to CRC, which warrants
-further investigation. Through systematic disease enrichment analysis, we also
-demonstrated that TMAO is related to metabolic syndromes and cancers in general.
-CONCLUSIONS: Our genome-wide analysis demonstrates that systems approaches to
-studying the epigenetic interactions among diet, microbiome metabolisms, and
-disease genetics hold promise for understanding disease pathogenesis. Our results
-show that TMAO is genetically associated with CRC. This study suggests that TMAO 
-may be an important intermediate marker linking dietary meat and fat and gut
-microbiota metabolism to risk of CRC, underscoring opportunities for the
-development of new gut microbiome-dependent diagnostic tests and therapeutics for
-CRC.
-
-DOI: 10.1186/1471-2164-16-S7-S4 
-PMCID: PMC4474417
-PMID: 26100814  [Indexed for MEDLINE]
-
-
 17. Cell. 2015 Jul 2;162(1):45-58. doi: 10.1016/j.cell.2015.06.001. Epub 2015 Jun 18.
 
 Critical Role for the DNA Sensor AIM2 in Stem Cell Proliferation and Cancer.
