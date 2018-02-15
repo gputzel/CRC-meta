@@ -1344,52 +1344,6 @@ DOI: 10.1158/1055-9965.EPI-16-0337
 PMCID: PMC5225053
 PMID: 27672054  [Indexed for MEDLINE]
 
-49. Cancer Epidemiol. 2016 Aug;43:9-14. doi: 10.1016/j.canep.2016.05.007. Epub 2016
-May 24.
-
-Parkinson's disease and colorectal cancer risk-A nested case control study.
-
-Boursi B(1), Mamtani R(2), Haynes K(3), Yang YX(4).
-
-Author information: 
-(1)Perelman School of Medicine at the University of Pennsylvania, Philadelphia,
-PA, USA; Abramson Cancer Center, University of Pennsylvania, Philadelphia, PA,
-USA; Tel-Aviv University, Tel-Aviv, Israel.
-(2)Perelman School of Medicine at the University of Pennsylvania, Philadelphia,
-PA, USA; Abramson Cancer Center, University of Pennsylvania, Philadelphia, PA,
-USA.
-(3)Perelman School of Medicine at the University of Pennsylvania, Philadelphia,
-PA, USA.
-(4)Perelman School of Medicine at the University of Pennsylvania, Philadelphia,
-PA, USA. Electronic address: yangy@mail.med.upenn.edu.
-
-BACKGROUND: A pro-inflammatory gut microbiota was described in both Parkinson's
-disease and colorectal cancer (CRC) and recently α-synuclein was demonstrated in 
-the enteric nervous system. We sought to evaluate the association between
-Parkinson's disease and CRC.
-METHODS: We conducted a nested case-control study using a large primary-care
-database. Cases were defined as all individuals with CRC. Up to 4 controls were
-matched with each case based on age, sex, practice-site and duration of
-follow-up. The primary exposure of interest was diagnosis of Parkinson's disease 
-prior to CRC as well as disease duration, and Parkinson's specific therapies. The
-primary analysis was a conditional logistic-regression to estimate odds ratios
-(ORs) and 95% confidence interval (95%CI).
-RESULTS: The study included 22,093 CRC cases and 85,833 matched controls. Past
-medical history of Parkinson's disease >1 year before index-date was associated
-with lower CRC risk (OR 0.74, 95%CI 0.59-0.94). The inverse association was more 
-prominent among females compared to males (0.64, 95%CI 0.42-0.96 and 0.8, 95%CI
-0.60-1.07, respectively). While patients who received no therapy or therapy with 
-dopamine agonists had a non-significant decrease in cancer risk, patients who
-were treated with dopamine had a non-significant elevated cancer risk.
-CONCLUSION: Parkinson's disease is inversely associated with CRC risk.
-
-Copyright © 2016 Elsevier Ltd. All rights reserved.
-
-DOI: 10.1016/j.canep.2016.05.007 
-PMCID: PMC4963291
-PMID: 27232063  [Indexed for MEDLINE]
-
-
 50. J Microbiol Biotechnol. 2016 Aug 28;26(8):1490-503. doi: 10.4014/jmb.1605.05024.
 
 Combination Therapy of Lactobacillus plantarum Supernatant and 5-Fluouracil
