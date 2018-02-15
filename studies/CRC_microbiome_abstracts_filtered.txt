@@ -1344,66 +1344,6 @@ DOI: 10.1158/1055-9965.EPI-16-0337
 PMCID: PMC5225053
 PMID: 27672054  [Indexed for MEDLINE]
 
-46. Physiol Genomics. 2016 Aug 1;48(8):545-53. doi:
-10.1152/physiolgenomics.00034.2016. Epub 2016 Jun 17.
-
-Interactions between the colonic transcriptome, metabolome, and microbiome in
-mouse models of obesity-induced intestinal cancer.
-
-Pfalzer AC(1), Kamanu FK(2), Parnell LD(3), Tai AK(4), Liu Z(5), Mason JB(1),
-Crott JW(6).
-
-Author information: 
-(1)Cancer Cluster, USDA Jean Mayer Human Nutrition Research Center on Aging at
-Tufts University, Boston, Massachusetts; Vitamins and Carcinogenesis Laboratory, 
-USDA Jean Mayer Human Nutrition Research Center on Aging at Tufts University,
-Boston, Massachusetts; Friedman School of Nutrition Science and Policy, Tufts
-University, Boston, Massachusetts;
-(2)Nutrition and Genomics Laboratory, USDA Jean Mayer Human Nutrition Research
-Center on Aging at Tufts University, Boston, Massachusetts;
-(3)Cancer Cluster, USDA Jean Mayer Human Nutrition Research Center on Aging at
-Tufts University, Boston, Massachusetts; Agricultural Research Service, USDA,
-Jean Mayer Human Nutrition Research Center on Aging at Tufts University, Boston, 
-Massachusetts;
-(4)Genomics Core, Tufts University School of Medicine, Boston, Massachusetts;
-and.
-(5)Cancer Cluster, USDA Jean Mayer Human Nutrition Research Center on Aging at
-Tufts University, Boston, Massachusetts; School of Public Health and Health
-Sciences, University of Massachusetts, Amherst, Massachusetts.
-(6)Cancer Cluster, USDA Jean Mayer Human Nutrition Research Center on Aging at
-Tufts University, Boston, Massachusetts; Vitamins and Carcinogenesis Laboratory, 
-USDA Jean Mayer Human Nutrition Research Center on Aging at Tufts University,
-Boston, Massachusetts; Friedman School of Nutrition Science and Policy, Tufts
-University, Boston, Massachusetts; Jimmy.crott@tufts.edu.
-
-Obesity is a significant risk factor for colorectal cancer (CRC); however, the
-relative contribution of high-fat (HF) consumption and excess adiposity remains
-unclear. It is becoming apparent that obesity perturbs both the intestinal
-microbiome and metabolome, and each has the potential to induce protumorigenic
-changes in the epithelial transcriptome. The physiological consequences and the
-degree to which these different biologic systems interact remain poorly defined. 
-To understand the mechanisms by which obesity drives colonic tumorigenesis, we
-profiled the colonic epithelial transcriptome of HF-fed and genetically obese
-(DbDb) mice with a genetic predisposition to intestinal tumorigenesis
-(Apc(1638N)); 266 and 584 genes were differentially expressed in the colonic
-mucosa of HF and DbDb mice, respectively. These genes mapped to pathways involved
-in immune function, and cellular proliferation and cancer. Furthermore, Akt was
-central within the networks of interacting genes identified in both gene sets.
-Regression analyses of coexpressed genes with the abundance of bacterial taxa
-identified three taxa, previously correlated with tumor burden, to be
-significantly correlated with a gene module enriched for Akt-related genes.
-Similarly, regression of coexpressed genes with metabolites found that adenosine,
-which was negatively associated with inflammatory markers and tumor burden, was
-also correlated with a gene module enriched with Akt regulators. Our findings
-provide evidence that HF consumption and excess adiposity result in changes in
-the colonic transcriptome that, although distinct, both appear to converge on Akt
-signaling. Such changes could be mediated by alterations in the colonic
-microbiome and metabolome.
-
-DOI: 10.1152/physiolgenomics.00034.2016 
-PMID: 27317588  [Indexed for MEDLINE]
-
-
 47. mSphere. 2015 Nov 4;1(1). pii: e00001-15. doi: 10.1128/mSphere.00001-15.
 eCollection 2016 Jan-Feb.
 
