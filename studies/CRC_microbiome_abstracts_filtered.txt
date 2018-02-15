@@ -1344,56 +1344,6 @@ DOI: 10.1158/1055-9965.EPI-16-0337
 PMCID: PMC5225053
 PMID: 27672054  [Indexed for MEDLINE]
 
-41. Mol Nutr Food Res. 2017 Jan;61(1). doi: 10.1002/mnfr.201500905. Epub 2016 Sep 12.
-
-Dietary supplementation with rice bran or navy bean alters gut bacterial
-metabolism in colorectal cancer survivors.
-
-Sheflin AM(1), Borresen EC(2), Kirkwood JS(3), Boot CM(4), Whitney AK(1), Lu
-S(1), Brown RJ(5), Broeckling CD(3), Ryan EP(2), Weir TL(1).
-
-Author information: 
-(1)Department of Food Science and Human Nutrition, Colorado State University,
-Fort Collins, CO, USA.
-(2)Department of Environmental and Radiological Health Sciences, Colorado State
-University, Fort Collins, CO, USA.
-(3)Proteomics and Metabolomics Facility, Colorado State University, Fort Collins,
-CO, USA.
-(4)Department of Chemistry, Central Instrument Facility, Colorado State
-University, Fort Collins, CO, USA.
-(5)Department of Medicine, Division of Medical Oncology, University of Colorado
-Denver and Lone Tree Oncology affiliation of University of Colorado Cancer
-Center, Aurora, Colorado, USA.
-
-SCOPE: Heat-stabilized rice bran (SRB) and cooked navy bean powder (NBP) contain 
-a variety of phytochemicals that are fermented by colonic microbiota and may
-influence intestinal health. Dietary interventions with these foods should be
-explored for modulating colorectal cancer risk.
-METHODS AND RESULTS: A randomized-controlled pilot clinical trial investigated
-the effects of eating SRB (30 g/day) or cooked navy bean powder (35 g/day) on gut
-microbiota and metabolites (NCT01929122). Twenty-nine overweight/obese volunteers
-with a prior history of colorectal cancer consumed a study-provided meal and
-snack daily for 28 days. Volunteers receiving SRB or NBP showed increased gut
-bacterial diversity and altered gut microbial composition at 28 days compared to 
-baseline. Supplementation with SRB or NBP increased total dietary fiber intake
-similarly, yet only rice bran intake led to a decreased Firmicutes:Bacteroidetes 
-ratio and increased SCFA (propionate and acetate) in stool after 14 days but not 
-at 28 days.
-CONCLUSION: These findings support modulation of gut microbiota and fermentation 
-byproducts by SRB and suggest that foods with similar ability to increase dietary
-fiber intake may not have equal effects on gut microbiota and microbial
-metabolism.
-
-© 2016 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim.
-
-DOI: 10.1002/mnfr.201500905 
-PMCID: PMC5209300
-PMID: 27461523  [Indexed for MEDLINE]
-
-Conflict of interest statement: Authors have no conflict of interest to declare
-for this research.
-
-
 42. Cancer Prev Res (Phila). 2016 Oct;9(10):803-811. Epub 2016 Jul 21.
 
 American Ginseng Attenuates Colitis-Associated Colon Carcinogenesis in Mice:
