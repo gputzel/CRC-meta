@@ -1183,53 +1183,6 @@ DOI: 10.3389/fcimb.2016.00179
 PMCID: PMC5145865
 PMID: 28018861  [Indexed for MEDLINE]
 
-20. Oncotarget. 2016 Dec 20;7(51):85318-85331. doi: 10.18632/oncotarget.13347.
-
-Isoliquiritigenin decreases the incidence of colitis-associated colorectal cancer
-by modulating the intestinal microbiota.
-
-Wu M(1)(2), Wu Y(1), Deng B(1), Li J(3), Cao H(1), Qu Y(1), Qian X(4), Zhong
-G(5)(2).
-
-Author information: 
-(1)College of Basic Medicine, Xinxiang Medical University, Xinxiang, Henan,
-China.
-(2)Henan Collaborative Innovation Center of Molecular Diagnosis and Laboratory
-Medicine, Xinxiang Medical University, Xinxiang, Henan, China.
-(3)Department of Pathology, the First Affiliated Hospital of Xinxiang Medical
-University, Xinxiang, Henan, China.
-(4)Department of Pathology, the Third Affiliated Hospital of Xinxiang Medical
-University, Xinxiang, Henan, China.
-(5)Laboratory of Cancer Biotherapy, Institute of Neurology, the First Affiliated 
-Hospital of Xinxiang Medical University, Xinxiang, Henan, China.
-
-Imbalances in intestinal bacteria correlate with colitis-associated colorectal
-cancer (CAC). Traditional Chinese medicines have been used to adjust the gut
-microbiota, and isoliquiritigenin (ISL), a flavonoid extracted from licorice, has
-shown antitumor efficacy. In this study, the effects of ISL on CAC development
-and the gut microbiota were evaluated using an azoxymethane and dextran sulphate 
-sodium (AOM/DSS)-induced mouse model of CAC (CACM). Histopathological analysis
-suggested that ISL reduced tumor incidence in vivo. Moreover, high-throughput
-sequencing and terminal restriction fragment length polymorphism (T-RFLP) studies
-of the bacterial 16S rRNA gene revealed that the structure of the gut microbial
-community shifted significantly following AOM/DSS treatment, and that effect was 
-alleviated by treatment with high-dose ISL (150 mg/kg). Compared to the
-microbiota in the control mice (CK), the levels of Bacteroidetes decreased and
-the levels of Firmicutes increased during CAC development. ISL reversed the
-imbalance at the phylum level and altered the familial constituents of the gut
-microbiota. Specifically, the abundance of Helicobacteraceae increased after
-treatment with high-dose ISL, while the abundance of Lachnospiraceae and
-Rikenellaceae decreased. At the genus level, ISL reduced the abundance of
-opportunistic pathogens (Escherichia and Enterococcus), and increased the levels 
-of probiotics, particularly butyrate-producing bacteria (Butyricicoccus,
-Clostridium, and Ruminococcus). Thus, ISL protects mice from AOM/DSS-induced CAC,
-and ISL and the gut microbiota may have synergistic anti-cancer effects.
-
-DOI: 10.18632/oncotarget.13347 
-PMCID: PMC5356739
-PMID: 27863401 
-
-
 21. Microbiome. 2016 Nov 14;4(1):59.
 
 DNA from fecal immunochemical test can replace stool for detection of colonic
