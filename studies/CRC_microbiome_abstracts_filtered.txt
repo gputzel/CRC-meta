@@ -1811,54 +1811,6 @@ DOI: 10.18632/oncotarget.5166
 PMCID: PMC4741656
 PMID: 26397137  [Indexed for MEDLINE]
 
-97. Dig Dis Sci. 2016 Jan;61(1):255-64. doi: 10.1007/s10620-015-3828-0. Epub 2015 Aug
-20.
-
-Frequent Use of Antibiotics Is Associated with Colorectal Cancer Risk: Results of
-a Nested Case-Control Study.
-
-Dik VK(1), van Oijen MG(2)(3), Smeets HM(4)(5), Siersema PD(2).
-
-Author information: 
-(1)Department of Gastroenterology and Hepatology, University Medical Center
-Utrecht, PO Box 85500, 3508 GA, Utrecht, The Netherlands. v.k.dik@umcutrecht.nl.
-(2)Department of Gastroenterology and Hepatology, University Medical Center
-Utrecht, PO Box 85500, 3508 GA, Utrecht, The Netherlands.
-(3)Department of Medical Oncology, Academic Medical Center, University of
-Amsterdam, Amsterdam, The Netherlands.
-(4)Julius Center for Health Sciences and Primary Care, University Medical Center 
-Utrecht, Utrecht, The Netherlands.
-(5)Achmea Health Insurance, Amersfoort, The Netherlands.
-
-BACKGROUND: Microbiotical dysbiosis induced by a Western diet seems to be
-associated with an increased risk of developing colorectal cancer (CRC). Few
-other factors with an effect on the colonic microbiota and their association with
-CRC have been evaluated.
-AIM: We investigated whether the use of antibiotics is associated with CRC risk.
-METHODS: Data on the use of antibiotics and comedication were extracted from a
-health insurance database for subjects with a diagnostic-related group for CRC
-between 2006 and 2011 and four age- and sex-matched controls. Antibiotic use was 
-categorized according to the number of prescriptions during a 5-year follow-up
-period (1-6 years prior to CRC). Multivariable conditional binary logistic
-regression analysis was used to estimate odds ratios (ORs) and 95 % confidence
-intervals (95 % CIs) for different levels of use.
-RESULTS: A total of 4029 cases (47 % male, mean age at diagnosis 71 ± 11 years)
-and 15,988 controls were included. Antibiotics had been prescribed to 2630 (65.3 
-%) cases and 10,234 (64.0 %) controls (p = 0.13). An increasing use of
-antibiotics was associated with an increasing risk of CRC [multivariable OR for
-high (≥8 prescriptions) vs. no prescriptions: 1.26, 95 % CI 1.11-1.44, p-trend
-<0.01]. For each increase of 5 prescriptions, the OR for CRC was 1.05 (95 % CI
-1.01-1.09).
-CONCLUSION: We found an association between the use of antibiotics, especially
-when used frequently, and the risk of developing CRC. Further studies are needed 
-to establish under which conditions the use of antibiotics increases the risk of 
-developing CRC.
-
-DOI: 10.1007/s10620-015-3828-0 
-PMCID: PMC4700063
-PMID: 26289256  [Indexed for MEDLINE]
-
-
 98. EBioMedicine. 2015 Apr 18;2(6):597-603. doi: 10.1016/j.ebiom.2015.04.010.
 eCollection 2015 Jun.
 
