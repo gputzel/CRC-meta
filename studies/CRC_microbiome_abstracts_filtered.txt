@@ -1689,46 +1689,6 @@ DOI: 10.1038/ncomms9727
 PMCID: PMC4640069
 PMID: 26515465  [Indexed for MEDLINE]
 
-
-87. Plant Foods Hum Nutr. 2015 Dec;70(4):365-70. doi: 10.1007/s11130-015-0513-6.
-
-Contribution of Macromolecular Antioxidants to Dietary Antioxidant Capacity: A
-Study in the Spanish Mediterranean Diet.
-
-Pérez-Jiménez J(1), Díaz-Rubio ME(1), Saura-Calixto F(2).
-
-Author information: 
-(1)Department of Metabolism and Nutrition, Institute of Food Science, Technology 
-and Nutrition (ICTAN-CSIC), Madrid, Spain.
-(2)Department of Metabolism and Nutrition, Institute of Food Science, Technology 
-and Nutrition (ICTAN-CSIC), Madrid, Spain. jara.perez@ictan.csic.es.
-
-Epidemiological and clinical studies show that diets with a high antioxidant
-capacity, such us those rich in plant food and beverages, are associated with
-significant decreases in the overall risk of cardiovascular disease or colorectal
-cancer. Current studies on dietary antioxidants and dietary antioxidant capacity 
-focus exclusively on low molecular weight or soluble antioxidants (vitamins C and
-E, phenolic compounds and carotenoids), ignoring macromolecular antioxidants.
-These are polymeric phenolic compounds or polyphenols and carotenoids linked to
-plant food macromolecules that yield bioavailable metabolites by the action of
-the microbiota with significant effects either local and/or systemic after
-absorption. This study determined the antioxidant capacity of the Spanish
-Mediterranean diet including for the first time both soluble and macromolecular
-antioxidants. Antioxidant capacity and consumption data of the 54 most consumed
-plant foods and beverages were used. Results showed that macromolecular
-antioxidants are the major dietary antioxidants, contributing a 61% to the diet
-antioxidant capacity (8000 μmol Trolox, determined by ABTS method). The
-antioxidant capacity data for foods and beverages provided here may be used to
-estimate the dietary antioxidant capacity in different populations, where similar
-contributions of macromolecular antioxidants may be expected, and also to design 
-antioxidant-rich diets. Including macromolecular antioxidants in mechanistic,
-intervention and observational studies on dietary antioxidants may contribute to 
-a better understanding of the role of antioxidants in nutrition and health.
-
-DOI: 10.1007/s11130-015-0513-6 
-PMID: 26482738  [Indexed for MEDLINE]
-
-
 88. Br J Nutr. 2015 Oct 28;114(8):1226-36. doi: 10.1017/S0007114515002780.
 
 Impact of palm date consumption on microbiota growth and large intestinal health:
