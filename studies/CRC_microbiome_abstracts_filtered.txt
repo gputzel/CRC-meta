@@ -1561,56 +1561,6 @@ DOI: 10.1136/gutjnl-2015-309595
 PMCID: PMC5529966
 PMID: 26992426  [Indexed for MEDLINE]
 
-72. J Infect Dis. 2016 Jul 1;214(1):122-9. doi: 10.1093/infdis/jiw069. Epub 2016 Feb 
-21.
-
-Reduction of Murine Colon Tumorigenesis Driven by Enterotoxigenic Bacteroides
-fragilis Using Cefoxitin Treatment.
-
-DeStefano Shields CE(1), Van Meerbeke SW(2), Housseau F(1), Wang H(3), Huso
-DL(4), Casero RA Jr(1), O'Hagan HM(5), Sears CL(6).
-
-Author information: 
-(1)Department of Oncology.
-(2)Department of Medicine.
-(3)Division of Biostatistics and Bioinformatics, Sidney Kimmel Comprehensive
-Cancer Center.
-(4)Department of Molecular and Comparative Pathobiology, Johns Hopkins School of 
-Medicine, Johns Hopkins University, Baltimore, Maryland.
-(5)Medical Sciences Program, Indiana University School of Medicine, Bloomington
-Indiana University Melvin and Bren Simon Cancer Center, Indianapolis.
-(6)Department of Oncology Department of Medicine.
-
-BACKGROUND: Chronic inflammation and composition of the colon microbiota have
-been associated with colorectal cancer in humans. The human commensal
-enterotoxigenic Bacteroides fragilis (ETBF) is linked to both inflammatory bowel 
-disease and colorectal cancer and, in our murine model, causes interleukin 17A
-(IL-17A)-dependent colon tumors. In these studies, we hypothesized that
-persistent colonization by ETBF is required for tumorigenesis.
-METHODS: We established a method for clearing ETBF in mice, using the antibiotic 
-cefoxitin. Multiple intestinal neoplasia mice were colonized with ETBF for the
-experiment duration or were cleared of infection after 5 or 14 days. Gross tumors
-and/or microadenomas were then evaluated. In parallel, IL-17A expression was
-evaluated in wild-type littermates.
-RESULTS: Cefoxitin treatment resulted in complete and durable clearance of ETBF
-colonization. We observed a stepwise increase in median colon tumor numbers as
-the duration of ETBF colonization increased before cefoxitin treatment. ETBF
-eradication also significantly decreased mucosal IL-17A expression.
-CONCLUSIONS: The timing of ETBF clearance profoundly influences colon adenoma
-formation, defining a period during which the colon is susceptible to
-IL-17A-dependent tumorigenesis in this murine model. This model system can be
-used to study the microbiota-dependent and molecular mechanisms contributing to
-IL-17A-dependent colon tumor initiation.
-
-© The Author 2016. Published by Oxford University Press for the Infectious
-Diseases Society of America. All rights reserved. For permissions, e-mail
-journals.permissions@oup.com.
-
-DOI: 10.1093/infdis/jiw069 
-PMCID: PMC4907405
-PMID: 26908749  [Indexed for MEDLINE]
-
-
 73. Carcinogenesis. 2016 Apr;37(4):366-375. doi: 10.1093/carcin/bgw019. Epub 2016 Feb
 19.
 
