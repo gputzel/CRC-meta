@@ -1344,53 +1344,6 @@ DOI: 10.1158/1055-9965.EPI-16-0337
 PMCID: PMC5225053
 PMID: 27672054  [Indexed for MEDLINE]
 
-45. Oncotarget. 2016 Jul 19;7(29):46158-46172. doi: 10.18632/oncotarget.10064.
-
-Could gut microbiota serve as prognostic biomarker associated with colorectal
-cancer patients' survival? A pilot study on relevant mechanism.
-
-Wei Z(1), Cao S(1), Liu S(1), Yao Z(2), Sun T(3), Li Y(1), Li J(1), Zhang D(4),
-Zhou Y(1).
-
-Author information: 
-(1)Department of General Surgery, Affiliated Hospital of Qingdao University,
-Qingdao, China.
-(2)Department of General Surgery, Yantai Yuhuangding Hospital, Yantai, China.
-(3)Department of General Surgery, Qingdao Municipal Hospital Group, Qingdao,
-China.
-(4)Department of Epidemiology and Health Statistics, Qingdao University Medical
-College, Qingdao, China.
-
-Evidences have shown that dysbiosis could promote the progression of colorectal
-cancer (CRC). However, the association of dysbiosis and prognosis of CRC is
-barely investigated. Therefore, we used 16S rRNA gene sequencing approach to
-determine differences in microbiota among tumor tissues of different prognosis
-and found that Fusobacterium nucleatum and Bacteroides fragilis were more
-abundant in worse prognosis groups, while Faecalibacterium prausnitzii displayed 
-higher abundance in survival group. To further explore the prognostic value of
-the found bacteria, Kaplan-Meier and Cox proportional regression analyses were
-used and the results exhibited that high abundance of F. nucleatum and B.
-fragilis were independent indicators of poor patient's survival. Besides, the
-expression of major inflammatory mediator were analyzed using PCR and western
-blot methods, and it turned out that high abundance of F. nucleatum was
-associated with increased expression of TNF-α, β-catenin and NF-κB, while COX-2, 
-MMP-9 and NF-κB were positively related with high B. fragilis level, and high
-level of F. prausnitzii showed lower expression of β-catenin, MMP-9 and NF-κB.
-Moreover, immunohistochemical analysis indicated that KRAS and BRAF expression
-were prominent in F. nucleatum and B. fragilis high abundance group, while MLH1
-showed lower expression. In conclusion, F. nucleatum, B. fragilis and F.
-prausnitzii can be identified as useful prognostic biomarkers for CRC, and
-dysbiosis might worsen the patients' prognosis by up-regulating gut inflammation 
-level.
-
-DOI: 10.18632/oncotarget.10064 
-PMCID: PMC5216788
-PMID: 27323816  [Indexed for MEDLINE]
-
-Conflict of interest statement: The authors do not have any conflicts of interest
-with the content of the manuscript.
-
-
 46. Physiol Genomics. 2016 Aug 1;48(8):545-53. doi:
 10.1152/physiolgenomics.00034.2016. Epub 2016 Jun 17.
 
