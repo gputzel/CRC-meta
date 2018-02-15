@@ -1854,51 +1854,6 @@ DOI: 10.1016/j.ebiom.2015.04.010
 PMCID: PMC4535156
 PMID: 26288821  [Indexed for MEDLINE]
 
-5. J Proteome Res. 2015 Sep 4;14(9):3871-81. doi: 10.1021/acs.jproteome.5b00277.
-Epub 2015 Aug 7.
-
-(1)H NMR Spectroscopy of Fecal Extracts Enables Detection of Advanced Colorectal 
-Neoplasia.
-
-Amiot A(1)(2), Dona AC(1), Wijeyesekera A(1), Tournigand C(3), Baumgaertner I(3),
-Lebaleur Y(2), Sobhani I(2), Holmes E(1).
-
-Author information: 
-(1)Section of Biomolecular Medicine, Division of Computational and Systems
-Medicine, Department of Surgery and Cancer, Faculty of Medicine, Imperial College
-London , SW7 2AZ London, U.K.
-(2)Department of Gastroenterology, Henri-Mondor Hospital, APHP, EC2M3-Equipe
-Universitaire Paris Est-Créteil (UPRC)-Val de Marne , F-94010 Creteil, France.
-(3)Department of Oncology, APHP, Henri-Mondor Hospital , F-94010 Creteil, France 
-Creteil, AP-HP.
-
-Colorectal cancer (CRC) is a growing cause of mortality in developing countries, 
-warranting investigation into its etiopathogenesis and earlier diagnosis. Here,
-we investigated the fecal metabolic phenotype of patients with advanced
-colorectal neoplasia and controls using (1)H-nuclear magnetic resonance (NMR)
-spectroscopy and multivariate modeling. The fecal microbiota composition was
-assessed by quantitative real-time PCR as well as Wif-1 methylation levels in
-stools, serum, and urine and correlated to the metabolic profile of each patient.
-The predictivity of the model was 0.507 (Q(2)Y), and the explained variance was
-0.755 (R(2)Y). Patients with advanced colorectal neoplasia demonstrated increased
-fecal concentrations of four short-chain fatty acids (valerate, acetate,
-propionate, and butyrate) and decreased signals relating to β-glucose, glutamine,
-and glutamate. The predictive accuracy of the multivariate (1)H NMR model was
-higher than that of the guaiac-fecal occult blood test and the Wif-1 methylation 
-test for predicting advanced colorectal neoplasia. Correlation analysis between
-fecal metabolites and bacterial profiles revealed strong associations between
-Faecalibacterium prausnitzii and Clostridium leptum species with short-chain
-fatty acids concentration and inverse correlation between Faecalibacterium
-prausnitzii and glucose. These preliminary results suggest that fecal
-metabonomics may potentially have a future role in a noninvasive colorectal
-screening program and may contribute to our understanding of the role of these
-dysregulated molecules in the cross-talk between the host and its bacterial
-microbiota.
-
-DOI: 10.1021/acs.jproteome.5b00277 
-PMID: 26211820  [Indexed for MEDLINE]
-
-
 6. J Ginseng Res. 2015 Jul;39(3):230-7. doi: 10.1016/j.jgr.2014.12.004. Epub 2015
 Jan 10.
 
