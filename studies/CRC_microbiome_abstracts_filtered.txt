@@ -1854,40 +1854,6 @@ DOI: 10.1016/j.ebiom.2015.04.010
 PMCID: PMC4535156
 PMID: 26288821  [Indexed for MEDLINE]
 
-100. Mol Med Rep. 2015 Oct;12(4):6119-27. doi: 10.3892/mmr.2015.4124. Epub 2015 Jul
-27.
-
-Probiotics modify human intestinal mucosa-associated microbiota in patients with 
-colorectal cancer.
-
-Gao Z(1), Guo B(1), Gao R(1), Zhu Q(1), Wu W(1), Qin H(1).
-
-Author information: 
-(1)Department of General Surgery, Shanghai Jiao Tong University Affiliated Sixth 
-People's Hospital, Shanghai 200233, P.R. China.
-
-Studies using animal models have demonstrated that probiotics may have a
-beneficial role in the prevention of colorectal cancer (CRC); however, the
-underlying mechanism of the beneficial effects of interventional probiotic
-treatment on gut microbiota has remained elusive. In the present study,
-pyrosequencing of the V3 region of the 16S rRNA genes was conducted in order to
-determine the extent to which probiotics alter the microbiota. The observations
-of the present study indicated that the microbial structure of cancerous tissue
-differed significantly from that of healthy individuals and that the CRC
-microbiota exhibited lower diversity. It was indicated that interventional
-treatment with probiotics increased the density and diversity of mucosal
-microbes, and altered the mucosa‑associated microbiota. Pyrosequencing
-demonstrated that probiotics significantly reduced (5‑fold) the abundance of a
-bacterial taxon assigned to the genus Fusobacterium, which had been previously
-suggested to be a contributing factor to increase tumorigenesis. Accordingly,
-interventional probiotic therapy is suggested to be able to improve the
-composition of the mucosal microbial flora and significantly reduce the abundance
-of mucosa-associated pathogens in patients with CRC.
-
-DOI: 10.3892/mmr.2015.4124 
-PMID: 26238090  [Indexed for MEDLINE]
-
-
 1. Metabolomics (Los Angel). 2015 Aug;11(4):998-1012. doi:
 10.1007/s11306-014-0758-3. Epub 2014 Dec 20.
 
