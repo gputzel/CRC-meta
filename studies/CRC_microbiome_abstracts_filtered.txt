@@ -1344,60 +1344,6 @@ DOI: 10.1158/1055-9965.EPI-16-0337
 PMCID: PMC5225053
 PMID: 27672054  [Indexed for MEDLINE]
 
-36. Immunity. 2016 Sep 20;45(3):641-655. doi: 10.1016/j.immuni.2016.08.008. Epub 2016
-Aug 30.
-
-Normalizing Microbiota-Induced Retinoic Acid Deficiency Stimulates Protective
-CD8(+) T Cell-Mediated Immunity in Colorectal Cancer.
-
-Bhattacharya N(1), Yuan R(2), Prestwood TR(3), Penny HL(2), DiMaio MA(4),
-Reticker-Flynn NE(2), Krois CR(5), Kenkel JA(2), Pham TD(2), Carmi Y(2),
-Tolentino L(2), Choi O(2), Hulett R(2), Wang J(5), Winer DA(6), Napoli JL(5),
-Engleman EG(7).
-
-Author information: 
-(1)Department of Pathology, Stanford University School of Medicine (Blood
-Center), 3373 Hillview Avenue, Palo Alto, CA 94304, USA. Electronic address:
-nupur26@stanford.edu.
-(2)Department of Pathology, Stanford University School of Medicine (Blood
-Center), 3373 Hillview Avenue, Palo Alto, CA 94304, USA.
-(3)Department of Pathology, Stanford University School of Medicine (Blood
-Center), 3373 Hillview Avenue, Palo Alto, CA 94304, USA; Institute for Stem Cell 
-Biology and Regenerative Medicine, Stanford University School of Medicine, 265
-Campus Drive, Stanford, CA 94305, USA.
-(4)Department of Pathology, Stanford University, 300 Pasteur Drive, Stanford, CA 
-94305, USA.
-(5)Graduate Program in Metabolic Biology, Department of Nutritional Sciences and 
-Toxicology, University of California, Berkeley, Berkeley, CA 94720, USA.
-(6)Department of Pathology, University Health Network, and Departments of
-Laboratory Medicine and Pathobiology, and Immunology, University of Toronto,
-Toronto, ON M5G 2N2, Canada.
-(7)Department of Pathology, Stanford University School of Medicine (Blood
-Center), 3373 Hillview Avenue, Palo Alto, CA 94304, USA. Electronic address:
-edgareng@stanford.edu.
-
-Although all-trans-retinoic acid (atRA) is a key regulator of intestinal
-immunity, its role in colorectal cancer (CRC) is unknown. We found that mice with
-colitis-associated CRC had a marked deficiency in colonic atRA due to alterations
-in atRA metabolism mediated by microbiota-induced intestinal inflammation. Human 
-ulcerative colitis (UC), UC-associated CRC, and sporadic CRC specimens have
-similar alterations in atRA metabolic enzymes, consistent with reduced colonic
-atRA. Inhibition of atRA signaling promoted tumorigenesis, whereas atRA
-supplementation reduced tumor burden. The benefit of atRA treatment was mediated 
-by cytotoxic CD8(+) T cells, which were activated due to MHCI upregulation on
-tumor cells. Consistent with these findings, increased colonic expression of the 
-atRA-catabolizing enzyme, CYP26A1, correlated with reduced frequencies of tumoral
-cytotoxic CD8(+) T cells and with worse disease prognosis in human CRC. These
-results reveal a mechanism by which microbiota drive colon carcinogenesis and
-highlight atRA metabolism as a therapeutic target for CRC.
-
-Copyright © 2016 Elsevier Inc. All rights reserved.
-
-DOI: 10.1016/j.immuni.2016.08.008 
-PMCID: PMC5132405
-PMID: 27590114  [Indexed for MEDLINE]
-
-
 37. PeerJ. 2016 Jul 20;4:e2238. doi: 10.7717/peerj.2238. eCollection 2016.
 
 Proteomic indicators of oxidation and hydration state in colorectal cancer.
