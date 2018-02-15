@@ -1224,56 +1224,6 @@ DOI: 10.1186/s40168-016-0205-y
 PMCID: PMC5109736
 PMID: 27842559  [Indexed for MEDLINE]
 
-24. Gut Microbes. 2016 Nov;7(6):471-485. Epub 2016 Sep 13.
-
-Effects of exposure to bisphenol A and ethinyl estradiol on the gut microbiota of
-parents and their offspring in a rodent model.
-
-Javurek AB(1)(2), Spollen WG(1)(3), Johnson SA(1)(2)(4), Bivens NJ(5), Bromert
-KH(5), Givan SA(1)(3)(6), Rosenfeld CS(1)(2)(7)(8).
-
-Author information: 
-(1)a Bond Life Sciences Center , University of Missouri , Columbia , MO USA.
-(2)b Biomedical Sciences , University of Missouri , Columbia , MO USA.
-(3)c Informatics Research Core Facility , University of Missouri , Columbia , MO 
-USA.
-(4)d Animal Sciences , University of Missouri , Columbia , MO USA.
-(5)e DNA Core Facility , University of Missouri , Columbia , MO USA.
-(6)f Molecular Microbiology and Immunology , University of Missouri , Columbia , 
-MO USA.
-(7)g Genetics Area Program , University of Missouri , Columbia , MO USA.
-(8)h Thompson Center for Autism and Neurobehavioral Disorders , University of
-Missouri , Columbia , MO USA.
-
-Gut dysbiosis may result in various diseases, such as metabolic and
-neurobehavioral disorders. Exposure to endocrine disrupting chemicals (EDCs),
-including bisphenol A (BPA) and ethinyl estradiol (EE), especially during
-development, may also increase the risk for such disorders. An unexplored
-possibility is that EDC-exposure might alter the gut microbial composition. Gut
-flora and their products may thus be mediating factors for the disease-causing
-effects of these chemicals. To examine the effects of EDCs on the gut microbiome,
-female and male monogamous and biparental California mice (Peromyscus
-californicus) were exposed to BPA (50 mg/kg feed weight) or EE (0.1 ppb) or
-control diet from periconception through weaning. 16s rRNA sequencing was
-performed on bacterial DNA isolated from fecal samples, and analyses performed
-for P0 and F1 males and females. Both BPA and EE induced generational and
-sex-dependent gut microbiome changes. Many of the bacteria, e.g. Bacteroides,
-Mollicutes, Prevotellaceae, Erysipelotrichaceae, Akkermansia, Methanobrevibacter,
-Sutterella, whose proportions increase with exposure to BPA or EE in the P0 or F1
-generation are associated with different disorders, such as inflammatory bowel
-disease (IBD), metabolic disorders, and colorectal cancer. However, the
-proportion of the beneficial bacterium, Bifidobacterium, was also elevated in
-fecal samples of BPA- and EE-exposed F1 females. Intestinal flora alterations
-were also linked to changes in various metabolic and other pathways. Thus, BPA
-and EE exposure may disrupt the normal gut flora, which may in turn result in
-systemic effects. Probiotic supplementation might be an effective means to
-mitigate disease-promoting effects of these chemicals.
-
-DOI: 10.1080/19490976.2016.1234657 
-PMCID: PMC5103659
-PMID: 27624382  [Indexed for MEDLINE]
-
-
 25. J Am Coll Nutr. 2017 Feb;36(2):88-98. doi: 10.1080/07315724.2016.1185386. Epub
 2016 Oct 31.
 
