@@ -1382,24 +1382,6 @@ DOI: 10.1038/srep26337
 PMCID: PMC4872055
 PMID: 27194068 
 
-58. Med Sci (Paris). 2016 Apr;32(4):339-42. doi: 10.1051/medsci/20163204009. Epub
-2016 May 2.
-
-[Antitumoral functions of autophagy inhibition in colorectal cancer: the
-intestinal microbiota and the immune system come to the rescue…].
-
-[Article in French]
-
-Lévy J(1), Romagnolo B(1).
-
-Author information: 
-(1)Institut Cochin, Inserm U1016, CNRS UMR8104, Université Paris Descartes, 24,
-rue du faubourg Saint-Jacques, 75014 Paris, France.
-
-DOI: 10.1051/medsci/20163204009 
-PMID: 27137689  [Indexed for MEDLINE]
-
-
 59. Sci Rep. 2016 Apr 29;6:25271. doi: 10.1038/srep25271.
 
 Role of Fusobacteria in the serrated pathway of colorectal carcinogenesis.
