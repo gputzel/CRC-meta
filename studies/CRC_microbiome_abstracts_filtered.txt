@@ -1344,66 +1344,6 @@ DOI: 10.1158/1055-9965.EPI-16-0337
 PMCID: PMC5225053
 PMID: 27672054  [Indexed for MEDLINE]
 
-42. Cancer Prev Res (Phila). 2016 Oct;9(10):803-811. Epub 2016 Jul 21.
-
-American Ginseng Attenuates Colitis-Associated Colon Carcinogenesis in Mice:
-Impact on Gut Microbiota and Metabolomics.
-
-Wang CZ(1), Yu C(2), Wen XD(3), Chen L(4), Zhang CF(3), Calway T(1), Qiu Y(5),
-Wang Y(6), Zhang Z(1), Anderson S(7), Wang Y(8), Jia W(9), Yuan CS(10).
-
-Author information: 
-(1)Tang Center for Herbal Medicine Research, University of Chicago, Chicago,
-Illinois. Department of Anesthesia & Critical Care, University of Chicago,
-Chicago, Illinois.
-(2)Tang Center for Herbal Medicine Research, University of Chicago, Chicago,
-Illinois. School of Life Science and Chemical Engineering, Huaiyin Institute of
-Technology, Huaian, China.
-(3)Tang Center for Herbal Medicine Research, University of Chicago, Chicago,
-Illinois. State Key Laboratory of Natural Medicines, China Pharmaceutical
-University, Nanjing, China.
-(4)Tang Center for Herbal Medicine Research, University of Chicago, Chicago,
-Illinois. Department of Pharmacy, Nanjing Medical University, Nanjing, China.
-(5)Einstein-Sinai Diabetes Research Center, Albert Einstein College of Medicine, 
-Bronx, New York.
-(6)Department of Medicine, University of Chicago, Chicago, Illinois.
-(7)Tang Center for Herbal Medicine Research, University of Chicago, Chicago,
-Illinois.
-(8)State Key Laboratory of Quality Research in Chinese Medicine, and Institute of
-Chinese Medical Sciences, University of Macau, Macau.
-(9)University of Hawaii Cancer Center, Honolulu, Hawaii.
-(10)Tang Center for Herbal Medicine Research, University of Chicago, Chicago,
-Illinois. Department of Anesthesia & Critical Care, University of Chicago,
-Chicago, Illinois. Committee on Clinical Pharmacology and Pharmacogenomics,
-University of Chicago, Chicago, Illinois. cyuan@uchicago.edu.
-
-Inflammatory bowel disease is a risk factor for colorectal cancer initiation and 
-development. In this study, the effects of American ginseng on chemically induced
-colitis and colon carcinogenesis were evaluated using an azoxymethane
-(AOM)/dextran sulfate sodium (DSS) mouse model. During the acute phase on day 15,
-the oral administration of ginseng (15 and 30 mg/kg/day) significantly suppressed
-AOM/DSS-induced colitis, as demonstrated by the disease activity index and colon 
-tissue histology. During the chronic phase in week 13, AOM/DSS-induced tumor
-multiplicity was significantly suppressed by ginseng. Ginseng significantly
-attenuated the increase of inflammatory cytokines, such as IL1α, IL1β, IL6,
-G-CSF, and GM-CSF. Serum metabolomics data in the PCA plots showed good
-separation between the AOM/DSS model and ginseng-treated mice, and the most
-important endogenous metabolite changes were identified. The 16S rRNA data showed
-that after AOM/DSS, the microbiome community in the model group was obviously
-changed, and ginseng inhibited these changes. Fecal metabolomics analysis
-supported these findings. In conclusion, oral ginseng significantly decreased
-AOM/DSS-induced colitis and colon carcinogenesis by inhibiting inflammatory
-cytokines and restoring the metabolomics and microbiota profiles accordingly.
-Selective endogenous small molecules could be used as biomarkers to elucidate the
-effects of ginseng treatment. Cancer Prev Res; 9(10); 803-11. ©2016 AACR.
-
-©2016 American Association for Cancer Research.
-
-DOI: 10.1158/1940-6207.CAPR-15-0372 
-PMCID: PMC5052115
-PMID: 27443884  [Indexed for MEDLINE]
-
-
 43. Oncotarget. 2016 Aug 23;7(34):55098-55109. doi: 10.18632/oncotarget.10398.
 
 Tumor LINE-1 methylation level and colorectal cancer location in relation to
