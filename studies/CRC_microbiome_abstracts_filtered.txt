@@ -1183,58 +1183,6 @@ DOI: 10.3389/fcimb.2016.00179
 PMCID: PMC5145865
 PMID: 28018861  [Indexed for MEDLINE]
 
-18. Microbiome. 2016 Nov 25;4(1):61.
-
-Extending colonic mucosal microbiome analysis-assessment of colonic lavage as a
-proxy for endoscopic colonic biopsies.
-
-Watt E(1), Gemmell MR(2), Berry S(1), Glaire M(1), Farquharson F(3), Louis P(3), 
-Murray GI(4), El-Omar E(1)(5), Hold GL(6).
-
-Author information: 
-(1)Gastrointestinal Research Group, School of Medicine, Medical Sciences and
-Nutrition, University of Aberdeen, Aberdeen, AB25 2ZD, UK.
-(2)Centre for Genome Enabled Biology and Medicine, School of Medicine, Medical
-Sciences and Nutrition, University of Aberdeen, Aberdeen, AB25 2ZD, UK.
-(3)Rowett Institute of Nutrition and Health, School of Medicine, Medical Sciences
-and Nutrition, University of Aberdeen, Aberdeen, AB25 2ZD, UK.
-(4)Department of Pathology, School of Medicine, Medical Sciences and Nutrition,
-University of Aberdeen, Aberdeen, AB25 2ZD, UK.
-(5)St George and Sutherland Clinical School, University of New South Wales, St
-George Hospital, Short Street, Kogarah, Sydney, NSW 2217, Australia.
-(6)Gastrointestinal Research Group, School of Medicine, Medical Sciences and
-Nutrition, University of Aberdeen, Aberdeen, AB25 2ZD, UK. g.l.hold@abdn.ac.uk.
-
-BACKGROUND: Sequencing-based analysis has become a well-established approach to
-deciphering the composition of the gut microbiota. However, due to the complexity
-of accessing sufficient material from colonoscopic biopsy samples, most studies
-have focused on faecal microbiota analysis, even though it is recognised that
-differences exist between the microbial composition of colonic biopsies and
-faecal samples. We determined the suitability of colonic lavage samples to see if
-it had comparable microbial diversity composition to colonic biopsies as they are
-without the limitations associated with sample size. We collected paired colonic 
-biopsies and lavage samples from subjects who were attending for colorectal
-cancer screening colonoscopy.
-RESULTS: Next-generation sequencing and qPCR validation were performed with
-multiple bioinformatics analyses to determine the composition and predict
-function of the microbiota. Colonic lavage samples contained significantly higher
-numbers of operational taxonomic units (OTUs) compared to corresponding biopsy
-samples, however, diversity and evenness between lavage and biopsy samples were
-similar. The differences seen were driven by the presence of 12 OTUs which were
-in higher relative abundance in biopsies and were either not present or in low
-relative abundance in lavage samples, whilst a further 3 OTUs were present in
-higher amounts in the lavage samples compared to biopsy samples. However,
-predicted functional community profiling based on 16S ribosomal ribonucleic acid 
-(rRNA) data indicated minimal differences between sample types.
-CONCLUSIONS: We propose that colonic lavage samples provide a relatively accurate
-representation of biopsy microbiota composition and should be considered where
-biopsy size is an issue.
-
-DOI: 10.1186/s40168-016-0207-9 
-PMCID: PMC5123352
-PMID: 27884202  [Indexed for MEDLINE]
-
-
 19. Oncotarget. 2017 Jan 3;8(1):444-457. doi: 10.18632/oncotarget.13443.
 
 Evolutionary biologic changes of gut microbiota in an 'adenoma-carcinoma
