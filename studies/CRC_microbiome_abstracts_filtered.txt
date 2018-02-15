@@ -1912,60 +1912,6 @@ DOI: 10.1186/s13073-015-0177-8
 PMCID: PMC4499914
 PMID: 26170900 
 
-15. Mol Nutr Food Res. 2015 Oct;59(10):1973-86. doi: 10.1002/mnfr.201500357. Epub
-2015 Jul 20.
-
-MicroRNAs expression in normal and malignant colon tissues as biomarkers of
-colorectal cancer and in response to pomegranate extracts consumption: Critical
-issues to discern between modulatory effects and potential artefacts.
-
-Nuñez-Sánchez MA(1), Dávalos A(2), González-Sarrías A(1), Casas-Agustench P(2),
-Visioli F(2), Monedero-Saiz T(1)(3), García-Talavera NV(3), Gómez-Sánchez MB(3), 
-Sánchez-Álvarez C(3), García-Albert AM(4), Rodríguez-Gil FJ(4), Ruiz-Marín M(5), 
-Pastor-Quirante FA(6), Martínez-Díaz F(6), Tomás-Barberán FA(1), García-Conesa
-MT(1), Espín JC(1).
-
-Author information: 
-(1)Research Group on Quality, Safety, and Bioactivity of Plant Foods, Department 
-of Food Science and Technology, CEBAS-CSIC, Murcia, Spain.
-(2)Laboratory of Disorders of Lipid Metabolism and Molecular Nutrition, Madrid
-Institute for Advanced Studies (IMDEA)-Food, CEI UAM+CSIC, Madrid, Spain.
-(3)Nutrition Service, Hospital Reina Sofía, Avda. Intendente Jorge Palacios s/n, 
-Murcia, Spain.
-(4)Digestive Service, Hospital Reina Sofía, Avda. Intendente Jorge Palacios s/n, 
-Murcia, Spain.
-(5)Surgery Service, Hospital Reina Sofía, Avda. Intendente Jorge Palacios s/n,
-Murcia, Spain.
-(6)Anatomical Pathology Service, Hospital Reina Sofía, Avda. Intendente Jorge
-Palacios s/n, Murcia, Spain.
-
-SCOPE: MicroRNAs (miRs) are proposed as colorectal cancer (CRC) biomarkers.
-Pomegranate ellagic acid and their microbiota metabolites urolithins exert
-anticancer effects in preclinical CRC models, and target normal and malignant
-colon tissues in CRC patients. Herein, we investigated whether the intake of
-pomegranate extract (PE) modified miRs expression in surgical colon tissues
-versus biopsies from CRC patients.
-METHODS AND RESULTS: We conducted a randomized, double-blind, controlled trial.
-Thirty-five CRC patients consumed 900 mg PE daily before surgery. Control CRC
-patients (no PE intake, n = 10) were included. Our results revealed: (1)
-significant differences for specific miRs between malignant and normal tissues
-modifiable by the surgical protocols; (2) opposed trends between -5p and -3p
-isomolecules; (3) general induction of miRs attributable to the surgery; (4)
-moderate modulation of various miRs following the PE intake, and (5) no
-association between tissue urolithins and the observed miRs changes.
-CONCLUSION: PE consumption appears to affect specific colon tissue miRs but
-surgery critically alters miRs levels hindering the discrimination of significant
-changes caused by dietary factors and the establishment of genuine differences
-between malignant and normal tissues as biomarkers. The components responsible
-for the PE effects and the clinical relevance of these observations deserve
-further research.
-
-© 2015 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim.
-
-DOI: 10.1002/mnfr.201500357 
-PMID: 26105520  [Indexed for MEDLINE]
-
-
 16. BMC Genomics. 2015;16 Suppl 7:S4. doi: 10.1186/1471-2164-16-S7-S4. Epub 2015 Jun 
 11.
 
