@@ -1224,52 +1224,6 @@ DOI: 10.1186/s40168-016-0205-y
 PMCID: PMC5109736
 PMID: 27842559  [Indexed for MEDLINE]
 
-
-23. Oncogene. 2016 Nov 3;35(44):5795-5806. doi: 10.1038/onc.2016.113. Epub 2016 Apr
-11.
-
-Glutathione S-transferase alpha 4 induction by activator protein 1 in colorectal 
-cancer.
-
-Yang Y(1)(2), Huycke MM(2)(3), Herman TS(1), Wang X(1)(2).
-
-Author information: 
-(1)Department of Radiation Oncology, University of Oklahoma Health Sciences
-Center, Oklahoma City, OK, USA.
-(2)The Muchmore Laboratories for Infectious Diseases Research, Oklahoma City VA
-Health Care System, Oklahoma City, OK, USA.
-(3)Department of Medicine, University of Oklahoma Health Sciences Center,
-Oklahoma City, OK, USA.
-
-Glutathione S-transferase alpha 4 (GSTA4) is a phase II detoxifying enzyme that
-metabolizes electrophiles and carcinogens including 4-hydroxy-2-nonenal (4-HNE), 
-an endogenous carcinogen that contributes to colorectal carcinogenesis. In this
-study, we investigated GSTA4 expression and regulation in murine primary colonic 
-epithelial cells, microbiome-driven murine colitis and human carcinomas. Exposure
-of YAMC cells to 4-HNE induced Gsta4 expression. Using an inflammation-associated
-model of colorectal cancer (CRC), Gsta4 expression increased in vivo in colon
-macrophages and serum after 2 weeks of colonization of IL-10 deficient (Il10-/-) 
-mice with Enterococcus faecalis. Increased expression was noted after 9 months of
-colonization in colon macrophages and epithelia in areas of inflammation. In
-human colon biopsies, immunohistochemistry showed no GSTA4 expression in normal
-epithelial cells, whereas GSTA4 was strongly expressed in the neoplastic
-epithelia of invasive carcinomas. For tubular adenomas, increased expression was 
-primarily noted in stromal macrophages. Increased GSTA4 was confirmed in
-established human CRC cell lines and associated with 4-HNE-protein adducts in
-human colon adenomas and CRC. Next, we showed that 4-HNE induced activation of
-c-Jun and Nrf2, two components of the oncogenic transcription factor AP-1. AP-1
-inhibitors and gene-specific small interfering RNAs partially suppressed GSTA4
-expression. Co-immunoprecipitation confirmed interactions between c-Jun and Nrf2 
-supporting a role for AP-1 in regulating 4-HNE-induced GSTA4 expression. These
-findings demonstrate GSTA4 activation during 4-HNE-induced neoplastic
-transformation in colorectal carcinogenesis. GSTA4 is a potential surrogate
-biomarker for CRC screening and should provide novel approaches for
-chemoprevention.
-
-DOI: 10.1038/onc.2016.113 
-PMID: 27065323  [Indexed for MEDLINE]
-
-
 24. Gut Microbes. 2016 Nov;7(6):471-485. Epub 2016 Sep 13.
 
 Effects of exposure to bisphenol A and ethinyl estradiol on the gut microbiota of
