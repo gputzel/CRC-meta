@@ -1561,44 +1561,6 @@ DOI: 10.1136/gutjnl-2015-309595
 PMCID: PMC5529966
 PMID: 26992426  [Indexed for MEDLINE]
 
-79. Exp Ther Med. 2015 Sep;10(3):966-972. Epub 2015 Jul 15.
-
-Impact of perioperative probiotic treatment for surgical site infections in
-patients with colorectal cancer.
-
-Aisu N(1), Tanimura S(1), Yamashita Y(1), Yamashita K(1), Maki K(1), Yoshida
-Y(1), Sasaki T(1), Takeno S(1), Hoshino S(1).
-
-Author information: 
-(1)Department of Gastroenterological Surgery, Fukuoka University Faculty of
-Medicine, Fukuoka 814-0180, Japan.
-
-The aim of the present study was to estimate the effect of the perioperative
-administration of probiotics in patients undergoing colorectal cancer (CRC)
-surgery. The study focused on a total of 156 consecutive surgeries carried out
-from among all the elective CRC surgeries performed between April 2009 and March 
-2013. The patients involved in surgeries undertaken between April 2009 and
-October 2011 were placed in the non-probiotic group (group A, 81 patients) and
-those involved in surgeries between November 2011 and March 2013 were placed in
-the probiotic group (group B, 75 patients). Postoperative infectious
-complications were recorded, and the immune responses and fecal microbiota were
-determined. A breakdown of infectious complications showed that 21 (13.5%)
-patients experienced superficial incisional surgical site infections (SSIs), of
-which 16 patients were from group A (19.8%), and five patients from group B
-(6.7%) (P=0.016). The ImmuKnow® adenosine triphosphate values peaked on the first
-postoperative day (POD) in both groups. In group A, the ImmuKnow value of the
-first POD was increased significantly compared with the preoperative value
-(P=0.022). In group B, the value of the first POD did not increase compared with 
-the preoperative value (P=0.28). In conclusion, probiotic treatment can reduce
-superficial incisional SSIs in patients undergoing CRC surgery. Perioperative
-probiotic treatment can enhance immune responses and improve the intestinal
-microbial environment.
-
-DOI: 10.3892/etm.2015.2640 
-PMCID: PMC4533173
-PMID: 26622423 
-
-
 80. Zhonghua Wei Chang Wai Ke Za Zhi. 2015 Nov;18(11):1106-10.
 
 [Differences between colorectal cancer patients and healthy people in fecal
