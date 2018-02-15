@@ -1854,55 +1854,6 @@ DOI: 10.1016/j.ebiom.2015.04.010
 PMCID: PMC4535156
 PMID: 26288821  [Indexed for MEDLINE]
 
-1. Metabolomics (Los Angel). 2015 Aug;11(4):998-1012. doi:
-10.1007/s11306-014-0758-3. Epub 2014 Dec 20.
-
-Changes in urinary metabolic profiles of colorectal cancer patients enrolled in a
-prospective cohort study (ColoCare).
-
-Liesenfeld DB(1), Habermann N(1), Toth R(1), Owen RW(1), Frei E(1), Staffa J(1), 
-Schrotz-King P(1), Klika KD(2), Ulrich CM(1)(3).
-
-Author information: 
-(1)Division of Preventive Oncology, National Center for Tumor Diseases (NCT),
-German Cancer Research Center (DKFZ), Heidelberg, Germany and German Consortium
-for Translational Cancer Research (DKTK).
-(2)Genomics and Proteomics Core Facility, Molecular Structure Analysis, German
-Cancer Research Center (DKFZ), Heidelberg, Germany.
-(3)Fred Hutchinson Cancer Research Center (FHCRC), Seattle, Washington.
-
-Introduction: Metabolomics is a valuable tool for biomarker screening of
-colorectal cancer (CRC). In this study, we profiled the urinary metabolomes of
-patients enrolled in a prospective patient cohort (ColoCare). We aimed to
-describe changes in the metabolome in the longer clinical follow-up and describe 
-initial predictors as candidate markers with possibly prognostic significance.
-Methods: In total, 199 urine samples from CRC patients pre-surgery (n=97), 1-8
-days post-surgery (n=12) and then after 6 and 12 months (n=52 and 38,
-respectively) were analyzed using both GC-MS and 1H-NMR. Both datasets were
-analyzed separately with built in uni- and multivariate analyses of Metaboanalyst
-2.0. Furthermore, adjusted linear mixed effects regression models were
-constructed.
-Results: Many concentrations of the metabolites derived from the gut microbiome
-were affected by CRC surgery, presumably indicating a tumor-induced shift in
-bacterial species. Associations of the microbial metabolites with disease stage
-indicate an important role of the gut microbiome in CRC.We were able to
-differentiate the metabolite profiles of CRC patients prior to surgery from those
-at any post-surgery timepoint using a multivariate model containing 20 marker
-metabolites (AUCROC=0.89; 95% CI:0.84-0.95).
-Conclusion: To the best of our knowledge, this is one of the first metabolomic
-studies to follow CRC patients in a prospective setting with repeated urine
-sampling over time. We were able to confirm markers initially identified in
-case-control studies and pin point metabolites which may serve as candidates for 
-prognostic biomarkers of CRC.
-
-DOI: 10.1007/s11306-014-0758-3 
-PMCID: PMC5730072
-PMID: 29250455 
-
-Conflict of interest statement: Conflict of interest: The authors declare that
-there are no conflicts of interest
-
-
 2. Inflamm Bowel Dis. 2015 Nov;21(11):2483-94. doi: 10.1097/MIB.0000000000000522.
 
 The Role of Curcumin in Modulating Colonic Microbiota During Colitis and Colon
