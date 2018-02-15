@@ -1561,45 +1561,6 @@ DOI: 10.1136/gutjnl-2015-309595
 PMCID: PMC5529966
 PMID: 26992426  [Indexed for MEDLINE]
 
-77. Braz J Microbiol. 2015 Oct-Dec;46(4):1135-40. doi: 10.1590/S1517-838246420140665.
-Epub 2015 Oct 9.
-
-High occurrence of Fusobacterium nucleatum and Clostridium difficile in the
-intestinal microbiota of colorectal carcinoma patients.
-
-Fukugaiti MH(1), Ignacio A(1), Fernandes MR(1), Ribeiro Júnior U(2), Nakano V(1),
-Avila-Campos MJ(1).
-
-Author information: 
-(1)Departamento de Microbiologia, Universidade de São Paulo, São Paulo, SP,
-Brazil.
-(2)Instituto do Câncer do Estado de São Paulo, São Paulo, SP, Brazil.
-
-Colorectal carcinoma is considered the fourth leading cause of cancer deaths
-worldwide. Several microorganisms have been associated with carcinogenesis,
-including Enterococcus spp., Helicobacter pylori, enterotoxigenic Bacteroides
-fragilis, pathogenic E. coli strains and oral Fusobacterium. Here we
-qualitatively and quantitatively evaluated the presence of oral and intestinal
-microorganisms in the fecal microbiota of colorectal cancer patients and healthy 
-controls. Seventeen patients (between 49 and 70 years-old) visiting the Cancer
-Institute of the Sao Paulo State were selected, 7 of whom were diagnosed with
-colorectal carcinoma. Bacterial detection was performed by qRT-PCR. Although all 
-of the tested bacteria were detected in the majority of the fecal samples,
-quantitative differences between the Cancer Group and healthy controls were
-detected only for F. nucleatum and C. difficile. The three tested oral
-microorganisms were frequently observed, suggesting a need for furthers studies
-into a potential role for these bacteria during colorectal carcinoma
-pathogenesis. Despite the small number of patients included in this study, we
-were able to detect significantly more F. nucleatum and C. difficile in the
-Cancer Group patients compared to healthy controls, suggesting a possible role of
-these bacteria in colon carcinogenesis. This finding should be considered when
-screening for colorectal cancer.
-
-DOI: 10.1590/S1517-838246420140665 
-PMCID: PMC4704648
-PMID: 26691472  [Indexed for MEDLINE]
-
-
 78. Front Cell Infect Microbiol. 2015 Nov 20;5:84. doi: 10.3389/fcimb.2015.00084.
 eCollection 2015.
 
