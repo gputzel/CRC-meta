@@ -1854,57 +1854,6 @@ DOI: 10.1016/j.ebiom.2015.04.010
 PMCID: PMC4535156
 PMID: 26288821  [Indexed for MEDLINE]
 
-2. Inflamm Bowel Dis. 2015 Nov;21(11):2483-94. doi: 10.1097/MIB.0000000000000522.
-
-The Role of Curcumin in Modulating Colonic Microbiota During Colitis and Colon
-Cancer Prevention.
-
-McFadden RM(1), Larmonier CB, Shehab KW, Midura-Kiela M, Ramalingam R, Harrison
-CA, Besselsen DG, Chase JH, Caporaso JG, Jobin C, Ghishan FK, Kiela PR.
-
-Author information: 
-(1)*Department of Pediatrics, Steele Children's Research Center, University of
-Arizona Health Sciences Center, Tucson, Arizona; †School of Dentistry, Oral
-Biology Program, University of North Carolina, Chapel Hill, North Carolina;
-‡University Animal Care, University of Arizona Health Sciences Center, Tucson,
-Arizona; §Department of Biological Sciences, Center for Microbial Genetics and
-Genomics at Northern Arizona University, Flagstaff, Arizona; ‖Department of
-Medicine, Division of Gastroenterology, College of Medicine, University of
-Florida, Gainesville, Florida; and ¶Department of Immunobiology, University of
-Arizona Health Sciences Center, Tucson, Arizona.
-
-BACKGROUND: Intestinal microbiota influences the progression of
-colitis-associated colorectal cancer. With diet being a key determinant of the
-gut microbial ecology, dietary interventions are an attractive avenue for the
-prevention of colitis-associated colorectal cancer. Curcumin is the most active
-constituent of the ground rhizome of the Curcuma longa plant, which has been
-demonstrated to have anti-inflammatory, antioxidative, and antiproliferative
-properties.
-METHODS: Il10 mice on 129/SvEv background were used as a model of
-colitis-associated colorectal cancer. Starting at 10 weeks of age, wild-type or
-Il10 mice received 6 weekly intraperitoneal injections of azoxymethane (AOM) or
-phosphate-buffered saline (PBS) and were started on either a control or a
-curcumin-supplemented diet. Stools were collected every 4 weeks for microbial
-community analysis. Mice were killed at 30 weeks of age.
-RESULTS: Curcumin-supplemented diet increased survival, decreased colon
-weight/length ratio, and, at 0.5%, entirely eliminated tumor burden. Although
-colonic histology indicated improvement with curcumin, no effects of mucosal
-immune responses have been observed in PBS/Il10 mice and limited effects were
-seen in AOM/Il10 mice. In wild-type and in Il10 mice, curcumin increased
-bacterial richness, prevented age-related decrease in alpha diversity, increased 
-the relative abundance of Lactobacillales, and decreased Coriobacterales order.
-Taxonomic profile of AOM/Il10 mice receiving curcumin was more similar to those
-of wild-type mice than those fed control diet.
-CONCLUSIONS: In AOM/Il10 model, curcumin reduced or eliminated colonic tumor
-burden with limited effects on mucosal immune responses. The beneficial effect of
-curcumin on tumorigenesis was associated with the maintenance of a more diverse
-colonic microbial ecology.
-
-DOI: 10.1097/MIB.0000000000000522 
-PMCID: PMC4615313
-PMID: 26218141  [Indexed for MEDLINE]
-
-
 3. Proc Natl Acad Sci U S A. 2015 Aug 11;112(32):10038-43. doi:
 10.1073/pnas.1507645112. Epub 2015 Jul 27.
 
