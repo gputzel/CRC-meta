@@ -1462,51 +1462,6 @@ DOI: 10.1186/s13073-016-0290-3
 PMCID: PMC4823848
 PMID: 27056827  [Indexed for MEDLINE]
 
-
-64. Front Cell Infect Microbiol. 2016 Mar 23;6:34. doi: 10.3389/fcimb.2016.00034.
-eCollection 2016.
-
-Genotoxicity of Cytolethal Distending Toxin (CDT) on Isogenic Human Colorectal
-Cell Lines: Potential Promoting Effects for Colorectal Carcinogenesis.
-
-Graillot V(1), Dormoy I(1), Dupuy J(1), Shay JW(2), Huc L(1), Mirey G(1), Vignard
-J(1).
-
-Author information: 
-(1)Institut National de la Recherche Agronomique UMR 1331, TOXALIM (Research
-Center in Food Toxicology), Université de Toulouse, INRA, INP-ENVT,
-INP-EI-Purpan, Université de Toulouse III Paul Sabatier Toulouse, France.
-(2)Department of Cell Biology, The University of Texas Southwestern Medical
-CenterDallas, TX, USA; Center for Excellence in Genomics Medicine Research, King 
-Abdulaziz UniversityJeddah, Saudi Arabia.
-
-The composition of the human microbiota influences tumorigenesis, notably in
-colorectal cancer (CRC). Pathogenic Escherichia coli possesses a variety of
-virulent factors, among them the Cytolethal Distending Toxin (CDT). CDT displays 
-dual DNase and phosphatase activities and induces DNA double strand breaks, cell 
-cycle arrest and apoptosis in a broad range of mammalian cells. As CDT could
-promote malignant transformation, we investigated the cellular outcomes induced
-by acute and chronic exposures to E. coli CDT in normal human colon epithelial
-cells (HCECs). Moreover, we conducted a comparative study between isogenic
-derivatives cell lines of the normal HCECs in order to mimic the mutation of
-three major genes found in CRC genetic models: APC, KRAS, and TP53. Our results
-demonstrate that APC and p53 deficient cells showed impaired DNA damage response 
-after CDT exposure, whereas HCECs expressing oncogenic KRAS (V12) were more
-resistant to CDT. Compared to normal HCECs, the precancerous derivatives exhibit 
-hallmarks of malignant transformation after a chronic exposure to CDT. HCECs
-defective in APC and p53 showed enhanced anchorage independent growth and genetic
-instability, assessed by the micronucleus formation assay. In contrast, the
-ability to grow independently of anchorage was not impacted by CDT chronic
-exposure in KRAS(V12) HCECs, but micronucleus formation is dramatically
-increased. Thus, CDT does not initiate CRC by itself, but may have promoting
-effects in premalignant HCECs, involving different mechanisms in function of the 
-genetic alterations associated to CRC.
-
-DOI: 10.3389/fcimb.2016.00034 
-PMCID: PMC4803749
-PMID: 27047802  [Indexed for MEDLINE]
-
-
 65. Nat Med. 2016 May;22(5):506-15. doi: 10.1038/nm.4072. Epub 2016 Apr 4.
 
 Epithelial calcineurin controls microbiota-dependent intestinal tumor
