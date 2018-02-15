@@ -1912,31 +1912,6 @@ DOI: 10.1186/s13073-015-0177-8
 PMCID: PMC4499914
 PMID: 26170900 
 
-13. Cell. 2015 Jul 2;162(1):18-20. doi: 10.1016/j.cell.2015.06.041.
-
-AIMing 2 Curtail Cancer.
-
-Rommereim LM(1), Subramanian N(2).
-
-Author information: 
-(1)Institute for Systems Biology, Seattle, WA 98101, USA.
-(2)Institute for Systems Biology, Seattle, WA 98101, USA. Electronic address:
-nsubrama@systemsbiology.org.
-
-Comment on
-    Cell. 2015 Jul 2;162(1):45-58.
-
-The dysregulation of the relationship between gut microbiota and innate immune
-homeostasis can lead to a range of complex diseases. In this issue, Man et al.
-reveal that the intracellular innate sensor AIM2 regulates microbial and stem
-cell homeostasis in the gut to protect against colorectal cancer.
-
-Copyright © 2015 Elsevier Inc. All rights reserved.
-
-DOI: 10.1016/j.cell.2015.06.041 
-PMID: 26140588  [Indexed for MEDLINE]
-
-
 14. Ann Clin Biochem. 2015 Nov;52(Pt 6):687-9. doi: 10.1177/0004563215595645. Epub
 2015 Jun 24.
 
