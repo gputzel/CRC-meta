@@ -1183,50 +1183,6 @@ DOI: 10.3389/fcimb.2016.00179
 PMCID: PMC5145865
 PMID: 28018861  [Indexed for MEDLINE]
 
-17. Parkinsonism Relat Disord. 2017 Feb;35:42-47. doi:
-10.1016/j.parkreldis.2016.11.011. Epub 2016 Nov 22.
-
-Association between Parkinson's disease and risk of colorectal cancer.
-
-Xie X(1), Luo X(2), Xie M(3).
-
-Author information: 
-(1)Department of Neurology, The First Affiliated Hospital of China Medical
-University, 155 North Nanjing Street, Heping District, Shenyang City 110001, PR
-China.
-(2)Department of Neurology, The First Affiliated Hospital of China Medical
-University, 155 North Nanjing Street, Heping District, Shenyang City 110001, PR
-China. Electronic address: grace_shenyang@163.com.
-(3)Clinics of the People's Armed Police Command College, Tianjin City, 300000, PR
-China.
-
-BACKGROUND: Growing evidence has reported that gut microbiota is involved in
-pathogenesis of Parkinson's disease (PD) and colorectal cancer (CRC), and the
-association between PD and CRC does not reach a consensus. In order to explore
-their correlation, herein we summarize the epidemiological evidence and included 
-relevant studies to perform a meta-analysis.
-METHODS: A comprehensive literature search for relevant articles published was
-performed in Medline, Web of Science and Embase up to June 30, 2016. The pooled
-risk ratio (RR) with 95% confidence intervals (CI) was used to estimate the
-effects and calculated using the method of generic inverse variance with the
-Random-effects model.
-RESULTS: Thirteen studies were included and analyzed in this meta-analysis. The
-pooled result of 11 cohort studies and 2 case-control studies comprising 343,226 
-PD patients showed that patients with PD had a decreased risk of CRC (RR: 0.79,
-95% CI: 0.66-0.93, P = 0.006). Further subgroup analyses performed in Western
-population revealed that the significant inverse association between PD and risk 
-of CRC was not undermined by many factors, including study design, tumor
-location, gender and quality of the study.
-CONCLUSION: Patients with PD was significantly associated with a decreased risk
-of CRC in Western population. Future studies are warranted to further clarify
-this association in Asian population.
-
-Copyright © 2016 Elsevier Ltd. All rights reserved.
-
-DOI: 10.1016/j.parkreldis.2016.11.011 
-PMID: 27913126 
-
-
 18. Microbiome. 2016 Nov 25;4(1):61.
 
 Extending colonic mucosal microbiome analysis-assessment of colonic lavage as a
