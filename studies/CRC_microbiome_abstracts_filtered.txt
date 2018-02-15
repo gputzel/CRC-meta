@@ -1225,48 +1225,6 @@ PMCID: PMC5109736
 PMID: 27842559  [Indexed for MEDLINE]
 
 
-22. Cancer Res. 2017 Jan 1;77(1):27-40. doi: 10.1158/0008-5472.CAN-16-1359. Epub 2016
-Nov 7.
-
-Dietary Emulsifier-Induced Low-Grade Inflammation Promotes Colon Carcinogenesis.
-
-Viennois E(1), Merlin D(1)(2), Gewirtz AT(1), Chassaing B(3).
-
-Author information: 
-(1)Center for Inflammation, Immunity and Infection, Institute for Biomedical
-Sciences, Georgia State University, Atlanta, Georgia.
-(2)Veterans Affairs Medical Center, Decatur, Georgia.
-(3)Center for Inflammation, Immunity and Infection, Institute for Biomedical
-Sciences, Georgia State University, Atlanta, Georgia. bchassaing@gsu.edu.
-
-The increased risks conferred by inflammatory bowel disease (IBD) to the
-development of colorectal cancer gave rise to the term "colitis-associated
-cancer" and the concept that inflammation promotes colon tumorigenesis. A
-condition more common than IBD is low-grade inflammation, which correlates with
-altered gut microbiota composition and metabolic syndrome, both present in many
-cases of colorectal cancer. Recent findings suggest that low-grade inflammation
-in the intestine is promoted by consumption of dietary emulsifiers, a ubiquitous 
-component of processed foods, which alter the composition of gut microbiota.
-Here, we demonstrate in a preclinical model of colitis-induced colorectal cancer 
-that regular consumption of dietary emulsifiers, carboxymethylcellulose or
-polysorbate-80, exacerbated tumor development. Enhanced tumor development was
-associated with an altered microbiota metagenome characterized by elevated levels
-of lipopolysaccharide and flagellin. We found that emulsifier-induced alterations
-in the microbiome were necessary and sufficient to drive alterations in major
-proliferation and apoptosis signaling pathways thought to govern tumor
-development. Overall, our findings support the concept that perturbations in
-host-microbiota interactions that cause low-grade gut inflammation can promote
-colon carcinogenesis. Cancer Res; 77(1); 27-40. ©2016 AACR.
-
-©2016 American Association for Cancer Research.
-
-DOI: 10.1158/0008-5472.CAN-16-1359 
-PMCID: PMC5214513
-PMID: 27821485  [Indexed for MEDLINE]
-
-Conflict of interest statement: none.
-
-
 23. Oncogene. 2016 Nov 3;35(44):5795-5806. doi: 10.1038/onc.2016.113. Epub 2016 Apr
 11.
 
