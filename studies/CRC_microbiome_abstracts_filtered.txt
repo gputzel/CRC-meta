@@ -2371,46 +2371,6 @@ PMCID: PMC4046039
 PMID: 24886284  [Indexed for MEDLINE]
 
 
-72. Sci Rep. 2014 May 15;4:4985. doi: 10.1038/srep04985.
-
-Dynamic microbe and molecule networks in a mouse model of colitis-associated
-colorectal cancer.
-
-Liang X(1), Li H(1), Tian G(2), Li S(3).
-
-Author information: 
-(1)1] MOE Key Lab of Bioinformatics, Bioinformatics Division, TNLIST and
-Department of Automation, Tsinghua University, Beijing 100084, China [2].
-(2)Center of Biomedical Analysis, Tsinghua University, Beijing 100084, China.
-(3)1] MOE Key Lab of Bioinformatics, Bioinformatics Division, TNLIST and
-Department of Automation, Tsinghua University, Beijing 100084, China [2] School
-of Medicine/School of Life Sciences, Tsinghua University, Beijing 100084, China.
-
-Bacterial colonisation of the gut is involved in the development of
-colitis-associated colorectal cancer. However, it remains unclear how the gut
-microbiota dynamically shifts correlating with colorectal carcinogenesis. Here,
-we reveal the longitudinal shifts in the microbial community that occur with
-colitis-associated colorectal cancer. High-throughput sequencing results for the 
-bacterial 16S rRNA gene (V3 region) were compared for azoxymethane/dextran sodium
-sulphate-treated mice and control mice. We found that microbial community
-structure was significantly altered by chronic colitis. Microbes in the species
-Streptococcus luteciae, Lactobacillus hamster, Bacteroides uniformis and
-Bacteroides ovatus were increased during colorectal carcinogenesis. Histological 
-measurements for a molecular network including six interconnected key factors
-from inflammation to cancer, namely p65, p53, COX-2, PPARγ, CCR2 and β-catenin,
-indicated that the microbiome modifications were correlated with molecular
-pathogenesis of colitis-associated colorectal cancer. Phylotype modifications
-after each AOM/DSS cycle were identified. A longitudinal microbial network was
-then constructed for the gut microbiome and showed that the phylotype shifts
-during this process were complex and highly dynamic. This work may provide a
-deeper understanding of the role of the microbiota and microbe-host interactions 
-in colitis-associated colorectal cancer.
-
-DOI: 10.1038/srep04985 
-PMCID: PMC4021569
-PMID: 24828543  [Indexed for MEDLINE]
-
-
 73. J Gastroenterol. 2015 Feb;50(2):167-79. doi: 10.1007/s00535-014-0963-x. Epub 2014
 May 9.
 
