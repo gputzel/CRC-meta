@@ -2111,44 +2111,6 @@ DOI: 10.1073/pnas.1406199111
 PMCID: PMC4280621
 PMID: 25489084  [Indexed for MEDLINE]
 
-51. Bull Acad Natl Med. 2014 Dec;198(9):1667-84.
-
-[Intestinal microbiota].
-
-[Article in French]
-
-Debré P, Le Gall JY; commission I (Biologie).
-
-Collaborators: Lecomte, Moneret-Vautrin, Ardaillou, Baulieu, Bazex, Cabanis,
-Caen, Cazenave, Chouard, Corvol, Denis, Galibert, Hauw, Launois, Le Gall JY,
-Milgrom, Netter, Nezelof, Nicolas JP, Parodi, Pessac, Sraer, Tiollais, Vincent,
-Cartier-Lacave, Bastide, Bioulac, Brice, Carles, Debré, Delmas, Delpech, Douay,
-Dussaule, Hauet, Jeanteur, Maquart, Stoltz, Thèze, Vigneron, Vivier, Adolphe,
-Choisy, Réthoré, Girard, Laplace.
-
-The human body normally lives in symbiosis with a considerable microscopic
-environment present on all interfaces with the external environment; it hosts ten
-times more microbes (microbiota) that it has somatic or germ cells, representing 
-a gene diversity (microbiome) 100-150 times higher than the human genome. These
-germs are located mainly in the gut, where they represent a mass of about one
-kilogram. The primary colonization of the gastrointestinal tract depends on the
-delivery route, the bacterial flora rewarding then depending on the environment, 
-food hygiene, medical treatments. The intestinal microbiota plays an important
-role in the maturation of the immune system and in different physiological
-functions: digestion of polysaccharides, glycosaminoglycans and glycoproteins,
-vitamins biosynthesis, bile salt metabolism of some amino acids and xenobiotics. 
-Quantitative and qualitative changes in the microbiota are observed in a wide
-range of diseases: obesity, colorectal cancer, liver cancer, inflammatory bowel
-disease, autoimmune diseases, allergies... pharmacobiotics aim to modify the
-intestinal microbiota in a therapeutic goal and this by various means:
-prebiotics, probiotics, antibiotics or fecal transplants. Intestinal flora also
-plays a direct role in the metabolism of certain drugs and the microbiota should 
-be considered as a predictive parameter of response to some chemotherapies.
-
-
-PMID: 27356369  [Indexed for MEDLINE]
-
-
 52. Mol Syst Biol. 2014 Nov 28;10:766. doi: 10.15252/msb.20145645.
 
 Potential of fecal microbiota for early-stage detection of colorectal cancer.
