@@ -2042,55 +2042,6 @@ DOI: 10.3389/fmicb.2015.00020
 PMCID: PMC4313696
 PMID: 25699023 
 
-46. Br J Nutr. 2015 Jan 28;113(2):225-38. doi: 10.1017/S0007114514003523. Epub 2014
-Dec 12.
-
-Wheat bran extract alters colonic fermentation and microbial composition, but
-does not affect faecal water toxicity: a randomised controlled trial in healthy
-subjects.
-
-Windey K(1), De Preter V(1), Huys G(2), Broekaert WF(3), Delcour JA(4), Louat
-T(5), Herman J(5), Verbeke K(1).
-
-Author information: 
-(1)Translational Research Center for Gastrointestinal Disorders (TARGID),O&N 1,
-Box 701, Herestraat 49,3000Leuven,Belgium.
-(2)Laboratory of Microbiology & BCCM/LMG Bacteria Collection, Universiteit
-Gent,Gent,Belgium.
-(3)Fugeia NV,Leuven,Belgium.
-(4)Leuven Food Science and Nutrition Research Centre (LFoRCe), KU
-Leuven,Leuven,Belgium.
-(5)Interface Valorisation Platform (IVAP), KU Leuven,Leuven,Belgium.
-
-Wheat bran extract (WBE), containing arabinoxylan-oligosaccharides that are
-potential prebiotic substrates, has been shown to modify bacterial colonic
-fermentation in human subjects and to beneficially affect the development of
-colorectal cancer (CRC) in rats. However, it is unclear whether these changes in 
-fermentation are able to reduce the risk of developing CRC in humans. The aim of 
-the present study was to evaluate the effects of WBE on the markers of CRC risk
-in healthy volunteers, and to correlate these effects with colonic fermentation. 
-A total of twenty healthy subjects were enrolled in a double-blind, cross-over,
-randomised, controlled trial in which the subjects ingested WBE (10 g/d) or
-placebo (maltodextrin, 10 g/d) for 3 weeks, separated by a 3-week washout period.
-At the end of each study period, colonic handling of NH3 was evaluated using the 
-biomarker lactose[15N, 15N']ureide, colonic fermentation was characterised
-through a metabolomics approach, and the predominant microbial composition was
-analysed using denaturing gradient gel electrophoresis. As markers of CRC risk,
-faecal water genotoxicity was determined using the comet assay and faecal water
-cytotoxicity using a colorimetric cell viability assay. Intake of WBE induced a
-shift from urinary to faecal 15N excretion, indicating a stimulation of colonic
-bacterial activity and/or growth. Microbial analysis revealed a selective
-stimulation of Bifidobacterium adolescentis. In addition, WBE altered the colonic
-fermentation pattern and significantly reduced colonic protein fermentation
-compared with the run-in period. However, faecal water cytotoxicity and
-genotoxicity were not affected. Although intake of WBE clearly affected colonic
-fermentation and changed the composition of the microbiota, these changes were
-not associated with the changes in the markers of CRC risk.
-
-DOI: 10.1017/S0007114514003523 
-PMID: 25498469  [Indexed for MEDLINE]
-
-
 47. Proc Natl Acad Sci U S A. 2014 Dec 23;111(51):18321-6. doi:
 10.1073/pnas.1406199111. Epub 2014 Dec 8.
 
