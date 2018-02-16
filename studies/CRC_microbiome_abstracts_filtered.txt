@@ -2617,38 +2617,6 @@ development of novel fecal microbiome-related diagnostic tools for CRC.
 DOI: 10.1007/s00248-013-0245-9 
 PMID: 23733170  [Indexed for MEDLINE]
 
-
-6. Therap Adv Gastroenterol. 2013 May;6(3):215-29. doi: 10.1177/1756283X12473674.
-
-Microbial dysbiosis and colon carcinogenesis: could colon cancer be considered a 
-bacteria-related disease?
-
-Sobhani I(1), Amiot A, Le Baleur Y, Levy M, Auriault ML, Van Nhieu JT, Delchier
-JC.
-
-Author information: 
-(1)APHP-UPEC Paris12, 51 Av Mal deLattre de Tassigny, Créteil 94010, France.
-
-Colorectal cancer (CRC) is posing an increasingly important burden on the health 
-care system, with western countries seeing a growing incidence of the disease.
-Except for germline DNA mutations which have been attributed to less than 5% of
-patients, little is known about the main causes of CRC. However, environment
-factors such as food, lifestyle and medication are now suspected to have a major 
-influence on inducing cancers. Today, exhaustive quantitative and qualitative
-evaluation of all environmental factors is not possible. Various
-environment-induced diseases have been characterized based on colon microflora,
-also called microbiota, analyses. Growing data have shown specific changes in
-microflora (i.e. dysbiosis) in the stools of patients with colon cancer or those 
-adherent to the colonic mucosa. Thus, it appears that microbiota may be
-considered a platform offering host and environment interactions for studying
-CRCs. The hypothesis that colon cancer might be a bacteria-related disease is
-suggested and perspectives are discussed.
-
-DOI: 10.1177/1756283X12473674 
-PMCID: PMC3625019
-PMID: 23634186 
-
-
 7. Cancer Discov. 2013 Apr;3(4):384-7. doi: 10.1158/2159-8290.CD-13-0042.
 
 Colorectal cancer: looking for answers in the microbiota.
