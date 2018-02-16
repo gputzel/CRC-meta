@@ -1960,44 +1960,6 @@ PMCID: PMC4615176
 PMID: 25875428  [Indexed for MEDLINE]
 
 
-27. Food Funct. 2015 May;6(5):1460-9. doi: 10.1039/c5fo00120j.
-
-The ellagic acid-derived gut microbiota metabolite, urolithin A, potentiates the 
-anticancer effects of 5-fluorouracil chemotherapy on human colon cancer cells.
-
-González-Sarrías A(1), Tomé-Carneiro J, Bellesia A, Tomás-Barberán FA, Espín JC.
-
-Author information: 
-(1)Research Group on Quality, Safety and Bioactivity of Plant Foods, Dept. Food
-Science and Technology, CEBAS-CSIC, P.O. Box 164, 30100 Campus de Espinardo,
-Murcia, Spain. agsarrias@cebas.csic.es.
-
-Chemotherapy increases the overall survival in colorectal cancer (CRC) patients. 
-5-Fluorouracil (5-FU) remains as a drug of first choice in CRC therapy over the
-last four decades. However, only 10-15% of patients with advanced CRC respond
-positively to 5-FU monotherapy. Therefore, new strategies to enhance the 5-FU
-effectiveness, overcome the tumor cell resistance and decrease the unspecific
-toxicity are critically needed. Urolithin A (Uro-A) is the main metabolite
-produced by the human gut microbiota from the dietary polyphenol ellagic acid.
-Uro-A targets the colonic mucosa of CRC patients, and preclinical studies have
-shown the anti-inflammatory and cancer chemopreventive activities of this
-metabolite. We evaluated here whether Uro-A, at concentrations achievable in the 
-human colorectum, could sensitize colon cancer cells to 5-FU and 5'DFUR (a
-pro-drug intermediate of 5-FU). We found that both 5-FU and 5'DFUR arrested the
-cell cycle at the S phase by regulating cyclins A and B1 in the human colon
-cancer cells Caco-2, SW-480 and HT-29, and also triggered apoptosis through the
-activation of caspases 8 and 9. Co-treatments with Uro-A decreased IC50 values
-for both 5-FU and 5'DFUR and additionally arrested the cell cycle at the G2/M
-phase together with a slight increase in caspases 8 and 9 activation. Overall, we
-show that Uro-A potentiated the effects of both 5-FU and 5'DFUR on colon cancer
-cells. This suggests the need for lower 5-FU doses to achieve similar effects,
-which could reduce possible adverse effects. Further in vivo investigations are
-warranted to explore the possible role of Uro-A as a chemotherapy adjuvant.
-
-DOI: 10.1039/c5fo00120j 
-PMID: 25857357  [Indexed for MEDLINE]
-
-
 28. Pharmacoepidemiol Drug Saf. 2015 May;24(5):534-42. doi: 10.1002/pds.3765. Epub
 2015 Mar 23.
 
