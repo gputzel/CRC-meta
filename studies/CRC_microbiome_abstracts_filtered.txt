@@ -2042,59 +2042,6 @@ DOI: 10.3389/fmicb.2015.00020
 PMCID: PMC4313696
 PMID: 25699023 
 
-37. Nutrients. 2015 Feb 16;7(2):1282-300. doi: 10.3390/nu7021282.
-
-Pilot dietary intervention with heat-stabilized rice bran modulates stool
-microbiota and metabolites in healthy adults.
-
-Sheflin AM(1), Borresen EC(2), Wdowik MJ(3), Rao S(4), Brown RJ(5), Heuberger
-AL(6), Broeckling CD(7), Weir TL(8), Ryan EP(9).
-
-Author information: 
-(1)Department of Food Science and Human Nutrition, Colorado State University,
-Fort Collins, CO 80523, USA. amymarie@mac.com.
-(2)Department of Environmental and Radiological Health Sciences, Colorado State
-University, Fort Collins, CO 80523, USA. Erica.Borresen@colostate.edu.
-(3)Department of Food Science and Human Nutrition, Colorado State University,
-Fort Collins, CO 80523, USA. melissa.wdowik@colostate.edu.
-(4)Department of Clinical Sciences, Animal Population Health Institute, Colorado 
-State University, Fort Collins, CO 80523, USA. Sangeeta.Rao@colostate.edu.
-(5)Cancer Center of the Rockies, University of Colorado Health, Fort Collins, CO 
-80522, USA. Regina.Brown@uchealth.org.
-(6)Department of Horticulture and Landscape Architecture, Colorado State
-University, Fort Collins, CO 80523, USA. Adam.Heuberger@colostate.edu.
-(7)Proteomics and Metabolomics Facility, Colorado State University, Fort Collins,
-CO 80523, USA. Corey.Broeckling@colostate.edu.
-(8)Department of Food Science and Human Nutrition, Colorado State University,
-Fort Collins, CO 80523, USA. Tiffany.Weir@colostate.edu.
-(9)Department of Environmental and Radiological Health Sciences, Colorado State
-University, Fort Collins, CO 80523, USA. E.P.Ryan@colostate.edu.
-
-Heat-stabilized rice bran (SRB) has been shown to regulate blood lipids and
-glucose, modulate gut mucosal immunity and inhibit colorectal cancer in animal
-and human studies. However, SRB's effects on gut microbial composition and
-metabolism and the resulting implications for health remain largely unknown. A
-pilot, randomized-controlled trial was developed to investigate the effects of
-eating 30 g/day SRB on the stool microbiome and metabolome. Seven healthy
-participants consumed a study meal and snack daily for 28 days. The microbiome
-and metabolome were characterized using 454 pyrosequencing and gas
-chromatography-mass spectrometry (GC-MS) at baseline, two and four weeks
-post-intervention. Increases in eight operational taxonomic units (OTUs),
-including three from Bifidobacterium and Ruminococcus genera, were observed after
-two and four weeks of SRB consumption (p<0.01). Branched chain fatty acids,
-secondary bile acids and eleven other putative microbial metabolites were
-significantly elevated in the SRB group after four weeks. The largest metabolite 
-change was a rice bran component, indole-2-carboxylic acid, which showed a mean
-12% increase with SRB consumption. These data support the feasibility of dietary 
-SRB intervention in adults and support that SRB consumption can affect gut
-microbial metabolism. These findings warrant future investigations of larger
-cohorts evaluating SRB's effects on intestinal health.
-
-DOI: 10.3390/nu7021282 
-PMCID: PMC4344588
-PMID: 25690418  [Indexed for MEDLINE]
-
-
 38. Nat Rev Gastroenterol Hepatol. 2015 Mar;12(3):128-9. doi:
 10.1038/nrgastro.2015.25. Epub 2015 Feb 17.
 
