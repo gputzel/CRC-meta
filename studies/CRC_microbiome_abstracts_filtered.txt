@@ -2414,54 +2414,6 @@ showing differences according to disease progression step and tumor severity.
 DOI: 10.1007/s00535-014-0963-x 
 PMID: 24811328  [Indexed for MEDLINE]
 
-
-77. Mol Cancer. 2014 Mar 5;13:46. doi: 10.1186/1476-4598-13-46.
-
-Aberrant gene expression in mucosa adjacent to tumor reveals a molecular
-crosstalk in colon cancer.
-
-Sanz-Pamplona R, Berenguer A, Cordero D, Molleví DG, Crous-Bou M, Sole X,
-Paré-Brunet L, Guino E, Salazar R, Santos C, de Oca J, Sanjuan X,
-Rodriguez-Moranta F, Moreno V(1).
-
-Author information: 
-(1)Unit of Biomarkers and Susceptibility, Catalan Institute of Oncology (ICO),
-Bellvitge Biomedical Research Institute (IDIBELL) and CIBERESP, L'Hospitalet de
-Llobregat, Barcelona, Spain. v.moreno@iconcologia.net.
-
-BACKGROUND: A colorectal tumor is not an isolated entity growing in a restricted 
-location of the body. The patient's gut environment constitutes the framework
-where the tumor evolves and this relationship promotes and includes a complex and
-tight correlation of the tumor with inflammation, blood vessels formation,
-nutrition, and gut microbiome composition. The tumor influence in the environment
-could both promote an anti-tumor or a pro-tumor response.
-METHODS: A set of 98 paired adjacent mucosa and tumor tissues from colorectal
-cancer (CRC) patients and 50 colon mucosa from healthy donors (246 samples in
-total) were included in this work. RNA extracted from each sample was hybridized 
-in Affymetrix chips Human Genome U219. Functional relationships between genes
-were inferred by means of systems biology using both transcriptional regulation
-networks (ARACNe algorithm) and protein-protein interaction networks (BIANA
-software).
-RESULTS: Here we report a transcriptomic analysis revealing a number of genes
-activated in adjacent mucosa from CRC patients, not activated in mucosa from
-healthy donors. A functional analysis of these genes suggested that this active
-reaction of the adjacent mucosa was related to the presence of the tumor.
-Transcriptional and protein-interaction networks were used to further elucidate
-this response of normal gut in front of the tumor, revealing a crosstalk between 
-proteins secreted by the tumor and receptors activated in the adjacent colon
-tissue; and vice versa. Remarkably, Slit family of proteins activated ROBO
-receptors in tumor whereas tumor-secreted proteins transduced a cellular signal
-finally activating AP-1 in adjacent tissue.
-CONCLUSIONS: The systems-level approach provides new insights into the
-micro-ecology of colorectal tumorogenesis. Disrupting this intricate molecular
-network of cell-cell communication and pro-inflammatory microenvironment could be
-a therapeutic target in CRC patients.
-
-DOI: 10.1186/1476-4598-13-46 
-PMCID: PMC4023701
-PMID: 24597571  [Indexed for MEDLINE]
-
-
 78. Mol Nutr Food Res. 2014 Jun;58(6):1199-211. doi: 10.1002/mnfr.201300931. Epub
 2014 Feb 16.
 
