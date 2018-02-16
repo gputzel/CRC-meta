@@ -2194,69 +2194,6 @@ PMCID: PMC4299606
 PMID: 25432777  [Indexed for MEDLINE]
 
 
-53. Cancer Res. 2014 Dec 15;74(24):7442-52. doi: 10.1158/0008-5472.CAN-14-1835. Epub 
-2014 Oct 21.
-
-Plasma choline metabolites and colorectal cancer risk in the Women's Health
-Initiative Observational Study.
-
-Bae S(1), Ulrich CM(2), Neuhouser ML(3), Malysheva O(1), Bailey LB(4), Xiao L(3),
-Brown EC(3), Cushing-Haugen KL(3), Zheng Y(3), Cheng TY(3), Miller JW(5), Green
-R(6), Lane DS(7), Beresford SA(3), Caudill MA(8).
-
-Author information: 
-(1)Division of Nutritional Sciences, Cornell University, Ithaca, New York.
-(2)Fred Hutchinson Cancer Research Center, Seattle, Washington. German Cancer
-Research Center and National Center for Tumor Diseases, Heidelberg, Germany.
-Huntsman Cancer Institute, Salt Lake City, Utah. mac379@cornell.edu
-neli.ulrich@hci.utah.edu.
-(3)Fred Hutchinson Cancer Research Center, Seattle, Washington.
-(4)Department of Foods and Nutrition, University of Georgia, Athens, Georgia.
-(5)Department of Nutritional Sciences, Rutgers University, New Brunswick, New
-Jersey. Department of Medical Pathology and Laboratory Medicine, University of
-California, Davis, California.
-(6)Department of Medical Pathology and Laboratory Medicine, University of
-California, Davis, California.
-(7)Department of Preventive Medicine, Stony Brook University School of Medicine, 
-Stony Brook, New York.
-(8)Division of Nutritional Sciences, Cornell University, Ithaca, New York.
-mac379@cornell.edu neli.ulrich@hci.utah.edu.
-
-Few studies have examined associations between plasma choline metabolites and
-risk of colorectal cancer. Therefore, we investigated associations between plasma
-biomarkers of choline metabolism [choline, betaine, dimethylglycine, and
-trimethylamine N-oxide (TMAO)] and colorectal cancer risk among postmenopausal
-women in a case-control study nested within the Women's Health Initiative
-Observational Study. We selected 835 matched case-control pairs, and cases were
-further stratified by tumor site (proximal, distal, or rectal) and stage
-(local/regional or metastatic). Colorectal cancer was assessed by self-report and
-confirmed by medical records over the mean of 5.2 years of follow-up. Baseline
-plasma choline metabolites were measured by LC/MS-MS. In multivariable-adjusted
-conditional logistic regression models, plasma choline tended to be positively
-associated with rectal cancer risk [OR (95% confidence interval, CI)(highest vs. 
-lowest quartile) = 2.44 (0.93-6.40); P trend = 0.08], whereas plasma betaine was 
-inversely associated with colorectal cancer overall [0.68 (0.47-0.99); P trend = 
-0.01] and with local/regional tumors [0.64 (0.42-0.99); P trend = 0.009].
-Notably, the plasma betaine:choline ratio was inversely associated with
-colorectal cancer overall [0.56 (0.39-0.82); P trend = 0.004] as well as with
-proximal [0.66 (0.41-1.06); P trend = 0.049], rectal [0.27 (0.10-0.78); P trend =
-0.02], and local/regional [0.50 (0.33-0.76); P trend = 0.001] tumors. Finally,
-plasma TMAO, an oxidative derivative of choline produced by intestinal bacteria, 
-was positively associated with rectal cancer [3.38 (1.25-9.16); P trend = 0.02]
-and with overall colorectal cancer risk among women with lower (vs. higher)
-plasma vitamin B12 levels (P interaction = 0.003). Collectively, these data
-suggest that alterations in choline metabolism, which may arise early in disease 
-development, may be associated with higher risk of colorectal cancer. The
-positive association between plasma TMAO and colorectal cancer risk is consistent
-with an involvement of the gut microbiome in colorectal cancer pathogenesis.
-
-©2014 American Association for Cancer Research.
-
-DOI: 10.1158/0008-5472.CAN-14-1835 
-PMCID: PMC4268282
-PMID: 25336191  [Indexed for MEDLINE]
-
-
 54. Am J Clin Nutr. 2014 Nov;100(5):1278-86. doi: 10.3945/ajcn.114.091785. Epub 2014 
 Sep 3.
 
