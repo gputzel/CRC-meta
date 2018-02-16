@@ -2414,62 +2414,6 @@ showing differences according to disease progression step and tumor severity.
 DOI: 10.1007/s00535-014-0963-x 
 PMID: 24811328  [Indexed for MEDLINE]
 
-80. PLoS One. 2014 Jan 14;9(1):e83644. doi: 10.1371/journal.pone.0083644. eCollection
-2014.
-
-The role of intestinal microbiota in development of irinotecan toxicity and in
-toxicity reduction through dietary fibres in rats.
-
-Lin XB(1), Farhangfar A(2), Valcheva R(3), Sawyer MB(4), Dieleman L(3), Schieber 
-A(5), Gänzle MG(1), Baracos V(4).
-
-Author information: 
-(1)University of Alberta, Department of Agricultural, Food and Nutritional
-Science, Edmonton, Canada.
-(2)University of Alberta, Department of Agricultural, Food and Nutritional
-Science, Edmonton, Canada ; Department of Oncology, University of Alberta,
-Edmonton, Alberta, Canada.
-(3)The Center of Excellence for Gastrointestinal Inflammation and Immunity
-Research, University of Alberta, Edmonton, Canada.
-(4)Department of Oncology, University of Alberta, Edmonton, Alberta, Canada.
-(5)University of Alberta, Department of Agricultural, Food and Nutritional
-Science, Edmonton, Canada ; University of Bonn, Department of Nutritional and
-Food Sciences, Bonn, Germany.
-
-CPT-11 is a drug used as chemotherapy for colorectal cancer. CPT-11 causes toxic 
-side-effects in patients. CPT-11 toxicity has been attributed to the activity of 
-intestinal microbiota, however, intestinal microbiota may also have protective
-effects in CP!-11 chemotherapy. This study aimed to elucidate mechanisms through 
-which microbiota and dietary fibres could modify host health. Rats bearing a Ward
-colon carcinoma were treated with a two-cycle CPT-11/5-fluorouracil therapy
-recapitulating clinical therapy of colorectal cancer. Animals were fed with a
-semi-purified diet or a semi-purified diet was supplemented with non-digestible
-carbohydrates (isomalto-oligosaccharides, resistant starch,
-fructo-oligosaccharides, or inulin) in 3 independent experiments. Changes in
-intestinal microbiota, bacteria translocating to mesenteric lymphnodes, cecal GUD
-activity, and cecal SCFA production, and the intestinal concentration of CPT-11
-and its metabolites were analysed. Non-digestible carbohydrates significantly
-influenced feed intake, body weight and other indicators of animal health. The
-identification of translocating bacteria and their quantification in cecal
-microbiota indicated that overgrowth of the intestine by opportunistic pathogens 
-was not a major contributor to CPT-11 toxicity. Remarkably, fecal GUD activity
-positively correlated to body weight and feed intake but negatively correlated to
-cecal SN-38 concentrations and IL1-β. The reduction in CPT-11 toxicity by
-non-digestible carbohydrates did not correlate to stimulation of specific
-bacterial taxa. However, cecal butyrate concentrations and feed intake were
-highly correlated. The protective role of intestinal butyrate production was
-substantiated by a positive correlation of the host expression of MCT1
-(monocarboxylate transporter 1) with body weight as well as a positive
-correlation of the abundance of bacterial butyryl-CoA gene with cecal butyrate
-concentrations. These correlations support the interpretation that the influence 
-of dietary fibre on CPT-11 toxicity is partially mediated by an increased cecal
-production of butyrate.
-
-DOI: 10.1371/journal.pone.0083644 
-PMCID: PMC3891650
-PMID: 24454707  [Indexed for MEDLINE]
-
-
 81. Microbiome. 2013 May 15;1(1):16. doi: 10.1186/2049-2618-1-16.
 
 Co-occurrence of anaerobic bacteria in colorectal carcinomas.
