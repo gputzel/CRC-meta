@@ -2194,61 +2194,6 @@ PMCID: PMC4299606
 PMID: 25432777  [Indexed for MEDLINE]
 
 
-54. Am J Clin Nutr. 2014 Nov;100(5):1278-86. doi: 10.3945/ajcn.114.091785. Epub 2014 
-Sep 3.
-
-Folate is absorbed across the human colon: evidence by using enteric-coated
-caplets containing 13C-labeled [6S]-5-formyltetrahydrofolate.
-
-Lakoff A(1), Fazili Z(1), Aufreiter S(1), Pfeiffer CM(1), Connolly B(1), Gregory 
-JF 3rd(1), Pencharz PB(1), O'Connor DL(1).
-
-Author information: 
-(1)From the Departments of Nutritional Sciences (AL, PBP, and DLO), Radiology
-(BC), and Paediatrics (PBP), University of Toronto, Toronto, Canada; The Research
-Institute, The Hospital for Sick Children, Toronto, Canada (AL, SA, BC, PBP, and 
-DLO); CDC, Atlanta, GA (ZF and CMP); and the Food Science and Human Nutrition
-Department, University of Florida, Gainesville, FL (JFG).
-
-BACKGROUND: Folate intakes that do not meet or greatly exceed requirements may be
-associated with negative health outcomes. A better understanding of contributors 
-that influence the input side will help establish dietary guidance that ensures
-health benefits without associated risks. Colonic microbiota produce large
-quantities of folate, and [(13)C5]5-formyltetrahydrofolate infused during
-colonoscopy is absorbed. However, it is unclear if significant quantities of
-folate are absorbed in an intact microbiome.
-OBJECTIVE: We determined whether and how much of a physiologic dose of
-[(13)C5]5-formyltetrahydrofolate delivered in a pH-sensitive enteric caplet to an
-intact colonic microbiome is absorbed.
-DESIGN: Healthy adults ingested a specially designed pH-sensitive acrylic
-copolymer-coated barium sulfate caplet that contained 855 nmol (400 μg)
-[(13)C5]5-formyltetrahydrofolate. After a washout period ≥ 4 wk, subjects
-received an intravenous injection of the same compound (214 nmol). Serially
-collected blood samples before and after each test dose were analyzed by using a 
-microbiological assay and liquid chromatography-tandem mass spectrometry.
-RESULTS: Caplet disintegration in the colon was observed by fluoroscopic imaging 
-for 6 subjects with a mean (± SD) complete disintegration time of 284 ± 155 min. 
-The mean (± SEM) rate of appearance of [(13)C5]5-methyltetrahydrofolate in plasma
-was 0.33 ± 0.09 (caplet) and 5.8 ± 1.2 (intravenous) nmol/h. Likely because of
-the significant time in the colon, the mean apparent absorption across the colon 
-was 46%.
-CONCLUSIONS: Folate is absorbed across the colon in humans with an undisturbed
-microbiome. This finding and previous observations of the size of the colonic
-depot of folate and its potential for manipulation by diet (eg, dietary fiber,
-oligosaccharides, and probiotics) suggest that an individual's dietary folate
-requirement may differ depending on the consumption of dietary constituents that 
-affect the size and composition of their gastrointestinal microbiota. In
-addition, a systematic investigation of the role of colonic folate on
-gastrointestinal development and the prevention of colorectal cancer is
-warranted. This trial was registered at clinicaltrials.gov as NCT00941174.
-
-© 2014 American Society for Nutrition.
-
-DOI: 10.3945/ajcn.114.091785 
-PMCID: PMC4823011
-PMID: 25332326  [Indexed for MEDLINE]
-
-
 55. Clin Infect Dis. 2015 Jan 15;60(2):208-15. doi: 10.1093/cid/ciu787. Epub 2014 Oct
 9.
 
