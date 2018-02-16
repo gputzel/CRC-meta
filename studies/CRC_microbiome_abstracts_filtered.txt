@@ -2836,47 +2836,6 @@ DOI: 10.1038/ismej.2011.109
 PMCID: PMC3260502
 PMID: 21850056  [Indexed for MEDLINE]
 
-
-38. Biologics. 2011;5:71-86. doi: 10.2147/BTT.S19099. Epub 2011 Jul 11.
-
-Gut microbiota: next frontier in understanding human health and development of
-biotherapeutics.
-
-Prakash S(1), Rodes L, Coussa-Charley M, Tomaro-Duchesneau C.
-
-Author information: 
-(1)Biomedical Technology and Cell Therapy Research Laboratory, Department of
-Biomedical Engineering and Artificial Cells and Organs Research Centre, Faculty
-of Medicine, McGill University, Montreal, Quebec, Canada.
-
-The gut microbiota is a remarkable asset for human health. As a key element in
-the development and prevention of specific diseases, its study has yielded a new 
-field of promising biotherapeutics. This review provides comprehensive and
-updated knowledge of the human gut microbiota, its implications in health and
-disease, and the potentials and limitations of its modification by currently
-available biotherapeutics to treat, prevent and/or restore human health, and
-future directions. Homeostasis of the gut microbiota maintains various functions 
-which are vital to the maintenance of human health. Disruption of the intestinal 
-ecosystem equilibrium (gut dysbiosis) is associated with a plethora of human
-diseases, including autoimmune and allergic diseases, colorectal cancer,
-metabolic diseases, and bacterial infections. Relevant underlying mechanisms by
-which specific intestinal bacteria populations might trigger the development of
-disease in susceptible hosts are being explored across the globe. Beneficial
-modulation of the gut microbiota using biotherapeutics, such as prebiotics,
-probiotics, and antibiotics, may favor health-promoting populations of bacteria
-and can be exploited in development of biotherapeutics. Other technologies, such 
-as development of human gut models, bacterial screening, and delivery
-formulations eg, microencapsulated probiotics, may contribute significantly in
-the near future. Therefore, the human gut microbiota is a legitimate therapeutic 
-target to treat and/or prevent various diseases. Development of a clear
-understanding of the technologies needed to exploit the gut microbiota is
-urgently required.
-
-DOI: 10.2147/BTT.S19099 
-PMCID: PMC3156250
-PMID: 21847343 
-
-
 39. J Clin Biochem Nutr. 2011 Jul;49(1):57-61. doi: 10.3164/jcbn.10-114. Epub 2011
 May 14.
 
