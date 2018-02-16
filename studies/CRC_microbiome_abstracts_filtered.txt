@@ -1912,45 +1912,6 @@ DOI: 10.1186/s13073-015-0177-8
 PMCID: PMC4499914
 PMID: 26170900 
 
-23. Nat Chem. 2015 May;7(5):411-7. doi: 10.1038/nchem.2221. Epub 2015 Apr 6.
-
-The colibactin warhead crosslinks DNA.
-
-Vizcaino MI(1), Crawford JM(2).
-
-Author information: 
-(1)1] Department of Chemistry, Yale University, New Haven, Connecticut 06510, USA
-[2] Chemical Biology Institute, Yale University, West Haven, Connecticut 06516,
-USA.
-(2)1] Department of Chemistry, Yale University, New Haven, Connecticut 06510, USA
-[2] Chemical Biology Institute, Yale University, West Haven, Connecticut 06516,
-USA [3] Department of Microbial Pathogenesis, Yale School of Medicine, New Haven,
-Connecticut 06536, USA.
-
-Comment in
-    Nat Chem. 2015 May;7(5):375-6.
-
-Members of the human microbiota are increasingly being correlated to human health
-and disease states, but the majority of the underlying microbial metabolites that
-regulate host-microbe interactions remain largely unexplored. Select strains of
-Escherichia coli present in the human colon have been linked to the initiation of
-inflammation-induced colorectal cancer through an unknown small-molecule-mediated
-process. The responsible non-ribosomal peptide-polyketide hybrid pathway encodes 
-'colibactin', which belongs to a largely uncharacterized family of small
-molecules. Genotoxic small molecules from this pathway that are capable of
-initiating cancer formation have remained elusive due to their high instability. 
-Guided by metabolomic analyses, here we employ a combination of NMR spectroscopy 
-and bioinformatics-guided isotopic labelling studies to characterize the
-colibactin warhead, an unprecedented substituted spirobicyclic structure. The
-warhead crosslinks duplex DNA in vitro, providing direct experimental evidence
-for colibactin's DNA-damaging activity. The data support unexpected models for
-both colibactin biosynthesis and its mode of action.
-
-DOI: 10.1038/nchem.2221 
-PMCID: PMC4499846
-PMID: 25901819  [Indexed for MEDLINE]
-
-
 24. Malays J Med Sci. 2015 Jan-Feb;22(1):1-3.
 
 What is Obesity Doing to Your Gut?
