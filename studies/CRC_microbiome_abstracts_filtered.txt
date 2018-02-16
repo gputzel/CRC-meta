@@ -2618,42 +2618,6 @@ DOI: 10.1007/s00248-013-0245-9
 PMID: 23733170  [Indexed for MEDLINE]
 
 
-4. Phytother Res. 2014 Mar;28(3):416-22. doi: 10.1002/ptr.5009. Epub 2013 May 15.
-
-Evaluation of the effect of blackcurrant products on gut microbiota and on
-markers of risk for colon cancer in humans.
-
-Molan AL(1), Liu Z, Plimmer G.
-
-Author information: 
-(1)Institute of Food, Nutrition and Human Health, College of Health, Massey
-University, Palmerston North, New Zealand.
-
-The purpose of this study was to determine in healthy humans whether First Leaf
-(FL; composed of blackcurrant extract powder, lactoferrin and lutein) and Cassis 
-Anthomix 30 (CAM30; blackcurrant extract powder) can positively modify the
-colonic microbiota by enhancing the growth of the beneficial bacteria and
-inactivating the toxic bacterial enzymes which are known to be involved in
-colonic carcinogenesis. Thirty healthy adult male and female volunteers were
-recruited for this study. Fluorescent in situ hybridization was carried out to
-analyse the populations of fecal microbiota. Consumption of FL and CAM30 led to
-significant increases (P < 0.0001) in the population sizes of lactobacilli and
-bifidobacteria whereas the population sizes of Clostridium spp. and Bacteroides
-spp were decreased significantly (P < 0.0001). In addition, feeding of FL and
-CAM30 decreases the activity of β-glucuronidase (bacterial enzyme which is
-considered to be one of the enzymes that increases risk for colorectal cancer)
-and significantly decreased (P < 0.05) the fecal pH. In conclusion, the results
-of this study open up the possibility that consumption of FL and CAM30 can offer 
-various benefits to human health through acting as novel prebiotic agents via
-increasing the numbers of beneficial bacteria (lactobacilli and bifidobacteria)
-in the gut.
-
-Copyright © 2013 John Wiley & Sons, Ltd.
-
-DOI: 10.1002/ptr.5009 
-PMID: 23674271  [Indexed for MEDLINE]
-
-
 5. J Vis Exp. 2013 May 1;(75):e4368. doi: 10.3791/4368.
 
 A novel method for the culture and polarized stimulation of human intestinal
