@@ -2766,38 +2766,6 @@ DOI: 10.1038/ismej.2012.43
 PMCID: PMC3446812
 PMID: 22622349  [Indexed for MEDLINE]
 
-28. Carcinogenesis. 2012 Jun;33(6):1231-8. doi: 10.1093/carcin/bgs137. Epub 2012 Mar 
-29.
-
-Gut microbiota accelerate tumor growth via c-jun and STAT3 phosphorylation in
-APCMin/+ mice.
-
-Li Y(1), Kundu P, Seow SW, de Matos CT, Aronsson L, Chin KC, Kärre K, Pettersson 
-S, Greicius G.
-
-Author information: 
-(1)Department of Microbiology, Tumor and Cell Biology, Karolinska Institutet,
-Stockholm, Sweden.
-
-Chronic inflammation is increasingly recognized as a major contributor of human
-colorectal cancer (CRC). While gut microbiota can trigger inflammation in the
-intestinal tract, the precise signaling pathways through which host cells respond
-to inflammatory bacterial stimulation are unclear. Here, we show that gut
-microbiota enhances intestinal tumor load in the APC(Min/+) mouse model of CRC.
-Furthermore, systemic anemia occurs coincident with rapid tumor growth,
-suggesting a role for intestinal barrier damage and erythropoiesis-stimulating
-mitogens. Short-term stimulation assays of murine colonic tumor cells reveal that
-lipopolysaccharide, a microbial cell wall component, can accelerate cell growth
-via a c-Jun/JNK activation pathway. Colonic tumors are also infiltrated by CD11b+
-myeloid cells expressing high levels of phospho-STAT3 (p-Tyr705). Our results
-implicate the role of gut microbiota, through triggering the c-Jun/JNK and STAT3 
-signaling pathways in combination with anemia, in the acceleration of tumor
-growth in APC(Min/+) mice.
-
-DOI: 10.1093/carcin/bgs137 
-PMID: 22461519  [Indexed for MEDLINE]
-
-
 29. Gut. 2012 Jun;61(6):847-54. doi: 10.1136/gutjnl-2011-300865. Epub 2012 Mar 17.
 
 Assessment of colorectal cancer molecular features along bowel subsites
