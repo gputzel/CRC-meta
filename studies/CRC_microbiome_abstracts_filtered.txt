@@ -2010,61 +2010,6 @@ early diagnosis and treatment of colorectal adenoma or carcinoma.
 DOI: 10.1038/ncomms7528 
 PMID: 25758642  [Indexed for MEDLINE]
 
-
-34. PLoS One. 2015 Feb 23;10(2):e0118391. doi: 10.1371/journal.pone.0118391.
-eCollection 2015.
-
-Human papillomavirus infection correlates with inflammatory Stat3 signaling
-activity and IL-17 level in patients with colorectal cancer.
-
-Li YX(1), Zhang L(2), Simayi D(3), Zhang N(1), Tao L(4), Yang L(4), Zhao J(4),
-Chen YZ(4), Li F(4), Zhang WJ(4).
-
-Author information: 
-(1)Department of Pathology/the Key Laboratories for Xinjiang Endemic and Ethnic
-Diseases, Shihezi University School of Medicine, Shihezi, Xinjiang, China.
-(2)Department of Pathology/the Key Laboratories for Xinjiang Endemic and Ethnic
-Diseases, Shihezi University School of Medicine, Shihezi, Xinjiang, China;
-Changzhou Children's Hospital, Changzhou, Jiangsu, China.
-(3)Department of Pathology/the Key Laboratories for Xinjiang Endemic and Ethnic
-Diseases, Shihezi University School of Medicine, Shihezi, Xinjiang, China; Key
-Laboratory of Chinese Ministry of Education, Xinjiang Medical University, Urumqi,
-Xinjiang, China.
-(4)Department of Pathology/the Key Laboratories for Xinjiang Endemic and Ethnic
-Diseases, Shihezi University School of Medicine, Shihezi, Xinjiang, China;
-Department of Pathology, the First Affiliated Hospital, Shihezi University School
-of Medicine, Shihezi, Xinjiang, China.
-
-BACKGROUND: Colorectal cancer (CRC) is a major burden of public health and
-healthcare worldwide. Microbiota has been suggested in promoting chronic
-inflammation in the intestine which, in turn, promotes tumor development. This
-study focuses on possible correlations of human papillomavirus (HPV) infection
-with proinflammatory Stat3 signaling activities and the resulting levels of its
-downstream proinflammatory cytokine IL-17 in CRC patients.
-METHODS: HPV was examined using HPV Genotyping Chip technology and constitutively
-active Stat3 (p-Stat3) and IL-17 levels were tested using immunohistochemistry
-(IHC) in paraffin-embedded cancerous and adjacent normal tissues (ANT) from a
-cohort of 95 CRC patients. Correlation analyses were performed between HPV
-infection and clinicopathological characteristics, Stat3 activities and IL-17
-levels among these CRC patients.
-RESULTS: Three major findings were observed: (1) HPV infection existed in a high 
-rate of CRC cases (48.4%, 46/95), of which 45 cases (45/46, 97.8%) were high-risk
-HPV16-positive and only one case was HPV53-positive. (2) HPV infection correlated
-with poorer clinical stages (III+IV) of CRC. (3) HPV infection strongly
-correlated with both constitutively higher Stat3 activities (P<0.01) and higher
-IL-17 levels (P<0.01) only in CRC tissues but not in ANT tissues.
-CONCLUSIONS: HPV infection is common in CRC patients suggesting potentially
-preventive effectiveness of HPV vaccination among high-risk young individuals. We
-have for the first time revealed a tri-lateral relationship among HPV infection, 
-constitutive Stat3 activity and IL-17 level, whose collaborative act may
-orchestrate a proinflammatory microenvironment in the colorectum that, in turn,
-may promote carcinogenesis and possibly facilitate progression of CRC.
-
-DOI: 10.1371/journal.pone.0118391 
-PMCID: PMC4338045
-PMID: 25706309  [Indexed for MEDLINE]
-
-
 35. Front Microbiol. 2015 Feb 2;6:20. doi: 10.3389/fmicb.2015.00020. eCollection
 2015.
 
