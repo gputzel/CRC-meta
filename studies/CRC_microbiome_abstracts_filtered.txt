@@ -2042,43 +2042,6 @@ DOI: 10.3389/fmicb.2015.00020
 PMCID: PMC4313696
 PMID: 25699023 
 
-44. Front Microbiol. 2014 Dec 5;5:684. doi: 10.3389/fmicb.2014.00684. eCollection
-2014.
-
-Bioactive compounds produced by gut microbial tannase: implications for
-colorectal cancer development.
-
-López de Felipe F(1), de Las Rivas B(1), Muñoz R(1).
-
-Author information: 
-(1)Laboratory of Bacterial Biotechnology, Institute of Food Science, Technology
-and Nutrition - Spanish National Research Council (ICTAN-CSIC), Madrid Spain.
-
-The microorganisms in the human gastrointestinal tract have a profound influence 
-on the transformation of food into metabolites which can impact human health.
-Gallic acid (GA) and pyrogallol (PG) are bioactive compounds displaying diverse
-biological properties, including carcinogenic inhibiting activities. However, its
-concentration in fruits and vegetables is generally low. These metabolites can be
-also generated as final products of tannin metabolism by microbes endowed with
-tannase, which opens up the possibility of their anti-cancer potential being
-increased. Patients with colorectal cancer (CRC) display an imbalanced gut
-microbiota respect to healthy population. The recent use of next generation
-sequencing technologies has greatly improved knowledge of the identity of
-bacterial species that colonize non-tumorous and tumorous tissues of CRC
-patients. This information provides a unique opportunity to shed light on the
-role played by gut microorganisms in the different stages of this disease. We
-here review the recently published gut microbiome associated to CRC patients and 
-highlight tannase as an underlying gene function of bacterial species that
-selectively colonize tumorous tissues, but not adjacent non-malignant tissues.
-Given the anti-carcinogenic roles of GA and PG produced by gut tannin-degrading
-bacteria, we provide an overview of the possible consequences of this intriguing 
-coincidence for CRC development.
-
-DOI: 10.3389/fmicb.2014.00684 
-PMCID: PMC4257100
-PMID: 25538697 
-
-
 45. Nutr Cancer. 2015;67(1):119-25. doi: 10.1080/01635581.2015.976317. Epub 2014 Dec 
 16.
 
