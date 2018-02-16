@@ -2277,68 +2277,6 @@ DOI: 10.1158/1940-6207.CAPR-14-0129
 PMCID: PMC4221363
 PMID: 25104642  [Indexed for MEDLINE]
 
-64. Cell. 2014 Jul 17;158(2):288-299. doi: 10.1016/j.cell.2014.04.051.
-
-Gut microbial metabolism drives transformation of MSH2-deficient colon epithelial
-cells.
-
-Belcheva A(1), Irrazabal T(1), Robertson SJ(1), Streutker C(2), Maughan H(3),
-Rubino S(4), Moriyama EH(5), Copeland JK(6), Surendra A(6), Kumar S(1), Green
-B(1), Geddes K(1), Pezo RC(7), Navarre WW(8), Milosevic M(9), Wilson BC(5),
-Girardin SE(4), Wolever TMS(10), Edelmann W(11), Guttman DS(6), Philpott DJ(1),
-Martin A(12).
-
-Author information: 
-(1)Department of Immunology, University of Toronto, Toronto, ON M5S 1A8, Canada.
-(2)Department of Laboratory Medicine, St. Michael's Hospital, Toronto, ON M5B
-1W8, Canada.
-(3)Ronin Institute, Montclair, NJ 07043, USA.
-(4)Department of Laboratory Medicine and Pathobiology, University of Toronto,
-Toronto, ON M5S 1A8, Canada.
-(5)Princess Margaret Cancer Centre/University Health Network, Toronto, ON M5G
-1L7, Canada.
-(6)Centre for the Analysis of Genome Evolution & Function, University of Toronto,
-Toronto, ON M5S 3B2, Canada.
-(7)Department of Medical Oncology, University of Toronto, Toronto, ON M5S 1A8,
-Canada.
-(8)Department of Molecular Genetics, University of Toronto, Toronto, ON M5S 1A8, 
-Canada.
-(9)Department of Radiation Oncology, Princess Margaret Hospital, Toronto, ON M5G 
-2M9, Canada.
-(10)Department of Nutritional Sciences, University of Toronto, Toronto, ON M5S
-3E2, Canada.
-(11)Department of Cell Biology, Albert Einstein College of Medicine, Bronx, NY
-10461, USA.
-(12)Department of Immunology, University of Toronto, Toronto, ON M5S 1A8, Canada.
-Electronic address: alberto.martin@utoronto.ca.
-
-Erratum in
-    Cell. 2014 Oct 9;159(2):456.
-
-Comment in
-    Cell Host Microbe. 2014 Aug 13;16(2):143-5.
-
-The etiology of colorectal cancer (CRC) has been linked to deficiencies in
-mismatch repair and adenomatous polyposis coli (APC) proteins, diet, inflammatory
-processes, and gut microbiota. However, the mechanism through which the
-microbiota synergizes with these etiologic factors to promote CRC is not clear.
-We report that altering the microbiota composition reduces CRC in
-APC(Min/+)MSH2(-/-) mice, and that a diet reduced in carbohydrates phenocopies
-this effect. Gut microbes did not induce CRC in these mice through an
-inflammatory response or the production of DNA mutagens but rather by providing
-carbohydrate-derived metabolites such as butyrate that fuel hyperproliferation of
-MSH2(-/-) colon epithelial cells. Further, we provide evidence that the mismatch 
-repair pathway has a role in regulating β-catenin activity and modulating the
-differentiation of transit-amplifying cells in the colon. These data thereby
-provide an explanation for the interaction between microbiota, diet, and mismatch
-repair deficiency in CRC induction. PAPERCLIP:
-
-Copyright © 2014 Elsevier Inc. All rights reserved.
-
-DOI: 10.1016/j.cell.2014.04.051 
-PMID: 25036629  [Indexed for MEDLINE]
-
-
 65. PLoS One. 2014 Jul 15;9(7):e99233. doi: 10.1371/journal.pone.0099233. eCollection
 2014.
 
