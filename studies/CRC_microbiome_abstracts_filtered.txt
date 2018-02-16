@@ -2836,42 +2836,6 @@ DOI: 10.1038/ismej.2011.109
 PMCID: PMC3260502
 PMID: 21850056  [Indexed for MEDLINE]
 
-39. J Clin Biochem Nutr. 2011 Jul;49(1):57-61. doi: 10.3164/jcbn.10-114. Epub 2011
-May 14.
-
-Prebiotic treatment reduced preneoplastic lesions through the downregulation of
-toll like receptor 4 in a chemo-induced carcinogenic model.
-
-Fukuda M(1), Komiyama Y, Mitsuyama K, Andoh A, Aoyama T, Matsumoto Y, Kanauchi O.
-
-Author information: 
-(1)College of Pharmacy, Department of Clinical Pharmacokinetics, Nihon
-University, 7-7-1, Narashinodai, Funabashi, Chiba 274-8555, Japan.
-
-Germinated barley foodstuff contains prebiotics which are reported to have
-anti-cancerous effects in colorectal cancer model, but the detailed mechanism
-remains unclear. Recent studies revealed that the role of microbiota was strongly
-related to the regulation of incidence and progression of colorectal cancer. The 
-aim of this study was to examine the anti-neoplastic mechanism by prebiotics.
-Azoxymethane treated F344 rats were used as the sporadic cancerous model. After
-azoxymethane injection, either a control or germinated barley foodstuff diet was 
-administered to the rats for another 5 weeks, and the number of abberant crypt
-foci, toll like receptor 4, Kirsten rat sarcoma viral oncogene homolog,
-adenomatous polyposis coli tumor suppressor gene and cyclooxygenase 2 mRNA
-expression of colonic mucosa and cecal short chain fatty acids were examined. The
-germinated barley food stuff significantly attenuated the number of abberant
-crypt focis and the expression of toll like receptor 4 and cyclooxygenase 2 mRNA,
-compared to the control group. In addition, the cecal butyrate production in the 
-germinated barley foodstuff group was significantly higher than that in the
-control. In conclusion, this prebiotic treatment for colorectal cancer may be
-useful without causing the adverse effects seen in either anti-cancer drugs or
-anti-inflammatory drugs.
-
-DOI: 10.3164/jcbn.10-114 
-PMCID: PMC3128367
-PMID: 21765608 
-
-
 40. PLoS One. 2011;6(5):e20447. doi: 10.1371/journal.pone.0020447. Epub 2011 May 24.
 
 Towards the human colorectal cancer microbiome.
