@@ -2112,42 +2112,6 @@ PMCID: PMC4280621
 PMID: 25489084  [Indexed for MEDLINE]
 
 
-48. Gut Microbes. 2014;5(5):675-80. doi: 10.4161/19490976.2014.969989.
-
-The bacterial genotoxin colibactin promotes colon tumor growth by modifying the
-tumor microenvironment.
-
-Dalmasso G(1), Cougnoux A, Delmas J, Darfeuille-Michaud A, Bonnet R.
-
-Author information: 
-(1)a Clermont Université; Université d'Auvergne; Inserm U1071; INRA USC2018 ,
-Clermont-Ferrand , France.
-
-The gut microbiota is suspected to promote colorectal cancer (CRC). Escherichia
-coli are more frequently found in CCR biopsies than in healthy mucosa;
-furthermore, the majority of mucosa-associated E. coli isolated from CCR harbors 
-the pks genomic island (pks+ E. coli) that is responsible for the synthesis of
-colibactin, a genotoxic compound. We have recently reported that transient
-contact of a few malignant cells with colibactin-producing E. coli increases
-tumor growth in a xenograft mouse model. Growth is sustained by cellular
-senescence that is accompanied by the production of growth factors. We
-demonstrated that cellular senescence is a consequence of the pks+ E.
-coli-induced alteration of p53 SUMOylation, an essential post-translational
-modification in eukaryotic cells. The underlying mechanisms for this process
-involve the induction of miR-20a-5p expression, which targets SENP1, a key
-protein in the regulation of the SUMOylation process. These results are
-consistent with the expression of SENP1, miR-20a-5p and growth factors that are
-observed in a CRC mouse model and in human CCR biopsies colonized by pks+ E.
-coli. Overall, the data reveal a new paradigm for carcinogenesis in which pks+ E.
-coli infection induces cellular senescence characterized by the production of
-growth factors that promote the proliferation of uninfected cells and,
-subsequently, tumor growth.
-
-DOI: 10.4161/19490976.2014.969989 
-PMCID: PMC4615906
-PMID: 25483338  [Indexed for MEDLINE]
-
-
 49. Am J Chin Med. 2014;42(6):1555-8. doi: 10.1142/S0192415X1420002X.
 
 Natural products and chemotherapeutic agents on cancer: prevention vs. treatment.
