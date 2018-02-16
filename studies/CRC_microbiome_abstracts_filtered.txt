@@ -2617,31 +2617,6 @@ development of novel fecal microbiome-related diagnostic tools for CRC.
 DOI: 10.1007/s00248-013-0245-9 
 PMID: 23733170  [Indexed for MEDLINE]
 
-7. Cancer Discov. 2013 Apr;3(4):384-7. doi: 10.1158/2159-8290.CD-13-0042.
-
-Colorectal cancer: looking for answers in the microbiota.
-
-Jobin C(1).
-
-Author information: 
-(1)Department of Medicine, University of North Carolina, Chapel Hill, North
-Carolina 27599, USA. job@med.unc.edu
-
-At a simplistic level, colorectal cancer arises from mutations in various
-proto-oncogenes and tumor suppressor genes. Aside from genetically inherited
-factors, environmental, lifestyle, and dietary habits have all been identified as
-risk agents promoting mutational events leading to the development of colorectal 
-cancer. This "In Focus" presents evidence that the intestinal endogenous
-bacterial community represents a risk factor for the development of colorectal
-cancer.
-
-©2013 AACR.
-
-
-PMCID: PMC3625977
-PMID: 23580283  [Indexed for MEDLINE]
-
-
 8. Am J Clin Nutr. 2013 May;97(5):1044-52. doi: 10.3945/ajcn.112.046607. Epub 2013
 Apr 3.
 
