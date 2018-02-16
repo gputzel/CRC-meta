@@ -2042,33 +2042,6 @@ DOI: 10.3389/fmicb.2015.00020
 PMCID: PMC4313696
 PMID: 25699023 
 
-38. Nat Rev Gastroenterol Hepatol. 2015 Mar;12(3):128-9. doi:
-10.1038/nrgastro.2015.25. Epub 2015 Feb 17.
-
-Gut microbiota. Microbiota organization--a key to understanding CRC development.
-
-Hold GL(1), Garrett WS(2).
-
-Author information: 
-(1)School of Medicine &Dentistry, Institute of Medical Sciences, University of
-Aberdeen, Foresterhill, Aberdeen AB25 2ZD, UK.
-(2)Department of Immunology and Infectious Disease, Harvard School of Public
-Health, Boston, MA 02115, USA.
-
-Comment on
-    Proc Natl Acad Sci U S A. 2014 Dec 23;111(51):18321-6.
-
-The gut microbiota has an important role in colorectal cancer (CRC). Dejea and
-colleagues have demonstrated that particular bacterial biofilms are associated
-with proximal CRC, correlating with changes in tissue biology associated with
-oncogenesis. These findings provide a fresh perspective on the microbiota in
-cancer: microbial organization might provide critical insight into understanding 
-CRC development.
-
-DOI: 10.1038/nrgastro.2015.25 
-PMID: 25688055  [Indexed for MEDLINE]
-
-
 39. Adv Microbiol. 2014 Nov;4(15):1065-1075.
 
 Direct Detection and Quantification of Bacterial Genes Associated with
