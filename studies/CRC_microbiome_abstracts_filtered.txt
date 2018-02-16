@@ -2618,55 +2618,6 @@ DOI: 10.1007/s00248-013-0245-9
 PMID: 23733170  [Indexed for MEDLINE]
 
 
-5. J Vis Exp. 2013 May 1;(75):e4368. doi: 10.3791/4368.
-
-A novel method for the culture and polarized stimulation of human intestinal
-mucosa explants.
-
-Tsilingiri K(1), Sonzogni A, Caprioli F, Rescigno M.
-
-Author information: 
-(1)Department of Experimental Oncology, European Institute of Oncology.
-
-Few models currently exist to realistically simulate the complex human
-intestine's micro-environment, where a variety of interactions take place. Proper
-homeostasis directly depends on these interactions, as they shape an entire
-immunological response inducing tolerance against food antigens while at the same
-time mounting effective immune responses against pathogenic microbes accidentally
-ingested with food. Intestinal homeostasis is preserved also through various
-complex interactions between the microbiota (including food-associated beneficial
-bacterial strains) and the host, that regulate the attachment/degradation of
-mucus, the production of antimicrobial peptides by the epithelial barrier, and
-the "education" of epithelial cells' that controls the tolerogenic or immunogenic
-phenotype of unique, gut-resident lymphoid cells' populations. These interactions
-have been so far very difficult to reproduce with in vitro assays using either
-cultured cell lines or peripheral blood mononuclear cells. In addition, mouse
-models differ substantially in components of the intestinal mucosa (mucus layer
-organization, commensal bacteria community) with respect to the human gut. Thus, 
-studies of a variety of treatments to be brought in the clinics for important
-stress-related or pathological conditions such as irritable bowel syndrome,
-inflammatory bowel disease or colorectal cancer have been difficult to carry out.
-To address these issues, we developed a novel system that enables us to stimulate
-explants of human intestinal mucosa that retain their in situ conditioning by the
-host microbiota and immune response, in a polarized fashion. Polarized apical
-stimulation is of great importance for the outcome of the elicited immune
-response. It has been repeatedly shown that the same stimuli can produce
-completely different responses when they bypass the apical face of the intestinal
-epithelium, stimulating epithelial cells basolaterally or coming into direct
-contact with lamina propria components, switching the phenotype from tolerogenic 
-to immunogenic and causing unnecessary and excessive inflammation in the area. We
-achieved polarized stimulation by gluing a cave cylinder which delimited the area
-of stimulation on the apical face of the mucosa as will be described in the
-protocol. We used this model to examine, among others, differential effects of
-three different Lactobacilli strains. We show that this model system is very
-powerful to assess the immunomodulatory properties of probiotics in healthy and
-disease conditions.
-
-DOI: 10.3791/4368 
-PMCID: PMC3667689
-PMID: 23666550  [Indexed for MEDLINE]
-
-
 6. Therap Adv Gastroenterol. 2013 May;6(3):215-29. doi: 10.1177/1756283X12473674.
 
 Microbial dysbiosis and colon carcinogenesis: could colon cancer be considered a 
