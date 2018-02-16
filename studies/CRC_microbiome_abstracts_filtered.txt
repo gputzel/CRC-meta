@@ -2956,41 +2956,6 @@ DOI: 10.4161/gmic.1.3.12360
 PMCID: PMC2927011
 PMID: 20740058  [Indexed for MEDLINE]
 
-50. Int J Oncol. 2008 Mar;32(3):609-17.
-
-Colorectal carcinogenesis in germ-free and conventionally reared rats: different 
-intestinal environments affect the systemic immunity.
-
-Vannucci L(1), Stepankova R, Kozakova H, Fiserova A, Rossmann P,
-Tlaskalova-Hogenova H.
-
-Author information: 
-(1)Laboratory of Natural Cell Immunity, Department of Immunology, Institute of
-Microbiology, Academy of Sciences of the Czech Republic, 14220 Prague 4, Czech
-Republic. vannucci@biomed.cas.cz
-
-Intestinal microbiota are considered to play an important role both in colorectal
-tumor development and in the modulation of mucosal immunity. Studies on animals
-reared in germ-free (GF, without intestinal microbiota) versus conventional (CV, 
-with regular microbiota colonization of the bowel) conditions can aid in
-clarifying the influence of bacteria on carcinogenesis and the anticancer immune 
-response. The capability of the intestinal environment to modulate anticancer
-immunity not only at the mucosal but also at the systemic level is still an open 
-question. In our study we found that, following the same protocol of colorectal
-cancer induction, GF rats developed less and smaller tumors than CV rats. The GF 
-rats that did not develop cancer also presented a better anticancer immune
-response with an increase in NK, NKT, CTL, B cells and cytotoxicity in peripheral
-blood. We hypothesize that the lower antigenic challenge and the absence of the
-'physiological inflammation', caused by the commensal microbiota in the gut of CV
-rats, may enhance the capability of the GF rats to develop more efficacious
-anticancer immune responses. The different levels of tolerance/regulatory
-mechanisms in GF versus the CV animals may modulate the anticancer response not
-only at the mucosal but also at the systemic immunity level.
-
-
-PMID: 18292938  [Indexed for MEDLINE]
-
-
 51. Environ Microbiol. 2008 Mar;10(3):789-98. doi: 10.1111/j.1462-2920.2007.01503.x.
 
 Culture-independent analysis of the gut microbiota in colorectal cancer and
