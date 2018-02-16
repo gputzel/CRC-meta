@@ -1960,31 +1960,6 @@ PMCID: PMC4615176
 PMID: 25875428  [Indexed for MEDLINE]
 
 
-29. Rev Med Suisse. 2015 Jan 14;11(456-457):72-7.
-
-[Infections disease update: 2014 is viral].
-
-[Article in French]
-
-Kaiser L, Emonet S, Huttner A, Vetter P, Toutous Trellu L, Uriel Valladares
-Bickel P, Lecompte T.
-
-Chikungunya's phenomenal dissemination imposes now infection suspicion when
-returning from endemic areas. Colorectal cancer screening may be dependent of the
-microbiome. Even a small amount of E. coli in catheter sampled urine is
-predictive for a urinary infection. Prevention of pharyngitis suppurated late
-complications doesn't justify systematic antimicrobial therapy. A bitherapy is
-probably better for severe community acquired pneumonias. Due to epidemiology and
-resistances, management of gonorrhoea has changed. Enterovirus 68 is particular
-because of its almost exclusive lung tropism in children. The question is no
-longer how to treat hepatitis C but which patients to treat and when. Pritelivir 
-clearly improves herpes genitalis symptoms. The first confirmed case of Ebola has
-reach our contry.
-
-
-PMID: 25799655  [Indexed for MEDLINE]
-
-
 30. Oncotarget. 2015 Mar 30;6(9):7209-20.
 
 Association of Fusobacterium species in pancreatic cancer tissues with molecular 
