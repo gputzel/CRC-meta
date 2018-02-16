@@ -2414,48 +2414,6 @@ showing differences according to disease progression step and tumor severity.
 DOI: 10.1007/s00535-014-0963-x 
 PMID: 24811328  [Indexed for MEDLINE]
 
-79. Int J Cancer. 2014 Aug 15;135(4):956-67. doi: 10.1002/ijc.28738. Epub 2014 Mar
-21.
-
-Infection, antibiotic therapy and risk of colorectal cancer: a nationwide nested 
-case-control study in patients with Type 2 diabetes mellitus.
-
-Wang JL(1), Chang CH, Lin JW, Wu LC, Chuang LM, Lai MS.
-
-Author information: 
-(1)Department of Internal Medicine, E-Da Hospital/I-Shou University, Kaohsiung,
-Taiwan.
-
-Patients with Type 2 diabetes mellitus are at a higher risk of colorectal cancer 
-(CRC). The objective of our study was to examine the inter-relationship among
-infection sites, systemic antibiotic use and risk of CRC among patients with Type
-2 diabetes mellitus. From a diabetic cohort from the Taiwan's National Health
-Insurance claims database, we identified 3,593 incident colon cancer cases, 1,979
-rectal cancer cases and 22,288 controls and conducted a nested case-control study
-to examine the association between antibiotic use and CRC incidence. Logistic
-regression models were applied to estimate the odds ratio (OR) and the 95%
-confidence interval (95% CI) between infection sites, antibiotic use and CRC
-incidence. Patients with intra-abdominal infection were significantly associated 
-with increased risk for colon cancer (OR = 2.01, 95% CI = 1.73-2.35) and rectal
-cancer (OR = 1.59, 95% CI = 1.26-2.00). Any antianaerobic antibiotic use was
-associated with a higher risk of colon cancer (OR = 2.31, 95% CI = 2.12-2.52) and
-rectal cancer (OR = 1.69, 95% CI = 1.50-1.90) but without an obvious
-dose-response relationship for cumulative use. Antianaerobic antibiotics also
-increased the risks for those with nonintra-abdominal infection. No association
-was found between antiaerobic agent use and the CRC risk. The results suggest
-intra-abdominal infections and antianaerobic antibiotic use may be a marker for
-precancerous lesions or early CRC, although the possibility of antianaerobic
-antibiotics playing an additional role cannot be excluded. Further research
-examining the relationship between intra-abdominal infection, antianaerobic
-antibiotics use and possible change of microbiota leading to colorectal
-carcinogenesis is warranted.
-
-© 2014 UICC.
-
-DOI: 10.1002/ijc.28738 
-PMID: 24470385  [Indexed for MEDLINE]
-
-
 80. PLoS One. 2014 Jan 14;9(1):e83644. doi: 10.1371/journal.pone.0083644. eCollection
 2014.
 
