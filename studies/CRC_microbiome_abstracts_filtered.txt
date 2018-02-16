@@ -2415,43 +2415,6 @@ DOI: 10.1007/s00535-014-0963-x
 PMID: 24811328  [Indexed for MEDLINE]
 
 
-74. Bioessays. 2014 Jul;36(7):658-64. doi: 10.1002/bies.201400015. Epub 2014 Apr 22.
-
-From promotion to management: the wide impact of bacteria on cancer and its
-treatment.
-
-Perez-Chanona E(1), Jobin C.
-
-Author information: 
-(1)Department of Medicine and Department of Infectious Diseases and Pathology,
-University of Florida, Gainesville, FL, USA; Department of Pharmacology,
-University of North Carolina, Chapel Hill, NC, USA.
-
-Comment on
-    Science. 2013 Nov 22;342(6161):967-70.
-
-In humans, the intestine is the major reservoir of microbes. Although the
-intestinal microbial community exists in a state of homeostasis called eubiosis, 
-environmental and genetics factors can lead to microbial perturbation or
-dysbiosis, a state associated with various pathologies including inflammatory
-bowel diseases (IBD) and colorectal cancer (CRC). Dysbiotic microbiota is thought
-to contribute to the initiation and progression of CRC. At the opposite end of
-the spectrum, two recently published studies in Science reveal that the
-microbiota is essential for chemotherapeutic drug efficacy, suggesting a
-beneficial microbial function in cancer management. The dichotomy between the
-beneficial and detrimental roles of the microbiota during cancer initiation,
-progression, and treatment emphasize the interwoven relationship between bacteria
-and cancer. Moreover, these findings suggest that the microbiota could be
-considered as a therapeutic target, not only at the level of cancer prevention,
-but also during management, i.e. by enhancing the efficacy of chemotherapeutics.
-
-© 2014 WILEY Periodicals, Inc.
-
-DOI: 10.1002/bies.201400015 
-PMCID: PMC4179290
-PMID: 24752750  [Indexed for MEDLINE]
-
-
 75. Int J Cancer. 2014 Nov 1;135(9):2004-13. doi: 10.1002/ijc.28853. Epub 2014 Mar
 28.
 
