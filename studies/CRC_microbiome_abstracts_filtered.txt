@@ -2011,54 +2011,6 @@ DOI: 10.1038/ncomms7528
 PMID: 25758642  [Indexed for MEDLINE]
 
 
-33. PLoS One. 2015 Feb 24;10(2):e0118411. doi: 10.1371/journal.pone.0118411.
-eCollection 2015.
-
-Association between appendectomy and subsequent colorectal cancer development: an
-Asian population study.
-
-Wu SC(1), Chen WT(2), Muo CH(3), Ke TW(4), Fang CW(5), Sung FC(6).
-
-Author information: 
-(1)Trauma and Emergency Center, China Medical University Hospital, Taichung,
-Taiwan; School of Medicine, China Medical University, Taichung, Taiwan.
-(2)School of Medicine, China Medical University, Taichung, Taiwan; Division of
-Colorectal Surgery, Department of Surgery, China Medical University Hospital,
-Taichung, Taiwan.
-(3)Management Office for Health Data, China Medical University and Hospital,
-Taichung, Taiwan.
-(4)Division of Colorectal Surgery, Department of Surgery, China Medical
-University Hospital, Taichung, Taiwan.
-(5)Department of Surgery, Changhua Christian Hospital, Changhua, Taiwan.
-(6)Management Office for Health Data, China Medical University and Hospital,
-Taichung, Taiwan; Institute of Clinical Medical Science, China Medical University
-College of Medicine, Taichung, Taiwan.
-
-OBJECTIVES: The appendix may modulate colon microbiota and bowel inflammation. We
-investigated whether appendectomy alters colorectal cancer risk.
-METHODS: We identified a cohort of 75,979 patients who underwent appendectomy
-between 1997 and 1999 based on the insurance claims of Taiwan. A comparison
-cohort of 303,640 persons without appendectomy was selected randomly, frequency
-matched by age, sex, comorbidity and entry year was also selected. We monitored
-subsequent colorectal cancer development in both cohorts.
-RESULTS: The overall colorectal cancer incidence was 14% higher in the
-appendectomy patients than in the comparison cohort (p <0.05): the highest
-incidence was observed for rectal cancer, and the lowest incidence was observed
-for cancer of the cecum-ascending colon for both cohorts. Men were at higher risk
-than women. Subjects ≥ 60 years had an HR of 12.8 compared to those <60 years.
-The incidence of colorectal cancer was much higher in 1.5-3.5 years post
-appendectomy follow-up than for the comparisons (HR of 2.13). Patients who
-received an incidental appendectomy had an HR of 2.90 when compared to the
-comparisons.
-CONCLUSIONS: Results of our study suggest that appendectomy in patients with
-appendicitis is likely associated with the development of colorectal cancer in
-the post-surgery period.
-
-DOI: 10.1371/journal.pone.0118411 
-PMCID: PMC4339380
-PMID: 25710790  [Indexed for MEDLINE]
-
-
 34. PLoS One. 2015 Feb 23;10(2):e0118391. doi: 10.1371/journal.pone.0118391.
 eCollection 2015.
 
