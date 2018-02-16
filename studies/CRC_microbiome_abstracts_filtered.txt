@@ -2231,53 +2231,6 @@ Copyright © 2014 Elsevier Ltd. All rights reserved.
 DOI: 10.1016/j.micpath.2014.10.003 
 PMID: 25281933  [Indexed for MEDLINE]
 
-60. Nat Commun. 2014 Sep 3;5:4724. doi: 10.1038/ncomms5724.
-
-Microbial genomic analysis reveals the essential role of inflammation in
-bacteria-induced colorectal cancer.
-
-Arthur JC(1), Gharaibeh RZ(2), Mühlbauer M(3), Perez-Chanona E(4), Uronis JM(1), 
-McCafferty J(5), Fodor AA(5), Jobin C(6).
-
-Author information: 
-(1)1] Department of Medicine, University of North Carolina at Chapel Hill, Chapel
-Hill, North Carolina 27713, USA [2].
-(2)1] Department of Bioinformatics and Genomics, University of North Carolina at 
-Charlotte, Charlotte, North Carolina 28223, USA [2] Bioinformatics Services
-Division, Department of Bioinformatics and Genomics, University of North Carolina
-at Charlotte, Kannapolis, North Carolina 28081, USA [3].
-(3)Department of Medicine, University of North Carolina at Chapel Hill, Chapel
-Hill, North Carolina 27713, USA.
-(4)1] Department of Pharmacology, University of North Carolina at Chapel Hill,
-Chapel Hill, North Carolina 27713, USA [2] Department of Medicine, University of 
-Florida, Gainesville, Florida 32611, USA.
-(5)Department of Bioinformatics and Genomics, University of North Carolina at
-Charlotte, Charlotte, North Carolina 28223, USA.
-(6)1] Department of Medicine, University of Florida, Gainesville, Florida 32611, 
-USA [2] Department of Infectious Diseases and Pathology, University of Florida,
-Gainesville, Florida 32611, USA.
-
-Enterobacteria, especially Escherichia coli, are abundant in patients with
-inflammatory bowel disease or colorectal cancer (CRC). However, it is unclear
-whether cancer is promoted by inflammation-induced expansion of E. coli and/or
-changes in expression of specific microbial genes. Here we use longitudinal (2,
-12 and 20 weeks) 16S rRNA sequencing of luminal microbiota from ex-germ-free mice
-to show that inflamed Il10(-/-) mice maintain a higher abundance of
-Enterobacteriaceae than healthy wild-type mice. Experiments with mono-colonized
-Il10(-/-) mice reveal that host inflammation is necessary for E. coli
-cancer-promoting activity. RNA-sequence analysis indicates significant changes in
-E. coli gene catalogue in Il10(-/-) mice, with changes mostly driven by
-adaptation to the intestinal environment. Expression of specific genes present in
-the tumour-promoting E. coli pks island are modulated by inflammation/CRC
-development. Thus, progression of inflammation in Il10(-/-) mice supports
-Enterobacteriaceae and alters a small subset of microbial genes important for
-tumour development.
-
-DOI: 10.1038/ncomms5724 
-PMCID: PMC4155410
-PMID: 25182170  [Indexed for MEDLINE]
-
-
 61. Appl Microbiol Biotechnol. 2014 Nov;98(22):9365-73. doi:
 10.1007/s00253-014-6009-8. Epub 2014 Aug 14.
 
