@@ -2231,41 +2231,6 @@ Copyright © 2014 Elsevier Ltd. All rights reserved.
 DOI: 10.1016/j.micpath.2014.10.003 
 PMID: 25281933  [Indexed for MEDLINE]
 
-61. Appl Microbiol Biotechnol. 2014 Nov;98(22):9365-73. doi:
-10.1007/s00253-014-6009-8. Epub 2014 Aug 14.
-
-Evaluation of the prebiotic potential of arabinoxylans from brewer's spent grain.
-
-Reis SF(1), Gullón B, Gullón P, Ferreira S, Maia CJ, Alonso JL, Domingues FC,
-Abu-Ghannam N.
-
-Author information: 
-(1)School of Food Science and Environmental Health, College of Sciences and
-Health, Dublin Institute of Technology, Cathal Brugha St., Dublin 1, Ireland.
-
-Arabinoxylans (AX) consumption has been related to the treatment and prevention
-of cardiovascular diseases, type II diabetes, colorectal cancer and obesity. The 
-beneficial health effects are conferred through gut microbiota modulation, and
-therefore, they have been proposed as potential slowly fermentable prebiotic
-candidates. As the mechanisms are not yet well understood, the prebiotic
-potential of AX from brewer's spent grain (BSG) has been investigated. Two types 
-of AX from BSG (AX1 and AX2) of different length and branching averages were
-fermented with human faecal inocula and compared to fermented cultures containing
-a commercial prebiotic (fructooligosaccharide (FOS)) and cultures with no added
-carbohydrate (control). Results demonstrated that the AX were extensively
-metabolised after 48 h of fermentation. The pH decreased along fermentation and
-the lowest value was achieved in AX1 cultures. The production of short chain
-fatty acids (SCFA) was higher in AX cultures than in cultures containing FOS and 
-controls, with AX1 presenting the highest concentrations. The stimulatory effect 
-of beneficial bacteria was higher in AX cultures, and AX2 presented the highest
-positive effect. Prebiotic potential of AX from BSG was confirmed by the
-production of SCFA and the modulation of gut microbiota, especially by the high
-increase in bifidobacteria populations.
-
-DOI: 10.1007/s00253-014-6009-8 
-PMID: 25117549  [Indexed for MEDLINE]
-
-
 62. Cancer Prev Res (Phila). 2014 Nov;7(11):1112-21. doi:
 10.1158/1940-6207.CAPR-14-0129. Epub 2014 Aug 7.
 
