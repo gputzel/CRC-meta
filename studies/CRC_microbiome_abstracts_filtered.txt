@@ -2277,69 +2277,6 @@ DOI: 10.1158/1940-6207.CAPR-14-0129
 PMCID: PMC4221363
 PMID: 25104642  [Indexed for MEDLINE]
 
-65. PLoS One. 2014 Jul 15;9(7):e99233. doi: 10.1371/journal.pone.0099233. eCollection
-2014.
-
-The detection of the methylated Wif-1 gene is more accurate than a fecal occult
-blood test for colorectal cancer screening.
-
-Amiot A(1), Mansour H(2), Baumgaertner I(3), Delchier JC(4), Tournigand C(5),
-Furet JP(6), Carrau JP(7), Canoui-Poitrine F(8), Sobhani I(1); CRC group of Val
-De Marne.
-
-Author information: 
-(1)Department of Gastroenterology, APHP, Henri-Mondor hospital, Créteil, France; 
-University of Paris Est Creteil, Créteil, France; Laboratoire d'Investigation
-Clinique EA 4393 EC2M3, Créteil, France.
-(2)Laboratoire d'Investigation Clinique EA 4393 EC2M3, Créteil, France;
-Bioscience Core Laboratories, King Abdullah University of Science and Technology,
-Thuwal, Saudi Arabia.
-(3)Department of Oncology, APHP, Henri-Mondor Hospital, Créteil, France.
-(4)Department of Gastroenterology, APHP, Henri-Mondor hospital, Créteil, France; 
-University of Paris Est Creteil, Créteil, France.
-(5)University of Paris Est Creteil, Créteil, France; Department of Oncology,
-APHP, Henri-Mondor Hospital, Créteil, France.
-(6)Commensals and Probiotics-Host Interactions Laboratory, INRA, MICALIS
-Institute, Jouy en Josas, France.
-(7)Laboratoire d'analyse, CPAM, Paris, France.
-(8)University of Paris Est Creteil, Créteil, France; Laboratoire d'Investigation 
-Clinique EA 4393 EC2M3, Créteil, France; Department of Public Health, APHP,
-Henri-Mondor Hospital, Créteil, France.
-
-BACKGROUND: The clinical benefit of guaiac fecal occult blood tests (FOBT) is now
-well established for colorectal cancer screening. Growing evidence has
-demonstrated that epigenetic modifications and fecal microbiota changes, also
-known as dysbiosis, are associated with CRC pathogenesis and might be used as
-surrogate markers of CRC.
-PATIENTS AND METHODS: We performed a cross-sectional study that included all
-consecutive subjects that were referred (from 2003 to 2007) for screening
-colonoscopies. Prior to colonoscopy, effluents (fresh stools, sera-S and urine-U)
-were harvested and FOBTs performed. Methylation levels were measured in stools, S
-and U for 3 genes (Wif1, ALX-4, and Vimentin) selected from a panel of 63 genes; 
-Kras mutations and seven dominant and subdominant bacterial populations in stools
-were quantified. Calibration was assessed with the Hosmer-Lemeshow chi-square,
-and discrimination was determined by calculating the C-statistic (Area Under
-Curve) and Net Reclassification Improvement index.
-RESULTS: There were 247 individuals (mean age 60.8±12.4 years, 52% of males) in
-the study group, and 90 (36%) of these individuals were patients with advanced
-polyps or invasive adenocarcinomas. A multivariate model adjusted for age and
-FOBT led to a C-statistic of 0.83 [0.77-0.88]. After supplementary sequential
-(one-by-one) adjustment, Wif-1 methylation (S or U) and fecal microbiota
-dysbiosis led to increases of the C-statistic to 0.90 [0.84-0.94] (p = 0.02) and 
-0.81 [0.74-0.86] (p = 0.49), respectively. When adjusted jointly for FOBT and
-Wif-1 methylation or fecal microbiota dysbiosis, the increase of the C-statistic 
-was even more significant (0.91 and 0.85, p<0.001 and p = 0.10, respectively).
-CONCLUSION: The detection of methylated Wif-1 in either S or U has a higher
-performance accuracy compared to guaiac FOBT for advanced colorectal neoplasia
-screening. Conversely, fecal microbiota dysbiosis detection was not more
-accurate. Blood and urine testing could be used in those individuals reluctant to
-undergo stool testing.
-
-DOI: 10.1371/journal.pone.0099233 
-PMCID: PMC4099003
-PMID: 25025467  [Indexed for MEDLINE]
-
-
 66. PLoS One. 2014 Jul 11;9(7):e102495. doi: 10.1371/journal.pone.0102495.
 eCollection 2014.
 
