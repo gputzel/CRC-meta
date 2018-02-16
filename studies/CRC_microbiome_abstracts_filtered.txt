@@ -2541,47 +2541,6 @@ DOI: 10.1093/jnci/djt300
 PMCID: PMC3866154
 PMID: 24316595  [Indexed for MEDLINE]
 
-93. J Biol Chem. 2013 Nov 29;288(48):34956-67. doi: 10.1074/jbc.M113.516153. Epub
-2013 Oct 21.
-
-Substrate cleavage profiling suggests a distinct function of Bacteroides fragilis
-metalloproteinases (fragilysin and metalloproteinase II) at the
-microbiome-inflammation-cancer interface.
-
-Shiryaev SA(1), Remacle AG, Chernov AV, Golubkov VS, Motamedchaboki K, Muranaka
-N, Dambacher CM, Capek P, Kukreja M, Kozlov IA, Perucho M, Cieplak P, Strongin
-AY.
-
-Author information: 
-(1)From the Sanford-Burnham Medical Research Institute, La Jolla, California
-92037 and.
-
-Enterotoxigenic anaerobic Bacteroides fragilis is a significant source of
-inflammatory diarrheal disease and a risk factor for colorectal cancer. Two
-distinct metalloproteinase types (the homologous 1, 2, and 3 isoforms of
-fragilysin (FRA1, FRA2, and FRA3, respectively) and metalloproteinase II (MPII)) 
-are encoded by the B. fragilis pathogenicity island. FRA was demonstrated to be
-important to pathogenesis, whereas MPII, also a potential virulence protein,
-remained completely uncharacterized. Here, we, for the first time, extensively
-characterized MPII in comparison with FRA3, a representative of the FRA isoforms.
-We employed a series of multiplexed peptide cleavage assays to determine
-substrate specificity and proteolytic characteristics of MPII and FRA. These
-results enabled implementation of an efficient assay of MPII activity using a
-fluorescence-quenched peptide and contributed to structural evidence for the
-distinct substrate cleavage preferences of MPII and FRA. Our data imply that MPII
-specificity mimics the dibasic Arg↓Arg cleavage motif of furin-like proprotein
-convertases, whereas the cleavage motif of FRA (Pro-X-X-Leu-(Arg/Ala/Leu)↓)
-resembles that of human matrix metalloproteinases. To the best of our knowledge, 
-MPII is the first zinc metalloproteinase with the dibasic cleavage preferences,
-suggesting a high level of versatility of metalloproteinase proteolysis. Based on
-these data, we now suggest that the combined (rather than individual) activity of
-MPII and FRA is required for the overall B. fragilis virulence in vivo.
-
-DOI: 10.1074/jbc.M113.516153 
-PMCID: PMC3843106
-PMID: 24145028  [Indexed for MEDLINE]
-
-
 94. Sci Rep. 2013 Oct 8;3:2868. doi: 10.1038/srep02868.
 
 VSL#3 probiotic modifies mucosal microbial composition but does not reduce
