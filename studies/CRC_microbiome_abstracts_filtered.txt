@@ -2452,56 +2452,6 @@ DOI: 10.1186/2049-2618-1-16
 PMCID: PMC3971631
 PMID: 24450771 
 
-84. Immunity. 2014 Jan 16;40(1):140-52. doi: 10.1016/j.immuni.2013.11.018. Epub 2014 
-Jan 9.
-
-Alterations in the microbiota drive interleukin-17C production from intestinal
-epithelial cells to promote tumorigenesis.
-
-Song X(1), Gao H(1), Lin Y(1), Yao Y(1), Zhu S(1), Wang J(1), Liu Y(1), Yao X(2),
-Meng G(2), Shen N(3), Shi Y(1), Iwakura Y(4), Qian Y(5).
-
-Author information: 
-(1)The Key Laboratory of Stem Cell Biology, Institute of Health Sciences,
-Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences and
-Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China.
-(2)The Key Laboratory of Molecular Virology and Immunology, Institute Pasteur of 
-Shanghai, Shanghai Institutes for Biological Sciences, Chinese Academy of
-Sciences, Shanghai 200025, China.
-(3)The Key Laboratory of Stem Cell Biology, Institute of Health Sciences,
-Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences and
-Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China;
-Shanghai Institute of Rheumatology, Shanghai Renji Hospital, Shanghai Jiaotong
-University School of Medicine, Shanghai 200001, China.
-(4)Research Institute for Biomedical Sciences, Tokyo University of Science,
-Yamazaki 2669, Noda-shi, Chiba 278-0022, Japan.
-(5)The Key Laboratory of Stem Cell Biology, Institute of Health Sciences,
-Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences and
-Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China;
-Shanghai Institute of Rheumatology, Shanghai Renji Hospital, Shanghai Jiaotong
-University School of Medicine, Shanghai 200001, China. Electronic address:
-ycqian@sibs.ac.cn.
-
-Although the microbiota has been shown to drive production of interleukin-17A
-(IL-17A) from T helper 17 cells to promote cell proliferation and tumor growth in
-colorectal cancer, the molecular mechanisms for microbiota-mediated regulation of
-tumorigenesis are largely unknown. Here, we found that the innate-like cytokine
-IL-17C was upregulated in human colorectal cancers and in mouse intestinal tumor 
-models. Alterations in the microbiota drove IL-17C upregulation specifically in
-intestinal epithelial cells (IECs) through Toll-like receptor
-(TLR)-MyD88-dependent signaling during intestinal tumorigenesis.
-Microbiota-driven IL-17C induced Bcl-2 and Bcl-xL expression in IECs in an
-autocrine manner to promote cell survival and tumorigenesis in both chemically
-induced and spontaneous intestinal tumor models. Thus, IL-17C promotes cancer
-development by increasing IEC survival, and the microbiota can mediate cancer
-pathogenesis through regulation of IL-17C.
-
-Copyright © 2014 Elsevier Inc. All rights reserved.
-
-DOI: 10.1016/j.immuni.2013.11.018 
-PMID: 24412611  [Indexed for MEDLINE]
-
-
 85. Cancer Res. 2014 Mar 1;74(5):1311-8. doi: 10.1158/0008-5472.CAN-13-1865. Epub
 2014 Jan 2.
 
