@@ -2042,46 +2042,6 @@ DOI: 10.3389/fmicb.2015.00020
 PMCID: PMC4313696
 PMID: 25699023 
 
-39. Adv Microbiol. 2014 Nov;4(15):1065-1075.
-
-Direct Detection and Quantification of Bacterial Genes Associated with
-Inflammation in DNA Isolated from Stool.
-
-Gómez-Moreno R(1), Robledo IE(2), Baerga-Ortiz A(1).
-
-Author information: 
-(1)Department of Biochemistry, University of Puerto Rico, Medical Sciences
-Campus, San Juan, Puerto Rico ; Molecular Sciences Building, University of Puerto
-Rico, Medical Sciences Campus, San Juan, Puerto Rico.
-(2)Department of Microbiology and Medical Zoology, University of Puerto Rico,
-Medical Sciences Campus, San Juan, Puerto Rico.
-
-Although predominantly associated with health benefits, the gut microbiota has
-also been shown to harbor genes that promote inflammation. In this work, we
-report a method for the direct detection and quantification of these
-pro-inflammatory bacterial genes by PCR and qPCR in DNA extracted from human
-stool samples. PCR reactions were performed to detect (i) the pks island genes,
-(ii) tcpC, which is present in some strains of Escherichia coli and (iii) gelE
-presented in some strains of Enterococcus faecalis. Additionally, we screened for
-the presence of the following genes encoding cyclomodulins that disrupted
-mammalian cell division: (iv) cdt (which encodes the cytolethal distending toxin)
-and (v) cnf-1 (which encodes the cytotoxic necrotizing factor-1). Our results
-show that 20% of the samples (N = 41) tested positive for detectable amounts of
-pks island genes, whereas 10% of individuals were positive for tcpC or gelE and
-only one individual was found to harbor the cnf-1 gene. Of the 13 individuals
-that were positive for at least one of the pro-inflammatory genes, 5 were found
-to harbor more than one. A quantitative version of the assay, which used
-real-time PCR, revealed the pro-inflammatory genes to be in high copy numbers: up
-to 1.3 million copies per mg of feces for the pks island genes. Direct detection 
-of specific genes in stool could prove useful toward screening for the presence
-of pro-inflammatory bacterial genes in individuals with inflammatory bowel
-diseases or colorectal cancer.
-
-DOI: 10.4236/aim.2014.415117 
-PMCID: PMC4307837
-PMID: 25635239 
-
-
 40. Nutrients. 2015 Jan 23;7(2):799-814. doi: 10.3390/nu7020799.
 
 Protopanaxadiol, an active ginseng metabolite, significantly enhances the effects
