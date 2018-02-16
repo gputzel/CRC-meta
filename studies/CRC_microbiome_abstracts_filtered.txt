@@ -2582,48 +2582,6 @@ DOI: 10.1371/journal.pone.0070803
 PMCID: PMC3735522
 PMID: 23940645  [Indexed for MEDLINE]
 
-
-97. Am J Physiol Gastrointest Liver Physiol. 2013 Oct 1;305(7):G474-82. doi:
-10.1152/ajpgi.00375.2012. Epub 2013 Jul 18.
-
-Laxative treatment with polyethylene glycol decreases microbial primary bile salt
-dehydroxylation and lipid metabolism in the intestine of rats.
-
-van der Wulp MY(1), Derrien M, Stellaard F, Wolters H, Kleerebezem M, Dekker J,
-Rings EH, Groen AK, Verkade HJ.
-
-Author information: 
-(1)Univ. Medical Center Groningen, Beatrix Children's Hospital, Div. Pediatric
-Gastroenterology and Hepatology, P.O. Box 30.001, 9700 RB Groningen, The
-Netherlands. m.y.m.van.der.wulp@umcg.nl.
-
-Polyethylene glycol (PEG) is a frequently used osmotic laxative that accelerates 
-gastrointestinal transit. It has remained unclear, however, whether PEG affects
-intestinal functions. We aimed to determine the effect of PEG treatment on
-intestinal sterol metabolism. Rats were treated with PEG in drinking water (7%)
-for 2 wk or left untreated (controls). We studied the enterohepatic circulation
-of the major bile salt (BS) cholate with a plasma stable isotope dilution
-technique and determined BS profiles and concentrations in bile, intestinal lumen
-contents, and feces. We determined the fecal excretion of cholesterol plus its
-intestinally formed metabolites. Finally, we determined the cytolytic activity of
-fecal water (a surrogate marker of colorectal cancer risk) and the amount and
-composition of fecal microbiota. Compared with control rats, PEG treatment
-increased the pool size (+51%; P < 0.01) and decreased the fractional turnover of
-cholate (-32%; P < 0.01). PEG did not affect the cholate synthesis rate,
-corresponding with an unaffected fecal primary BS excretion. PEG reduced fecal
-excretion of secondary BS and of cholesterol metabolites (each P < 0.01). PEG
-decreased the cytolytic activity of fecal water [54 (46-62) vs. 87 (85-92)%
-erythrocyte potassium release in PEG-treated and control rats, respectively; P < 
-0.01]. PEG treatment increased the contribution of Verrucomicrobia (P < 0.01) and
-decreased that of Firmicutes (P < 0.01) in fecal flora. We concluded that PEG
-treatment changes the intestinal bacterial composition, decreases the bacterial
-dehydroxylation of primary BS and the metabolism of cholesterol, and increases
-the pool size of the primary BS cholate in rats.
-
-DOI: 10.1152/ajpgi.00375.2012 
-PMID: 23868407  [Indexed for MEDLINE]
-
-
 98. J Gastrointest Surg. 2013 Sep;17(9):1657-64. doi: 10.1007/s11605-013-2270-x. Epub
 2013 Jun 27.
 
