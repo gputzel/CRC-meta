@@ -2658,34 +2658,6 @@ This trial was registered at www.chictr.org as ChiCTR-TRC-00000123.
 DOI: 10.3945/ajcn.112.046607 
 PMID: 23553152  [Indexed for MEDLINE]
 
-
-9. Gut Microbes. 2013 May-Jun;4(3):253-8. doi: 10.4161/gmic.24220. Epub 2013 Apr 2.
-
-The complex interplay between inflammation, the microbiota and colorectal cancer.
-
-Arthur JC(1), Jobin C.
-
-Author information: 
-(1)Department of Medicine, Pharmacology and Immunology-Microbiology, University
-of North Carolina, Chapel Hill, NC, USA.
-
-The microbiome has captured the attention of scientists from multiple research
-fields including ecology, immunology, microbiology and cancer biology. The
-microbial community living in the gastrointestinal tract is the most abundant and
-diverse niche of the human body and it is not surprising that microbiome research
-has predominantly focused upon this organ system. In this addendum, we summarize 
-the latest developments in microbiome research on inflammatory bowel diseases and
-colorectal cancer. In addition, we highlight our recent findings that chronic
-intestinal inflammation modulates microbial community composition and the
-development of colorectal cancer. Our findings redefine the paradigm of
-inflammation-associated cancer by illuminating the key role of bacteria in
-development of colorectal cancer.
-
-DOI: 10.4161/gmic.24220 
-PMCID: PMC3669172
-PMID: 23549517  [Indexed for MEDLINE]
-
-
 10. Gut Pathog. 2013 Mar 7;5(1):2. doi: 10.1186/1757-4749-5-2.
 
 Diversified pattern of the human colorectal cancer microbiome.
