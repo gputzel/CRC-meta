@@ -2692,20 +2692,6 @@ DOI: 10.1186/1757-4749-5-2
 PMCID: PMC3599420
 PMID: 23497613 
 
-21. Nat Rev Gastroenterol Hepatol. 2012 Oct;9(10):558. doi:
-10.1038/nrgastro.2012.172. Epub 2012 Sep 4.
-
-Gut microbiota: Colorectal cancer-driven by inflammation and gut bacteria?
-
-Ray K.
-
-Comment on
-    Science. 2012 Oct 5;338(6103):120-3.
-
-DOI: 10.1038/nrgastro.2012.172 
-PMID: 22945445 
-
-
 22. Science. 2012 Oct 5;338(6103):120-3. doi: 10.1126/science.1224820. Epub 2012 Aug 
 16.
 
