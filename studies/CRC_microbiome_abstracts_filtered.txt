@@ -2582,42 +2582,6 @@ DOI: 10.1371/journal.pone.0070803
 PMCID: PMC3735522
 PMID: 23940645  [Indexed for MEDLINE]
 
-98. J Gastrointest Surg. 2013 Sep;17(9):1657-64. doi: 10.1007/s11605-013-2270-x. Epub
-2013 Jun 27.
-
-Significant changes in the intestinal environment after surgery in patients with 
-colorectal cancer.
-
-Ohigashi S(1), Sudo K, Kobayashi D, Takahashi T, Nomoto K, Onodera H.
-
-Author information: 
-(1)Department of Gastroenterological Surgery, St. Luke's International Hospital, 
-9-1 Akashi-cho, Chuo-ku, Tokyo, 104-8560, Japan. ohigashiseiji@ab.auone-net.jp
-
-BACKGROUND: There have been very few detailed reports of the intestinal
-environment after surgical treatment for colorectal cancer (CRC). We analysed
-faecal microbiota, organic acids and pH to investigate the influence of
-colorectal surgery on the intestinal environment.
-METHODS: Faecal samples from 81 CRC patients were collected before the start of
-pre-operative preparation the day before surgery, as well as 7 days or more after
-surgery. Thirteen groups of intestinal microbiota, eight types of organic acids, 
-and pH were measured using 16S rRNA-targeted reverse transcription-quantitative
-PCR, high-performance liquid chromatography and a pH meter, respectively.
-RESULTS: Total bacterial counts (10.3 ± 0.6 vs. 9.4 ± 1.2 log10 cells/g;
-p < 0.001) and the numbers of 6 groups of obligate anaerobes were significantly
-decreased after surgery. In contrast, the populations of Enterobacteriaceae,
-Enterococcus, Staphylococcus and Pseudomonas were significantly increased.
-Post-operatively, the concentration of total organic acids was lower (77.9 ± 40.1
-vs. 50.1 ± 37.0 μmol/g; p < 0.001) than the pre-operative concentration, and a
-significant reduction in short-chain fatty acids (SCFAs) was observed.
-CONCLUSION: Significant changes in the intestinal environment, including marked
-decreases in obligate anaerobes, increases in pathogenic bacteria, and reductions
-in SCFAs, were detected after surgery for CRC.
-
-DOI: 10.1007/s11605-013-2270-x 
-PMID: 23807702  [Indexed for MEDLINE]
-
-
 99. Gut Microbes. 2013 Jul-Aug;4(4):353-6. doi: 10.4161/gmic.25275. Epub 2013 Jun 6.
 
 NOD2 prevents emergence of disease-predisposing microbiota.
