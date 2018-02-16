@@ -2692,46 +2692,6 @@ DOI: 10.1186/1757-4749-5-2
 PMCID: PMC3599420
 PMID: 23497613 
 
-12. PLoS One. 2013;8(1):e53653. doi: 10.1371/journal.pone.0053653. Epub 2013 Jan 15.
-
-Fusobacterium is associated with colorectal adenomas.
-
-McCoy AN(1), Araújo-Pérez F, Azcárate-Peril A, Yeh JJ, Sandler RS, Keku TO.
-
-Author information: 
-(1)Center for Gastrointestinal Biology and Disease, University of North Carolina 
-at Chapel Hill, Chapel Hill, North Carolina, USA.
-
-The human gut microbiota is increasingly recognized as a player in colorectal
-cancer (CRC). While particular imbalances in the gut microbiota have been linked 
-to colorectal adenomas and cancer, no specific bacterium has been identified as a
-risk factor. Recent studies have reported a high abundance of Fusobacterium in
-CRC subjects compared to normal subjects, but this observation has not been
-reported for adenomas, CRC precursors. We assessed the abundance of Fusobacterium
-species in the normal rectal mucosa of subjects with (n = 48) and without
-adenomas (n = 67). We also confirmed previous reports on Fusobacterium and CRC in
-10 CRC tumor tissues and 9 matching normal tissues by pyrosequencing. We
-extracted DNA from rectal mucosal biopsies and measured bacterial levels by
-quantitative PCR of the 16S ribosomal RNA gene. Local cytokine gene expression
-was also determined in mucosal biopsies from adenoma cases and controls by
-quantitative PCR. The mean log abundance of Fusobacterium or cytokine gene
-expression between cases and controls was compared by t-test. Logistic regression
-was used to compare tertiles of Fusobacterium abundance. Adenoma subjects had a
-significantly higher abundance of Fusobacterium species compared to controls (p =
-0.01). Compared to the lowest tertile, subjects with high abundance of
-Fusobacterium were significantly more likely to have adenomas (OR 3.66, 95% CI
-1.37-9.74, p-trend 0.005). Cases but not controls had a significant positive
-correlation between local cytokine gene expression and Fusobacterium abundance.
-Among cases, the correlation for local TNF-α and Fusobacterium was r = 0.33, p = 
-0.06 while it was 0.44, p = 0.01 for Fusobacterium and IL-10. These results
-support a link between the abundance of Fusobacterium in colonic mucosa and
-adenomas and suggest a possible role for mucosal inflammation in this process.
-
-DOI: 10.1371/journal.pone.0053653 
-PMCID: PMC3546075
-PMID: 23335968  [Indexed for MEDLINE]
-
-
 13. N Engl J Med. 2013 Jan 17;368(3):282-4. doi: 10.1056/NEJMcibr1212341.
 
 Epithelial barriers, microbiota, and colorectal cancer.
