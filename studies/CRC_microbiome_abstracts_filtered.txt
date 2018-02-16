@@ -2277,47 +2277,6 @@ DOI: 10.1158/1940-6207.CAPR-14-0129
 PMCID: PMC4221363
 PMID: 25104642  [Indexed for MEDLINE]
 
-66. PLoS One. 2014 Jul 11;9(7):e102495. doi: 10.1371/journal.pone.0102495.
-eCollection 2014.
-
-Loss of Sirt1 function improves intestinal anti-bacterial defense and protects
-from colitis-induced colorectal cancer.
-
-Lo Sasso G(1), Ryu D(1), Mouchiroud L(1), Fernando SC(2), Anderson CL(3),
-Katsyuba E(1), Piersigilli A(4), Hottiger MO(5), Schoonjans K(6), Auwerx J(1).
-
-Author information: 
-(1)Laboratory of Integrative and Systems Physiology, Ecole Polytechnique Fédérale
-de Lausanne, Lausanne, Switzerland.
-(2)Department of Animal Science, University of Nebraska, Lincoln, Nebraska,
-United States of America.
-(3)Department of Animal Science, University of Nebraska, Lincoln, Nebraska,
-United States of America; School of Biological Sciences, University of Nebraska, 
-Lincoln, Nebraska, United States of America.
-(4)Laboratory of Integrative and Systems Physiology, Ecole Polytechnique Fédérale
-de Lausanne, Lausanne, Switzerland; Institute of Animal Pathology, University of 
-Bern, Bern, Switzerland.
-(5)Institute of Veterinary Biochemistry and Molecular Biology, University of
-Zurich, Zurich, Switzerland.
-(6)Institute of Bioengineering, School of Life Science, Ecole Polytechnique
-Fédérale de Lausanne, Lausanne, Switzerland.
-
-Dysfunction of Paneth and goblet cells in the intestine contributes to
-inflammatory bowel disease (IBD) and colitis-associated colorectal cancer (CAC). 
-Here, we report a role for the NAD+-dependent histone deacetylase SIRT1 in the
-control of anti-bacterial defense. Mice with an intestinal specific Sirt1
-deficiency (Sirt1int-/-) have more Paneth and goblet cells with a consequent
-rearrangement of the gut microbiota. From a mechanistic point of view, the
-effects on mouse intestinal cell maturation are mediated by SIRT1-dependent
-changes in the acetylation status of SPDEF, a master regulator of Paneth and
-goblet cells. Our results suggest that targeting SIRT1 may be of interest in the 
-management of IBD and CAC.
-
-DOI: 10.1371/journal.pone.0102495 
-PMCID: PMC4094521
-PMID: 25013930  [Indexed for MEDLINE]
-
-
 67. Gut Pathog. 2014 Jun 25;6:26. doi: 10.1186/1757-4749-6-26. eCollection 2014.
 
 Co-occurrence of driver and passenger bacteria in human colorectal cancer.
