@@ -1960,60 +1960,6 @@ PMCID: PMC4615176
 PMID: 25875428  [Indexed for MEDLINE]
 
 
-30. Oncotarget. 2015 Mar 30;6(9):7209-20.
-
-Association of Fusobacterium species in pancreatic cancer tissues with molecular 
-features and prognosis.
-
-Mitsuhashi K(1), Nosho K(1), Sukawa Y(2), Matsunaga Y(1), Ito M(1), Kurihara
-H(1), Kanno S(1), Igarashi H(1), Naito T(1), Adachi Y(1), Tachibana M(1), Tanuma 
-T(1)(3), Maguchi H(3), Shinohara T(4), Hasegawa T(5), Imamura M(6), Kimura Y(6), 
-Hirata K(6), Maruyama R(7), Suzuki H(7), Imai K(8), Yamamoto H(9), Shinomura
-Y(9).
-
-Author information: 
-(1)Department of Gastroenterology, Rheumatology and Clinical Immunology, Sapporo 
-Medical University School of Medicine, Sapporo, Japan.
-(2)Department of Medical Oncology, Dana-Farber Cancer Institute and Harvard
-Medical School, Boston, MA, USA.
-(3)Department of Gastroenterology, Teine Keijinkai Hospital, Sapporo, Japan.
-(4)Department of Pathology, Teine Keijinkai Hospital, Sapporo, Japan.
-(5)Department of Surgical Pathology, Sapporo Medical University School of
-Medicine, Sapporo, Japan.
-(6)Department of Surgery, Surgical Oncology and Science, Sapporo Medical
-University School of Medicine, Sapporo, Japan.
-(7)Department of Molecular Biology, Sapporo Medical University School of
-Medicine, Sapporo, Japan.
-(8)The Institute of Medical Science, The University of Tokyo, Tokyo, Japan.
-(9)Department of Gastroenterology and Hepatology, St. Marianna University School 
-of Medicine, Kawasaki, Japan.
-
-Recently, bacterial infection causing periodontal disease has attracted
-considerable attention as a risk factor for pancreatic cancer. Fusobacterium
-species is an oral bacterial group of the human microbiome. Some evidence
-suggests that Fusobacterium species promote colorectal cancer development;
-however, no previous studies have reported the association between Fusobacterium 
-species and pancreatic cancer. Therefore, we examined whether Fusobacterium
-species exist in pancreatic cancer tissue. Using a database of 283 patients with 
-pancreatic ductal adenocarcinoma (PDAC), we tested cancer tissue specimens for
-Fusobacterium species. We also tested the specimens for KRAS, NRAS, BRAF and
-PIK3CA mutations and measured microRNA-21 and microRNA-31. In addition, we
-assessed epigenetic alterations, including CpG island methylator phenotype
-(CIMP). Our data showed an 8.8% detection rate of Fusobacterium species in
-pancreatic cancers; however, tumor Fusobacterium status was not associated with
-any clinical and molecular features. In contrast, in multivariate Cox regression 
-analysis, compared with the Fusobacterium species-negative group, we observed
-significantly higher cancer-specific mortality rates in the positive group (p =
-0.023). In conclusion, Fusobacterium species were detected in pancreatic cancer
-tissue. Tumor Fusobacterium species status is independently associated with a
-worse prognosis of pancreatic cancer, suggesting that Fusobacterium species may
-be a prognostic biomarker of pancreatic cancer.
-
-DOI: 10.18632/oncotarget.3109 
-PMCID: PMC4466679
-PMID: 25797243  [Indexed for MEDLINE]
-
-
 31. World J Gastroenterol. 2015 Mar 7;21(9):2759-69. doi: 10.3748/wjg.v21.i9.2759.
 
 Fecal microbes, short chain fatty acids, and colorectal cancer across
