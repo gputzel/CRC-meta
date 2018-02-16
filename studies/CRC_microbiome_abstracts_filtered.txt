@@ -1912,63 +1912,6 @@ DOI: 10.1186/s13073-015-0177-8
 PMCID: PMC4499914
 PMID: 26170900 
 
-17. Cell. 2015 Jul 2;162(1):45-58. doi: 10.1016/j.cell.2015.06.001. Epub 2015 Jun 18.
-
-Critical Role for the DNA Sensor AIM2 in Stem Cell Proliferation and Cancer.
-
-Man SM(1), Zhu Q(2), Zhu L(3), Liu Z(4), Karki R(1), Malik A(1), Sharma D(1), Li 
-L(3), Malireddi RK(1), Gurung P(1), Neale G(5), Olsen SR(5), Carter RA(6),
-McGoldrick DJ(6), Wu G(6), Finkelstein D(6), Vogel P(7), Gilbertson RJ(8),
-Kanneganti TD(9).
-
-Author information: 
-(1)Department of Immunology, St. Jude Children's Research Hospital, Memphis, TN
-38105, USA.
-(2)Department of Immunology, St. Jude Children's Research Hospital, Memphis, TN
-38105, USA; Integrated Biomedical Sciences Program, University of Tennessee
-Health Science Center, Memphis, TN 38163, USA.
-(3)Department of Developmental Neurobiology, St. Jude Children's Research
-Hospital, Memphis, TN 38105, USA.
-(4)Department of Immunology, St. Jude Children's Research Hospital, Memphis, TN
-38105, USA; Department of Biochemistry and Molecular Biology, School of Basic
-Medicines, Gannan Medical University, Ganzhou, Jiangxi 341000, China.
-(5)Hartwell Center for Bioinformatics and Biotechnology, St. Jude Children's
-Research Hospital, Memphis, TN 38105, USA.
-(6)Department of Computational Biology, St. Jude Children's Research Hospital,
-Memphis, TN 38105, USA.
-(7)Animal Resources Center and the Veterinary Pathology Core, St. Jude Children's
-Research Hospital, Memphis, TN 38105, USA.
-(8)Department of Developmental Neurobiology, St. Jude Children's Research
-Hospital, Memphis, TN 38105, USA; Department of Oncology, St. Jude Children's
-Research Hospital, Memphis, TN 38105, USA.
-(9)Department of Immunology, St. Jude Children's Research Hospital, Memphis, TN
-38105, USA. Electronic address: thirumala-devi.kanneganti@stjude.org.
-
-Comment in
-    Cell. 2015 Jul 2;162(1):18-20.
-
-Colorectal cancer is a leading cause of cancer-related deaths. Mutations in the
-innate immune sensor AIM2 are frequently identified in patients with colorectal
-cancer, but how AIM2 modulates colonic tumorigenesis is unknown. Here, we found
-that Aim2-deficient mice were hypersusceptible to colonic tumor development.
-Production of inflammasome-associated cytokines and other inflammatory mediators 
-was largely intact in Aim2-deficient mice; however, intestinal stem cells were
-prone to uncontrolled proliferation. Aberrant Wnt signaling expanded a population
-of tumor-initiating stem cells in the absence of AIM2. Susceptibility of
-Aim2-deficient mice to colorectal tumorigenesis was enhanced by a dysbiotic gut
-microbiota, which was reduced by reciprocal exchange of gut microbiota with
-healthy wild-type mice. These findings uncover a synergy between a specific host 
-genetic factor and gut microbiota in determining the susceptibility to colorectal
-cancer. Therapeutic modulation of AIM2 expression and microbiota has the
-potential to prevent colorectal cancer.
-
-Copyright © 2015 Elsevier Inc. All rights reserved.
-
-DOI: 10.1016/j.cell.2015.06.001 
-PMCID: PMC4491002
-PMID: 26095253  [Indexed for MEDLINE]
-
-
 18. Br J Nutr. 2015 Jul;114(2):220-30. doi: 10.1017/S0007114515001750. Epub 2015 Jun 
 17.
 
