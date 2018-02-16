@@ -1912,16 +1912,6 @@ DOI: 10.1186/s13073-015-0177-8
 PMCID: PMC4499914
 PMID: 26170900 
 
-21. Nature. 2015 May 14;521(7551):S1. doi: 10.1038/521S1a.
-
-Colorectal cancer.
-
-Brody H.
-
-DOI: 10.1038/521S1a 
-PMID: 25970450  [Indexed for MEDLINE]
-
-
 22. ONS Connect. 2015 Mar;30(1):59.
 
 Colonic biofilms are associated with right-sided colorectal cancer.
