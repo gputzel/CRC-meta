@@ -2042,38 +2042,6 @@ DOI: 10.3389/fmicb.2015.00020
 PMCID: PMC4313696
 PMID: 25699023 
 
-41. J Funct Foods. 2015 Jan;12:92-108.
-
-Galacto-oligosaccharides and Colorectal Cancer: Feeding our Intestinal Probiome.
-
-Bruno-Barcena JM(1), Azcarate-Peril MA(2).
-
-Author information: 
-(1)Department of Plant and Microbial Biology, North Carolina State University,
-Raleigh, North Carolina.
-(2)Department of Cell Biology and Physiology, and Microbiome Core Facility,
-University of North Carolina School of Medicine, Chapel Hill.
-
-Prebiotics are ingredients selectively fermented by the intestinal microbiota
-that promote changes in the microbial community structure and/or their
-metabolism, conferring health benefits to the host. Studies show that β (1-4)
-galacto-oligosaccharides [β (1-4) GOS], lactulose and fructo-oligosaccharides
-increase intestinal concentration of lactate and short chain fatty acids, and
-stool frequency and weight, and they decrease fecal concentration of secondary
-bile acids, fecal pH, and nitroreductase and β-glucuronidase activities
-suggesting a clear role in colorectal cancer (CRC) prevention. This review
-summarizes research on prebiotics bioassimilation, specifically β (1-4) GOS, and 
-their potential role in CRC. We also evaluate research that show that the impact 
-of prebiotics on host physiology can be direct or through modulation of the gut
-intestinal microbiome, specifically the probiome (autochtonous beneficial
-bacteria), we present studies on a potential role in CRC progression to finally
-describe the current state of β (1-4) GOS generation for industrial production.
-
-DOI: 10.1016/j.jff.2014.10.029 
-PMCID: PMC4288025
-PMID: 25584074 
-
-
 42. Mol Cell Oncol. 2014 Nov 11;2(1):e969630. doi: 10.4161/23723548.2014.969630.
 eCollection 2015 Jan-Mar.
 
