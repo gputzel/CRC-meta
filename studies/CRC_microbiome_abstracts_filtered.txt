@@ -1912,46 +1912,6 @@ DOI: 10.1186/s13073-015-0177-8
 PMCID: PMC4499914
 PMID: 26170900 
 
-20. Food Chem. 2015 Nov 15;187:29-36. doi: 10.1016/j.foodchem.2015.04.029. Epub 2015 
-Apr 18.
-
-Increased oxidative and nitrosative reactions during digestion could contribute
-to the association between well-done red meat consumption and colorectal cancer.
-
-Van Hecke T(1), Vossen E(1), Hemeryck LY(2), Vanden Bussche J(2), Vanhaecke L(2),
-De Smet S(3).
-
-Author information: 
-(1)Laboratory for Animal Nutrition and Animal Product Quality, Department of
-Animal Production, Ghent University, Melle, Belgium.
-(2)Laboratory of Chemical Analysis, Department of Veterinary Public Health and
-Food Safety, Faculty of Veterinary Medicine, Ghent University, Merelbeke,
-Belgium.
-(3)Laboratory for Animal Nutrition and Animal Product Quality, Department of
-Animal Production, Ghent University, Melle, Belgium. Electronic address:
-stefaan.desmet@ugent.be.
-
-Uncured and nitrite-cured pork were subjected, raw, cooked (65 °C, 15 min) or
-overcooked (90 °C, 30 min), to an in vitro digestion model, which includes mouth,
-stomach, duodenum, and colon phases. Heating of uncured meat resulted in a
-pronounced increase in lipid and protein oxidation products throughout digestion.
-Nitrite-curing had an antioxidant effect during digestion, but this effect
-disappeared when the meat was overcooked, resulting in up to ninefold higher
-4-hydroxy-2-nonenal concentrations compared with digested nitrite-cured raw and
-cooked pork. Colonic digesta contained significantly higher concentrations of the
-NOC-specific DNA adduct O(6)-carboxy-methylguanine when pork underwent a more
-intense heating procedure, independent of nitrite-curing, depending strongly on
-the fecal inoculum used. Since processed meats are usually nitrite-cured, the
-present study suggests that overcooking processed meat is likely to result in the
-formation of genotoxic compounds during digestion and should, therefore, be
-avoided.
-
-Copyright © 2015 Elsevier Ltd. All rights reserved.
-
-DOI: 10.1016/j.foodchem.2015.04.029 
-PMID: 25976994  [Indexed for MEDLINE]
-
-
 21. Nature. 2015 May 14;521(7551):S1. doi: 10.1038/521S1a.
 
 Colorectal cancer.
