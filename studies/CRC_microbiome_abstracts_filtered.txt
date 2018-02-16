@@ -2956,48 +2956,6 @@ DOI: 10.4161/gmic.1.3.12360
 PMCID: PMC2927011
 PMID: 20740058  [Indexed for MEDLINE]
 
-48. PLoS One. 2009 Jun 24;4(6):e6026. doi: 10.1371/journal.pone.0006026.
-
-Modulation of the intestinal microbiota alters colitis-associated colorectal
-cancer susceptibility.
-
-Uronis JM(1), Mühlbauer M, Herfarth HH, Rubinas TC, Jones GS, Jobin C.
-
-Author information: 
-(1)Department of Medicine and Center for Gastrointestinal Biology and Disease,
-University of North Carolina at Chapel Hill, Chapel Hill, NC, USA.
-
-It is well established that the intestinal microbiota plays a key role in the
-pathogenesis of Crohn's disease (CD) and ulcerative colitis (UC) collectively
-referred to as inflammatory bowel disease (IBD). Epidemiological studies have
-provided strong evidence that IBD patients bear increased risk for the
-development of colorectal cancer (CRC). However, the impact of the microbiota on 
-the development of colitis-associated cancer (CAC) remains largely unknown. In
-this study, we established a new model of CAC using azoxymethane (AOM)-exposed,
-conventionalized-Il10(-/-) mice and have explored the contribution of the host
-intestinal microbiota and MyD88 signaling to the development of CAC. We show that
-8/13 (62%) of AOM-Il10(-/-) mice developed colon tumors compared to only 3/15
-(20%) of AOM- wild-type (WT) mice. Conventionalized AOM-Il10(-/-) mice developed 
-spontaneous colitis and colorectal carcinomas while AOM-WT mice were colitis-free
-and developed only rare adenomas. Importantly, tumor multiplicity directly
-correlated with the presence of colitis. Il10(-/-) mice mono-associated with the 
-mildly colitogenic bacterium Bacteroides vulgatus displayed significantly reduced
-colitis and colorectal tumor multiplicity compared to Il10(-/-) mice. Germ-free
-AOM-treated Il10(-/-) mice showed normal colon histology and were devoid of
-tumors. Il10(-/-); Myd88(-/-) mice treated with AOM displayed reduced expression 
-of Il12p40 and Tnfalpha mRNA and showed no signs of tumor development. We present
-the first direct demonstration that manipulation of the intestinal microbiota
-alters the development of CAC. The TLR/MyD88 pathway is essential for
-microbiota-induced development of CAC. Unlike findings obtained using the AOM/DSS
-model, we demonstrate that the severity of chronic colitis directly correlates to
-colorectal tumor development and that bacterial-induced inflammation drives
-progression from adenoma to invasive carcinoma.
-
-DOI: 10.1371/journal.pone.0006026 
-PMCID: PMC2696084
-PMID: 19551144  [Indexed for MEDLINE]
-
-
 49. Duodecim. 2009;125(6):685-94.
 
 [Intestinal microorganisms and their significance for health].
