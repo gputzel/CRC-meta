@@ -2956,31 +2956,6 @@ DOI: 10.4161/gmic.1.3.12360
 PMCID: PMC2927011
 PMID: 20740058  [Indexed for MEDLINE]
 
-49. Duodecim. 2009;125(6):685-94.
-
-[Intestinal microorganisms and their significance for health].
-
-[Article in Finnish]
-
-Palva A(1).
-
-Author information: 
-(1)Eläinlääketieteellinen tiedekunta, Helsingin yliopiston.
-
-The normal microbiota and man form a superorganism, in which only 10% are human
-cells. The skin and mucous membranes support 10(14) living microbes, mainly at
-the end of the gastrointestinal tract, forming a 1.5-kg cell mass ecosystem
-mainly consisting of bacteria. Investigations of the intestinal microbiota have
-yielded an estimated biodiversity of 1200-16000 bacterial phylotypes. They are
-known to affect physiology, development of immune defense, colonization
-resistance and nutrition. Changes in microbial population can be associated with 
-inflammatory bowel diseases, irritable bowel syndrome, colorectal cancer, obesity
-and type 2 diabetes.
-
-
-PMID: 19413174  [Indexed for MEDLINE]
-
-
 50. Int J Oncol. 2008 Mar;32(3):609-17.
 
 Colorectal carcinogenesis in germ-free and conventionally reared rats: different 
