@@ -2112,37 +2112,6 @@ PMCID: PMC4280621
 PMID: 25489084  [Indexed for MEDLINE]
 
 
-49. Am J Chin Med. 2014;42(6):1555-8. doi: 10.1142/S0192415X1420002X.
-
-Natural products and chemotherapeutic agents on cancer: prevention vs. treatment.
-
-Wang CZ(1), Zhang Z, Anderson S, Yuan CS.
-
-Author information: 
-(1)Tang Center for Herbal Medicine Research, University of Chicago, Chicago, IL
-60637, USA.
-
-Natural products play an important role in cancer therapeutics, and lately more
-attentions have been paid to the prevention of major lethal malignancies, such as
-colorectal cancer (CRC). After oral ingestion, botanicals' parent compounds can
-be converted to their metabolites by the enteric microbiome, and these
-metabolites may have different bioactivities and variable bioavailability. In
-this study, we used an active ginseng metabolite, protopanaxadiol (PPD), as an
-example to assess its colon cancer preventive effect by comparing its effect with
-the treatment effect of fluorouracil (5-FU). A xenograft tumor nude mouse model
-with human colon cancer cell inoculation was used. After preventive PPD or
-treatment 5-FU administration with the same dose (30 mg/kg), tumor growth
-inhibition was evaluated by both a Xenogen bioluminescence imaging technique and 
-manual tumor size measurement. Our data showed that preventive PPD very
-significantly inhibited the tumor growth compared to 5-FU (p < 0.01). Our data
-suggest that the PPD is a promising cancer prevention agent. More studies are
-needed to explore the chemopreventive actions of PPD and its potential clinical
-utility.
-
-DOI: 10.1142/S0192415X1420002X 
-PMID: 25482675  [Indexed for MEDLINE]
-
-
 50. Cancer Discov. 2014 Dec;4(12):1368-70. doi: 10.1158/2159-8290.CD-14-1231.
 
 Untangling the fiber yarn: butyrate feeds Warburg to suppress colorectal cancer.
