@@ -2415,51 +2415,6 @@ DOI: 10.1007/s00535-014-0963-x
 PMID: 24811328  [Indexed for MEDLINE]
 
 
-75. Int J Cancer. 2014 Nov 1;135(9):2004-13. doi: 10.1002/ijc.28853. Epub 2014 Mar
-28.
-
-Eicosapentaenoic acid free fatty acid prevents and suppresses colonic neoplasia
-in colitis-associated colorectal cancer acting on Notch signaling and gut
-microbiota.
-
-Piazzi G(1), D'Argenio G, Prossomariti A, Lembo V, Mazzone G, Candela M, Biagi E,
-Brigidi P, Vitaglione P, Fogliano V, D'Angelo L, Fazio C, Munarini A, Belluzzi A,
-Ceccarelli C, Chieco P, Balbi T, Loadman PM, Hull MA, Romano M, Bazzoli F,
-Ricciardiello L.
-
-Author information: 
-(1)Department of Medical and Surgical Sciences, University of Bologna, Bologna,
-Italy; Center for Applied Biomedical Research (CRBA), S. Orsola-Malpighi
-Hospital, University of Bologna, Bologna, Italy.
-
-Inflammatory bowel diseases are associated with increased risk of developing
-colitis-associated colorectal cancer (CAC). Epidemiological data show that the
-consumption of ω-3 polyunsaturated fatty acids (ω-3 PUFAs) decreases the risk of 
-sporadic colorectal cancer (CRC). Importantly, recent data have shown that
-eicosapentaenoic acid-free fatty acid (EPA-FFA) reduces polyp formation and
-growth in models of familial adenomatous polyposis. However, the effects of
-dietary EPA-FFA are unknown in CAC. We tested the effectiveness of substituting
-EPA-FFA, for other dietary fats, in preventing inflammation and cancer in the
-AOM-DSS model of CAC. The AOM-DSS protocols were designed to evaluate the effect 
-of EPA-FFA on both initiation and promotion of carcinogenesis. We found that
-EPA-FFA diet strongly decreased tumor multiplicity, incidence and maximum tumor
-size in the promotion and initiation arms. Moreover EPA-FFA, in particular in the
-initiation arm, led to reduced cell proliferation and nuclear β-catenin
-expression, whilst it increased apoptosis. In both arms, EPA-FFA treatment led to
-increased membrane switch from ω-6 to ω-3 PUFAs and a concomitant reduction in
-PGE2 production. We observed no significant changes in intestinal inflammation
-between EPA-FFA treated arms and AOM-DSS controls. Importantly, we found that
-EPA-FFA treatment restored the loss of Notch signaling found in the AOM-DSS
-control and resulted in the enrichment of Lactobacillus species in the gut
-microbiota. Taken together, our data suggest that EPA-FFA is an excellent
-candidate for CRC chemoprevention in CAC.
-
-© 2014 UICC.
-
-DOI: 10.1002/ijc.28853 
-PMID: 24676631  [Indexed for MEDLINE]
-
-
 76. PLoS One. 2014 Mar 6;9(6):e90849. doi: 10.1371/journal.pone.0090849. eCollection 
 2014.
 
