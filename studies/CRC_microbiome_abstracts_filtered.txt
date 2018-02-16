@@ -2501,52 +2501,6 @@ DOI: 10.1371/journal.pone.0081352
 PMCID: PMC3869648
 PMID: 24376500  [Indexed for MEDLINE]
 
-
-87. Clin Cancer Res. 2014 Feb 15;20(4):859-67. doi: 10.1158/1078-0432.CCR-13-1343.
-Epub 2013 Dec 13.
-
-Colonization of the human gut by E. coli and colorectal cancer risk.
-
-Bonnet M(1), Buc E, Sauvanet P, Darcha C, Dubois D, Pereira B, Déchelotte P,
-Bonnet R, Pezet D, Darfeuille-Michaud A.
-
-Author information: 
-(1)Authors' Affiliations: Clermont Université, UMR 1071Inserm/Université
-d'Auvergne; Institut National de la Recherche Agronomique (INRA), USC-2018; and
-Centre Hospitalier Universitaire, Clermont-Ferrand, France.
-
-PURPOSE: The intestinal microbiota is potentially involved in the development of 
-colorectal carcinoma via various mechanisms. Escherichia coli are commensal
-bacteria of the human gut microbiota, but some pathogenic strains have acquired
-the ability to induce chronic inflammation and/or produce toxins, such as
-cyclomodulin, which could participate in the carcinogenesis process. Here, we
-analyzed the E. coli population associated with mucosa of patients with colon
-cancer in relation to clinicopathologic characteristics. We assessed carcinogenic
-properties of a colon cancer-associated E. coli strain in multiple intestinal
-neoplasia (Min) mice.
-EXPERIMENTAL DESIGN: Mucosa-associated or internalized E. coli were quantified
-and characterized from tumors and mucosa of patients with colon cancer and the
-healthy mucosa of diverticulosis controls. Min mice were inoculated with a colon 
-cancer-associated E. coli strain (11G5). The number of colonic polyps was
-evaluated at 7 weeks after infection.
-RESULTS: An increased level of mucosa-associated and internalized E. coli was
-observed in the tumors compared with normal tissue. A relationship between poor
-prognostic factors for colon cancer (tumor-node-metastasis stage) and
-colonization of mucosa by E. coli was observed. Pathogenic cyclomodulin-positive 
-E. coli strains were more prevalent on mucosa of patients with stages III/IV than
-those with stage I colon cancer. Proliferative index and E. coli colonization
-level of the mucosa distant from the tumor significantly correlated. Min mice
-infected with the E. coli strain 11G5 displayed a marked increase in the number
-of visible colonic polyps compared with controls.
-CONCLUSION: These findings support that pathogenic E. coli could be a cofactor in
-pathogenesis of colorectal cancer.
-
-©2013 AACR
-
-DOI: 10.1158/1078-0432.CCR-13-1343 
-PMID: 24334760  [Indexed for MEDLINE]
-
-
 88. J Natl Cancer Inst. 2013 Dec 18;105(24):1907-11. doi: 10.1093/jnci/djt300. Epub
 2013 Dec 6.
 
