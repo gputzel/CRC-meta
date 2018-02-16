@@ -2692,46 +2692,6 @@ DOI: 10.1186/1757-4749-5-2
 PMCID: PMC3599420
 PMID: 23497613 
 
-15. J Clin Invest. 2013 Feb;123(2):700-11. doi: 10.1172/JCI62236. Epub 2013 Jan 2.
-
-NOD2-mediated dysbiosis predisposes mice to transmissible colitis and colorectal 
-cancer.
-
-Couturier-Maillard A(1), Secher T, Rehman A, Normand S, De Arcangelis A, Haesler 
-R, Huot L, Grandjean T, Bressenot A, Delanoye-Crespin A, Gaillot O, Schreiber S, 
-Lemoine Y, Ryffel B, Hot D, Nùñez G, Chen G, Rosenstiel P, Chamaillard M.
-
-Author information: 
-(1)University Lille Nord de France, Lille, France.
-
-Comment in
-    Gut Microbes. 2013 Jul-Aug;4(4):353-6.
-    Cancer Discov. 2013 Mar;3(3):OF17.
-
-Instability in the composition of gut bacterial communities (dysbiosis) has been 
-linked to common human intestinal disorders, such as Crohn's disease and
-colorectal cancer. Here, we show that dysbiosis caused by Nod2 deficiency gives
-rise to a reversible, communicable risk of colitis and colitis-associated
-carcinogenesis in mice. Loss of either Nod2 or RIP2 resulted in a proinflammatory
-microenvironment that enhanced epithelial dysplasia following chemically induced 
-injury. The condition could be improved by treatment with antibiotics or an
-anti-interleukin-6 receptor-neutralizing antibody. Genotype-dependent disease
-risk was communicable via maternally transmitted microbiota in both
-Nod2-deficient and WT hosts. Furthermore, reciprocal microbiota transplantation
-reduced disease risk in Nod2-deficient mice and led to long-term changes in
-intestinal microbial communities. Conversely, disease risk was enhanced in WT
-hosts that were recolonized with dysbiotic fecal microbiota from Nod2-deficient
-mice. Thus, we demonstrated that licensing of dysbiotic microbiota is a critical 
-component of disease risk. Our results demonstrate that NOD2 has an unexpected
-role in shaping a protective assembly of gut bacterial communities and suggest
-that manipulation of dysbiosis is a potential therapeutic approach in the
-treatment of human intestinal disorders.
-
-DOI: 10.1172/JCI62236 
-PMCID: PMC3561825
-PMID: 23281400  [Indexed for MEDLINE]
-
-
 16. Front Physiol. 2012 Nov 28;3:448. doi: 10.3389/fphys.2012.00448. eCollection
 2012.
 
