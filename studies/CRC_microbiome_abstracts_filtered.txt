@@ -1960,46 +1960,6 @@ PMCID: PMC4615176
 PMID: 25875428  [Indexed for MEDLINE]
 
 
-28. Pharmacoepidemiol Drug Saf. 2015 May;24(5):534-42. doi: 10.1002/pds.3765. Epub
-2015 Mar 23.
-
-Impact of antibiotic exposure on the risk of colorectal cancer.
-
-Boursi B(1), Haynes K, Mamtani R, Yang YX.
-
-Author information: 
-(1)Perelman School of Medicine at the University of Pennsylvania, Philadelphia,
-PA, USA; The Integrated Cancer Prevention Center, Tel-Aviv Sourasky Medical
-Center, Tel-Aviv, Israel; Tel-Aviv University, Tel-Aviv, Israel.
-
-PURPOSE: Gut microbiota has been postulated to serve as a significant promoter of
-CRC formation, and colonic dysbiosis was previously reported in CRC tissue. Our
-aim was to evaluate the association between the type and cumulative duration of
-antibiotic exposure and CRC risk.
-METHODS: We conducted a nested case-control study using a large population-based 
-database from the UK. Cases were defined as those with any medical code of CRC.
-Subjects with known familial CRC syndromes or IBD were excluded from the study.
-For every case, four eligible controls matched on age, sex, practice site, and
-duration of follow-up before index date were selected using incidence-density
-sampling. Exposure of interest was antibiotic therapy before index date. Adjusted
-ORs and 95%CIs were estimated using conditional logistic regression analysis.
-RESULTS: A total of 20,990 cases and 82,054 controls were identified. The
-adjusted OR for CRC among subjects first exposed to penicillins >10 years prior
-to index date was 1.11 (95%CI 1.02-1.20). The risk increased significantly with
-the number of penicillin exposures up to 1.20 (95%CI 1.11-1.31) for >10 courses. 
-The risk also increased with the average number of penicillin treatments per-year
-(exposure intensity) with an OR of 1.04 (95%CI 1.01-1.08) per one additional
-treatment per year. Exposure to anti-viral or anti-fungal therapy was not
-associated with CRC risk.
-CONCLUSIONS: Past exposure to multiple courses of penicillins is related to a
-modest elevation in CRC risk.
-
-Copyright © 2015 John Wiley & Sons, Ltd.
-
-DOI: 10.1002/pds.3765 
-PMID: 25808540  [Indexed for MEDLINE]
-
-
 29. Rev Med Suisse. 2015 Jan 14;11(456-457):72-7.
 
 [Infections disease update: 2014 is viral].
