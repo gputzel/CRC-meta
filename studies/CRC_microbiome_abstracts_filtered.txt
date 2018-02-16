@@ -2541,45 +2541,6 @@ DOI: 10.1093/jnci/djt300
 PMCID: PMC3866154
 PMID: 24316595  [Indexed for MEDLINE]
 
-95. Cell Host Microbe. 2013 Aug 14;14(2):207-15. doi: 10.1016/j.chom.2013.07.007.
-
-Fusobacterium nucleatum potentiates intestinal tumorigenesis and modulates the
-tumor-immune microenvironment.
-
-Kostic AD(1), Chun E, Robertson L, Glickman JN, Gallini CA, Michaud M, Clancy TE,
-Chung DC, Lochhead P, Hold GL, El-Omar EM, Brenner D, Fuchs CS, Meyerson M,
-Garrett WS.
-
-Author information: 
-(1)Department of Medicine, Harvard Medical School, Boston, MA 02115, USA.
-
-Comment in
-    Trends Microbiol. 2013 Oct;21(10):506-8.
-
-Increasing evidence links the gut microbiota with colorectal cancer. Metagenomic 
-analyses indicate that symbiotic Fusobacterium spp. are associated with human
-colorectal carcinoma, but whether this is an indirect or causal link remains
-unclear. We find that Fusobacterium spp. are enriched in human colonic adenomas
-relative to surrounding tissues and in stool samples from colorectal adenoma and 
-carcinoma patients compared to healthy subjects. Additionally, in the Apc(Min/+) 
-mouse model of intestinal tumorigenesis, Fusobacterium nucleatum increases tumor 
-multiplicity and selectively recruits tumor-infiltrating myeloid cells, which can
-promote tumor progression. Tumors from Apc(Min/+) mice exposed to F. nucleatum
-exhibit a proinflammatory expression signature that is shared with human
-fusobacteria-positive colorectal carcinomas. However, unlike other bacteria
-linked to colorectal carcinoma, F. nucleatum does not exacerbate colitis,
-enteritis, or inflammation-associated intestinal carcinogenesis. Collectively,
-these data suggest that, through recruitment of tumor-infiltrating immune cells, 
-fusobacteria generate a proinflammatory microenvironment that is conducive for
-colorectal neoplasia progression.
-
-Copyright © 2013 Elsevier Inc. All rights reserved.
-
-DOI: 10.1016/j.chom.2013.07.007 
-PMCID: PMC3772512
-PMID: 23954159  [Indexed for MEDLINE]
-
-
 96. PLoS One. 2013 Aug 6;8(8):e70803. doi: 10.1371/journal.pone.0070803. Print 2013.
 
 Stool microbiome and metabolome differences between colorectal cancer patients
