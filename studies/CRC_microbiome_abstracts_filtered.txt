@@ -1912,27 +1912,6 @@ DOI: 10.1186/s13073-015-0177-8
 PMCID: PMC4499914
 PMID: 26170900 
 
-19. Curr Cancer Drug Targets. 2015;15(3):173-5.
-
-COMMENTARY. Pre-emptive Nutrition: Refining the Targets of Drugs Targeted to
-Colorectal Cancer.
-
-Ferguson LR(1), Denny WA.
-
-Author information: 
-(1)Auckland Cancer Society Research Centre, Faculty of Medical & Health Sciences,
-University of Auckland, Private Bag 92019, Auckland, New Zealand.
-l.ferguson@auckland.ac.nz.
-
-It is suggested that our current understanding of the role of nutrients in
-maintaining genomic stability might be strategically employed alongside current
-chemotherapy, in order to prevent the emergence of drug resistant tumors and
-optimize medicinal chemistry approaches.
-
-
-PMID: 25986644  [Indexed for MEDLINE]
-
-
 20. Food Chem. 2015 Nov 15;187:29-36. doi: 10.1016/j.foodchem.2015.04.029. Epub 2015 
 Apr 18.
 
