@@ -2541,48 +2541,6 @@ DOI: 10.1093/jnci/djt300
 PMCID: PMC3866154
 PMID: 24316595  [Indexed for MEDLINE]
 
-
-89. Genes Nutr. 2014 Jan;9(1):359. doi: 10.1007/s12263-013-0359-1. Epub 2013 Nov 27.
-
-The fermented non-digestible fraction of common bean (Phaseolus vulgaris L.)
-triggers cell cycle arrest and apoptosis in human colon adenocarcinoma cells.
-
-Cruz-Bravo RK(1), Guevara-González RG, Ramos-Gómez M, Oomah BD, Wiersma P,
-Campos-Vega R, Loarca-Piña G.
-
-Author information: 
-(1)Programa de Posgrado en Alimentos del Centro de la República (PROPAC),
-Research and Graduate Studies in Food Science, School of Chemistry, Universidad
-Autónoma de Querétaro, 76010, Querétaro, QRO, Mexico.
-
-Cancer is a leading cause of death worldwide with colorectal cancer (CRC) ranking
-as the third contributing to overall cancer mortality. Non-digestible compounds
-such as dietary fiber have been inversely associated with CRC in epidemiological 
-in vivo and in vitro studies. In order to investigate the effect of fermentation 
-products from a whole non-digestible fraction of common bean versus the
-short-chain fatty acid (SCFAs) on colon cancer cells, we evaluated the human gut 
-microbiota fermented non-digestible fraction (hgm-FNDF) of cooked common bean
-(Phaseolus vulgaris L.) cultivar Negro 8025 and a synthetic mixture SCFAs,
-mimicking their concentration in the lethal concentration 50 (SCFA-LC50) of FNDF 
-(hgm-FNDF-LC50), on the molecular changes in human colon adenocarcinoma cells
-(HT-29). Total mRNA from hgm-FNDF-LC50 and SCFA-LC50 treated HT-29 cells were
-used to perform qPCR arrays to determine the effect of the treatments on the
-transcriptional expression of 84 genes related to the p53-pathway. This study
-showed that both treatments inhibited cell proliferation in accordance with
-modulating RB1, CDC2, CDC25A, NFKB and E2F genes. Furthermore, we found an
-association between the induction of apoptosis and the modulation of APAF1, BID, 
-CASP9, FASLG, TNFR10B and BCL2A genes. The results suggest a mechanism of action 
-by which the fermentation of non-digestible compounds of common bean exert a
-beneficial effect better than the SCFA mixture by modulating the expression of
-antiproliferative and pro-apoptotic genes in HT-29 cells to a greater extent,
-supporting previous results on cell behavior, probably due to the participation
-of other compounds, such as phenolic fatty acids derivatives and biopetides.
-
-DOI: 10.1007/s12263-013-0359-1 
-PMCID: PMC3896626
-PMID: 24293398 
-
-
 90. Nat Rev Gastroenterol Hepatol. 2014 Jan;11(1):4. doi: 10.1038/nrgastro.2013.225. 
 Epub 2013 Nov 19.
 
