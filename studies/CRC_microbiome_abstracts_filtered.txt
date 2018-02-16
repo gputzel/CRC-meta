@@ -1959,49 +1959,6 @@ DOI: 10.1080/19490976.2015.1039223
 PMCID: PMC4615176
 PMID: 25875428  [Indexed for MEDLINE]
 
-
-31. World J Gastroenterol. 2015 Mar 7;21(9):2759-69. doi: 10.3748/wjg.v21.i9.2759.
-
-Fecal microbes, short chain fatty acids, and colorectal cancer across
-racial/ethnic groups.
-
-Hester CM(1), Jala VR(1), Langille MG(1), Umar S(1), Greiner KA(1), Haribabu
-B(1).
-
-Author information: 
-(1)Christina M Hester, K Allen Greiner, Department of Family Medicine Research
-Division, University of Kansas Medical Center, Kansas City, KS 66160, United
-States.
-
-AIM: To investigate differences in microbes and short chain fatty acid (SCFA)
-levels in stool samples from Hispanic and non-Hispanic African American, American
-Indian, and White participants.
-METHODS: Stool samples from twenty participants were subjected to analysis for
-relative levels of viable bacteria and for SCFA levels. Additionally, the samples
-were subjected to 16S rRNA gene pyrosequencing for identification of bacteria
-present in the stool. We used a metagenome functional prediction technique to
-analyze genome copy numbers and estimate the abundance of butyrate kinase in all 
-samples.
-RESULTS: We found that African Americans had significantly lower levels of
-acetate, butyrate, and total SCFAs than all other racial/ethnic groups. We also
-found that participant microbial profiles differed by racial/ethnic group.
-African Americans had significantly more Firmicutes than Whites, with enriched
-Ruminococcaceae. The Firmicutes/Bacteroidetes ratio was also significantly higher
-for African Americans than for Whites (P = 0.049). We found Clostridium levels to
-be significantly and inversely related to total SCFA levels (P = 0.019) and we
-found Bacteroides to be positively associated (P = 0.027) and Clostridium to be
-negatively associated (P = 0.012) with levels of butyrate. We also identified a
-correlation between copy number for a butyrate kinase predicted from 16S rRNA
-gene abundance and levels of butyrate in stool.
-CONCLUSION: The identified differences in gut flora and SCFA levels may relate to
-colorectal cancer mortality differentials and may be useful as targets for future
-clinical and behavioral interventions.
-
-DOI: 10.3748/wjg.v21.i9.2759 
-PMCID: PMC4351229
-PMID: 25759547  [Indexed for MEDLINE]
-
-
 32. Nat Commun. 2015 Mar 11;6:6528. doi: 10.1038/ncomms7528.
 
 Gut microbiome development along the colorectal adenoma-carcinoma sequence.
