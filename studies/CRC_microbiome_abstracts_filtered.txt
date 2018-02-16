@@ -2582,45 +2582,6 @@ DOI: 10.1371/journal.pone.0070803
 PMCID: PMC3735522
 PMID: 23940645  [Indexed for MEDLINE]
 
-100. Environ Microbiol Rep. 2012 Jun;4(3):307-15. doi:
-10.1111/j.1758-2229.2012.00334.x. Epub 2012 Mar 12.
-
-Hydrogenotrophic microbiota distinguish native Africans from African and European
-Americans.
-
-Nava GM(1), Carbonero F, Ou J, Benefiel AC, O'Keefe SJ, Gaskins HR.
-
-Author information: 
-(1)Division of Nutritional Sciences Department of Animal Sciences Department of
-Pathobiology Institute for Genomic Biology, University of Illinois, Urbana, IL,
-USA Department of Medicine, University of Pittsburgh School of Medicine,
-Pittsburgh, PA, USA.
-
-Reduced susceptibility to sporadic colorectal cancer in native Africans (NA) is
-correlated with low consumption of animal products and greater microbial
-production of colonic methane. In this context, two hydrogenotrophic microbial
-groups are of interest, methanogenic Archaea (MA) utilizing H2 to produce methane
-and sulfate-reducing bacteria (SRB) generating hydrogen sulfide, which has been
-linked with chronic inflammatory disorders of the colon. In the present study,
-stool samples from NA, consuming a diet high in resistant starch and low in
-animal products, and from African Americans (AA) and European Americans (EA),
-both consuming a typical Western diet, were examined for genetic diversity and
-structure of Archaea, MA and SRB communities. In general, a greater proportion of
-NA than AA and EA harboured the full range of targeted hydrogenotrophic groups.
-Terminal restriction fragment length polymorphism analysis of 16S rRNA genes and 
-specific functional genes, combined with multivariate statistical analyses,
-revealed that NA harboured more diverse and different Archaea and MA populations 
-than AA and EA. Also, NA harboured significantly distinct SRB populations
-compared with AA and EA. Taken together, these data are consistent with diet
-selecting for distinct hydrogenotrophic microbiota.
-
-© 2012 Society for Applied Microbiology and Blackwell Publishing Ltd.
-
-DOI: 10.1111/j.1758-2229.2012.00334.x 
-PMCID: PMC4258901
-PMID: 23760794 
-
-
 1. Microb Ecol. 2013 Aug;66(2):462-70. doi: 10.1007/s00248-013-0245-9. Epub 2013 Jun
 4.
 
