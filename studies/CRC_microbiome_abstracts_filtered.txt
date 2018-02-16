@@ -2766,51 +2766,6 @@ DOI: 10.1038/ismej.2012.43
 PMCID: PMC3446812
 PMID: 22622349  [Indexed for MEDLINE]
 
-29. Gut. 2012 Jun;61(6):847-54. doi: 10.1136/gutjnl-2011-300865. Epub 2012 Mar 17.
-
-Assessment of colorectal cancer molecular features along bowel subsites
-challenges the conception of distinct dichotomy of proximal versus distal
-colorectum.
-
-Yamauchi M(1), Morikawa T, Kuchiba A, Imamura Y, Qian ZR, Nishihara R, Liao X,
-Waldron L, Hoshida Y, Huttenhower C, Chan AT, Giovannucci E, Fuchs C, Ogino S.
-
-Author information: 
-(1)Department of Medical Oncology, Dana-Farber Cancer Institute and Harvard
-Medical School, Boston, Massachusetts, USA.
-
-OBJECTIVE: Colorectal cancer is typically classified into proximal colon, distal 
-colon and rectal cancer. Tumour genetic and epigenetic features differ by tumour 
-location. Considering a possible role of bowel contents (including microbiome) in
-carcinogenesis, this study hypothesised that tumour molecular features might
-gradually change along bowel subsites, rather than change abruptly at splenic
-flexure.
-DESIGN: Utilising 1443 colorectal cancers in two US nationwide prospective cohort
-studies, the frequencies of molecular features (CpG island methylator phenotype
-(CIMP), microsatellite instability (MSI), LINE-1 methylation and BRAF, KRAS and
-PIK3CA mutations) were examined along bowel subsites (rectum, rectosigmoid
-junction, sigmoid, descending colon, splenic flexure, transverse colon, hepatic
-flexure, ascending colon and caecum). The linearity and non-linearity of
-molecular relations along subsites were statistically tested by multivariate
-logistic or linear regression analysis.
-RESULTS: The frequencies of CIMP-high, MSI-high and BRAF mutations gradually
-increased from the rectum (<2.3%) to ascending colon (36-40%), followed by falls 
-in the caecum (12-22%). By linearity tests, these molecular relations were
-significantly linear from rectum to ascending colon (p<0.0001), and there was
-little evidence of non-linearity (p>0.09). Caecal cancers exhibited the highest
-frequency of KRAS mutations (52% vs 27-35% in other sites; p<0.0001).
-CONCLUSIONS: The frequencies of CIMP-high, MSI-high and BRAF mutations in cancer 
-increased gradually along colorectum subsites from the rectum to ascending colon.
-These novel data challenge the common conception of discrete molecular features
-of proximal versus distal colorectal cancers, and have a substantial impact on
-clinical, translational and epidemiology research, which has typically been
-performed with the dichotomous classification of proximal versus distal tumours.
-
-DOI: 10.1136/gutjnl-2011-300865 
-PMCID: PMC3345105
-PMID: 22427238  [Indexed for MEDLINE]
-
-
 30. Int J Oncol. 2012 Jun;40(6):1970-6. doi: 10.3892/ijo.2012.1399. Epub 2012 Mar 12.
 
 Ginsenoside compound K, not Rb1, possesses potential chemopreventive activities
