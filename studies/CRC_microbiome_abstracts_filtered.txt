@@ -2766,42 +2766,6 @@ DOI: 10.1038/ismej.2012.43
 PMCID: PMC3446812
 PMID: 22622349  [Indexed for MEDLINE]
 
-31. World J Gastrointest Pathophysiol. 2012 Feb 15;3(1):27-43. doi:
-10.4291/wjgp.v3.i1.27.
-
-Host-microbial interactions and regulation of intestinal epithelial barrier
-function: From physiology to pathology.
-
-Yu LC(1), Wang JT, Wei SC, Ni YH.
-
-Author information: 
-(1)Linda Chia-Hui Yu, Graduate Institute of Physiology, College of Medicine,
-National Taiwan University, Taipei 100, Taiwan, China.
-
-The gastrointestinal tract is the largest reservoir of commensal bacteria in the 
-human body, providing nutrients and space for the survival of microbes while
-concurrently operating mucosal barriers to confine the microbial population. The 
-epithelial cells linked by tight junctions not only physically separate the
-microbiota from the lamina propria, but also secrete proinflammatory cytokines
-and reactive oxygen species in response to pathogen invasion and metabolic stress
-and serve as a sentinel to the underlying immune cells. Accumulating evidence
-indicates that commensal bacteria are involved in various physiological functions
-in the gut and microbial imbalances (dysbiosis) may cause pathology. Commensal
-bacteria are involved in the regulation of intestinal epithelial cell turnover,
-promotion of epithelial restitution and reorganization of tight junctions, all of
-which are pivotal for fortifying barrier function. Recent studies indicate that
-aberrant bacterial lipopolysaccharide-mediated signaling in gut mucosa may be
-involved in the pathogenesis of chronic inflammation and carcinogenesis. Our
-perception of enteric commensals has now changed from one of opportunistic
-pathogens to active participants in maintaining intestinal homeostasis. This
-review attempts to explain the dynamic interaction between the intestinal
-epithelium and commensal bacteria in disease and health status.
-
-DOI: 10.4291/wjgp.v3.i1.27 
-PMCID: PMC3284523
-PMID: 22368784 
-
-
 32. Br J Nutr. 2012 Jan;107 Suppl 1:S1-13. doi: 10.1017/S0007114511006970.
 
 New insights into the impact of the intestinal microbiota on health and disease: 
