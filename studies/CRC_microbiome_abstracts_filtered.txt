@@ -2042,53 +2042,6 @@ DOI: 10.3389/fmicb.2015.00020
 PMCID: PMC4313696
 PMID: 25699023 
 
-43. BMC Infect Dis. 2014 Dec 24;14:733. doi: 10.1186/s12879-014-0733-7.
-
-Escherichia coli strains of phylogenetic group B2 and D and bacteriocin
-production are associated with advanced colorectal neoplasia.
-
-Kohoutova D, Smajs D, Moravkova P, Cyrany J, Moravkova M, Forstlova M, Cihak M,
-Rejchrt S, Bures J.
-
-BACKGROUND: Colorectal cancer (CRC) is the 3rd most common cancer worldwide and
-the Czech Republic has the 6th highest incidence of CRC worldwide. Large
-intestinal microbiota play in its etiopathogenesis important role. Bacteriocins
-are proteins, produced by bacteria from the Enterobacteriaceae family. The aim of
-our prospective study was to assess the colonization of large intestinal mucosa
-by Escherichia coli strains and to investigate their bacteriocin production.
-METHODS: A total of 30 consecutive patients with colorectal adenoma, CRA (17 men,
-13 women, aged 39-79, mean age 63 ± 9), 30 patients with CRC (23 men, 7 women,
-aged 38-86, mean age 67 ± 11) and 20 healthy controls (9 men, 11 women, age
-23-84, mean age 55 ± 15) were enrolled into prospective study. Mucosal biopsies
-were taken in the caecum, transverse colon and rectum during pancolonoscopy.
-Microbiological culture, isolation and identification of bacteria followed.
-Bacteriocin production was assessed by growth inhibition of indicator strains E. 
-coli K12-Row, E. coli C6 (phi), and Shigella sonnei 17. Identification of
-bacteriocin-encoding determinants and E. coli phylogroups was performed using PCR
-methods.
-RESULTS: A total of 622 strains were isolated and further investigated. A
-significantly higher frequency of simultaneous production of colicins and
-microcins was revealed in the group of patients with CRC, when compared to
-patients with CRA, p = 0.031. A significantly higher frequency of E. coli
-phylogroup D was found in patients with CRC, when compared to controls,
-p = 0.044. A significantly higher prevalence of bacteriocinogeny was confirmed in
-patients with advanced adenoma when compared to patients with non-advanced
-adenoma, p = 0.010. Increasing bacteriocinogeny was associated with an increasing
-stage of CRC (assessed according to TNM classification). Either E. coli
-phylogroup B2 or E. coli phylogroup D were isolated in biopsies of patients with 
-right-sided CRC. A statistically higher incidence of E. coli phylogroup B2 was
-found in patients with right-sided CRC when compared to patients with left-sided 
-CRC, p = 0.028.
-CONCLUSIONS: Large intestinal mucosa of patients with more advanced colorectal
-neoplasia is colonized with more virulent strains of E. coli and higher
-production of bacteriocins is observed in these patients when compared to those
-with less advanced colorectal neoplasia.
-
-DOI: 10.1186/s12879-014-0733-7 
-PMCID: PMC4300055
-PMID: 25540872  [Indexed for MEDLINE]
-
-
 44. Front Microbiol. 2014 Dec 5;5:684. doi: 10.3389/fmicb.2014.00684. eCollection
 2014.
 
