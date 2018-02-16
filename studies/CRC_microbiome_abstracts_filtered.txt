@@ -2692,45 +2692,6 @@ DOI: 10.1186/1757-4749-5-2
 PMCID: PMC3599420
 PMID: 23497613 
 
-22. Science. 2012 Oct 5;338(6103):120-3. doi: 10.1126/science.1224820. Epub 2012 Aug 
-16.
-
-Intestinal inflammation targets cancer-inducing activity of the microbiota.
-
-Arthur JC(1), Perez-Chanona E, Mühlbauer M, Tomkovich S, Uronis JM, Fan TJ,
-Campbell BJ, Abujamel T, Dogan B, Rogers AB, Rhodes JM, Stintzi A, Simpson KW,
-Hansen JJ, Keku TO, Fodor AA, Jobin C.
-
-Author information: 
-(1)Department of Medicine, Pharmacology and Immunology-Microbiology, University
-of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA.
-
-Comment in
-    Nat Rev Cancer. 2012 Oct;12(10):658-9.
-    Nat Rev Gastroenterol Hepatol. 2012 Oct;9(10):558.
-    Gastroenterology. 2013 Feb;144(2):461-3.
-    Nat Rev Microbiol. 2012 Oct;10(10):670.
-    Science. 2012 Oct 5;338(6103):52-3.
-
-Inflammation alters host physiology to promote cancer, as seen in
-colitis-associated colorectal cancer (CRC). Here, we identify the intestinal
-microbiota as a target of inflammation that affects the progression of CRC.
-High-throughput sequencing revealed that inflammation modifies gut microbial
-composition in colitis-susceptible interleukin-10-deficient (Il10(-/-)) mice.
-Monocolonization with the commensal Escherichia coli NC101 promoted invasive
-carcinoma in azoxymethane (AOM)-treated Il10(-/-) mice. Deletion of the
-polyketide synthase (pks) genotoxic island from E. coli NC101 decreased tumor
-multiplicity and invasion in AOM/Il10(-/-) mice, without altering intestinal
-inflammation. Mucosa-associated pks(+) E. coli were found in a significantly high
-percentage of inflammatory bowel disease and CRC patients. This suggests that in 
-mice, colitis can promote tumorigenesis by altering microbial composition and
-inducing the expansion of microorganisms with genotoxic capabilities.
-
-DOI: 10.1126/science.1224820 
-PMCID: PMC3645302
-PMID: 22903521  [Indexed for MEDLINE]
-
-
 23. PLoS One. 2012;7(6):e39743. doi: 10.1371/journal.pone.0039743. Epub 2012 Jun 28.
 
 Human intestinal lumen and mucosa-associated microbiota in patients with
