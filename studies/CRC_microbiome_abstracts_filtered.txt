@@ -2800,47 +2800,6 @@ PMCID: PMC3266036
 PMID: 22009990  [Indexed for MEDLINE]
 
 
-35. PLoS One. 2011;6(9):e24447. doi: 10.1371/journal.pone.0024447. Epub 2011 Sep 9.
-
-On the relationship between sialomucin and sulfomucin expression and
-hydrogenotrophic microbes in the human colonic mucosa.
-
-Croix JA(1), Carbonero F, Nava GM, Russell M, Greenberg E, Gaskins HR.
-
-Author information: 
-(1)Division of Nutritional Sciences, University of Illinois at Urbana-Champaign, 
-Urbana, Illinois, United States of America.
-
-The colonic mucus layer is comprised primarily of acidomucins, which provide
-viscous properties and can be broadly classified into sialomucins or sulfomucins 
-based on the presence of terminating sialic acid or sulfate groups. Differences
-in acidomucin chemotypes have been observed in diseases such as colorectal cancer
-and inflammatory bowel disease, and variation in sialo- and sulfomucin content
-may influence microbial colonization. For example, sulfate derived from
-sulfomucin degradation may promote the colonization of sulfate-reducing bacteria 
-(SRB), which through sulfate respiration generate the genotoxic gas hydrogen
-sulfide. Here, paired biopsies from right colon, left colon, and rectum of 20
-subjects undergoing routine screening colonoscopies were collected to enable
-parallel histochemical and microbiological studies. Goblet cell sialo- and
-sulfomucins in each biopsy were distinguished histochemically and quantified.
-Quantitative PCR and multivariate analyses were used to examine the abundance of 
-hydrogenotrophic microbial groups and SRB genera relative to acidomucin profiles.
-Regional variation was observed in sialomucins and sulfomucins with the greatest 
-abundance of each found in the rectum. Mucin composition did not appear to
-influence the abundance of SRB or other hydrogenotrophic microbiota but
-correlated with the composition of different SRB genera. A higher sulfomucin
-proportion correlated with higher quantities of Desulfobacter, Desulfobulbus and 
-Desulfotomaculum, relative to the predominant Desulfovibrio genus. Thus,
-acidomucin composition may influence bacterial sulfate respiration in the human
-colon, which may in turn impact mucosal homeostasis. These results stress the
-need to consider mucus characteristics in the context of studies of the
-microbiome that target intestinal diseases.
-
-DOI: 10.1371/journal.pone.0024447 
-PMCID: PMC3170330
-PMID: 21931721  [Indexed for MEDLINE]
-
-
 36. Am J Physiol Gastrointest Liver Physiol. 2011 Dec;301(6):G1004-13. doi:
 10.1152/ajpgi.00167.2011. Epub 2011 Sep 8.
 
