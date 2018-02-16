@@ -2042,27 +2042,6 @@ DOI: 10.3389/fmicb.2015.00020
 PMCID: PMC4313696
 PMID: 25699023 
 
-42. Mol Cell Oncol. 2014 Nov 11;2(1):e969630. doi: 10.4161/23723548.2014.969630.
-eCollection 2015 Jan-Mar.
-
-Gut microbiota and colon cancer: the carbohydrate link.
-
-Belcheva A(1), Martin A(1).
-
-Author information: 
-(1)Department of Immunology; University of Toronto ; Toronto, ON Canada.
-
-Understanding the complex pathophysiology of colorectal cancer and the
-interaction between host genetics, the gut microbiome, and diet has attracted
-significant attention in the last few years. The discovery that gut microbial
-metabolites may dictate the course of colorectal cancer progression supports the 
-development of microbial-targeted strategies.
-
-DOI: 10.4161/23723548.2014.969630 
-PMCID: PMC4905239
-PMID: 27308387 
-
-
 43. BMC Infect Dis. 2014 Dec 24;14:733. doi: 10.1186/s12879-014-0733-7.
 
 Escherichia coli strains of phylogenetic group B2 and D and bacteriocin
