@@ -2414,48 +2414,6 @@ showing differences according to disease progression step and tumor severity.
 DOI: 10.1007/s00535-014-0963-x 
 PMID: 24811328  [Indexed for MEDLINE]
 
-78. Mol Nutr Food Res. 2014 Jun;58(6):1199-211. doi: 10.1002/mnfr.201300931. Epub
-2014 Feb 16.
-
-Targeted metabolic profiling of pomegranate polyphenols and urolithins in plasma,
-urine and colon tissues from colorectal cancer patients.
-
-Nuñez-Sánchez MA(1), García-Villalba R, Monedero-Saiz T, García-Talavera NV,
-Gómez-Sánchez MB, Sánchez-Álvarez C, García-Albert AM, Rodríguez-Gil FJ,
-Ruiz-Marín M, Pastor-Quirante FA, Martínez-Díaz F, Yáñez-Gascón MJ,
-González-Sarrías A, Tomás-Barberán FA, Espín JC.
-
-Author information: 
-(1)Research Group on Quality, Safety and Bioactivity of Plant Foods, Department
-of Food Science and Technology, Campus de Espinardo, Murcia, Spain.
-
-SCOPE: Urolithins are bioactive metabolites produced by the gut microbiota from
-ellagitannins (ETs) and ellagic acid (EA). We investigated whether urolithins
-could be detected in colon tissues from colorectal cancer (CRC) patients after
-pomegranate extract (PE) intake.
-METHODS AND RESULTS: CRC patients (n = 52) were divided into controls and PEs
-consumers (900 mg/day for 15 days) before surgical resection. PEs with low (PE-1)
-and high (PE-2) punicalagin:EA ratio were administered. Twenty-three metabolites,
-but no ellagitannins, were detected in urine, plasma, normal (NT) or malignant
-(MT) colon tissues using UPLC-ESI-QTOF-MS/MS (UPLC, ultra performance liquid
-chromatography; QTOF, quadrupole TOF). Free EA, five EA conjugates, gallic acid
-and 12 urolithin derivatives were found in colon tissues. Individual and total
-metabolites levels were higher in NT than in MT, independently of the PE
-consumed. The maximal mean concentration (1671 ± 367 ng/g) was found in NT after 
-consumption of PE-1 and the lowest concentration (42.4 ± 10.2 ng/g) in MT with
-PE-2. Urolithin A or isourolithin A were the main urolithins produced (54 and 46%
-patients with urolithin A or isourolithin A phenotype, respectively). High
-punicalagin content (PE-2) hampered urolithins formation.
-CONCLUSION: Significant levels of EA derivatives and urolithins are found in
-human colon tissues from CRC patients after consumption of pomegranate. Further
-studies are warranted to elucidate their biological activity.
-
-© 2014 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim.
-
-DOI: 10.1002/mnfr.201300931 
-PMID: 24532260  [Indexed for MEDLINE]
-
-
 79. Int J Cancer. 2014 Aug 15;135(4):956-67. doi: 10.1002/ijc.28738. Epub 2014 Mar
 21.
 
