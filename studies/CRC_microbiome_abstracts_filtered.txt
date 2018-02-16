@@ -2193,62 +2193,6 @@ metabolism.
 PMCID: PMC4299606
 PMID: 25432777  [Indexed for MEDLINE]
 
-
-55. Clin Infect Dis. 2015 Jan 15;60(2):208-15. doi: 10.1093/cid/ciu787. Epub 2014 Oct
-9.
-
-The Bacteroides fragilis toxin gene is prevalent in the colon mucosa of
-colorectal cancer patients.
-
-Boleij A(1), Hechenbleikner EM(2), Goodwin AC(1), Badani R(3), Stein EM(1),
-Lazarev MG(1), Ellis B(4), Carroll KC(4), Albesiano E(1), Wick EC(2), Platz
-EA(5), Pardoll DM(6), Sears CL(6).
-
-Author information: 
-(1)Department of Medicine.
-(2)Department of Surgery.
-(3)Department of Oncology.
-(4)Department of Pathology, Johns Hopkins University School of Medicine.
-(5)Department of Oncology Department of Epidemiology, Johns Hopkins Bloomberg
-School of Public Health Sidney Kimmel Comprehensive Cancer Center, Johns Hopkins 
-University School of Medicine, Baltimore, Maryland.
-(6)Department of Medicine Department of Oncology Sidney Kimmel Comprehensive
-Cancer Center, Johns Hopkins University School of Medicine, Baltimore, Maryland.
-
-BACKGROUND: Enterotoxigenic Bacteroides fragilis (ETBF) produces the Bacteroides 
-fragilis toxin, which has been associated with acute diarrheal disease,
-inflammatory bowel disease, and colorectal cancer (CRC). ETBF induces colon
-carcinogenesis in experimental models. Previous human studies have demonstrated
-frequent asymptomatic fecal colonization with ETBF, but no study has investigated
-mucosal colonization that is expected to impact colon carcinogenesis.
-METHODS: We compared the presence of the bft gene in mucosal samples from
-colorectal neoplasia patients (cases, n = 49) to a control group undergoing
-outpatient colonoscopy for CRC screening or diagnostic workup (controls, n = 49).
-Single bacterial colonies isolated anaerobically from mucosal colon tissue were
-tested for the bft gene with touch-down polymerase chain reaction.
-RESULTS: The mucosa of cases was significantly more often bft-positive on left
-(85.7%) and right (91.7%) tumor and/or paired normal tissues compared with left
-and right control biopsies (53.1%; P = .033 and 55.5%; P = .04, respectively).
-Detection of bft was concordant in most paired mucosal samples from individual
-cases or controls (75% cases; 67% controls). There was a trend toward increased
-bft positivity in mucosa from late- vs early-stage CRC patients (100% vs 72.7%,
-respectively; P = .093). In contrast to ETBF diarrheal disease where bft-1
-detection dominates, bft-2 was the most frequent toxin isotype identified in both
-cases and controls, whereas multiple bft isotypes were detected more frequently
-in cases (P ≤ .02).
-CONCLUSIONS: The bft gene is associated with colorectal neoplasia, especially in 
-late-stage CRC. Our results suggest that mucosal bft exposure is common and may
-be a risk factor for developing CRC.
-
-© The Author 2014. Published by Oxford University Press on behalf of the
-Infectious Diseases Society of America. All rights reserved. For Permissions,
-please e-mail: journals.permissions@oup.com.
-
-DOI: 10.1093/cid/ciu787 
-PMCID: PMC4351371
-PMID: 25305284  [Indexed for MEDLINE]
-
-
 56. Microb Pathog. 2014 Dec;77:1-6. doi: 10.1016/j.micpath.2014.10.003. Epub 2014 Oct
 2.
 
