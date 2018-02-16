@@ -2320,58 +2320,6 @@ DOI: 10.1186/1757-4749-6-26
 PMCID: PMC4080773
 PMID: 24995042 
 
-69. Microbiome. 2014 Jun 17;2:20. doi: 10.1186/2049-2618-2-20. eCollection 2014.
-
-Structure of the gut microbiome following colonization with human feces
-determines colonic tumor burden.
-
-Baxter NT(1), Zackular JP(1), Chen GY(2), Schloss PD(1).
-
-Author information: 
-(1)Department of Microbiology and Immunology, University of Michigan, Ann Arbor, 
-Michigan, USA.
-(2)Department of Internal Medicine, Division of Hematology and Oncology,
-University of Michigan, Ann Arbor, Michigan, USA.
-
-BACKGROUND: A growing body of evidence indicates that the gut microbiome plays a 
-role in the development of colorectal cancer (CRC). Patients with CRC harbor gut 
-microbiomes that are structurally distinct from those of healthy individuals;
-however, without the ability to track individuals during disease progression, it 
-has not been possible to observe changes in the microbiome over the course of
-tumorigenesis. Mouse models have demonstrated that these changes can further
-promote colonic tumorigenesis. However, these models have relied upon
-mouse-adapted bacterial populations and so it remains unclear which human-adapted
-bacterial populations are responsible for modulating tumorigenesis.
-RESULTS: We transplanted fecal microbiota from three CRC patients and three
-healthy individuals into germ-free mice, resulting in six structurally distinct
-microbial communities. Subjecting these mice to a chemically induced model of CRC
-resulted in different levels of tumorigenesis between mice. Differences in the
-number of tumors were strongly associated with the baseline microbiome structure 
-in mice, but not with the cancer status of the human donors. Partitioning of
-baseline communities into enterotypes by Dirichlet multinomial mixture modeling
-resulted in three enterotypes that corresponded with tumor burden. The taxa most 
-strongly positively correlated with increased tumor burden were members of the
-Bacteroides, Parabacteroides, Alistipes, and Akkermansia, all of which are
-Gram-negative. Members of the Gram-positive Clostridiales, including multiple
-members of Clostridium Group XIVa, were strongly negatively correlated with
-tumors. Analysis of the inferred metagenome of each community revealed a negative
-correlation between tumor count and the potential for butyrate production, and a 
-positive correlation between tumor count and the capacity for host glycan
-degradation. Despite harboring distinct gut communities, all mice underwent
-conserved structural changes over the course of the model. The extent of these
-changes was also correlated with tumor incidence.
-CONCLUSION: Our results suggest that the initial structure of the microbiome
-determines susceptibility to colonic tumorigenesis. There appear to be opposing
-roles for certain Gram-negative (Bacteroidales and Verrucomicrobia) and
-Gram-positive (Clostridiales) bacteria in tumor susceptibility. Thus, the impact 
-of community structure is potentially mediated by the balance between protective,
-butyrate-producing populations and inflammatory, mucin-degrading populations.
-
-DOI: 10.1186/2049-2618-2-20 
-PMCID: PMC4070349
-PMID: 24967088 
-
-
 70. Gut. 2015 Mar;64(3):459-68. doi: 10.1136/gutjnl-2014-307213. Epub 2014 Jun 6.
 
 Commensal bacteria drive endogenous transformation and tumour stem cell marker
