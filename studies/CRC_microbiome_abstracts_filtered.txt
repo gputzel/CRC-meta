@@ -2320,59 +2320,6 @@ DOI: 10.1186/1757-4749-6-26
 PMCID: PMC4080773
 PMID: 24995042 
 
-70. Gut. 2015 Mar;64(3):459-68. doi: 10.1136/gutjnl-2014-307213. Epub 2014 Jun 6.
-
-Commensal bacteria drive endogenous transformation and tumour stem cell marker
-expression through a bystander effect.
-
-Wang X(1), Yang Y(1), Huycke MM(2).
-
-Author information: 
-(1)The Muchmore Laboratories for Infectious Diseases Research, Department of
-Veterans Affairs Medical Center, Oklahoma City, Oklahoma, USA Department of
-Radiation Oncology, University of Oklahoma Health Sciences Center, Oklahoma City,
-Oklahoma, USA.
-(2)The Muchmore Laboratories for Infectious Diseases Research, Department of
-Veterans Affairs Medical Center, Oklahoma City, Oklahoma, USA Department of
-Medicine, University of Oklahoma Health Sciences Center, Oklahoma City, Oklahoma,
-USA.
-
-OBJECTIVE: Commensal bacteria and innate immunity play a major role in the
-development of colorectal cancer (CRC). We propose that selected commensals
-polarise colon macrophages to produce endogenous mutagens that initiate
-chromosomal instability (CIN), lead to expression of progenitor and tumour stem
-cell markers, and drive CRC through a bystander effect.
-DESIGN: Primary murine colon epithelial cells were repetitively exposed to
-Enterococcus faecalis-infected macrophages, or purified trans-4-hydroxy-2-nonenal
-(4-HNE)-an endogenous mutagen and spindle poison produced by macrophages. CIN,
-gene expression, growth as allografts in immunodeficient mice were examined for
-clones and expression of markers confirmed using interleukin (IL) 10 knockout
-mice colonised by E. faecalis.
-RESULTS: Primary colon epithelial cells exposed to polarised macrophages or
-4-hydroxy-2-nonenal developed CIN and were transformed after 10 weekly
-treatments. In immunodeficient mice, 8 of 25 transformed clones grew as poorly
-differentiated carcinomas with 3 tumours invading skin and/or muscle. All tumours
-stained for cytokeratins confirming their epithelial cell origin. Gene expression
-profiling of clones showed alterations in 3 to 7 cancer driver genes per clone.
-Clones also strongly expressed stem/progenitor cell markers Ly6A and Ly6E.
-Although not differentially expressed in clones, murine allografts positively
-stained for the tumour stem cell marker doublecortin-like kinase 1.
-Doublecortin-like kinase 1 and Ly6A/E were expressed by epithelial cells in colon
-biopsies for areas of inflamed and dysplastic tissue from E. faecalis-colonised
-IL-10 knockout mice.
-CONCLUSIONS: These results validate a novel mechanism for CRC that involves
-endogenous CIN and cellular transformation arising through a microbiome-driven
-bystander effect.
-
-Published by the BMJ Publishing Group Limited. For permission to use (where not
-already granted under a licence) please go to
-http://group.bmj.com/group/rights-licensing/permissions.
-
-DOI: 10.1136/gutjnl-2014-307213 
-PMCID: PMC4345889
-PMID: 24906974  [Indexed for MEDLINE]
-
-
 71. BMC Cancer. 2014 May 27;14:374. doi: 10.1186/1471-2407-14-374.
 
 The COLON study: Colorectal cancer: Longitudinal, Observational study on
