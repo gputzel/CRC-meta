@@ -2452,35 +2452,6 @@ DOI: 10.1186/2049-2618-1-16
 PMCID: PMC3971631
 PMID: 24450771 
 
-83. Gut Microbes. 2014 Jan-Feb;5(1):11-4. doi: 10.4161/gmic.27291. Epub 2013 Dec 16.
-
-Location-specific effect of microbiota and MyD88-dependent signaling on
-Wnt/β-catenin pathway and intestinal stem cells.
-
-Moossavi S(1).
-
-Author information: 
-(1)Digestive Oncology Research Center; Digestive Disease Research Institute;
-Tehran University of Medical Sciences; Tehran, Iran.
-
-Intestinal homeostasis depends on the proper activity of the intestinal stem
-cells (ISCs) and an appropriate host response to the normal resident microbiota. 
-The question on the effect of microbiota on ISCs behavior has not been addressed 
-yet. Canonical Wnt pathway and ISC gene expression signature was compared in
-germfree vs. conventional and MyD88(-/-) vs. Myd88(+/+) mice based on publicly
-available gene expression data sets. Microbiota and MyD88-dependent signaling
-have distinct effects on the Wnt pathway and ISC at gene expression level. In
-addition, the effect of microbiota and MyD88-dependent signaling on Wnt pathway
-and ISCs show regional variation. The net effect of microbiota on Wnt pathway and
-ISCs cannot be inferred from the available data. Nonetheless, the data are
-suggestive of a potential regulatory mechanism of the Wnt pathway by the
-microbiota and plausibly by any alteration in the microbiota composition.
-
-DOI: 10.4161/gmic.27291 
-PMCID: PMC4049928
-PMID: 24424084  [Indexed for MEDLINE]
-
-
 84. Immunity. 2014 Jan 16;40(1):140-52. doi: 10.1016/j.immuni.2013.11.018. Epub 2014 
 Jan 9.
 
