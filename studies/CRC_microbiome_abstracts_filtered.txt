@@ -2618,44 +2618,6 @@ DOI: 10.1007/s00248-013-0245-9
 PMID: 23733170  [Indexed for MEDLINE]
 
 
-3. J Proteome Res. 2013 Jun 7;12(6):3000-9. doi: 10.1021/pr400337b. Epub 2013 May
-29.
-
-Metabonomics identifies serum metabolite markers of colorectal cancer.
-
-Tan B(1), Qiu Y, Zou X, Chen T, Xie G, Cheng Y, Dong T, Zhao L, Feng B, Hu X, Xu 
-LX, Zhao A, Zhang M, Cai G, Cai S, Zhou Z, Zheng M, Zhang Y, Jia W.
-
-Author information: 
-(1)Ministry of Education Key Laboratory of Systems Biomedicine, Shanghai Center
-for Systems Biomedicine, Shanghai Jiao Tong University, Shanghai, PR China.
-
-Recent studies suggest that biofluid-based metabonomics may identify metabolite
-markers promising for colorectal cancer (CRC) diagnosis. We report here a
-follow-up replication study, after a previous CRC metabonomics study, aiming to
-identify a distinct serum metabolic signature of CRC with diagnostic potential.
-Serum metabolites from newly diagnosed CRC patients (N = 101) and healthy
-subjects (N = 102) were profiled using gas chromatography time-of-flight mass
-spectrometry (GC-TOFMS) and ultraperformance liquid chromatography quadrupole
-time-of-flight mass spectrometry (UPLC-QTOFMS). Differential metabolites were
-identified with statistical tests of orthogonal partial
-least-squares-discriminant analysis (VIP > 1) and the Mann-Whitney U test (p <
-0.05). With a total of 249 annotated serum metabolites, we were able to
-differentiate CRC patients from the healthy controls using an orthogonal partial 
-least-squares-discriminant analysis (OPLS-DA) in a learning sample set of 62 CRC 
-patients and 62 matched healthy controls. This established model was able to
-correctly assign the rest of the samples to the CRC or control groups in a
-validation set of 39 CRC patients and 40 healthy controls. Consistent with our
-findings from the previous study, we observed a distinct metabolic signature in
-CRC patients including tricarboxylic acid (TCA) cycle, urea cycle, glutamine,
-fatty acids, and gut flora metabolism. Our results demonstrated that a panel of
-serum metabolite markers is of great potential as a noninvasive diagnostic method
-for the detection of CRC.
-
-DOI: 10.1021/pr400337b 
-PMID: 23675754  [Indexed for MEDLINE]
-
-
 4. Phytother Res. 2014 Mar;28(3):416-22. doi: 10.1002/ptr.5009. Epub 2013 May 15.
 
 Evaluation of the effect of blackcurrant products on gut microbiota and on
