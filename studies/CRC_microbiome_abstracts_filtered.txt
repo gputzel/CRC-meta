@@ -2692,42 +2692,6 @@ DOI: 10.1186/1757-4749-5-2
 PMCID: PMC3599420
 PMID: 23497613 
 
-
-11. Curr Nutr Rep. 2013 Mar;2(1):19-26. Epub 2013 Jan 8.
-
-The mTOR Pathway and the Role of Energy Balance Throughout Life in Colorectal
-Cancer Etiology and Prognosis: Unravelling Mechanisms Through a Multidimensional 
-Molecular Epidemiologic Approach.
-
-Weijenberg MP(1), Hughes LA, Bours MJ, Simons CC, van Engeland M, van den Brandt 
-PA.
-
-Author information: 
-(1)Department of Epidemiology, GROW-School for Oncology and Developmental
-Biology, Maastricht University, P.O. Box 616, Maastricht, 6200 MD The
-Netherlands.
-
-Timing of exposure to lifestyle factors that influence energy balance may
-differentially affect colorectal cancer (CRC) risk and prognosis. Caloric
-restriction in youth and short stature, as markers of early-life exposures, have 
-shown to decrease CRC risk, whereas large body size and low physical activity
-levels in adulthood are established risk factors for CRC. Regarding prognosis,
-overweight, sarcopenia, and their co-occurrence (sarcopenic obesity) may
-negatively influence the health and quality of life of CRC survivors. There is
-mechanistic support for disruption of the mammalian target of rapamycin (mTOR)
-pathway as an underlying mechanism possibly driving these associations, because
-mTOR integrates signals from growth factors, nutrients, mutagens, and hormones to
-induce cell proliferation, resistance to apoptosis, and autophagy. However,
-epidemiologic evidence connecting mTOR to energy-balance-related CRC throughout
-the lifespan is scarce. This perspective proposes how multidimensional molecular 
-epidemiologic studies can shed light on the etiology and prognosis of
-energy-balance-related CRC.
-
-DOI: 10.1007/s13668-012-0038-7 
-PMCID: PMC3562550
-PMID: 23396869 
-
-
 12. PLoS One. 2013;8(1):e53653. doi: 10.1371/journal.pone.0053653. Epub 2013 Jan 15.
 
 Fusobacterium is associated with colorectal adenomas.
