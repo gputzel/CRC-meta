@@ -2541,21 +2541,6 @@ DOI: 10.1093/jnci/djt300
 PMCID: PMC3866154
 PMID: 24316595  [Indexed for MEDLINE]
 
-90. Nat Rev Gastroenterol Hepatol. 2014 Jan;11(1):4. doi: 10.1038/nrgastro.2013.225. 
-Epub 2013 Nov 19.
-
-Microbiota: Manipulating the microbiota could affect colorectal cancer
-development.
-
-Smith K.
-
-Comment on
-    MBio. 2013;4(6):e00692-13.
-
-DOI: 10.1038/nrgastro.2013.225 
-PMID: 24247264  [Indexed for MEDLINE]
-
-
 91. MBio. 2013 Nov 5;4(6):e00692-13. doi: 10.1128/mBio.00692-13.
 
 The gut microbiome modulates colon tumorigenesis.
