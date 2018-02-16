@@ -2541,46 +2541,6 @@ DOI: 10.1093/jnci/djt300
 PMCID: PMC3866154
 PMID: 24316595  [Indexed for MEDLINE]
 
-92. Surg Endosc. 2014 Mar;28(3):1019-26. doi: 10.1007/s00464-013-3273-0. Epub 2013
-Nov 1.
-
-Do colorectal cancer resections improve diabetes in long-term survivors? A
-case-control study.
-
-Faintuch J(1), Hayashi SY, Nahas SC, Yagi OK, Faintuch S, Cecconello I.
-
-Author information: 
-(1)Department of Gastroenterology, Hospital das Clinicas, Av. Eneias C. Aguiar
-255, 9th Floor, Rm 9077, São Paulo, SP, 05403900, Brazil,
-j.faintuch@hc.fm.usp.br.
-
-BACKGROUND: A clinical study was designed that aimed to analyze whether resection
-of the large bowel in cancer patients might benefit diabetes mellitus.
-METHODS: This prospective case-control study included retrospective information. 
-Patients (n = 247) included diabetic and euglycemic groups with colorectal cancer
-operations (n = 60), cancer gastrectomy (n = 72), exclusive chemoradiotherapy for
-rectal cancer (n = 46), and noncancer clinical controls (n = 69). Follow-up
-periods were, respectively, 79.2 ± 27.4, 86.8 ± 25.1, 70.0 ± 26.3, and 85.1 ±
-18.2 months (NS). Diabetes groups included patients with prediabetes.
-RESULTS: Diabetes remission, defined as conversion from diabetes to prediabetes
-or from this condition to normal, was documented in, respectively, 32.4 % (11 of 
-34), 41.2 % (14 of 34), 7.1 % (1 of 14), and 7.7 % (3 of 39) in the four cohorts 
-(P = 0.004). Within the same period, progression of euglycemic participants to
-diabetes occurred in 30.8 % (8 of 26), 63.2 % (24 of 38), 25.0 (8 of 32), and
-20.0 % (6 of 30) (P = 0.028). Diabetes amelioration was associated with weight
-loss in gastrectomy patients but not in the other groups. Dietary intake,
-estimated in the two surgical populations, did not predict outcome.
-CONCLUSIONS: Diabetes amelioration after colorectal interventions was
-demonstrated, but progression of euglycemic patients toward prediabetes was not
-changed in comparison with nonsurgical controls. It is speculated that reshaping 
-of the bowel microbiome or hormone changes after colorectal interventions
-underlay the improvement in diabetes. Body weight fluctuations could not be
-incriminated in this investigation.
-
-DOI: 10.1007/s00464-013-3273-0 
-PMID: 24178865  [Indexed for MEDLINE]
-
-
 93. J Biol Chem. 2013 Nov 29;288(48):34956-67. doi: 10.1074/jbc.M113.516153. Epub
 2013 Oct 21.
 
