@@ -2111,38 +2111,6 @@ DOI: 10.1073/pnas.1406199111
 PMCID: PMC4280621
 PMID: 25489084  [Indexed for MEDLINE]
 
-
-50. Cancer Discov. 2014 Dec;4(12):1368-70. doi: 10.1158/2159-8290.CD-14-1231.
-
-Untangling the fiber yarn: butyrate feeds Warburg to suppress colorectal cancer.
-
-Sebastián C(1), Mostoslavsky R(2).
-
-Author information: 
-(1)The Massachusetts General Hospital Cancer Center, Harvard Medical School,
-Boston, Massachusetts.
-(2)The Massachusetts General Hospital Cancer Center, Harvard Medical School,
-Boston, Massachusetts. rmostoslavsky@mgh.harvard.edu.
-
-Comment on
-    Cancer Discov. 2014 Dec;4(12):1387-97.
-
-Dietary composition has an important role in shaping the gut microbiota. In turn,
-changes in the diet directly impinge on bacterial metabolites present in the
-intestinal lumen. Whether such metabolites play a role in intestinal cancer has
-been a topic of hot debate. In this issue of Cancer Discovery, Donohoe and
-colleagues show that dietary fiber protects against colorectal carcinoma in a
-microbiota-dependent manner. Furthermore, fiber-derived butyrate acts as a
-histone deacetylase inhibitor, inhibiting cell proliferation and inducing
-apoptosis in colorectal cancer cells experiencing the Warburg effect.
-
-©2014 American Association for Cancer Research.
-
-DOI: 10.1158/2159-8290.CD-14-1231 
-PMCID: PMC4258833
-PMID: 25477104  [Indexed for MEDLINE]
-
-
 51. Bull Acad Natl Med. 2014 Dec;198(9):1667-84.
 
 [Intestinal microbiota].
