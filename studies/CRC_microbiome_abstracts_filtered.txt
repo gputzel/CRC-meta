@@ -2277,47 +2277,6 @@ DOI: 10.1158/1940-6207.CAPR-14-0129
 PMCID: PMC4221363
 PMID: 25104642  [Indexed for MEDLINE]
 
-
-63. Cancer Prev Res (Phila). 2014 Aug;7(8):777-80. doi:
-10.1158/1940-6207.CAPR-14-0196.
-
-Navigating the maize between red meat and oncomirs.
-
-Thompson PA(1).
-
-Author information: 
-(1)Department of Cellular and Molecular Medicine, University of Arizona Cancer
-Center, Tucson, Arizona. pthompson@azcc.arizona.edu.
-
-Comment on
-    Cancer Prev Res (Phila). 2014 Aug;7(8):786-95.
-
-High red meat consumption is associated with increased risk of colorectal cancer.
-Various mechanisms have been proposed, including mutagenesis, alterations of the 
-gut microbiome, and effects on local immunity and inflammation. This lack of
-well-defined mechanistic explanations for diet and cancer associations coupled
-with our inability to derive causal inferences from population-based studies
-allows us to rationalize that burger we ate at lunch or that steak we ate at
-dinner. The preparation and consumption of red meat is a major social and dining 
-pleasure in the Western culture, so there is resistance to concern ourselves with
-the cancer risk associated with red meat. In fact, advertisements do not add a
-rapid-fire statement that consumption of more than half a portion of red meat per
-day has been associated with increased risk of cardiovascular disease, diabetes, 
-cancer, and even death, because these data are not from randomized controlled
-trials? Would we heed a warning if there was evidence that burgers and steaks
-induced the expression of small noncoding RNAs that inhibit the expression of
-tumor-suppressor genes in our enterocytes? What level of evidence is necessary to
-convince ourselves that a dietary exposure is sufficiently causal to put a
-warning label on it? How do we experimentally obtain such evidence? If we knew
-the mechanism, perhaps we could modify the risk sufficiently such that we can
-have our steak and eat it too-without the warnings.
-
-©2014 American Association for Cancer Research.
-
-DOI: 10.1158/1940-6207.CAPR-14-0196 
-PMID: 25092885  [Indexed for MEDLINE]
-
-
 64. Cell. 2014 Jul 17;158(2):288-299. doi: 10.1016/j.cell.2014.04.051.
 
 Gut microbial metabolism drives transformation of MSH2-deficient colon epithelial
