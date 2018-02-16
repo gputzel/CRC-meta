@@ -2692,39 +2692,6 @@ DOI: 10.1186/1757-4749-5-2
 PMCID: PMC3599420
 PMID: 23497613 
 
-17. Wei Sheng Wu Xue Bao. 2012 Aug 4;52(8):1033-9.
-
-[Quantity of Desulfovibrios and analysis of intestinal microbiota diversity in
-health and intestinal disease people in Wuxi, Jiangsu province].
-
-[Article in Chinese]
-
-Ding J(1), Zhang Q, Liu X, Wang G, Tian F, Zhang H, Chen W.
-
-Author information: 
-(1)Research Center of Food Biotechnology, School of Food Science and Technology, 
-Jiangnan University, Wuxi 214122, China. junrong888@126.com
-
-OBJECTIVE: This paper provides an overview of Desulfovibrio (DSV) incidence and
-its effect on bacterial diversity in human gastrointestinal tract of four groups:
-ulcerative colitis (UC), colorectal cancer (CRC), polypus (PP) and the healthy
-control (H).
-METHODS: Real time fluorescence quantitative PCR (RT-PCR) assays were used to
-enumerate DSV in gastrointestinal tract of 58 subjects. Diversity of gut
-microbiota was analyzed by PCR-Denaturing Gradient Gel Electrophoresis (PCR-DGGE)
-and 16S rRNA V3 sequencing.
-RESULTS: RT-PCR detected DSV in all samples. Significantly increased numbers of
-DSV were observed for UC and PP groups compared with CRC and H groups. No
-significant difference was observed for CRC and H groups with gene copy numbers
-of DSV. Alterations of DSV and gut microbiota were observed in disease groups.
-CONCLUSION: We found that quantity and diversity of DSV are significantly
-increased in UC and PP compared to controls. The increased numbers of DSV in
-disease groups suggests a possible harmful role.
-
-
-PMID: 23173441  [Indexed for MEDLINE]
-
-
 18. Ann Clin Lab Sci. 2012 Fall;42(4):401-8.
 
 SMAD4 haploinsufficiency associates with augmented colonic inflammation in select
