@@ -2320,43 +2320,6 @@ DOI: 10.1186/1757-4749-6-26
 PMCID: PMC4080773
 PMID: 24995042 
 
-
-68. J Agric Food Chem. 2014 Jul 16;62(28):6535-8. doi: 10.1021/jf5024615. Epub 2014
-Jul 1.
-
-Ellagic acid metabolism by human gut microbiota: consistent observation of three 
-urolithin phenotypes in intervention trials, independent of food source, age, and
-health status.
-
-Tomás-Barberán FA(1), García-Villalba R, González-Sarrías A, Selma MV, Espín JC.
-
-Author information: 
-(1)Research Group on Quality, Safety and Bioactivity of Plant Foods, CEBAS-CSIC, 
-P.O. Box 164, 30100 Espinardo, Murcia, Spain.
-
-Three phenotypes for urolithin production after ellagitannin and ellagic acid
-intake are consistently observed in different human intervention trials. Subjects
-can be stratified into three urolithin-producing groups. "Phenotype A" produced
-only urolithin A conjugates, which included between 25 and 80% of the volunteers 
-in the different trials. "Phenotype B" produced isourolithin A and/or urolithin B
-in addition to urolithin A, this being the second relevant group (10-50%).
-"Phenotype 0" (5-25%) was that in which these urolithins were not detected. The
-three phenotypes were observed independently of the volunteers' health status and
-demographic characteristics (age, gender, body mass index (BMI)) and of the
-amount or type of ellagitannin food source ingested (walnuts and other nuts,
-strawberries, raspberries, and other berries or pomegranates). Interestingly, a
-higher percentage of phenotype B was observed in those volunteers with chronic
-illness (metabolic syndrome or colorectal cancer) associated with gut microbial
-imbalance (dysbiosis). These urolithin phenotypes could show differences in the
-human gut microbiota and should be considered in intervention trials dealing with
-health benefits of ellagitannins or ellagic acid. Whether this phenotypic
-variation could be a biomarker related to differential health benefits or illness
-predisposition deserves further research.
-
-DOI: 10.1021/jf5024615 
-PMID: 24976365  [Indexed for MEDLINE]
-
-
 69. Microbiome. 2014 Jun 17;2:20. doi: 10.1186/2049-2618-2-20. eCollection 2014.
 
 Structure of the gut microbiome following colonization with human feces
