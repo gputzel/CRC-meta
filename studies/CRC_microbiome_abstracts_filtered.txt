@@ -2582,37 +2582,6 @@ DOI: 10.1371/journal.pone.0070803
 PMCID: PMC3735522
 PMID: 23940645  [Indexed for MEDLINE]
 
-99. Gut Microbes. 2013 Jul-Aug;4(4):353-6. doi: 10.4161/gmic.25275. Epub 2013 Jun 6.
-
-NOD2 prevents emergence of disease-predisposing microbiota.
-
-Secher T(1), Normand S, Chamaillard M.
-
-Author information: 
-(1)INRA, Institut National de la Santé et de la Recherche Médicale/UMR 1043,
-Toulouse, France.
-
-Comment on
-    J Clin Invest. 2013 Feb;123(2):700-11.
-
-The gut flora is composed of a huge number of diverse, well-adapted symbionts
-that interact with epithelial lining throughout the host's entire life. Not all
-commensals have the same ability to maintain quiescent, protective inflammation. 
-Importantly, instability in the composition of gut microbial communities
-(referred to as dysbiosis) has been linked to loss of gut barrier in the context 
-of common human illnesses with increasing socio-economic impacts, such as Crohn
-disease and colorectal cancer. Our recent findings suggest that
-disease-predisposing dysbiosis can now be intentionally manipulated by targeting 
-the major Crohn disease-predisposing NOD2 gene. That knowledge will not only add 
-a new dimension to the often overlooked microbiology of Crohn disease and
-colorectal cancer, but will also have a broad impact on biomedical sciences
-worldwide.
-
-DOI: 10.4161/gmic.25275 
-PMCID: PMC3744520
-PMID: 23778641  [Indexed for MEDLINE]
-
-
 100. Environ Microbiol Rep. 2012 Jun;4(3):307-15. doi:
 10.1111/j.1758-2229.2012.00334.x. Epub 2012 Mar 12.
 
