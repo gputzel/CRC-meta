@@ -2692,19 +2692,6 @@ DOI: 10.1186/1757-4749-5-2
 PMCID: PMC3599420
 PMID: 23497613 
 
-13. N Engl J Med. 2013 Jan 17;368(3):282-4. doi: 10.1056/NEJMcibr1212341.
-
-Epithelial barriers, microbiota, and colorectal cancer.
-
-Gallimore AM(1), Godkin A.
-
-Author information: 
-(1)School of Medicine, Cardiff University, Cardiff, Wales, United Kingdom.
-
-DOI: 10.1056/NEJMcibr1212341 
-PMID: 23323906  [Indexed for MEDLINE]
-
-
 14. Dig Dis Sci. 2013 Jun;58(6):1717-26. doi: 10.1007/s10620-012-2526-4. Epub 2013
 Jan 11.
 
