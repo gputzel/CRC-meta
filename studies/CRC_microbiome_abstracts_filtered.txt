@@ -1912,56 +1912,6 @@ DOI: 10.1186/s13073-015-0177-8
 PMCID: PMC4499914
 PMID: 26170900 
 
-18. Br J Nutr. 2015 Jul;114(2):220-30. doi: 10.1017/S0007114515001750. Epub 2015 Jun 
-17.
-
-Butyrylated starch intake can prevent red meat-induced O6-methyl-2-deoxyguanosine
-adducts in human rectal tissue: a randomised clinical trial.
-
-Le Leu RK(1), Winter JM(2), Christophersen CT(1), Young GP(2), Humphreys KJ(2),
-Hu Y(2), Gratz SW(3), Miller RB(4), Topping DL(1), Bird AR(1), Conlon MA(1).
-
-Author information: 
-(1)Commonwealth Scientific and Industrial Research Organisation (CSIRO), Food and
-Nutrition Flagship,PO Box 10041,Adelaide BC,SA5000,Australia.
-(2)Flinders Centre for Innovation in Cancer, Flinders University of South
-Australia,Bedford Park,SA5042,Australia.
-(3)Rowett Institute of Nutrition and Health, University of Aberdeen,AberdeenAB21 
-9SB,UK.
-(4)Commonwealth Scientific and Industrial Research Organisation Mathematics,
-Informatics and Statistics,Glen Osmond,SA5064,Australia.
-
-Epidemiological studies have identified increased colorectal cancer (CRC) risk
-with high red meat (HRM) intakes, whereas dietary fibre intake appears to be
-protective. In the present study, we examined whether a HRM diet increased rectal
-O(6)-methyl-2-deoxyguanosine (O(6)MeG) adduct levels in healthy human subjects,
-and whether butyrylated high-amylose maize starch (HAMSB) was protective. A group
-of twenty-three individuals consumed 300 g/d of cooked red meat without (HRM
-diet) or with 40 g/d of HAMSB (HRM+HAMSB diet) over 4-week periods separated by a
-4-week washout in a randomised cross-over design. Stool and rectal biopsy samples
-were collected for biochemical, microbial and immunohistochemical analyses at
-baseline and at the end of each 4-week intervention period. The HRM diet
-increased rectal O(6)MeG adducts relative to its baseline by 21% (P < 0.01),
-whereas the addition of HAMSB to the HRM diet prevented this increase. Epithelial
-proliferation increased with both the HRM (P < 0.001) and HRM + HAMSB (P < 0.05) 
-diets when compared with their respective baseline levels, but was lower
-following the HRM + HAMSB diet compared with the HRM diet (P < 0.05). Relative to
-its baseline, the HRM + HAMSB diet increased the excretion of SCFA by over 20% (P
-< 0.05) and increased the absolute abundances of the Clostridium coccoides group 
-(P < 0.05), the Clostridium leptum group (P < 0.05), Lactobacillus spp. (P <
-0.01), Parabacteroides distasonis (P < 0.001) and Ruminococcus bromii (P < 0.05),
-but lowered Ruminococcus torques (P < 0.05) and the proportions of Ruminococcus
-gnavus, Ruminococcus torques and Escherichia coli (P < 0.01). HRM consumption
-could increase the risk of CRC through increased formation of colorectal
-epithelial O(6)MeG adducts. HAMSB consumption prevented red meat-induced adduct
-formation, which may be associated with increased stool SCFA levels and/or
-changes in the microbiota composition.
-
-DOI: 10.1017/S0007114515001750 
-PMCID: PMC4531472
-PMID: 26084032  [Indexed for MEDLINE]
-
-
 19. Curr Cancer Drug Targets. 2015;15(3):173-5.
 
 COMMENTARY. Pre-emptive Nutrition: Refining the Targets of Drugs Targeted to
