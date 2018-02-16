@@ -1960,31 +1960,6 @@ PMCID: PMC4615176
 PMID: 25875428  [Indexed for MEDLINE]
 
 
-26. Neoplasma. 2015;62(3):345-52. doi: 10.4149/neo_2015_042.
-
-Modification of microflora imbalance: future directions for prevention and
-treatment of colorectal cancer?
-
-Ciernikova S, Mego M, Hainova K, Adamcikova Z, Stevurkova V, Zajac V.
-
-Increasing incidence and mortality of colorectal cancer brings the necessity to
-uncover new possibilities in the prevention, diagnosis and treatment. The
-microbiome as the collective genetic material of the microflora, overexceed the
-number of genes in the human genome and is unique for each individual. Due to the
-benefits providing for the host and mainly for immediate interaction with the
-host immune system, a gastrointestinal microflora can be considered "cardinal
-microbiome". Host-microbial relations includes symbiotic, pathogenic and
-competitive interactions. Causal role of gastrointestinal microflora in
-colorectal carcinogenesis is still not well determined. This minireview is
-focused on current evidence in understanding the role of bacteria in colorectal
-carcinogenesis, the impact of bacterial dysbiosis on tumor formation, and ability
-of probiotics and bacterial vectors to modulate the gastrointestinal microflora
-as prevention and therapy tool in colorectal cancer.
-
-DOI: 10.4149/neo_2015_042 
-PMID: 25866215 
-
-
 27. Food Funct. 2015 May;6(5):1460-9. doi: 10.1039/c5fo00120j.
 
 The ellagic acid-derived gut microbiota metabolite, urolithin A, potentiates the 
