@@ -2042,65 +2042,6 @@ DOI: 10.3389/fmicb.2015.00020
 PMCID: PMC4313696
 PMID: 25699023 
 
-40. Nutrients. 2015 Jan 23;7(2):799-814. doi: 10.3390/nu7020799.
-
-Protopanaxadiol, an active ginseng metabolite, significantly enhances the effects
-of fluorouracil on colon cancer.
-
-Wang CZ(1), Zhang Z(2), Wan JY(3), Zhang CF(4), Anderson S(5), He X(6), Yu C(7), 
-He TC(8), Qi LW(9), Yuan CS(10).
-
-Author information: 
-(1)Tang Center for Herbal Medicine Research, University of Chicago, Chicago, IL
-60637, USA. czwang@uchicago.edu.
-(2)Tang Center for Herbal Medicine Research, University of Chicago, Chicago, IL
-60637, USA. zzhang2@bsd.uchicago.edu.
-(3)Tang Center for Herbal Medicine Research, University of Chicago, Chicago, IL
-60637, USA. wanjinyi1128@163.com.
-(4)Tang Center for Herbal Medicine Research, University of Chicago, Chicago, IL
-60637, USA. zhangchunfeng67@163.com.
-(5)Tang Center for Herbal Medicine Research, University of Chicago, Chicago, IL
-60637, USA. sanderson6@uchicago.edu.
-(6)Tang Center for Herbal Medicine Research, University of Chicago, Chicago, IL
-60637, USA. xhe@163.com.
-(7)Tang Center for Herbal Medicine Research, University of Chicago, Chicago, IL
-60637, USA. yuch@hyit.edu.cn.
-(8)Department of Orthopedic Surgery, University of Chicago, Chicago, IL 60637,
-USA. tche@bsd.uchicago.edu.
-(9)Tang Center for Herbal Medicine Research, University of Chicago, Chicago, IL
-60637, USA. fleude@126.com.
-(10)Tang Center for Herbal Medicine Research, University of Chicago, Chicago, IL 
-60637, USA. cyuan@dacc.uchicago.edu.
-
-In this study, we evaluated the effects of protopanaxadiol (PPD), a gut
-microbiome induced ginseng metabolite, in increasing the anticancer effects of a 
-chemotherapeutic agent fluorouracil (5-FU) on colorectal cancer. An in vitro
-HCT-116 colorectal cancer cell proliferation test was conducted to observe the
-effects of PPD, 5-FU and their co-administration and the related mechanisms of
-action. Then, an in vivo xenografted athymic mouse model was used to confirm the 
-in vitro data. Our results showed that the human gut microbiome converted
-ginsenoside compound K to PPD as a metabolite. PPD and 5-FU significantly
-inhibited HCT-116 cell proliferation in a concentration-dependent manner (both
-p<0.01), and the effects of 5-FU were very significantly enhanced by combined
-treatment with PPD (p<0.01). Cell cycle evaluation demonstrated that 5-FU
-markedly induced the cancer cell S phase arrest, while PPD increased arrest in G1
-phase. Compared to the control, 5-FU and PPD increased apoptosis, and their
-co-administration significantly increased the number of apoptotic cells (p<0.01).
-Using bioluminescence imaging, in vivo data revealed that 5-FU significantly
-reduced the tumor growth up to Day 20 (p<0.05). PPD and 5-FU co-administration
-very significantly reduced the tumor size in a dose-related manner (p<0.01
-compared to the 5-FU alone). The quantification of the tumor size and weight
-changes for 43 days supported the in vivo imaging data. Our results demonstrated 
-that the co-administration of PPD and 5-FU significantly inhibited the tumor
-growth, indicating that PPD significantly enhanced the anticancer action of 5-FU,
-a commonly used chemotherapeutic agent. PPD may have a clinical value in 5-FU's
-cancer therapeutics.
-
-DOI: 10.3390/nu7020799 
-PMCID: PMC4344561
-PMID: 25625815  [Indexed for MEDLINE]
-
-
 41. J Funct Foods. 2015 Jan;12:92-108.
 
 Galacto-oligosaccharides and Colorectal Cancer: Feeding our Intestinal Probiome.
