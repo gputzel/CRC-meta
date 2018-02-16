@@ -2042,39 +2042,6 @@ DOI: 10.3389/fmicb.2015.00020
 PMCID: PMC4313696
 PMID: 25699023 
 
-45. Nutr Cancer. 2015;67(1):119-25. doi: 10.1080/01635581.2015.976317. Epub 2014 Dec 
-16.
-
-Antibiotic suppression of intestinal microbiota reduces heme-induced
-lipoperoxidation associated with colon carcinogenesis in rats.
-
-Martin OC(1), Lin C, Naud N, Tache S, Raymond-Letron I, Corpet DE, Pierre FH.
-
-Author information: 
-(1)a Université de Toulouse , UMR1331 Toxalim INRA, Toulouse , France.
-
-Epidemiological studies show that heme iron from red meat is associated with
-increased colorectal cancer risk. In carcinogen-induced-rats, a heme iron-rich
-diet increases the number of precancerous lesions and raises associated fecal
-biomarkers. Heme-induced lipoperoxidation measured by fecal thiobarbituric acid
-reagents (TBARs) could explain the promotion of colon carcinogenesis by heme.
-Using a factorial design we studied if microbiota could be involved in
-heme-induced carcinogenesis, by modulating peroxidation. Rats treated or not with
-an antibiotic cocktail were given a control or a hemoglobin-diet. Fecal bacteria 
-were counted on agar and TBARs concentration assayed in fecal water. The
-suppression of microbiota by antibiotics was associated with a reduction of crypt
-height and proliferation and with a cecum enlargement, which are characteristics 
-of germ-free rats. Rats given hemoglobin diets had increased fecal TBARs, which
-were suppressed by the antibiotic treatment. A duplicate experiment in rats given
-dietary hemin yielded similar results. These data show that the intestinal
-microbiota is involved in enhancement of lipoperoxidation by heme iron. We thus
-suggest that microbiota could play a role in the heme-induced promotion of
-colorectal carcinogenesis.
-
-DOI: 10.1080/01635581.2015.976317 
-PMID: 25514759  [Indexed for MEDLINE]
-
-
 46. Br J Nutr. 2015 Jan 28;113(2):225-38. doi: 10.1017/S0007114514003523. Epub 2014
 Dec 12.
 
