@@ -2766,32 +2766,6 @@ DOI: 10.1038/ismej.2012.43
 PMCID: PMC3446812
 PMID: 22622349  [Indexed for MEDLINE]
 
-26. Bull Acad Natl Med. 2011 Jun;195(6):1295-304; discussion 1304-5.
-
-[Microbiota and colorectal cancer: genotoxic bacteria in the intestinal tract].
-
-[Article in French]
-
-Nougayrède JP(1), Oswald E.
-
-Author information: 
-(1)Pathogénie moléculaire et cellulaire des infections à Escherichia coil, INRA
-USC--INSERM U1043, F-31000 Toulouse, France. jp.nougayred@envt.fr
-
-Numerous studies support a role for the intestinal microbiota in colorectal
-tumorigenesis. Although colon cancer has not yet been epidemiologically linked to
-specific bacterial species, recent results suggest that certain toxigenic
-commensal bacteria may be oncogenic Strains of Escherichia coli, a ubiquitous
-member of the colonic flora, synthesize a genotoxin called colibactin. These
-bacteria induce DNA double-strand breaks in intestinal cells and trigger
-chromosomal instability, gene mutations and cell transformation. Thus, long-term 
-colonization of the colon by rogue commensal bacteria capable of causing chronic 
-DNA damage could contribute to the development of sporadic colorectal cancer.
-
-
-PMID: 22530520  [Indexed for MEDLINE]
-
-
 27. Am J Physiol Gastrointest Liver Physiol. 2012 Jun 15;302(12):G1405-15. doi:
 10.1152/ajpgi.00543.2011. Epub 2012 Apr 19.
 
