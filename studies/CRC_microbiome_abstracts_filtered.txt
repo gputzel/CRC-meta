@@ -2870,40 +2870,6 @@ DOI: 10.1371/journal.pone.0020447
 PMCID: PMC3101260
 PMID: 21647227  [Indexed for MEDLINE]
 
-
-41. Med Hypotheses. 2011 May;76(5):670-2. doi: 10.1016/j.mehy.2011.01.028.
-
-Monitoring intestinal microbiota profile: a promising method for the ultraearly
-detection of colorectal cancer.
-
-Zhang MM(1), Cheng JQ, Xia L, Lu YR, Wu XT.
-
-Author information: 
-(1)Department of Gastrointestinal Surgery, West China Hospital, Sichuan
-University, Chengdu, Sichuan 610041, China.
-
-Colorectal cancer is one of the most common cancers and is very hard to be
-detected at an ultraearly stage because of lack of valuable predicating methods
-that often lead to treatment failure. Intestinal microbiota has long been
-considered to implicate in colorectal cancer pathology; and many recent reports
-point out a close linkage between the intestinal bacteria and the genesis of the 
-tumor. Present studies indicate that the structure and characteristics of the
-intestinal microbiota are significantly altered in colorectal cancer,
-precancerous lesion, and high risk population compared with healthy controls and 
-low risk population. Based on the current studies and theories, we postulate
-monitoring the intestinal bacterial profile by the molecular methods that could
-fulfill the ultraearly prediction about the degree of the risk developing into
-colorectal cancer. Further population-based epidemiological study is useful to
-reveal the characteristics of the intestinal microbiota in ultraearly colorectal 
-cancer, which might provide some novel prophylactic and therapeutic strategies
-for the colorectal cancer.
-
-Copyright © 2011 Elsevier Ltd. All rights reserved.
-
-DOI: 10.1016/j.mehy.2011.01.028 
-PMID: 21310543  [Indexed for MEDLINE]
-
-
 42. PLoS One. 2011 Jan 27;6(1):e16393. doi: 10.1371/journal.pone.0016393.
 
 Microbial dysbiosis in colorectal cancer (CRC) patients.
