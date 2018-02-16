@@ -2452,59 +2452,6 @@ DOI: 10.1186/2049-2618-1-16
 PMCID: PMC3971631
 PMID: 24450771 
 
-85. Cancer Res. 2014 Mar 1;74(5):1311-8. doi: 10.1158/0008-5472.CAN-13-1865. Epub
-2014 Jan 2.
-
-Fusobacterium in colonic flora and molecular features of colorectal carcinoma.
-
-Tahara T(1), Yamamoto E, Suzuki H, Maruyama R, Chung W, Garriga J, Jelinek J,
-Yamano HO, Sugai T, An B, Shureiqi I, Toyota M, Kondo Y, Estécio MR, Issa JP.
-
-Author information: 
-(1)Authors' Affiliations: Fels Institute for Cancer Research & Molecular Biology,
-Temple University School of Medicine, Philadelphia, Pennsylvania; Department of
-Gastroenterology, Fujita Health University School of Medicine, Toyoake; First
-Departments of Internal Medicine and Molecular Biology, Sapporo Medical
-University, Sapporo; Department of Gastroenterology, Akita Red Cross Hospital,
-Akita; Department of Pathology, Iwate Medical University, Morioka; Division of
-Molecular Oncology, Aichi Cancer Center Research Institute, Nagoya, Japan;
-Division of OVP, Department of Clinical Cancer Prevention, Cancer Prevention and 
-Population Sciences; Center for Cancer Epigenetics, The University of Texas MD
-Anderson Cancer Center, Houston; and Department of Molecular Carcinogenesis, The 
-University of Texas MD Anderson Cancer Center, Smithville, Texas.
-
-Fusobacterium species are part of the gut microbiome in humans. Recent studies
-have identified overrepresentation of Fusobacterium in colorectal cancer tissues,
-but it is not yet clear whether this is pathogenic or simply an epiphenomenon. In
-this study, we evaluated the relationship between Fusobacterium status and
-molecular features in colorectal cancers through quantitative real-time PCR in
-149 colorectal cancer tissues, 89 adjacent normal appearing mucosae and 72
-colonic mucosae from cancer-free individuals. Results were correlated with CpG
-island methylator phenotype (CIMP) status, microsatellite instability (MSI), and 
-mutations in BRAF, KRAS, TP53, CHD7, and CHD8. Whole-exome capture sequencing
-data were also available in 11 cases. Fusobacterium was detectable in 111 of 149 
-(74%) colorectal cancer tissues and heavily enriched in 9% (14/149) of the cases.
-As expected, Fusobacterium was also detected in normal appearing mucosae from
-both cancer and cancer-free individuals, but the amount of bacteria was much
-lower compared with colorectal cancer tissues (a mean of 250-fold lower for
-Pan-fusobacterium). We found the Fusobacterium-high colorectal cancer group
-(FB-high) to be associated with CIMP positivity (P = 0.001), TP53 wild-type (P = 
-0.015), hMLH1 methylation positivity (P = 0.0028), MSI (P = 0.018), and CHD7/8
-mutation positivity (P = 0.002). Among the 11 cases where whole-exome sequencing 
-data were available, two that were FB-high cases also had the highest number of
-somatic mutations (a mean of 736 per case in FB-high vs. 225 per case in all
-others). Taken together, our findings show that Fusobacterium enrichment is
-associated with specific molecular subsets of colorectal cancers, offering
-support for a pathogenic role in colorectal cancer for this gut microbiome
-component.
-
-©2014 AACR
-
-DOI: 10.1158/0008-5472.CAN-13-1865 
-PMCID: PMC4396185
-PMID: 24385213  [Indexed for MEDLINE]
-
-
 86. PLoS One. 2013 Dec 20;8(12):e81352. doi: 10.1371/journal.pone.0081352.
 eCollection 2013.
 
