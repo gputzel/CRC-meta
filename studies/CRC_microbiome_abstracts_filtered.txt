@@ -2956,45 +2956,6 @@ DOI: 10.4161/gmic.1.3.12360
 PMCID: PMC2927011
 PMID: 20740058  [Indexed for MEDLINE]
 
-47. Nutr J. 2009 Oct 21;8:49. doi: 10.1186/1475-2891-8-49.
-
-Associations between dietary habits and body mass index with gut microbiota
-composition and fecal water genotoxicity: an observational study in African
-American and Caucasian American volunteers.
-
-Mai V(1), McCrary QM, Sinha R, Glei M.
-
-Author information: 
-(1)Microbiology and Cell Science, Emerging Pathogens Institute, University of
-Florida, Gainesville, FL, USA. vmai@ufl.edu
-
-BACKGROUND: African Americans (AA) suffer from an increased incidence and
-mortality of colorectal cancer (CRC). Environmental exposures including dietary
-habits likely contribute to a high burden of CRC, however, data on the dietary
-habits of AA is sparse. Diet might change the composition and the activities of
-the intestinal microbiota, in turn affecting fecal genotoxicity/mutagenicity that
-is thought to be associated with carcinogenesis.
-METHODS: We assessed dietary habits by food frequency questionnaire and by food
-records in 52 AA and 46 CA residents of the Eastern Shore of MD. Fecal microbiota
-composition was determined using 16S rRNA based methods and fecal genotoxicity
-measured using the Comet assay.
-RESULTS: AA reported an increased intake of heterocyclic amines and a decreased
-dietary intake of vitamins including vitamin D (p<0.05) that correlated with
-differences in fecal microbiota composition but not fecal genotoxicity. Intake of
-dietary fiber, calcium, total fat and heterocyclic amines correlated with
-differences in microbiota composition. Total bacterial counts/g of stool and raw 
-counts of Bacteroides were increased in AA. In contrast to a previous study, BMI 
-was not associated with proportions of Bacteroides.
-CONCLUSION: Dietary habits of African Americans, including increased HCA intake
-and decreased vitamin D intake might at least partially contribute to CRC through
-modifications of gut microbiota composition that result in changes of the
-intestinal milieu.
-
-DOI: 10.1186/1475-2891-8-49 
-PMCID: PMC2773807
-PMID: 19845958  [Indexed for MEDLINE]
-
-
 48. PLoS One. 2009 Jun 24;4(6):e6026. doi: 10.1371/journal.pone.0006026.
 
 Modulation of the intestinal microbiota alters colitis-associated colorectal
