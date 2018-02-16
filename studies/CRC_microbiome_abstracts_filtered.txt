@@ -2618,44 +2618,6 @@ DOI: 10.1007/s00248-013-0245-9
 PMID: 23733170  [Indexed for MEDLINE]
 
 
-2. Proc Natl Acad Sci U S A. 2013 Jun 11;110(24):9862-7. doi:
-10.1073/pnas.1307575110. Epub 2013 May 21.
-
-Microbiota-induced activation of epithelial IL-6 signaling links
-inflammasome-driven inflammation with transmissible cancer.
-
-Hu B(1), Elinav E, Huber S, Strowig T, Hao L, Hafemann A, Jin C, Wunderlich C,
-Wunderlich T, Eisenbarth SC, Flavell RA.
-
-Author information: 
-(1)Departments of Immunobiology, Laboratory Medicine, and Howard Hughes Medical
-Institute, Yale University School of Medicine, New Haven, CT 06520, USA.
-
-Erratum in
-    Proc Natl Acad Sci U S A. 2013 Jul 30;110(31):12852. Wunderlich, Claudia [added];
-Wunderlich, Thomas [added].
-
-The microbiota is pivotal in the pathogenesis of inflammatory bowel disease
-(IBD)-associated inflammation-induced colorectal cancer (CRC), yet mechanisms for
-these effects remain poorly characterized. Here, we demonstrate that aberrant
-inflammasome-induced microbiota plays a critical role in CRC development, where
-mice deficient in the NOD-like receptor family pyrin domain containing 6 (NLRP6) 
-inflammasome feature enhanced inflammation-induced CRC formation. Intriguingly,
-WT mice cohoused either with inflammasome-deficient mice or with mice lacking
-IL-18 feature exacerbated inflammation-induced CRC compared with singly housed WT
-mice. Enhanced tumorigenesis is dependent on microbiota-induced chemokine (C-C
-motif) ligand 5 (CCL5)-driven inflammation, which in turn promotes epithelial
-cell proliferation through local activation of the IL-6 pathway, leading to
-cancer formation. Altogether, our results mechanistically link the altered
-microbiota with the pathogenesis of inflammation-induced CRC and suggest that in 
-some conditions, microbiota components may transfer CRC susceptibility between
-individuals.
-
-DOI: 10.1073/pnas.1307575110 
-PMCID: PMC3683709
-PMID: 23696660  [Indexed for MEDLINE]
-
-
 3. J Proteome Res. 2013 Jun 7;12(6):3000-9. doi: 10.1021/pr400337b. Epub 2013 May
 29.
 
