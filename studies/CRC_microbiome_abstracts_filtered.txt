@@ -2541,38 +2541,6 @@ DOI: 10.1093/jnci/djt300
 PMCID: PMC3866154
 PMID: 24316595  [Indexed for MEDLINE]
 
-94. Sci Rep. 2013 Oct 8;3:2868. doi: 10.1038/srep02868.
-
-VSL#3 probiotic modifies mucosal microbial composition but does not reduce
-colitis-associated colorectal cancer.
-
-Arthur JC(1), Gharaibeh RZ, Uronis JM, Perez-Chanona E, Sha W, Tomkovich S,
-Mühlbauer M, Fodor AA, Jobin C.
-
-Author information: 
-(1)Department of Medicine, Chapel Hill, NC 27599, USA.
-
-Although probiotics have shown success in preventing the development of
-experimental colitis-associated colorectal cancer (CRC), beneficial effects of
-interventional treatment are relatively unknown. Here we show that interventional
-treatment with VSL#3 probiotic alters the luminal and mucosally-adherent
-microbiota, but does not protect against inflammation or tumorigenesis in the
-azoxymethane (AOM)/Il10⁻/⁻ mouse model of colitis-associated CRC. VSL#3
-(10⁹ CFU/animal/day) significantly enhanced tumor penetrance, multiplicity,
-histologic dysplasia scores, and adenocarcinoma invasion relative to
-VSL#3-untreated mice. Illumina 16S sequencing demonstrated that VSL#3
-significantly decreased (16-fold) the abundance of a bacterial taxon assigned to 
-genus Clostridium in the mucosally-adherent microbiota. Mediation analysis by
-linear models suggested that this taxon was a contributing factor to increased
-tumorigenesis in VSL#3-fed mice. We conclude that VSL#3 interventional therapy
-can alter microbial community composition and enhance tumorigenesis in the
-AOM/Il10⁻/⁻ model.
-
-DOI: 10.1038/srep02868 
-PMCID: PMC3792409
-PMID: 24100376  [Indexed for MEDLINE]
-
-
 95. Cell Host Microbe. 2013 Aug 14;14(2):207-15. doi: 10.1016/j.chom.2013.07.007.
 
 Fusobacterium nucleatum potentiates intestinal tumorigenesis and modulates the
