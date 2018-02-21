@@ -2956,43 +2956,6 @@ DOI: 10.4161/gmic.1.3.12360
 PMCID: PMC2927011
 PMID: 20740058  [Indexed for MEDLINE]
 
-51. Environ Microbiol. 2008 Mar;10(3):789-98. doi: 10.1111/j.1462-2920.2007.01503.x.
-
-Culture-independent analysis of the gut microbiota in colorectal cancer and
-polyposis.
-
-Scanlan PD(1), Shanahan F, Clune Y, Collins JK, O'Sullivan GC, O'Riordan M,
-Holmes E, Wang Y, Marchesi JR.
-
-Author information: 
-(1)Department of Microbiology, University College Cork, Cork, Ireland.
-
-Erratum in
-    Environ Microbiol. 2008 May;10(5):1382.
-
-A role for the intestinal microbiota is routinely cited as a potential
-aetiological factor in colorectal cancer initiation and progression. As the
-majority of bacteria in the gut are refractory to culture we investigated this
-ecosystem in subjects with colorectal cancer and with adenomatous polyposis who
-are at high risk of developing colorectal cancer, using culture-independent
-methods. Twenty colorectal cancer and 20 polypectomized volunteers were chosen
-for this analysis. An exploration of the diversity and temporal stability of the 
-dominant bacteria and several bacterial subgroups was undertaken using 16S rRNA
-gene denaturing gradient gel electrophoresis and ribosomal intergenic spacer
-analysis (RISA). Metabonomic analysis of the distal gut microbiota's environment 
-was also undertaken. A significantly reduced temporal stability and increased
-diversity for the microbiota of subjects with colorectal cancer and polyposis was
-evident. A significantly increased diversity of the Clostridium leptum and C.
-coccoides subgroups was also noted for both disease groups. A clear division in
-the metabonome was observed for the colorectal cancer and polypectomized subjects
-compared with control volunteers. The intestinal microbiota and their metabolites
-are significantly altered in both colorectal cancer and polypectomized subjects
-compared with controls.
-
-DOI: 10.1111/j.1462-2920.2007.01503.x 
-PMID: 18237311  [Indexed for MEDLINE]
-
-
 52. World J Gastroenterol. 2007 Aug 7;13(29):3985-9.
 
 Qualitative and quantitative analyses of the bifidobacterial microbiota in the
