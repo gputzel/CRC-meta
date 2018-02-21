@@ -2956,48 +2956,6 @@ DOI: 10.4161/gmic.1.3.12360
 PMCID: PMC2927011
 PMID: 20740058  [Indexed for MEDLINE]
 
-52. World J Gastroenterol. 2007 Aug 7;13(29):3985-9.
-
-Qualitative and quantitative analyses of the bifidobacterial microbiota in the
-colonic mucosa of patients with colorectal cancer, diverticulitis and
-inflammatory bowel disease.
-
-Gueimonde M(1), Ouwehand A, Huhtinen H, Salminen E, Salminen S.
-
-Author information: 
-(1)Instituto de Productos Lacteos de Asturias (IPLA-CSIC). Ctra. Infiesto s/n,
-33300, Villaviciosa, Asturias, Spain. miguel.gueimonde@ipla.csic.es
-
-AIM: To characterize the bifidobacterial microbiota of the colonic mucosa in
-patients with colon cancer, inflammatory bowel disease or diverticuitis.
-METHODS: A sample of the distal colonic mucosa was taken during surgery from a
-total of 34 patients, twenty-one with diagnosed colorectal cancer, nine with
-diverticulitis and four with inflammatory bowel disease, requiring surgery for
-their condition. Bacterial DNA was extracted from the resected mucosal samples
-and bifidobacterial mucosa-associated microbiota was qualitatively and
-quantitatively determined by means of qualitative and quantitative PCR.
-RESULTS: Bifidobacteria were found in 100% of the samples from patients with
-diverticulitis or IBD and a 76% of those suffering colon cancer. The species B.
-longum and B. bifidum were the most widely found, followed by B. animalis, B.
-catenulatum and B. adolescentis. B. breve, B. dentium and B. angulatum were not
-detected in any sample. A significantly higher occurrence of B. longum was
-observed in patients with diverticulitis than in those with colon cancer or IBD
-(100%, 62% and 75%, respectively, P < 0.05). Similar results were obtained for B.
-animalis (56%, 0% and 25%, P < 0.05), while B. adolescentis was only found in the
-mucosa from patients with colon cancer (5 out of 21, 24%). At the quantitative
-level, patients with colon cancer or IBD showed lower counts of total
-Bifidobacterium (4.94 and 5.91 vs 6.96 log cells/sample, respectively, P < 0.05) 
-and of the species B. longum (4.05 and 4.79 vs 6.76, P < 0.05) than those with
-diverticulitis.
-CONCLUSION: Aberrancies in mucosa associated microbiota are present in different 
-intestinal diseases. This may indicate a role of the microbiota in the
-pathogenesis of these diseases.
-
-
-PMCID: PMC4171173
-PMID: 17663515  [Indexed for MEDLINE]
-
-
 53. Mol Cancer Res. 2006 Jan;4(1):9-14.
 
 Evidence that hydrogen sulfide is a genotoxic agent.
