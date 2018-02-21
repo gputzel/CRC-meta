@@ -2956,42 +2956,6 @@ DOI: 10.4161/gmic.1.3.12360
 PMCID: PMC2927011
 PMID: 20740058  [Indexed for MEDLINE]
 
-53. Mol Cancer Res. 2006 Jan;4(1):9-14.
-
-Evidence that hydrogen sulfide is a genotoxic agent.
-
-Attene-Ramos MS(1), Wagner ED, Plewa MJ, Gaskins HR.
-
-Author information: 
-(1)Department of Animal Sciences, University of Illinois, Urbana, IL, USA.
-
-Hydrogen sulfide (H2S) produced by commensal sulfate-reducing bacteria, which are
-often members of normal colonic microbiota, represents an environmental insult to
-the intestinal epithelium potentially contributing to chronic intestinal
-disorders that are dependent on gene-environment interactions. For example,
-epidemiologic studies reveal either persistent sulfate-reducing bacteria
-colonization or H2S in the gut or feces of patients suffering from ulcerative
-colitis and colorectal cancer. However, a mechanistic model that explains the
-connection between H2S and ulcerative colitis or colorectal cancer development
-has not been completely formulated. In this study, we examined the chronic
-cytotoxicity of sulfide using a microplate assay and genotoxicity using the
-single-cell gel electrophoresis (SCGE; comet assay) in Chinese hamster ovary
-(CHO) and HT29-Cl.16E cells. Sulfide showed chronic cytotoxicity in CHO cells
-with a %C1/2 of 368.57 micromol/L. Sulfide was not genotoxic in the standard SCGE
-assay. However, in a modified SCGE assay in which DNA repair was inhibited, a
-marked genotoxic effect was observed. A sulfide concentration as low as 250
-micromol/L (similar to that found in human colon) caused significant genomic DNA 
-damage. The HT29-Cl.16E colonocyte cell line also exhibited increased genomic DNA
-damage as a function of Na2S concentration when DNA repair was inhibited,
-although these cells were less sensitive to sulfide than CHO cells. These data
-indicate that given a predisposing genetic background that compromises DNA
-repair, H2S may lead to genomic instability or the cumulative mutations found in 
-adenomatous polyps leading to colorectal cancer.
-
-DOI: 10.1158/1541-7786.MCR-05-0126 
-PMID: 16446402  [Indexed for MEDLINE]
-
-
 54. Cancer Lett. 2004 Feb 10;204(1):15-21.
 
 Changes in cecal microbial metabolism of rats induced by individual and a mixture
