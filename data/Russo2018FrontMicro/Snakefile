@@ -1,0 +1,9 @@
+configfile: "config.json"
+
+SRP=config['SRP']
+
+rule download_runinfo:
+    output:
+        "sample_data/runinfo.csv"
+    shell:
+        'esearch -db sra -query "{SRP}" | efetch -format runinfo > sample_data/runinfo.csv'
