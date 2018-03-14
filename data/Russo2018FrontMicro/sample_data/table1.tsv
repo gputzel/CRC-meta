@@ -1,0 +1,21 @@
+subject	Diagnosis	Tumor site	Age range	Group	BMI
+CM7	1	Colon	75-80	CRC	20.81
+CM8	2	Colon	75-80	CRC	23.34
+CM10	1	Colon	75-80	CRC	24.22
+CM11	1	Colon	85-90	CRC	23.18
+CM18	1	Colon	80-85	CRC	26.85
+CM19	3	Colon	95-100	Adenoma	24.22
+CM20	1	Colon	75-80	CRC	17.96
+CM22	1	Colon	80-85	CRC	19.95
+CM23	2	Rectum	75-80	CRC	24.31
+CM24	2	Sigma-Rectum	70-75	CRC	34.02
+CFP1			80-85	Healthy	21.41
+CFP2			70-75	Healthy	25.31
+CFP3			80-85	Healthy	33.41
+CFP4			75-80	Healthy	22.15
+CFP6			80-85	Healthy	21.97
+CFP7			60-65	Healthy	23.08
+CFP8			70-75	Healthy	27.17
+CFP9			80-85	Healthy	25.31
+CFP10			70-75	Healthy	21.5
+CFP11			80-85	Healthy	29.41
