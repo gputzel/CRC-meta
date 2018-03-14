@@ -7,3 +7,9 @@ rule download_runinfo:
         "sample_data/runinfo.csv"
     shell:
         'esearch -db sra -query "{SRP}" | efetch -format runinfo > sample_data/runinfo.csv'
+
+rule download_xml:
+    output:
+        "sample_data/sra-info.xml"
+    shell:
+        'esearch -db sra -query "{SRP}" | efetch -format summary | xmllint --format - > sample_data/sra-info.xml'
