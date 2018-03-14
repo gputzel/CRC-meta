@@ -21,3 +21,12 @@ rule get_sample_info:
         "sample_data/sample_info.csv"
     script:
         "scripts/get_sample_info.py"
+
+rule join_sample_data:
+    input:
+        "sample_data/sample_info.csv",
+        "sample_data/table1.tsv"
+    output:
+        "sample_data/merged_sample_data.tsv"
+    script:
+        "scripts/join_sample_data.R"
