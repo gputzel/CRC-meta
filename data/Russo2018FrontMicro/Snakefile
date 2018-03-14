@@ -30,3 +30,25 @@ rule join_sample_data:
         "sample_data/merged_sample_data.tsv"
     script:
         "scripts/join_sample_data.R"
+
+rule select_samples:
+    input:
+        "sample_data/merged_sample_data.tsv"
+    output:
+        "sample_data/merged_sample_data_subset.tsv"
+    script:
+        "scripts/select_samples.R"
+
+rule download_sra:
+    input:
+        "sample_data/merged_sample_data_subset.tsv"
+    output:
+        "FASTQ"
+    shell:
+        "scripts/download_sra.sh"
+
+rule clear_fastq:
+    input:
+        "FASTQ"
+    shell:
+        "rm -r FASTQ"
