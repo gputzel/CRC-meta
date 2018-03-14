@@ -9,13 +9,13 @@ CM20	1	Colon	75-80	CRC	17.96
 CM22	1	Colon	80-85	CRC	19.95
 CM23	2	Rectum	75-80	CRC	24.31
 CM24	2	Sigma-Rectum	70-75	CRC	34.02
-CFP1			80-85	Healthy	21.41
-CFP2			70-75	Healthy	25.31
-CFP3			80-85	Healthy	33.41
-CFP4			75-80	Healthy	22.15
-CFP6			80-85	Healthy	21.97
-CFP7			60-65	Healthy	23.08
-CFP8			70-75	Healthy	27.17
-CFP9			80-85	Healthy	25.31
-CFP10			70-75	Healthy	21.5
-CFP11			80-85	Healthy	29.41
+CFP1	0	None	80-85	Healthy	21.41
+CFP2	0	None	70-75	Healthy	25.31
+CFP3	0	None	80-85	Healthy	33.41
+CFP4	0	None	75-80	Healthy	22.15
+CFP6	0	None	80-85	Healthy	21.97
+CFP7	0	None	60-65	Healthy	23.08
+CFP8	0	None	70-75	Healthy	27.17
+CFP9	0	None	80-85	Healthy	25.31
+CFP10	0	None	70-75	Healthy	21.5
+CFP11	0	None	80-85	Healthy	29.41
