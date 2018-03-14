@@ -2,14 +2,22 @@ configfile: "config.json"
 
 SRP=config['SRP']
 
-rule download_runinfo:
-    output:
-        "sample_data/runinfo.csv"
-    shell:
-        'esearch -db sra -query "{SRP}" | efetch -format runinfo > sample_data/runinfo.csv'
+#rule download_runinfo:
+#    output:
+#        "sample_data/runinfo.csv"
+#    shell:
+#        'esearch -db sra -query "{SRP}" | efetch -format runinfo > sample_data/runinfo.csv'
 
 rule download_xml:
     output:
         "sample_data/sra-info.xml"
     shell:
         'esearch -db sra -query "{SRP}" | efetch -format summary | xmllint --format - > sample_data/sra-info.xml'
+
+rule get_sample_info:
+    input:
+        "sample_data/sra-info.xml"
+    output:
+        "sample_data/sample_info.csv"
+    script:
+        "scripts/get_sample_info.py"
