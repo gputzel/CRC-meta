@@ -11,6 +11,8 @@ SRP=config['SRP']
 rule download_xml:
     output:
         "sample_data/sra-info.xml"
+    conda:
+        "envs/entrez-direct.yaml"
     shell:
         'esearch -db sra -query "{SRP}" | efetch -format summary | xmllint --format - > sample_data/sra-info.xml'
 
@@ -19,6 +21,8 @@ rule get_sample_info:
         "sample_data/sra-info.xml"
     output:
         "sample_data/sample_info.csv"
+    conda:
+        "envs/get_sample_info.yaml"
     script:
         "scripts/get_sample_info.py"
 
@@ -44,6 +48,8 @@ rule download_sra:
         "sample_data/merged_sample_data_subset.tsv"
     output:
         "FASTQ"
+    conda:
+        "envs/sra-tools.yaml"
     shell:
         "scripts/download_sra.sh"
 
