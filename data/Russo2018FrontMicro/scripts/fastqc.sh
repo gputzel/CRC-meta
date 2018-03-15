@@ -8,4 +8,5 @@ do
     name=${f2/pass_/}
     echo $name
     gzcat $f | $FASTQC stdin; mv stdin_fastqc.html ../FASTQC/"$name"_FastQC.html
+    rm stdin_fastqc.zip
 done
