@@ -52,3 +52,11 @@ rule clear_fastq:
         "FASTQ"
     shell:
         "rm -r FASTQ"
+
+rule fastqc:
+    input:
+        "FASTQ"
+    output:
+        "FASTQC"
+    shell:
+        "scripts/fastqc.sh"
