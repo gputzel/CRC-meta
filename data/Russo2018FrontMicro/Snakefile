@@ -60,3 +60,11 @@ rule fastqc:
         "FASTQC"
     shell:
         "scripts/fastqc.sh"
+
+rule rename_fastq:
+    input:
+        "FASTQ"
+    output:
+        "FASTQ_renamed/"
+    shell:
+        "scripts/rename_fastq.sh"
