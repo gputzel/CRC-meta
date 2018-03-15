@@ -68,3 +68,11 @@ rule rename_fastq:
         "FASTQ_renamed/"
     shell:
         "scripts/rename_fastq.sh"
+
+rule qiime2_import:
+    input:
+        "FASTQ_renamed/"
+    output:
+        "qiime2/fastq.qza"
+    shell:
+        "scripts/qiime2_import.sh"

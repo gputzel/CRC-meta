@@ -1,11 +1,9 @@
 #!/bin/bash
 
-for file in $(ls FASTQ)
+for path in $(ls FASTQ/*.fastq.gz)
 do
-    echo $file
+    file=${path##*/}
     f=${file/_pass_/_1_L001_R}
     f2=${f/\.fastq/_001.fastq}
-    echo $f2
     ln -s ../FASTQ/$file FASTQ_renamed/$f2
-    echo "****"
 done
