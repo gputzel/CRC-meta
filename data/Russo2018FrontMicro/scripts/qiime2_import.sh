@@ -1,5 +1,7 @@
 #!/bin/bash
 
+qiime --help
+
 qiime tools import \
     --type 'SampleData[PairedEndSequencesWithQuality]' \
     --input-path FASTQ_renamed \

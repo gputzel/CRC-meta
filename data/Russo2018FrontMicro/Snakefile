@@ -74,5 +74,7 @@ rule qiime2_import:
         "FASTQ_renamed/"
     output:
         "qiime2/fastq.qza"
+    conda:
+        "envs/qiime2-2018.2-py35-osx-conda.yml"
     shell:
         "scripts/qiime2_import.sh"
