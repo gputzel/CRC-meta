@@ -67,7 +67,9 @@ rule fastqc:
     input:
         "FASTQ"
     output:
-        "FASTQC"
+        "FASTQC/"
+    conda:
+        "envs/fastqc.yaml"
     shell:
         "scripts/fastqc.sh"
 
