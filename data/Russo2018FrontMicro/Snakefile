@@ -42,6 +42,8 @@ rule select_samples:
         "sample_data/merged_sample_data.tsv"
     output:
         "sample_data/merged_sample_data_subset.tsv"
+    conda:
+        "envs/r-env.yaml"
     script:
         "scripts/select_samples.R"
 
