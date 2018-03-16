@@ -87,7 +87,7 @@ rule qiime2_import:
     output:
         "qiime2/fastq.qza"
     conda:
-        "envs/qiime2-2018.2-py35-osx-conda.yml"
+        "envs/qiime2-2018.2-py35-linux-conda.yml"
     shell:
         "scripts/qiime2_import.sh"
 
@@ -98,6 +98,6 @@ rule qiime2_dada2:
         "qiime2/dada2/table.qza",
         "qiime2/dada2/rep_seqs.qza"
     conda:
-        "envs/qiime2-2018.2-py35-osx-conda.yml"
+        "envs/qiime2-2018.2-py35-linux-conda.yml"
     shell:
         "scripts/qiime2_dada2.sh"
