@@ -32,6 +32,8 @@ rule join_sample_data:
         "sample_data/table1.tsv"
     output:
         "sample_data/merged_sample_data.tsv"
+    conda:
+        "envs/r-env.yaml"
     script:
         "scripts/join_sample_data.R"
 
