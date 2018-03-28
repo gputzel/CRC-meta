@@ -117,3 +117,11 @@ rule usearch_mergepairs:
         "usearch/merged.fq"
     shell:
         "usearch -fastq_mergepairs usearch/FASTQ/*R1*.fastq -fastqout usearch/merged.fq -relabel @"
+
+rule usearch_fastq_info:
+    input:
+        "usearch/FASTQ/{filename}.fastq"
+    output:
+        "usearch/FASTQ_info/{filename}.txt"
+    shell:
+        "usearch -fastx_info {input} -output {output}"
