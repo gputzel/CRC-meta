@@ -1,6 +1,7 @@
 configfile: "config.json"
 
 SRP=config['SRP']
+IDS = glob_wildcards("FASTQ/{id}_pass_1.fastq.gz")
 
 #rule download_runinfo:
 #    output:
