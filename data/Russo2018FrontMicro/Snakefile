@@ -1,7 +1,10 @@
 configfile: "config.json"
 
 SRP=config['SRP']
-IDS = glob_wildcards("FASTQ/{id}_pass_1.fastq.gz")
+IDS, = glob_wildcards("FASTQ/{id}_pass_1.fastq.gz")
+
+from snakemake.remote.NCBI import RemoteProvider as NCBIRemoteProvider
+NCBI = NCBIRemoteProvider(email=config['user_email']) 
 
 #rule download_runinfo:
 #    output:
@@ -121,8 +124,73 @@ rule usearch_mergepairs:
 
 rule usearch_fastq_info:
     input:
+        expand("usearch/FASTQ_info/{id}_1_L001_R1_001.txt",id=IDS),
+        expand("usearch/FASTQ_info/{id}_1_L001_R2_001.txt",id=IDS),
+
+rule usearch_fasta_sample:
+    input:
+        expand("usearch/FASTA_sample/{id}_1_L001_R1_001.fasta",id=IDS)
+
+rule usearch_fasta_sample_onefile:
+    input:
+        "usearch/FASTQ/{filename}.fastq"
+    output:
+        temp("usearch/FASTA_sample/{filename}.fasta")
+    conda:
+        "envs/seqtk.yaml"
+    shell:
+        "seqtk sample -s100 {input} 10 | seqtk seq -a - > {output}"
+
+rule usearch_fasta_rc_sample:
+    input:
+        expand("usearch/FASTA_rc_sample/{id}_1_L001_R2_001.fasta",id=IDS)
+
+rule usearch_fasta_rc_sample_onefile:
+    input:
+        "usearch/FASTQ/{filename}.fastq"
+    output:
+        temp("usearch/FASTA_rc_sample/{filename}.fasta")
+    shell:
+        "seqtk sample -s100 {input} 10 | seqtk seq -r - | seqtk seq -a - > {output}"
+
+rule usearch_fastq_info_onefile:
+    input:
         "usearch/FASTQ/{filename}.fastq"
     output:
         "usearch/FASTQ_info/{filename}.txt"
     shell:
         "usearch -fastx_info {input} -output {output}"
+
+rule usearch_E_coli_ref:
+    input:
+        ecoli=NCBI.remote("J01859.1.fasta",db="nuccore")
+    output:
+        temp("usearch/E_coli_J01859.1.fasta")
+    shell:
+        "cp {input.ecoli} {output}"
+
+rule usearch_cat_E_coli_ref:
+    input:
+        expand("usearch/FASTA_with_E_coli_ref/{id}.fasta",id=IDS)
+
+rule usearch_cat_E_coli_ref_onefile:
+    input:
+        ecoli="usearch/E_coli_J01859.1.fasta",
+        forward="usearch/FASTA_sample/{id}_1_L001_R1_001.fasta",
+        reverse="usearch/FASTA_rc_sample/{id}_1_L001_R2_001.fasta"
+    output:
+        temp("usearch/FASTA_with_E_coli_ref/{id}.fasta")
+    shell:
+        "cat {input.ecoli} {input.forward} {input.reverse} > {output}"
+
+rule usearch_align_with_E_coli_ref:
+    input:
+        expand("usearch/FASTA_E_coli_align/{id}.aln",id=IDS)
+
+rule usearch_align_with_E_coli_ref_onefile:
+    input:
+        "usearch/FASTA_with_E_coli_ref/{id}.fasta"
+    output:
+        "usearch/FASTA_E_coli_align/{id}.aln"
+    shell:
+        "clustal_omega -i {input} > {output}"
