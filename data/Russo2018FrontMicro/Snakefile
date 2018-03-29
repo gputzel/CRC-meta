@@ -7,6 +7,9 @@ IDS, = glob_wildcards("FASTQ/{id}_pass_1.fastq.gz")
 from snakemake.remote.NCBI import RemoteProvider as NCBIRemoteProvider
 NCBI = NCBIRemoteProvider(email=config['user_email']) 
 
+from snakemake.remote.HTTP import RemoteProvider as HTTPRemoteProvider
+HTTP = HTTPRemoteProvider()
+
 #rule download_runinfo:
 #    output:
 #        "sample_data/runinfo.csv"
@@ -243,3 +246,46 @@ rule usearch_otu_table:
         map="usearch/map.txt"
     shell:
         "usearch -otutab {input.reads} -otus {input.otus} -otutabout {output.otutable} -mapout {output.map}"
+
+rule usearch_decompress_SILVA:
+    input:
+        "usearch/ltp_16s_v123.fa.gz"
+    output:
+        "usearch/ltp_16s_v123.fa"
+    shell:
+        "gzcat {input} > {output}"
+
+rule usearch_download_SILVA:
+    input:
+        silva_gz=HTTP.remote("https://www.drive5.com/sintax/ltp_16s_v123.fa.gz",keep_local=False) 
+    output:
+        temp("usearch/ltp_16s_v123.fa.gz")
+    shell:
+        "cp {input.silva_gz} {output}"
+
+rule usearch_makeudb_sintax:
+    input:
+        "usearch/ltp_16s_v123.fa"
+    output:
+        "usearch/ltp_16s_v123.udb"
+    shell:
+        "usearch -makeudb_sintax {input} -output {output}"
+
+rule usearch_sintax:
+    input:
+        db="usearch/ltp_16s_v123.udb",
+        otus="usearch/otus.fa"
+    output:
+        "usearch/taxonomy.txt"
+    log: "logs/usearch/taxonomy.log"
+    shell:
+        "usearch -sintax {input.otus} -db {input.db} -tabbedout {output} -strand both -sintax_cutoff 0.8 2> {log}"
+
+rule usearch_maketree:
+    input:
+        "usearch/otus.fa"
+    output:
+        "usearch/otus.tre"
+    log: "logs/usearch/maketree.log"
+    shell:
+        "usearch -cluster_agg {input} -treeout {output} 2> {log}"
