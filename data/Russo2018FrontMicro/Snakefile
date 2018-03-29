@@ -1,6 +1,7 @@
 configfile: "config.json"
 
 SRP=config['SRP']
+usearch_maxEE=config['usearch_maxEE']
 IDS, = glob_wildcards("FASTQ/{id}_pass_1.fastq.gz")
 
 from snakemake.remote.NCBI import RemoteProvider as NCBIRemoteProvider
@@ -114,14 +115,6 @@ rule usearch_decompress:
     shell:
         "scripts/usearch_decompress.sh"
 
-rule usearch_mergepairs:
-    input:
-        "usearch/FASTQ"
-    output:
-        "usearch/merged.fq"
-    shell:
-        "usearch -fastq_mergepairs usearch/FASTQ/*R1*.fastq -fastqout usearch/merged.fq -relabel @"
-
 rule usearch_fastq_info:
     input:
         expand("usearch/FASTQ_info/{id}_1_L001_R1_001.txt",id=IDS),
@@ -194,3 +187,59 @@ rule usearch_align_with_E_coli_ref_onefile:
         "usearch/FASTA_E_coli_align/{id}.aln"
     shell:
         "clustal_omega -i {input} > {output}"
+
+rule usearch_fastq_eestats2:
+    input:
+        expand("usearch/eestats2/{id}_1_L001_R1_001.txt",id=IDS),
+        expand("usearch/eestats2/{id}_1_L001_R2_001.txt",id=IDS)
+
+rule usearch_fastq_eestats2_onefile:
+    input:
+        "usearch/FASTQ/{filename}.fastq",
+    output:
+        "usearch/eestats2/{filename}.txt"
+    shell:
+        "usearch -fastq_eestats2 {input} -output {output} -length_cutoffs 170,300,10"
+
+rule usearch_fastq_mergepairs:
+    input:
+        expand("usearch/FASTQ/{id}_1_L001_R1_001.fastq",id=IDS),
+        expand("usearch/FASTQ/{id}_1_L001_R2_001.fastq",id=IDS)
+    output:
+        "usearch/merged.fq"
+    shell:
+        "usearch -fastq_mergepairs usearch/FASTQ/*R1*.fastq -relabel @ -fastq_maxdiffs 10 -fastq_pctid 80 -fastqout {output}"
+
+rule usearch_fastq_filter:
+    input:
+        "usearch/merged.fq"
+    output:
+        "usearch/filtered.fa"
+    shell:
+        "usearch -fastq_filter {input} -fastq_maxee {usearch_maxEE} -fastaout {output}"
+
+rule usearch_uniques:
+    input:
+        "usearch/filtered.fa"
+    output:
+        "usearch/uniques.fa"
+    shell:
+        "usearch -fastx_uniques {input} -fastaout {output} -sizeout -relabel Uniq"
+
+rule usearch_cluster_otus:
+    input:
+        "usearch/uniques.fa",
+    output:
+        "usearch/otus.fa"
+    shell:
+        "usearch -cluster_otus {input} -otus {output} -relabel Otu"
+
+rule usearch_otu_table:
+    input:
+        reads="usearch/merged.fq",
+        otus="usearch/otus.fa",
+    output:
+        otutable="usearch/otutab.txt",
+        map="usearch/map.txt"
+    shell:
+        "usearch -otutab {input.reads} -otus {input.otus} -otutabout {output.otutable} -mapout {output.map}"
