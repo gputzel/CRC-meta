@@ -263,17 +263,25 @@ rule usearch_download_SILVA:
     shell:
         "cp {input.silva_gz} {output}"
 
+rule usearch_download_RDPtraining:
+    input:
+        RDP_gz=HTTP.remote("https://www.drive5.com/sintax/rdp_16s_v16.fa.gz",keep_local=False)
+    output:
+        "usearch/rdp_16s_v16.fa"
+    shell:
+        "gzcat {input} > {output}"
+
 rule usearch_makeudb_sintax:
     input:
-        "usearch/ltp_16s_v123.fa"
+        "usearch/{database}.fa"
     output:
-        "usearch/ltp_16s_v123.udb"
+        "usearch/{database}.udb"
     shell:
         "usearch -makeudb_sintax {input} -output {output}"
 
 rule usearch_sintax:
     input:
-        db="usearch/ltp_16s_v123.udb",
+        db="usearch/rdp_16s_v16.udb",
         otus="usearch/otus.fa"
     output:
         "usearch/taxonomy.txt"
@@ -297,6 +305,6 @@ rule usearch_to_phyloseq:
         tree="usearch/otus.tre",
         sample_data="sample_data/merged_sample_data_subset.tsv"
     output:
-        "usearch/ps_usearch.rds"
+        ps_file="usearch/ps_usearch.rds"
     script:
         "scripts/usearch_to_phyloseq.R"
