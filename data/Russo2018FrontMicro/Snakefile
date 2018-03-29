@@ -289,3 +289,14 @@ rule usearch_maketree:
     log: "logs/usearch/maketree.log"
     shell:
         "usearch -cluster_agg {input} -treeout {output} 2> {log}"
+
+rule usearch_to_phyloseq:
+    input:
+        otu_table="usearch/otutab.txt",
+        taxonomy="usearch/taxonomy.txt",
+        tree="usearch/otus.tre",
+        sample_data="sample_data/merged_sample_data_subset.tsv"
+    output:
+        "usearch/ps_usearch.rds"
+    script:
+        "scripts/usearch_to_phyloseq.R"
