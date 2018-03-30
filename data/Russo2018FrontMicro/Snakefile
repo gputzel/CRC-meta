@@ -257,8 +257,7 @@ rule usearch_fastq_eestats2_onefile:
 
 rule usearch_fastq_mergepairs:
     input:
-        expand("usearch/FASTQ/{id}_L001_R1_001.fastq",id=IDS),
-        expand("usearch/FASTQ/{id}_L001_R2_001.fastq",id=IDS)
+        expand("usearch/FASTQ/{id}_L001_R{end}_001.fastq",id=IDS,end=['1','2'])
     output:
         "usearch/merged.fq"
     shell:
