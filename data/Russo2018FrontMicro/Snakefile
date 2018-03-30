@@ -83,15 +83,21 @@ rule fastqc:
 
 rule rename_fastq:
     input:
-        "FASTQ"
+        expand("FASTQ_renamed/{id}_L001_R1_001.fastq.gz",id=IDS),
+        expand("FASTQ_renamed/{id}_L001_R2_001.fastq.gz",id=IDS)
+
+rule rename_fastq_onefile:
+    input:
+        "FASTQ/{SRR}_pass_{end}.fastq.gz"
     output:
-        "FASTQ_renamed/"
+        "FASTQ_renamed/{SRR}_L001_R{end}_001.fastq.gz"
     shell:
-        "scripts/rename_fastq.sh"
+        "ln -s ../{input} {output}"
 
 rule qiime2_import:
     input:
-        "FASTQ_renamed/"
+        expand("FASTQ_renamed/{id}_L001_R1_001.fastq.gz",id=IDS),
+        expand("FASTQ_renamed/{id}_L001_R2_001.fastq.gz",id=IDS)
     output:
         "qiime2/fastq.qza"
     conda:
@@ -144,22 +150,33 @@ rule qiime2_feature_table_summarize:
         " --o-visualization {output}" +
         " --m-sample-metadata-file {input.metadata}"
 
-rule usearch_decompress:
+#rule usearch_decompress:
+#    input:
+#        "FASTQ_renamed"
+#    output:
+#        "usearch/FASTQ"
+#    shell:
+#        "scripts/usearch_decompress.sh"
+
+rule usearch_decompress_fastq:
     input:
-        "FASTQ_renamed"
+        expand("usearch/FASTQ/{id}_L001_R{end}_001.fastq",id=IDS,end=['1','2'])
+
+rule usearch_decompress_fastq_onefile:
+    input:
+        "FASTQ_renamed/{file}.fastq.gz"
     output:
-        "usearch/FASTQ"
+        "usearch/FASTQ/{file}.fastq"
     shell:
-        "scripts/usearch_decompress.sh"
+        "gzcat {input} > {output}"
 
 rule usearch_fastq_info:
     input:
-        expand("usearch/FASTQ_info/{id}_1_L001_R1_001.txt",id=IDS),
-        expand("usearch/FASTQ_info/{id}_1_L001_R2_001.txt",id=IDS),
+        expand("usearch/FASTQ_info/{id}_L001_R{end}_001.txt",id=IDS,end=['1','2'])
 
 rule usearch_fasta_sample:
     input:
-        expand("usearch/FASTA_sample/{id}_1_L001_R1_001.fasta",id=IDS)
+        expand("usearch/FASTA_sample/{id}_L001_R1_001.fasta",id=IDS)
 
 rule usearch_fasta_sample_onefile:
     input:
@@ -173,7 +190,7 @@ rule usearch_fasta_sample_onefile:
 
 rule usearch_fasta_rc_sample:
     input:
-        expand("usearch/FASTA_rc_sample/{id}_1_L001_R2_001.fasta",id=IDS)
+        expand("usearch/FASTA_rc_sample/{id}_L001_R2_001.fasta",id=IDS)
 
 rule usearch_fasta_rc_sample_onefile:
     input:
@@ -206,8 +223,8 @@ rule usearch_cat_E_coli_ref:
 rule usearch_cat_E_coli_ref_onefile:
     input:
         ecoli="usearch/E_coli_J01859.1.fasta",
-        forward="usearch/FASTA_sample/{id}_1_L001_R1_001.fasta",
-        reverse="usearch/FASTA_rc_sample/{id}_1_L001_R2_001.fasta"
+        forward="usearch/FASTA_sample/{id}_L001_R1_001.fasta",
+        reverse="usearch/FASTA_rc_sample/{id}_L001_R2_001.fasta"
     output:
         temp("usearch/FASTA_with_E_coli_ref/{id}.fasta")
     shell:
@@ -227,8 +244,8 @@ rule usearch_align_with_E_coli_ref_onefile:
 
 rule usearch_fastq_eestats2:
     input:
-        expand("usearch/eestats2/{id}_1_L001_R1_001.txt",id=IDS),
-        expand("usearch/eestats2/{id}_1_L001_R2_001.txt",id=IDS)
+        expand("usearch/eestats2/{id}_L001_R1_001.txt",id=IDS),
+        expand("usearch/eestats2/{id}_L001_R2_001.txt",id=IDS)
 
 rule usearch_fastq_eestats2_onefile:
     input:
@@ -240,8 +257,8 @@ rule usearch_fastq_eestats2_onefile:
 
 rule usearch_fastq_mergepairs:
     input:
-        expand("usearch/FASTQ/{id}_1_L001_R1_001.fastq",id=IDS),
-        expand("usearch/FASTQ/{id}_1_L001_R2_001.fastq",id=IDS)
+        expand("usearch/FASTQ/{id}_L001_R1_001.fastq",id=IDS),
+        expand("usearch/FASTQ/{id}_L001_R2_001.fastq",id=IDS)
     output:
         "usearch/merged.fq"
     shell:
