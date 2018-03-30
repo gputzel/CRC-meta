@@ -112,6 +112,38 @@ rule qiime2_dada2:
     shell:
         "scripts/qiime2_dada2.sh 2> {log}"
 
+rule qiime2_format_metadata:
+    input:
+        "sample_data/merged_sample_data_subset.tsv"
+    output:
+        temp("qiime2/metadata.tsv")
+    shell:
+        "scripts/qiime2_format_metadata.sh"
+
+rule qiime2_metadata_tabulate:
+    input:
+        "qiime2/metadata.tsv"
+    output: 
+        "qiime2/metadata.qzv"
+    conda:
+        "envs/qiime2-2018.2-py35-osx-conda.yml"
+    shell:
+        "qiime metadata tabulate --m-input-file {input} --o-visualization {output}"
+
+rule qiime2_feature_table_summarize:
+    input:
+        table="qiime2/{method}/table.qza",
+        metadata="qiime2/metadata.tsv"
+    output:
+        "qiime2/{method}/table.qzv"
+    conda:
+        "envs/qiime2-2018.2-py35-osx-conda.yml"
+    shell:
+        "qiime feature-table summarize" +
+        " --i-table {input.table}" +
+        " --o-visualization {output}" +
+        " --m-sample-metadata-file {input.metadata}"
+
 rule usearch_decompress:
     input:
         "FASTQ_renamed"
