@@ -105,10 +105,12 @@ rule qiime2_dada2:
     output:
         "qiime2/dada2/table.qza",
         "qiime2/dada2/rep_seqs.qza"
+    log:
+        "logs/qiime2/dada2"
     conda:
         "envs/qiime2-2018.2-py35-osx-conda.yml"
     shell:
-        "scripts/qiime2_dada2.sh"
+        "scripts/qiime2_dada2.sh 2> {log}"
 
 rule usearch_decompress:
     input:
