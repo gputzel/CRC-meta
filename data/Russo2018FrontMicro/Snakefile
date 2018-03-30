@@ -186,7 +186,7 @@ rule usearch_fasta_sample_onefile:
     conda:
         "envs/seqtk.yaml"
     shell:
-        "seqtk sample -s100 {input} 10 | seqtk seq -a - > {output}"
+        "seqtk sample -s100 {input} 20 | seqtk seq -a - > {output}"
 
 rule usearch_fasta_rc_sample:
     input:
@@ -198,7 +198,18 @@ rule usearch_fasta_rc_sample_onefile:
     output:
         temp("usearch/FASTA_rc_sample/{filename}.fasta")
     shell:
-        "seqtk sample -s100 {input} 10 | seqtk seq -r - | seqtk seq -a - > {output}"
+        "seqtk sample -s100 {input} 20 | seqtk seq -r - | seqtk seq -a - > {output}"
+
+rule usearch_fasta_sample_interleave:
+    input:
+        forward="usearch/FASTA_sample/{filename}_R1_001.fasta",
+        reverse="usearch/FASTA_rc_sample/{filename}_R2_001.fasta"
+    output:
+        temp("usearch/FASTA_sample_interleave/{filename}.fasta")
+    conda:
+        "envs/seqtk.yaml"
+    shell:
+        "seqtk mergepe {input.forward} {input.reverse} > {output}"
 
 rule usearch_fastq_info_onefile:
     input:
@@ -223,14 +234,13 @@ rule usearch_cat_E_coli_ref:
 rule usearch_cat_E_coli_ref_onefile:
     input:
         ecoli="usearch/E_coli_J01859.1.fasta",
-        forward="usearch/FASTA_sample/{id}_L001_R1_001.fasta",
-        reverse="usearch/FASTA_rc_sample/{id}_L001_R2_001.fasta"
+        reads="usearch/FASTA_sample_interleave/{id}_L001.fasta"
     output:
         temp("usearch/FASTA_with_E_coli_ref/{id}.fasta")
     shell:
-        "cat {input.ecoli} {input.forward} {input.reverse} > {output}"
+        "cat {input.ecoli} {input.reads} > {output}"
 
-rule usearch_align_with_E_coli_ref:
+rule usearch_E_coli_align:
     input:
         expand("usearch/FASTA_E_coli_align/{id}.aln",id=IDS)
 
