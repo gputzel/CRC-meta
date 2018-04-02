@@ -15,6 +15,12 @@ with open('sample_data/fastq_files.txt','r') as f:
 with open('sample_data/samples.txt','r') as f:
     samples = [l.rstrip() for l in f.readlines()]
 
+sample_short_names = {}
+with open('sample_data/short_sample_names.txt','r') as f:
+    for l in f.readlines():
+        long_name,short_name = l.rstrip().split()
+        sample_short_names[long_name] = short_name
+
 usearch_maxEE=config['usearch_maxEE']
 
 rule download_sample_data:
@@ -162,3 +168,13 @@ rule:
         "qiime1/FASTQ_joined/{sample}"
     shell:
        "join_paired_ends.py -f {input.forward} -r {input.reverse} -o {output}"
+
+rule qiime1_joined_all:
+    input:
+        expand("qiime1/FASTQ_joined/{sample}/fastqjoin.join.fastq",sample=samples)
+    output:
+        ["qiime1/FASTQ_joined_all/" + sample_short_names[long_name] + ".fastq" for long_name in samples]
+    run:
+        for long_name in samples:
+            short_name = sample_short_names[long_name]
+            shell("ln -s ../FASTQ_joined/{long_name}/fastqjoin.join.fastq qiime1/FASTQ_joined_all/{short_name}.fastq")
