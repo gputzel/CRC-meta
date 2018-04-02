@@ -1,0 +1,23 @@
+configfile: "config.json"
+
+from snakemake.remote.HTTP import RemoteProvider as HTTPRemoteProvider
+HTTP = HTTPRemoteProvider()
+
+sample_data_url=config['sample_data_url']
+fastq_url=config['fastq_url']
+
+rule download_sample_data:
+    input:
+        HTTP.remote(sample_data_url,keep_local=False)
+    output:
+        "sample_data/EDRN_MIMARKS.xlsx"
+    shell:
+        "cp {input} {output}"
+
+rule download_fastq:
+    input:
+        HTTP.remote(fastq_url,keep_local=False)
+    output:
+        "FASTQ/Zackular_EDRN_fastq_files.gz.tar"
+    shell:
+        "cp {input} {output}"
