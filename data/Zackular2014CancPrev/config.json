@@ -2,6 +2,6 @@
     "fastq_url":"https://www.mothur.org/MicrobiomeBiomarkerCRC/Zackular_EDRN_fastq_files.gz.tar",
     "user_email":"gregputzel@med.cornell.edu",    
     "sample_data_url":"https://www.mothur.org/MicrobiomeBiomarkerCRC/EDRN_MIMARKS.xlsx",
-    "usearch_maxEE":"1.0"
-    
+    "usearch_maxEE":"1.0",
+    "greengenes_13_8_path":"/macqiime/anaconda/lib/python2.7/site-packages/qiime_default_reference/gg_13_8_otus"
 }

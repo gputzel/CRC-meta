@@ -22,6 +22,7 @@ with open('sample_data/short_sample_names.txt','r') as f:
         sample_short_names[long_name] = short_name
 
 usearch_maxEE=config['usearch_maxEE']
+greengenes_13_8_path=config['greengenes_13_8_path']
 
 rule download_sample_data:
     input:
@@ -178,3 +179,27 @@ rule qiime1_joined_all:
         for long_name in samples:
             short_name = sample_short_names[long_name]
             shell("ln -s ../FASTQ_joined/{long_name}/fastqjoin.join.fastq qiime1/FASTQ_joined_all/{short_name}.fastq")
+
+rule qiime1_split_libraries:
+    input:
+        ["qiime1/FASTQ_joined_all/" + sample_short_names[long_name] + ".fastq" for long_name in samples]
+    output:
+        "qiime1/split_libraries"
+    shell:
+        "multiple_split_libraries_fastq.py -i qiime1/FASTQ_joined_all -p qiime1_params/split_libraries_fastq_params.txt -o qiime1/split_libraries --demultiplexing_method sampleid_by_file --sampleid_indicator ."
+
+rule qiime1_identify_chimeras:
+    input:
+        "qiime1/split_libraries/seqs.fna"
+    output:
+        "qiime1/chimera_check_usearch61"
+    shell:
+        "identify_chimeric_seqs.py -m usearch61 -i qiime1/split_libraries/seqs.fna -r {greengenes_13_8_path}/rep_set/97_otus.fasta -o qiime1/chimera_check_usearch61"
+
+rule qiime1_remove_chimeras:
+    input:
+        "qiime1/chimera_check_usearch61"
+    output:
+        "qiime1/remove_chimeras/seqs.fna"
+    shell:
+        "filter_fasta.py -f qiime1/split_libraries/seqs.fna -s qiime1/chimera_check_usearch61/chimeras.txt -o qiime1/remove_chimeras/seqs.fna -n"
