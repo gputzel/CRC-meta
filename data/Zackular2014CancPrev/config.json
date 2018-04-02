@@ -1,4 +1,7 @@
 {
     "fastq_url":"https://www.mothur.org/MicrobiomeBiomarkerCRC/Zackular_EDRN_fastq_files.gz.tar",
-    "sample_data_url":"https://www.mothur.org/MicrobiomeBiomarkerCRC/EDRN_MIMARKS.xlsx"
+    "user_email":"gregputzel@med.cornell.edu",    
+    "sample_data_url":"https://www.mothur.org/MicrobiomeBiomarkerCRC/EDRN_MIMARKS.xlsx",
+    "usearch_maxEE":"1.0"
+    
 }

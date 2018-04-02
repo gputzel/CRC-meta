@@ -1,10 +1,21 @@
 configfile: "config.json"
 
+from snakemake.remote.NCBI import RemoteProvider as NCBIRemoteProvider
+NCBI = NCBIRemoteProvider(email=config['user_email']) 
+
 from snakemake.remote.HTTP import RemoteProvider as HTTPRemoteProvider
 HTTP = HTTPRemoteProvider()
 
 sample_data_url=config['sample_data_url']
 fastq_url=config['fastq_url']
+
+with open('sample_data/fastq_files.txt','r') as f:
+    FASTQ_gz = [l.rstrip() for l in f.readlines()]
+
+with open('sample_data/samples.txt','r') as f:
+    samples = [l.rstrip() for l in f.readlines()]
+
+usearch_maxEE=config['usearch_maxEE']
 
 rule download_sample_data:
     input:
@@ -18,6 +29,123 @@ rule download_fastq:
     input:
         HTTP.remote(fastq_url,keep_local=False)
     output:
-        "FASTQ/Zackular_EDRN_fastq_files.gz.tar"
+        temp("FASTQ/Zackular_EDRN_fastq_files.gz.tar")
     shell:
         "cp {input} {output}"
+
+rule untar_fastq:
+    input:
+        "FASTQ/Zackular_EDRN_fastq_files.gz.tar"
+    output:
+        FASTQ_gz
+    shell:
+        "tar -xvf {input} -C FASTQ/"
+
+rule eestats2:
+    input:
+        expand("eestats2/{sample}_L001_R1_001.txt",sample=samples),
+        expand("eestats2/{sample}_L001_R2_001.txt",sample=samples)
+
+rule:
+    input:
+        "FASTQ/{sample}.fastq.gz"
+    output:
+        "eestats2/{sample}.txt"
+    conda:
+        "envs/vsearch.yaml"
+    shell:
+        "vsearch --fastq_eestats2 {input} --output {output}"
+
+rule:
+    input:
+        "FASTQ/{file}.fastq.gz"
+    output:
+        temp("FASTA_sample/{file}.fasta")
+    conda:
+        "envs/seqtk.yaml"
+    shell:
+        "seqtk sample -s100 {input} 20 | seqtk seq -a - > {output}"
+
+rule:
+    input:
+        "FASTQ/{file}.fastq.gz"
+    output:
+        temp("FASTA_rc_sample/{file}.fasta")
+    conda:
+        "envs/seqtk.yaml"
+    shell:
+        "seqtk sample -s100 {input} 20 | seqtk seq -r - | seqtk seq -a - > {output}"
+
+rule:
+    input:
+        forward="FASTA_sample/{filename}_R1_001.fasta",
+        reverse="FASTA_rc_sample/{filename}_R2_001.fasta"
+    output:
+        temp("FASTA_sample_interleave/{filename}.fasta")
+    conda:
+        "envs/seqtk.yaml"
+    shell:
+        "seqtk mergepe {input.forward} {input.reverse} > {output}"
+
+rule E_coli_ref:
+    input:
+        ecoli=NCBI.remote("J01859.1.fasta",db="nuccore")
+    output:
+        temp("E_coli_J01859.1.fasta")
+    shell:
+        "cp {input.ecoli} {output}"
+
+rule cat_E_coli_ref_onefile:
+    input:
+        ecoli="E_coli_J01859.1.fasta",
+        reads="FASTA_sample_interleave/{id}_L001.fasta"
+    output:
+        temp("FASTA_with_E_coli_ref/{id}.fasta")
+    shell:
+        "cat {input.ecoli} {input.reads} > {output}"
+
+rule E_coli_align:
+    input:
+        expand("FASTA_E_coli_align/{sample}.aln",sample=samples)
+
+rule align_with_E_coli_ref_onefile:
+    input:
+        "FASTA_with_E_coli_ref/{id}.fasta"
+    output:
+        "FASTA_E_coli_align/{id}.aln"
+    shell:
+        "clustal_omega -i {input} > {output}"
+
+rule vsearch_fastq_mergepairs:
+    input:
+        expand("FASTQ/{sample}_L001_R{end}_001.fastq.gz",sample=samples,end=['1','2'])
+    output:
+        "vsearch/merged.fq"
+    conda:
+        "envs/vsearch.yaml"
+    shell:
+        "vsearch -fastq_mergepairs FASTQ/*R1*.fastq.gz -relabel @ -fastq_maxdiffs 10 -fastq_pctid 80 -fastqout {output}"
+
+rule usearch_decompress_fastq:
+    input:
+        "FASTQ/{file}.fastq.gz"
+    output:
+        "usearch/FASTQ/{file}.fastq"
+    shell:
+        "gzcat {input} > {output}"
+
+rule usearch_fastq_mergepairs:
+    input:
+        expand("usearch/FASTQ/{id}_L001_R{end}_001.fastq",id=samples,end=['1','2'])
+    output:
+        "usearch/merged.fq"
+    shell:
+        "usearch -fastq_mergepairs usearch/FASTQ/*R1*.fastq -relabel @ -fastq_maxdiffs 10 -fastq_pctid 80 -fastqout {output}"
+
+rule usearch_fastq_filter:
+    input:
+        "usearch/merged.fq"
+    output:
+        "usearch/filtered.fa"
+    shell:
+        "usearch -fastq_filter {input} -fastq_maxee {usearch_maxEE} -fastaout {output}"
