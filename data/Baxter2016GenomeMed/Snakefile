@@ -1,6 +1,9 @@
 configfile: "config.json"
 SRP=config['SRP']
 
+from snakemake.remote.NCBI import RemoteProvider as NCBIRemoteProvider
+NCBI = NCBIRemoteProvider(email=config['user_email'])
+
 import csv
 
 with open('sample_data/SraRunTable.txt') as csvfile:
@@ -16,3 +19,76 @@ rule download_sra:
     run:
         for id in SRR_runs:
             shell("fastq-dump --outdir FASTQ --gzip --skip-technical --readids --read-filter pass --dumpbase --split-3 --clip {id}")
+
+rule:
+    input:
+        "FASTQ/{id}_pass_1.fastq.gz"
+    output:
+        temp("E_coli_align/{id}_1.fasta")
+    conda:
+        "envs/seqtk.yaml"
+    shell:
+        "seqtk sample -s100 {input} 20 | seqtk seq -a - > {output}"
+
+rule:
+    input:
+        "FASTQ/{id}_pass_2.fastq.gz"
+    output:
+        temp("E_coli_align/{id}_2.fasta")
+    conda:
+        "envs/seqtk.yaml"
+    shell:
+        "seqtk sample -s100 {input} 20 | seqtk seq -r - | seqtk seq -a - > {output}"
+
+rule:
+    input:
+        forward="E_coli_align/{id}_1.fasta",
+        reverse="E_coli_align/{id}_2.fasta"
+    output:
+        temp("E_coli_align/{id}_combined.fasta")
+    conda:
+        "envs/seqtk.yaml"
+    shell:
+        "seqtk mergepe {input.forward} {input.reverse} > {output}"
+
+rule E_coli_ref:
+    input:
+        ecoli=NCBI.remote("J01859.1.fasta",db="nuccore")
+    output:
+        temp("E_coli_align/E_coli_J01859.1.fasta")
+    shell:
+        "cp {input.ecoli} {output}"
+
+rule:
+    input:
+        ecoli="E_coli_align/E_coli_J01859.1.fasta",
+        reads="E_coli_align/{id}_combined.fasta"
+    output:
+        temp("E_coli_align/{id}_combined_with_E_coli.fasta")
+    shell:
+        "cat {input.ecoli} {input.reads} > {output}"
+
+rule:
+    input:
+        "E_coli_align/{id}_combined_with_E_coli.fasta"
+    output:
+        "E_coli_align/{id}.aln"
+    shell:
+        "clustal_omega -i {input} > {output}"
+
+rule E_coli_align:
+    input:
+        expand("E_coli_align/{id}.aln",id=SRR_runs)
+
+rule qiime1_join_paired_ends:
+    input:
+        expand("qiime1/FASTQ_joined/{id}",id=SRR_runs)
+
+rule:
+    input:
+        forward="FASTQ/{id}_pass_1.fastq.gz",
+        reverse="FASTQ/{id}_pass_2.fastq.gz"
+    output:
+        "qiime1/FASTQ_joined/{id}"
+    shell:
+       "join_paired_ends.py -f {input.forward} -r {input.reverse} -o {output}"
