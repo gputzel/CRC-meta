@@ -1,0 +1,8 @@
+configfile: "config.json"
+SRP=config['SRP']
+
+import csv
+
+with open('sample_data/SraRunTable.txt') as csvfile:
+    reader = csv.DictReader(csvfile,delimiter='\t')
+    SRR_runs = [row['Run'] for row in reader]
