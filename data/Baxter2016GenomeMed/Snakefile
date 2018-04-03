@@ -101,3 +101,11 @@ rule qiime1_joined_all:
     run:
         for id in SRR_runs:
             shell("ln -s ../FASTQ_joined/{id}/fastqjoin.join.fastq qiime1/FASTQ_joined_all/{id}.fastq")
+
+rule qiime1_split_libraries:
+    input:
+        expand("qiime1/FASTQ_joined_all/{id}.fastq",id=SRR_runs)
+    output:
+        "qiime1/split_libraries"
+    shell:
+        "multiple_split_libraries_fastq.py -i qiime1/FASTQ_joined_all -p qiime1_params/split_libraries_fastq_params.txt -o qiime1/split_libraries --demultiplexing_method sampleid_by_file --sampleid_indicator ."
