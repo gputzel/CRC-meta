@@ -92,3 +92,12 @@ rule:
         "qiime1/FASTQ_joined/{id}"
     shell:
        "join_paired_ends.py -f {input.forward} -r {input.reverse} -o {output}"
+
+rule qiime1_joined_all:
+    input:
+        expand("qiime1/FASTQ_joined/{id}/fastqjoin.join.fastq",id=SRR_runs)
+    output:
+        expand("qiime1/FASTQ_joined_all/{id}.fastq",id=SRR_runs)
+    run:
+        for id in SRR_runs:
+            shell("ln -s ../FASTQ_joined/{id}/fastqjoin.join.fastq qiime1/FASTQ_joined_all/{id}.fastq")
