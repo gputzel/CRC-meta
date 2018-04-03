@@ -1,5 +1,6 @@
 configfile: "config.json"
 SRP=config['SRP']
+greengenes_13_8_path=config['greengenes_13_8_path']
 
 from snakemake.remote.NCBI import RemoteProvider as NCBIRemoteProvider
 NCBI = NCBIRemoteProvider(email=config['user_email'])
@@ -109,3 +110,19 @@ rule qiime1_split_libraries:
         "qiime1/split_libraries"
     shell:
         "multiple_split_libraries_fastq.py -i qiime1/FASTQ_joined_all -p qiime1_params/split_libraries_fastq_params.txt -o qiime1/split_libraries --demultiplexing_method sampleid_by_file --sampleid_indicator ."
+
+rule qiime1_identify_chimeras:
+    input:
+        "qiime1/split_libraries/seqs.fna"
+    output:
+        "qiime1/chimera_check_usearch61"
+    shell:
+        "identify_chimeric_seqs.py -m usearch61 -i qiime1/split_libraries/seqs.fna -r {greengenes_13_8_path}/rep_set/97_otus.fasta -o qiime1/chimera_check_usearch61"
+
+rule qiime1_remove_chimeras:
+    input:
+        "qiime1/chimera_check_usearch61"
+    output:
+        "qiime1/remove_chimeras/seqs.fna"
+    shell:
+        "filter_fasta.py -f qiime1/split_libraries/seqs.fna -s qiime1/chimera_check_usearch61/chimeras.txt -o qiime1/remove_chimeras/seqs.fna -n"
