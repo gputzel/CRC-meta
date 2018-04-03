@@ -211,3 +211,12 @@ rule qiime1_pick_otus:
         "qiime1/otus_chimera_removed"
     shell:
         "pick_open_reference_otus.py -i qiime1/remove_chimeras/seqs.fna -o qiime1/otus_chimera_removed -p qiime1_params/uc_fast_params.txt"
+
+rule qiime1_to_phyloseq:
+    input:
+        biom="qiime1/otus_chimera_removed/otu_table_mc2_w_tax_no_pynast_failures.biom",
+        tree="qiime1/otus_chimera_removed/rep_set.tre"
+    output:
+        "qiime1/ps_qiime1.rds"
+    script:
+        "scripts/qiime1_to_phyloseq.R"
