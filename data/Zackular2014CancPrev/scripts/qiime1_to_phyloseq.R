@@ -23,4 +23,6 @@ sample.df$Group <- factor(sample.df$Group,levels=c('Healthy','CRC','Adenoma','Mo
 
 sample_data(ps) <- sample_data(sample.df)
 
+colnames(tax_table(ps)) <- c('Kingdom','Phylum','Class','Order','Family','Genus','Species')
+
 saveRDS(ps,'qiime1/ps_qiime1.rds')
