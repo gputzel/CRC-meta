@@ -17,7 +17,7 @@ sample.df$Group <- as.character(sample.df$Group)
 sample.df$Group[grep("^mock",sample_names(ps))] <- "Mock"
 sample.df$Group[grep("^Healthy",sample_names(ps))] <- "Healthy"
 sample.df$Group[grep("^Cancer",sample_names(ps))] <- "CRC"
-sample.df$Group[grep("^Aden",sample_names(ps))] <- "Adenoma"
+sample.df$Group[grep("^Ade",sample_names(ps))] <- "Adenoma"
 
 sample.df$Group <- factor(sample.df$Group,levels=c('Healthy','CRC','Adenoma','Mock'))
 
