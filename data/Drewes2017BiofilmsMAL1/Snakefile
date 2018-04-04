@@ -1,0 +1,145 @@
+configfile: "config.json"
+SRP=config['SRP']
+greengenes_13_8_path=config['greengenes_13_8_path']
+
+from snakemake.remote.NCBI import RemoteProvider as NCBIRemoteProvider
+NCBI = NCBIRemoteProvider(email=config['user_email'])
+
+import csv
+
+with open('sample_data/SraRunTable.txt') as csvfile:
+    reader = csv.DictReader(csvfile,delimiter='\t')
+    SRR_runs = [row['Run'] for row in reader]
+
+rule download_sra:
+    output:
+        expand("FASTQ/{id}_pass_1.fastq.gz",id=SRR_runs),
+        expand("FASTQ/{id}_pass_2.fastq.gz",id=SRR_runs)
+    conda:
+        "envs/sra-tools.yaml"
+    run:
+        for id in SRR_runs:
+            shell("fastq-dump --outdir FASTQ --gzip --skip-technical --readids --read-filter pass --dumpbase --split-3 --clip {id}")
+
+rule:
+    input:
+        "FASTQ/{id}_pass_1.fastq.gz"
+    output:
+        temp("E_coli_align/{id}_1.fasta")
+    conda:
+        "envs/seqtk.yaml"
+    shell:
+        "seqtk sample -s100 {input} 20 | seqtk seq -a - > {output}"
+
+rule:
+    input:
+        "FASTQ/{id}_pass_2.fastq.gz"
+    output:
+        temp("E_coli_align/{id}_2.fasta")
+    conda:
+        "envs/seqtk.yaml"
+    shell:
+        "seqtk sample -s100 {input} 20 | seqtk seq -r - | seqtk seq -a - > {output}"
+
+rule:
+    input:
+        forward="E_coli_align/{id}_1.fasta",
+        reverse="E_coli_align/{id}_2.fasta"
+    output:
+        temp("E_coli_align/{id}_combined.fasta")
+    conda:
+        "envs/seqtk.yaml"
+    shell:
+        "seqtk mergepe {input.forward} {input.reverse} > {output}"
+
+rule E_coli_ref:
+    input:
+        ecoli=NCBI.remote("J01859.1.fasta",db="nuccore")
+    output:
+        temp("E_coli_align/E_coli_J01859.1.fasta")
+    shell:
+        "cp {input.ecoli} {output}"
+
+rule:
+    input:
+        ecoli="E_coli_align/E_coli_J01859.1.fasta",
+        reads="E_coli_align/{id}_combined.fasta"
+    output:
+        temp("E_coli_align/{id}_combined_with_E_coli.fasta")
+    shell:
+        "cat {input.ecoli} {input.reads} > {output}"
+
+rule:
+    input:
+        "E_coli_align/{id}_combined_with_E_coli.fasta"
+    output:
+        "E_coli_align/{id}.aln"
+    shell:
+        "clustal_omega -i {input} > {output}"
+
+rule E_coli_align:
+    input:
+        expand("E_coli_align/{id}.aln",id=SRR_runs)
+
+rule qiime1_join_paired_ends:
+    input:
+        expand("qiime1/FASTQ_joined/{id}",id=SRR_runs)
+
+rule:
+    input:
+        forward="FASTQ/{id}_pass_1.fastq.gz",
+        reverse="FASTQ/{id}_pass_2.fastq.gz"
+    output:
+        "qiime1/FASTQ_joined/{id}"
+    shell:
+       "join_paired_ends.py -f {input.forward} -r {input.reverse} -o {output}"
+
+rule qiime1_joined_all:
+    input:
+        expand("qiime1/FASTQ_joined/{id}/fastqjoin.join.fastq",id=SRR_runs)
+    output:
+        expand("qiime1/FASTQ_joined_all/{id}.fastq",id=SRR_runs)
+    run:
+        for id in SRR_runs:
+            shell("ln -s ../FASTQ_joined/{id}/fastqjoin.join.fastq qiime1/FASTQ_joined_all/{id}.fastq")
+
+rule qiime1_split_libraries:
+    input:
+        expand("qiime1/FASTQ_joined_all/{id}.fastq",id=SRR_runs)
+    output:
+        "qiime1/split_libraries"
+    shell:
+        "multiple_split_libraries_fastq.py -i qiime1/FASTQ_joined_all -p qiime1_params/split_libraries_fastq_params.txt -o qiime1/split_libraries --demultiplexing_method sampleid_by_file --sampleid_indicator ."
+
+rule qiime1_identify_chimeras:
+    input:
+        "qiime1/split_libraries/seqs.fna"
+    output:
+        "qiime1/chimera_check_usearch61"
+    shell:
+        "identify_chimeric_seqs.py -m usearch61 -i qiime1/split_libraries/seqs.fna -r {greengenes_13_8_path}/rep_set/97_otus.fasta -o qiime1/chimera_check_usearch61"
+
+rule qiime1_remove_chimeras:
+    input:
+        "qiime1/chimera_check_usearch61"
+    output:
+        "qiime1/remove_chimeras/seqs.fna"
+    shell:
+        "filter_fasta.py -f qiime1/split_libraries/seqs.fna -s qiime1/chimera_check_usearch61/chimeras.txt -o qiime1/remove_chimeras/seqs.fna -n"
+
+rule qiime1_pick_otus:
+    input:
+        "qiime1/remove_chimeras/seqs.fna"
+    output:
+        "qiime1/otus_chimera_removed"
+    shell:
+        "pick_open_reference_otus.py -i qiime1/remove_chimeras/seqs.fna -o qiime1/otus_chimera_removed -p qiime1_params/uc_fast_params.txt"
+
+rule qiime1_to_phyloseq:
+    input:
+        biom="qiime1/otus_chimera_removed/otu_table_mc2_w_tax_no_pynast_failures.biom",
+        tree="qiime1/otus_chimera_removed/rep_set.tre"
+    output:
+        "qiime1/ps_qiime1.rds"
+    script:
+        "scripts/qiime1_to_phyloseq.R"
