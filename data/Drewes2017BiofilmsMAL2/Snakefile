@@ -80,14 +80,22 @@ rule E_coli_align:
     input:
         expand("E_coli_align/{id}.aln",id=SRR_runs)
 
+rule trim_primers:
+    input:
+        "FASTQ/{filename}.fastq.gz"
+    output:
+        temp("FASTQ_trimmed/{filename}.fastq.gz")
+    shell:
+        "seqtk trimfq -b 21 {input} | gzip - > {output}"
+
 rule qiime1_join_paired_ends:
     input:
         expand("qiime1/FASTQ_joined/{id}",id=SRR_runs)
 
 rule:
     input:
-        forward="FASTQ/{id}_pass_1.fastq.gz",
-        reverse="FASTQ/{id}_pass_2.fastq.gz"
+        forward="FASTQ_trimmed/{id}_pass_1.fastq.gz",
+        reverse="FASTQ_trimmed/{id}_pass_2.fastq.gz"
     output:
         "qiime1/FASTQ_joined/{id}"
     shell:
