@@ -10,19 +10,14 @@ phy_tree(ps) <- mytree
 sample.df <- read.table('sample_data/SraRunTable.txt',sep='\t',header=TRUE)
 rownames(sample.df) <- sample.df[,'Run']
 
-sample.df <- sample.df[,c('Abx','Age','BMI','Gender','description','diagnosis','env_material')]
-
-#ps
-#nrow(sample.df)
-#length(intersect(sample_names(ps),rownames(sample.df)))
+sample.df <- sample.df[,c('Library_Name','Sample_Name',
+                          'chem_administration','ethnicity',
+                          'host_tissue_sampled','env_material')]
 
 sample.df.reordered <- sample.df[sample_names(ps),]
 
-sample.df.reordered$Group <- ifelse(is.na(sample.df.reordered$diagnosis),'Mock',as.character(sample.df.reordered$diagnosis))
-
-sample.df.reordered$Group[sample.df.reordered$Group=='Cancer'] <- 'CRC'
-sample.df.reordered$Group[sample.df.reordered$Group=='Normal'] <- 'Healthy'
-sample.df.reordered$Group[sample.df.reordered$Group==''] <- 'Mock'
+sample.df.reordered$Group <- as.character(sample.df.reordered$ethnicity)
+sample.df.reordered$Subject <- as.character(sample.df.reordered$chem_administration)
 
 sample_data(ps) <- sample_data(sample.df.reordered)
 
