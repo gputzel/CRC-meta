@@ -1,5 +1,4 @@
 configfile: "config.json"
-SRP=config['SRP']
 greengenes_13_8_path=config['greengenes_13_8_path']
 
 from snakemake.remote.NCBI import RemoteProvider as NCBIRemoteProvider
