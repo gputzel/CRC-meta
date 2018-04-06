@@ -62,14 +62,14 @@ rule select_samples:
         "scripts/select_samples.R"
 
 rule download_sra:
-    input:
-        "sample_data/merged_sample_data_subset.tsv"
     output:
-        "FASTQ"
+        expand("FASTQ/{id}_pass_1.fastq.gz",id=SRR_runs),
+        expand("FASTQ/{id}_pass_2.fastq.gz",id=SRR_runs)
     conda:
         "envs/sra-tools.yaml"
-    shell:
-        "scripts/download_sra.sh"
+    run:
+        for id in SRR_runs:
+            shell("fastq-dump --outdir FASTQ --gzip --skip-technical --readids --read-filter pass --dumpbase --split-3 --clip {id}")
 
 rule clear_fastq:
     input:
