@@ -11,20 +11,38 @@ library(phyloseq)
 library(tidyverse)
 ```
 
-{% for study,study_data in studies.items() %}
+{% for study in studies %}
 
-## {{study}}
+## {{study['study']}} {.tabset}
 
-Title: [{{study_data['title']}}]({{study_data['url']}})
-Authors: {{study_data['authors']}}
-Journal: {{study_data['journal']}}
+- Title: [{{study['title']}}]({{study['url']}})
+- Authors: {{study['authors']}}
+- Journal: {{study['journal']}}
+- Year: {{study['year']}}
+
+### PCoA plot
 
 ```{r include=FALSE}
-ps <- readRDS(file.path('../data',"{{study}}",'qiime1','ps_qiime1.rds'))
+ps <- readRDS(file.path('../data',"{{study['study']}}",'qiime1','ps_qiime1.rds'))
 ps.rar <- rarefy_even_depth(ps,sample.size=10000,rngseed=1)
+ps.family <- tax_glom(ps,taxrank='Family')
+ps.family.rel <- transform_sample_counts(ps.family,function(x)x/sum(x))
+ps.genus <- tax_glom(ps,taxrank='Genus')
+ps.genus.rel <- transform_sample_counts(ps.genus,function(x)x/sum(x))
 ```
 
 ```{r echo=FALSE}
-plot_ordination(ps.rar,ordinate(ps.rar,method='PCoA',distance='bray'),color="{{study_data['pcoa.column']}}")
+#plot_ordination(ps.rar,ordinate(ps.rar,method='PCoA',distance='bray'),color="{{study['pcoa.column']}}")
+data.frame(sample_data(ps.rar),ordinate(ps.rar,method='PCoA',distance='bray')$vectors) %>%
+    ggplot(aes(Axis.1,Axis.2,color={{study['pcoa.column']}})) + geom_point(size=2)
 ```
+
+### Lachnospiraceae relative abundance
+
+```{r echo=FALSE}
+psmelt(ps.family.rel) %>% filter(Family=='f__Lachnospiraceae') %>%
+    ggplot(aes({{study['comparison.column']}},Abundance,color={{study['comparison.column']}})) + geom_violin() +
+    geom_jitter(height=0,width=0.1)
+```
+
 {% endfor %}
