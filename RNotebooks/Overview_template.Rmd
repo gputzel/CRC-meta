@@ -1,0 +1,30 @@
+---
+title: "CRC studies overview"
+output:
+    html_document:
+        toc: true
+        toc_float: true
+---
+
+```{r include=FALSE}
+library(phyloseq)
+library(tidyverse)
+```
+
+{% for study,study_data in studies.items() %}
+
+## {{study}}
+
+Title: [{{study_data['title']}}]({{study_data['url']}})
+Authors: {{study_data['authors']}}
+Journal: {{study_data['journal']}}
+
+```{r include=FALSE}
+ps <- readRDS(file.path('../data',"{{study}}",'qiime1','ps_qiime1.rds'))
+ps.rar <- rarefy_even_depth(ps,sample.size=10000,rngseed=1)
+```
+
+```{r echo=FALSE}
+plot_ordination(ps.rar,ordinate(ps.rar,method='PCoA',distance='bray'),color="{{study_data['pcoa.column']}}")
+```
+{% endfor %}
