@@ -10,6 +10,12 @@ NCBI = NCBIRemoteProvider(email=config['user_email'])
 from snakemake.remote.HTTP import RemoteProvider as HTTPRemoteProvider
 HTTP = HTTPRemoteProvider()
 
+import csv
+
+with open('sample_data/SraRunTable.txt') as csvfile:
+    reader = csv.DictReader(csvfile,delimiter='\t')
+    SRR_runs = [row['Run'] for row in reader]
+
 #rule download_runinfo:
 #    output:
 #        "sample_data/runinfo.csv"
@@ -368,3 +374,64 @@ rule usearch_to_phyloseq:
         ps_file="usearch/ps_usearch.rds"
     script:
         "scripts/usearch_to_phyloseq.R"
+
+rule:
+    input:
+        "FASTQ/{id}_pass_1.fastq.gz"
+    output:
+        temp("E_coli_align/{id}_1.fasta")
+    conda:
+        "envs/seqtk.yaml"
+    shell:
+        "seqtk sample -s100 {input} 20 | seqtk seq -a - > {output}"
+
+rule:
+    input:
+        "FASTQ/{id}_pass_2.fastq.gz"
+    output:
+        temp("E_coli_align/{id}_2.fasta")
+    conda:
+        "envs/seqtk.yaml"
+    shell:
+        "seqtk sample -s100 {input} 20 | seqtk seq -r - | seqtk seq -a - > {output}"
+
+rule:
+    input:
+        forward="E_coli_align/{id}_1.fasta",
+        reverse="E_coli_align/{id}_2.fasta"
+    output:
+        temp("E_coli_align/{id}_combined.fasta")
+    conda:
+        "envs/seqtk.yaml"
+    shell:
+        "seqtk mergepe {input.forward} {input.reverse} > {output}"
+
+rule E_coli_ref:
+    input:
+        ecoli=NCBI.remote("J01859.1.fasta",db="nuccore")
+    output:
+        temp("E_coli_align/E_coli_J01859.1.fasta")
+    shell:
+        "cp {input.ecoli} {output}"
+
+rule:
+    input:
+        ecoli="E_coli_align/E_coli_J01859.1.fasta",
+        reads="E_coli_align/{id}_combined.fasta"
+    output:
+        temp("E_coli_align/{id}_combined_with_E_coli.fasta")
+    shell:
+        "cat {input.ecoli} {input.reads} > {output}"
+
+rule:
+    input:
+        "E_coli_align/{id}_combined_with_E_coli.fasta"
+    output:
+        "E_coli_align/{id}.aln"
+    shell:
+        "clustal_omega -i {input} > {output}"
+
+rule E_coli_align:
+    input:
+        expand("E_coli_align/{id}.aln",id=SRR_runs)
+
