@@ -1,5 +1,6 @@
 {
     "SRP":"SRP094636",
     "user_email":"gregputzel@med.cornell.edu",
-    "usearch_maxEE":"1.0"
+    "usearch_maxEE":"1.0",
+    "greengenes_13_8_path":"/macqiime/anaconda/lib/python2.7/site-packages/qiime_default_reference/gg_13_8_otus"
 }
