@@ -4,6 +4,8 @@ SRP=config['SRP']
 usearch_maxEE=config['usearch_maxEE']
 IDS, = glob_wildcards("FASTQ/{id}_pass_1.fastq.gz")
 
+greengenes_13_8_path=config['greengenes_13_8_path']
+
 from snakemake.remote.NCBI import RemoteProvider as NCBIRemoteProvider
 NCBI = NCBIRemoteProvider(email=config['user_email']) 
 
