@@ -10,7 +10,13 @@ phy_tree(ps) <- mytree
 sample.df <- read.table('sample_data/SraRunTable.txt',sep='\t',header=TRUE)
 rownames(sample.df) <- sample.df[,'Run']
 
-sample.df <- sample.df[,c('Abx','Age','BMI','Gender','description','diagnosis','env_material')]
+sample.df <- sample.df[,c('Library_Name','Sample_Name','env_feature','env_material','host_subject_id')]
+
+#Subject data from Table 1 of the manuscript
+
+subject.df <- read.delim('sample_data/table1.tsv',sep='\t',row.names=1)
+
+sample.df <- data.frame(sample.df,subject.df[as.character(sample.df$host_subject_id),])
 
 #ps
 #nrow(sample.df)
@@ -18,11 +24,11 @@ sample.df <- sample.df[,c('Abx','Age','BMI','Gender','description','diagnosis','
 
 sample.df.reordered <- sample.df[sample_names(ps),]
 
-sample.df.reordered$Group <- ifelse(is.na(sample.df.reordered$diagnosis),'Mock',as.character(sample.df.reordered$diagnosis))
+#sample.df.reordered$Group <- ifelse(is.na(sample.df.reordered$diagnosis),'Mock',as.character(sample.df.reordered$diagnosis))
 
-sample.df.reordered$Group[sample.df.reordered$Group=='Cancer'] <- 'CRC'
-sample.df.reordered$Group[sample.df.reordered$Group=='Normal'] <- 'Healthy'
-sample.df.reordered$Group[sample.df.reordered$Group==''] <- 'Mock'
+#sample.df.reordered$Group[sample.df.reordered$Group=='Cancer'] <- 'CRC'
+#sample.df.reordered$Group[sample.df.reordered$Group=='Normal'] <- 'Healthy'
+#sample.df.reordered$Group[sample.df.reordered$Group==''] <- 'Mock'
 
 sample_data(ps) <- sample_data(sample.df.reordered)
 
