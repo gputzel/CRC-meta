@@ -1,0 +1,3 @@
+split_libraries_fastq:phred_quality_threshold   19
+split_libraries_fastq:barcode_type  "not_barcoded"
+split_libraries_fastq:phred_offset 33
