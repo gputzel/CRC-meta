@@ -80,6 +80,27 @@ rule E_coli_align:
     input:
         expand("E_coli_align/{id}.aln",id=SRR_runs)
 
+rule:
+    input:
+        "FASTQ/{file}.fastq.gz"
+    output:
+        temp("FASTQ/{file}.fastq")
+    shell:
+        "gzcat {input} > {output}"
+
+rule usearch_merge_pairs:
+    input:
+        expand("usearch/merged/{SRR}.fastq",SRR=SRR_runs)
+
+rule:
+    input:
+        forward="FASTQ/{SRR}_pass_1.fastq",
+        reverse="FASTQ/{SRR}_pass_2.fastq"
+    output:
+        "usearch/merged/{SRR}.fastq"
+    shell:
+        "usearch -fastq_mergepairs {input.forward} -reverse {input.reverse} -fastqout {output}"
+
 rule trim_primers:
     input:
         "FASTQ/{filename}.fastq.gz"
